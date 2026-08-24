@@ -1,0 +1,17 @@
+ceadófar úsáid trál dobharchú grinneallach ar choinníoll nach gcoinneofar aon chineál gléis iascaireachta eile ar bord agus:
+
+go mbeidh méid mhogaill na líonta sin idir 70 agus 79 milliméadar nó idir 80 agus 99 milliméadar,
+
+nach mbeidh i gceist leis na líonta sin ach ceann amháin de na raonta méid mogaill a cheadaítear, agus
+
+nach mbeidh sna líonta sin aon mhogall ar leithligh, beag beann ar shuíomh an mhogaill sin sa líon, a bheidh níos mó ná 300 milliméadar, agus
+
+nach n-úsáidfear na líonta sin ach i limistéar atá iniata trí rumlínte a cheangal go seicheamhach leis na comhordanáidí seo a leanas, a dhéanfar a thomhas de réir chóras WGS84:
+
+ceadófar úsáid trál grinneallach, líon saighne nó líon tarraingthe cosúil eile a bhfuil painéal deighilteora nó greille sórtála air ar choinníoll nach gcoinneofar aon chineál gléis iascaireachta eile ar bord agus:
+
+i gcás painéal deighilteora, go dtógtar na líonta i gcomhréir leis na sonraí teicniúla san Iarscríbhinn a ghabhann le Rialachán (CE) Uimh. 254/2002 ón gComhairle an 12 Feabhra 2002 lena mbunaítear bearta is infheidhme i 2002 maidir leis an stoc throsc i Muir Éireann (Roinn VIIa de CITM) a athshlánú ( *6 ) , agus
+
+i gcás greillí sórtála, go bhfuil na líonta i gcomhréir le pointí 2 go 5 d’Iarscríbhinn XIVa a ghabhann leis an Rialachán seo;
+
+ceadófar aon trál grinneallach, líon saighne nó líon tarraingthe cosúil a bhfuil painéal deighilteora nó greille sórtála air, a úsáid freisin laistigh de limistéar atá iniata trí rumlínte a cheangal go seicheamhach leis na comhordanáidí seo a leanas, a dhéanfar a thomhas de réir chóras WGS84:

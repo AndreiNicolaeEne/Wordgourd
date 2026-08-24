@@ -1,0 +1,9 @@
+O primeiro trabalho de linguagem de programação foi criado por Ada Lovelace, grande amiga de Charles Babbage. O projeto da primeira calculadora mecânica programável foi idealizado por Charles Babbage que, após gastar fortunas e um longo tempo, não conseguiu concretizar o projeto. A linguagem de programação ADA foi batizada em homenagem a esta primeira programadora.
+
+Uma das primeiras linguagens de programação para computadores foi provavelmente Plankalkül, criada por Konrad Zuse na Alemanha Nazista, mas que teve pouco ou nenhum impacto no futuro das linguagens de programação.
+
+O primeiro compilador foi escrito por Grace Hopper, em 1952, para a linguagem de programação A-0. A primeira linguagem de programação de alto nível amplamente usada foi Fortran, criada em 1954. Em 1957 foi criada B-0, sucessora da A-0, que daria origem a Flow-Matic (1958), antecessor imediato de COBOL, de 1959. O COBOL foi uma linguagem de ampla aceitação para uso comercial. A linguagem ALGOL foi criada em 1958-1960 O ALGOL-60 teve grande influência no projeto de muitas linguagens posteriores.
+
+A linguagem Lisp foi criada em 1958 e se tornou amplamente utilizada na pesquisa na área de ciência da computação mais proeminentemente na área de Inteligência Artificial. Outra linguagem relacionada ao campo da IA que surge em 1972 é a linguagem Prolog, uma linguagem do paradigma lógico.
+
+A orientação a objetos é outro marco importante na história das linguagens de programação. A linguagem Simula 67 introduz o conceito de classes. A linguagem Smalltalk expande o conceito de classes e se torna a primeira linguagem de programação que oferecia suporte completo à programação orientada a objetos. A linguagem C++ (originalmente conhecida como C com classes) populariza a orientação a objetos.

@@ -1,0 +1,11 @@
+Estosuunnassa olevassa diodissa kaikki varauksenkuljettajat on imetty pois rajapinnan läheltä. Tämä alue toimii eristeenä ja diodi on siis kondensaattori. Eristävän alueen (tyhjennysalueen) leveys riippuu jännitteestä ja diodi toimii siis jännitteellä säädettävänä kondensaattorina. Tähän käyttöön valmistettuja diodeja kutsutaan varaktoreiksi.
+
+Estosuuntaan kytketty diodi ei päästä lävitseen sähkövirtaa, lukuun ottamatta erittäin pientä estosuuntaista vuotovirtaa. Vuotovirran suuruus on nano- tai mikroampeerien luokkaa. Kun estosuuntainen jännite saavuttaa tietyn arvon, tapahtuu läpilyönti ja estosuuntainen virta suurentuu hyvin nopeasti. Tällöin diodi tuhoutuu (ja jää luultavasti oikosulkuun) (zenerdiodi poikkeus).
+
+Puolijohdediodissa myötäsuuntainen virta on suunnilleen verrannollinen jännitteen eksponenttifunktioon. Niinpä pienillä jännitteillä virta on hyvin pieni, mutta se kasvaa erittäin nopeasti jännitteen noustessa.
+
+Käytännössä diodilla on kynnysjännite, jonka jälkeen myötäsuuntaan kytketty diodi alkaa vasta voimakkaasti johtaa sähkövirtaa. Piidiodilla se on noin 0,7 volttia, Germaniumdiodilla noin 0,3 volttia ja Schottkydiodeilla noin 0,2 volttia.lähde?
+
+Diodin yleisin sovellus on vaihtovirran tasasuuntaus, sillä diodi läpäisee vain virran positiivisen tai negatiivisen puolijakson diodin kytkentäsuunnan mukaan. Näin se suojaa elektroniikan komponentteja, jotka rikkoutuisivat, mikäli niiden läpi kulkeva virta vaihtaisi suuntaa.
+
+Muita mahdollisuuksia on käyttää diodia kytkimenä tai anturina tai radiotekniikassa amplitudimodulaation ilmaisimena, joka erottaa suurtaajuisesta kantoaallosta pientaajuisen signaalin (esimerkiksi äänen).

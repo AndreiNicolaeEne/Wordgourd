@@ -1,0 +1,13 @@
+c) jos feeder-yhteissijoitusyrityksellä on aiempi tuotto- tai arvonkehitys ajalta, joka edelsi sen toimintaa feeder-yhteissijoitusyrityksenä, ja sen oma tuotto- ja arvonkehitys esitetään pylväsdiagrammissa kyseisiltä vuosilta siten, että kyseistä olennaista muutosta edeltävä ajanjakso käy ilmi 17 artiklan 2 kohdassa edellytetyllä tavalla.
+
+5 JAKSO Strukturoidut yhteissijoitusyritykset
+
+36 artikla Tulosskenaariot 1. Strukturoidun yhteissijoitusyrityksen avaintietoasiakirja ei saa sisältää jaksoa ”Aiempi tuotto- tai arvonkehitys”.
+
+Strukturoidulla yhteissijoitusyrityksellä tarkoitetaan tässä jaksossa yhteissijoitusyritystä, joka tarjoaa sijoittajille ennalta määrättyinä ajankohtina algoritmiin perustuvan tuoton, joka on sidottu rahoitusvarojen, indeksien tai vertailusalkkujen tai samantyyppisten yhteissijoitusyritysten tulokseen tai niiden suhteen tapahtuviin hinnanmuutoksiin tai muihin olosuhteisiin.
+
+2. Strukturoitua yhteissijoitusyritystä koskevan avaintietoasiakirjan jaksossa ”Tavoitteet ja sijoituspolitiikka” on oltava selvitys siitä, miten laskukaava toimii ja miten tuotto lasketaan.
+
+3. Edellä 2 kohdassa tarkoitettuun selvitykseen on liitettävä ainakin kolme skenaariota yhteissijoitusyrityksen mahdollisesta tuotto- tai arvonkehityksestä. Skenaariot on valittava tarkoituksenmukaisesti sellaisista olosuhteista, joissa laskukaava voi tuottaa matalan, keskimääräinen tai korkean tuoton sekä soveltuvin osin myös negatiivisen tuoton sijoittajalle.
+
+4. Sijoittajan on 3 kohdassa tarkoitettujen skenaarioiden avulla voitava ymmärtää täysin kaikki laskukaavaan sisältyvän laskentamekanismin vaikutukset.

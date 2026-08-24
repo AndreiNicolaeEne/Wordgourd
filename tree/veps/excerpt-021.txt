@@ -1,0 +1,11 @@
+Äjüziden teorii om matematikan jaguz äjüziden ühthižiden ičendoiden tedoidusenke. Äjüz om miččen taht londusen objektoiden kogo ühthiženke ičendanke.
+
+Saksanman Georg Kantor- (päižed töd) i Rihard Dedekind-matematikantedomehed sädiba teorijad 19. voz'sadan kahtendes poles. Äjüziden teorii toi matematikha lopmätomuden londusen ut el'gendust, löutihe teorijan ahthid sidoid formaliženke logikanke. Se eziauguine teorijan variant vastsi znamasižid jügedusid libujiden paradoksoiden nägul (oz., Kantoran, Rasselan, Rišaran, Berrin paradoksad), i om tetab nügüd' kut lapseline äjüziden teorii.
+
+voz'sadal teorii sai znamasišt metodologišt šingotest, aksiomatižed i deskriptivine äjüziden teorijad oliba sätud. Sen voz'sadan kahtendes poles teorijan znamoičend matematikan täht poleni ühthižembiden teorijoiden sädandan tagut i el'gendusen, miše voib sada ühthižid rezul'tatoid matematikan äjiš sarakoiš toižil mahtusil, sen paloin teoretiž-kategorižen instrumentarijan kävutaden. Äjüziden teorijan läz kaiked variantad oma sijaližikš statjoikš sätud 1970-nzil vozil toposoiden teorijan täht.
+
+Sel'ktatomiden äjüziden teorii om sätud äjüziden teorijan alusel 1960-nzil vozil, sädi amerikaine Lotfi Zade-matematikantedomez' sel'ktatoman logikan koncepcijan ramuziš. Teorii kävutase informacijan teorijas, kibernetikas i informatikas.
+
+Toižed ližateorijad: mul'tiäjüziden teorii, pol'äjüziden teorii.
+
+Teorijan päižed tärtused: äjüz (objektoiden kogo ühthiženke ičendanke), elementoiden mülümižen äjüzile kosketez, alaäjüz, tühj äjüz, operacijad äjüzidenke (ühtištuz, erižuz, liža, ristikoičend, simmetrine erižuz), äjüziden kuvand, vastamižüks'znamaine sättund, vägevuz (lopvägevuz, lugendvägevuz, lugutoi), transfinitine indukcii.

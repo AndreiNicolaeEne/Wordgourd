@@ -1,0 +1,3 @@
+Kadangi jėgos ir inercinės masės vienetai buvo parinkti tokie, kad antrajame Niutono dėsnyje nereikėtų proporcingumo koeficiento, tai šioje lygtyje jo prireikė, kad abi mases galėtume matuoti tais pačiais vienetais.
+
+Niutonas negalėjo paaiškinti, kodėl šios masės yra proporcingos. Už poros šimtų metų pasirodžiusi Einšteino bendroji reliatyvumo teorija pasiūlė kiek kitokį požiūrį į gravitaciją ir tuo pačiu šios problemos sprendimą. Pasak šios teorijos, gravitacija nėra jėga, tai tik judėjimas dėl erdvėlaikio iškreivinimų, aprašomas pirmuoju Niutono dėsniu. Taigi gravitacinė ir inercinė masės yra tas pats matas.

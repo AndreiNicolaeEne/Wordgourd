@@ -1,0 +1,35 @@
+O símbolo convencional da corrente é I, que procede da expresión francesa intensité du courant, (intensidade da corrente). A intensidade da corrente adoita denominarse simplemente corrente. O símbolo I foi utilizado por André Marie Ampère, que dá nome á unidade de corrente eléctrica, na formulación da lei de forza de Ampère (1820). A notación viaxou de Francia a Gran Bretaña, onde se converteu en estándar, aínda que polo menos unha revista non cambiou de usar C a I ata 1896.
+
+A dirección convencional da corrente, tamén coñecida como corrente convencional, defínese arbitrariamente como a dirección na que flúen as cargas positivas. Nun material condutor, as partículas cargadas en movemento que constitúen a corrente eléctrica denomínanse portadores de carga. Nos metais, que constitúen os cables e outros condutores na maioría dos circuítos eléctricos, o núcleo atómico dos átomos cargado positivamente mantense nunha posición fixa, e os electróns cargados negativamente son os portadores de carga, libres de moverse polo metal. Noutros materiais, especialmente os semicondutores, os portadores de carga poden ser positivos ou negativos, dependendo do dopante utilizado. Os portadores de carga positivos e negativos poden mesmo estar presentes ao mesmo tempo, como ocorre nun electrólito nunha célula electroquímica.
+
+Un sal é un composto neutro dun catión ligado a un anión. O sal é tipicamente o produto dunha reacción química entre:
+
+Unha base e un ácido, forman un sal máis auga. Ex.: 2NaOH + H2SO4 → Na2SO4 + 2H2O sulfato de sodio
+
+Un metal e un ácido, forman un sal máis hidróxeno. Ex.: Mg + H2SO4 → MgSO4 + H2 sulfato de magnesio
+
+Un óxido ácido e un óxido básico, formando un sal, ex.: CO2 + CaO → CaCO3 carbonato de calcio
+
+En xeral, os sales son compostos iónicos que forman cristais. Son frecuentemente solúbeis en auga, onde os dous ións se separan. Os sales en xeral teñen un alto punto de fusión, reducida dureza e pouca compresibilidade. Fundidos ou disolvidos en auga, conducen a electricidade.
+
+Os sales reciben o nome dos ións que os constitúen. Os compoñentes catiónicos, en xeral ións metálicos ou amonio, son presentados no final, precedidos dos compoñentes aniónicos: cloruro de potasio, acetato de sodio etc. Os anións reciben o nome de acordo co ácido que os formou. Exemplos:
+
+acetatos son os sales do ácido acético
+
+carbonatos son os sales do ácido carbónico
+
+cloruros son os sales do ácido clorhídrico
+
+cianuros son os sales do ácido prúsico, máis coñecido por ácido cianhídrico
+
+sulfuros son os sales do ácido sulfhídrico
+
+nitratos son os sales do ácido nítrico
+
+nitritos son os sales do ácido nitroso
+
+fosfatos son os sales do ácido fosfórico
+
+sulfatos son os sales do ácido sulfúrico
+
+citratos son os sales ácido cítrico En xeral, os sales son materiais cristalinos con estrutura iónica. Por exemplo, os cristais de haluros dos metais alcalinos e alcalinotérreos (NaCl, CsCl, CaF2) formados por anións, situados ao principio do empaquetamento esférico máis denso, e catións que ocupan ocos dentro do paquete. poden Tamén poden formarse cristais de sal iónicos a partir de residuos de ácido combinados en innumerables estruturas dimensionais aniónicos e fragmentos destes con ctións nas cavidades (como os silicatos). Esta estrutura reflíctese apropiadamente nas súas propiedades físicas: teñen puntos de fusión elevados e en estado sólido son dieléctricos.

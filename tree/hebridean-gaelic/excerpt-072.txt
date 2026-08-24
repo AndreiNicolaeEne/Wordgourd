@@ -1,0 +1,19 @@
+a + b = b + a. ’S ann ri seo a thathar ag ràdh Lagh Co-iomlaideach Chur-ris, ged tha an “lagh” na thoradh feart cur-ris. Tha obrachaidhean eile ann am matamataig aig nach eil am feart seo agus nach eil a’ cumail ri lagh co-iomlaideach.
+
+’S e obrachadh càraideach a th’ ann an cur-ris. ’S e sin obrachadh dà àireimh, agus dà àireimh a-mhàin. Gus a suas air dà àireimh a chur-ris, bhiodh an treas àireamh air a cur ri suim na dà roimhpe agus gach àireamh eile air a cur ris an t-suim-ruithe:
+
+(3 + 8) + 2 + 13 + 7 + ... = (11 + 2) + 13 + 7 + ... = (13 + 13) + 7 + ... = (26 + 7) + ... Ach ma thathar a’ cur-ris sreath àireamhan, chan eil e gu diofar ciamar a thathar gan toirt còmhla nam paidhrichean. Seo feart co-thiomsach chur-ris. Sa riochd as sìmplidh:
+
+( a + b ) + c = a + ( b + c ) Mar eisimpleir, ( 3 + 8 ) + 2 = 11 + 2 = 13 = 3 + 10 = 3 + ( 8 + 2 ). Uaireannan thathar ag ràdh Lagh Co-thiomsach Chur-ris no Lagh nan Ceanglaichean Chur-ris ri seo ach, mar a tha an “lagh” co-iomlaideach os cionn, ’s e feart cur-ris a th’ ann.
+
+’S e neoni an àireamh nach atharraich an dara àireamh ma tha e air a chur rithe. ’S e sin, ma tha
+
+a + x = a ’s e neoni a th’ ann an x: x = 0. Tha e soilleir gu bheil:
+
+0 + a = a + 0 = a 0 + 0 = 0 Nise, chionns gu bheil: 0 + 1 = 1 ...tha e soilleir gu bheil neoni na àireamh air beulaibh na h-aon anns an òrdugh àireamh – ’s e a h-aon a tha “aon a bharrachd” air neoni. Tha àireamhan eile ann a tha ro neoni anns an òrdugh seo. Is iadsan na h-àireamhan àicheil – na h-àireamhan nas lugha na neoni – agus ’s urrainnear an cur-ris anns an aon dòigh:
+
+Mar eisimpleir, ’s e a h-aon a tha ceithir a bharrachd air -3.
+
+-3 + 4 = 1 Chionns gu bheil cur-ris co-iomlaideach, gabhar a sgrìobhadh cuideachd:
+
+4 + -3 = 1 ...ach dè tha sin a’ ciallachadh? Gus a h-aon ruigsinn bho cheithir, feumar trì ceuman air ais a ghabhail.

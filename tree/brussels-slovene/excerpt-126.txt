@@ -1,0 +1,11 @@
+(6) Komisija je 6. septembra 2005 evropskim organizacijam za standardizacijo (ESO) izdala mandat M/372 za pripravo evropskih standardov za obravnavanje glavnih nevarnosti, povezanih s plavajočimi pripomočki za prosti čas, ki se uporabljajo na vodi in v njej, in sicer za utopitev in skorajšnjo utopitev, ter druge nevarnosti, ki vključujejo nevarnosti v zvezi z obliko proizvoda; mednje spadajo odnašanje, izguba opore, padec z velike višine, zagozditev ali zapletanje nad ali pod vodno gladino, nenadna izguba vzgona, prevrnitev, hladni šok, pa tudi nevarnosti zaradi same narave njihove uporabe, kot sta trčenje in udarec, ter nevarnosti zaradi vetrov, tokov in plimovanja.
+
+(7) Evropski odbor za standardizacijo (CEN) je sprejel skupino evropskih standardov (EN 15649 deli 1-7) za plavajoče pripomočke za prosti čas, ki se uporabljajo na vodi in v njej, v odziv na mandat Komisije.
+
+(8) Evropski standardi skupine EN 15649 (deli 1-7) za plavajoče pripomočke za prosti čas, ki se uporabljajo na vodi in v njej, izpolnjujejo mandat M/372 in so skladni s splošno varnostno zahtevo iz Direktive 2001/95/ES. Njihova sklicevanja bi bilo treba objaviti v Uradnem listu Evropske unije.
+
+(9) Ukrepi iz tega sklepa so v skladu z mnenjem odbora, ustanovljenega na podlagi Direktive 2001/95/ES -
+
+SPREJELA NASLEDNJI SKLEP: Člen 1 Naslednji evropski standardi izpolnjujejo splošno varnostno zahtevo iz Direktive 2001/95/ES za nevarnosti, ki jih pokrivajo:
+
+(a) EN 15649-1:2009 + A1:2012 „Plavajoči pripomočki za prosti čas, ki se uporabljajo na vodi in v njej - 1. del: Razvrstitev, materiali, splošne zahteve in preskusne metode“;

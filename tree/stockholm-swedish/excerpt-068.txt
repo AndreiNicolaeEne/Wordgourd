@@ -1,0 +1,3 @@
+Det är inte ovanligt att talet approximeras med 22/7 (ungefär 3,143) i beräkningar, vilket kan härledas till Arkimedes.
+
+Beteckningen π, som härstammar från det grekiska ordet περιφέρεια (periferi), valdes 1706 av William Jones för att beteckna talet och standardiserades samma århundrade genom Leonhard Euler. Det råder delade meningar över huruvida tecknet π ska skrivas i rak stil eller kursiv (π eller π). SIS rekommenderar rak stil vilket beskrives i den svenska standarden SS 03 61 07 - Grafisk teknik – Sättningsregler – Matematik och kemi.

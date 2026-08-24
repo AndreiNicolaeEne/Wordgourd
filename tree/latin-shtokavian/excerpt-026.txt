@@ -1,0 +1,9 @@
+Nuklearna fisija je proces u kojem se veliki nukleus može razbiti u dva nukleusa. U ovoj reakciji se također, kao propratna pojava, oslobađaju neutroni. Fisija elemenata sa velikom težinom izaziva exotermičku reakciju, što može da oslobodi ogromnu količinu energije.
+
+Nuklearna fisija je glavni proces koji se koristi u nuklearnim elektranama. Isti ovaj proces je ponovljen u nuklearnoj bombi sa nekontrolisanom lančanom reakcijom.
+
+Ima puno slobodne energije u nuklearnoj fisiji. Količina proizvedene energije je millionima puta veća nego ekvivalentna masa benzina. Ovo znači da je nuklearna fisija vrlo atraktivan način proizvodnje energije. Najveći nedostatak je u tome što je nuklearni otpad radioaktivan hiljadama godina što predstavlja realan problem.
+
+Nuklearnu fisiju otkrili su 19. decembra 1938. u Berlinu njemački hemičari Otto Hahn i Fritz Strassmann. Fizičari Lise Meitner i njen nećak Otto Robert Frisch objasnili su to teoretski u januaru 1939. Frisch je nazvao proces "fisija" po analogiji sa biološkom fisijom živih ćelija. U svojoj drugoj publikaciji o nuklearnoj fisiji u februaru 1939., Hahn i Strassmann su predvidjeli postojanje i oslobađanje dodatnih neutrona tokom procesa fisije, otvarajući mogućnost nuklearne lančane reakcije.
+
+Za teške nuklide, to je egzotermna reakcija koja može osloboditi velike količine energije i kao elektromagnetsko zračenje i kao kinetička energija fragmenata (zagrijavanje masivnog materijala gdje se odvija fisija). Poput nuklearne fuzije, da bi fisija proizvela energiju, ukupna energija vezivanja rezultirajućih elemenata mora biti veća od one početnog elementa.

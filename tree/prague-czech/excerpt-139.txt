@@ -1,0 +1,27 @@
+Hlavní jednotka energie, práce i tepla v soustavě SI je joule, značka jednotky: J. Jedná se o odvozenou jednotku, vztah k základním jednotkám lze vyjádřit rovností 1 J = 1 kg·m2·s−2. Je definován jako práce, kterou vykoná síla 1 N působící po dráze 1 m.
+
+Ekvivalentem jednotky joule je wattsekunda (značka Ws), používaná v energetice a silové elektrotechnice pro elektrickou práci či elektrickou energii.
+
+Mimosoustavová jednotka, kterou je v rámci soustavy SI přípustné používat společně s jednotkami SI (dříve zvaná „vedlejší“):
+
+elektronvolt (eV, je to přibližně 1,602×10−19 J, tedy energie, již elektron získá urychlením elektrickým pole s potenciálem jednoho voltu); používá se především v částicové fyzice.
+
+Další používané mimosoustavové jednotky jsou:
+
+kalorie (cal, rovná se 4,185 J), používala se ve fyzice pro teplo před zavedením metrické jednotky; zejména její násobek
+
+kilokalorie (kcal, rovná se 4185 J, tedy zhruba množství energii potřebné pro ohřátí litru vody o jeden stupeň Celsia), dodnes se občas používá při výpočtu energetické hodnoty potravin;
+
+tuna měrného paliva - používá se v energetice;
+
+kilowatthodina (3 600 000 Ws) - používá se v energetice a silové elektrotechnice pro elektrickou práci či elektrickou energii předávanou ve formě činného výkonu.
+
+Ze speciální teorie relativity plyne, že hmotnost (nikoliv hmota) a energie jsou ekvivalentní podle Einsteinova vztahu
+
+E = mc2, kde je hmotnost, je rychlost světla ve vakuu.
+
+Druhy energie se rozlišují např. podle druhu síly, která působí, podle zdroje, který energii vydává, ap.:
+
+Mechanická energie Kinetická (pohybová) energie
+
+Potenciální (polohová) energie Gravitační potenciální energie

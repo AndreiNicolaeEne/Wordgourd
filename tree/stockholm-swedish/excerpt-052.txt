@@ -1,0 +1,11 @@
+När snöstjärnor faller genom fuktig luft nära noll grader får de en fukthinna, vilket gör att snöstjärnorna kan fastna på varandra och bilda en snöflinga. Särskilt stora snöflingor som bildas på detta sätt kallas lapphandskar eller lappvantar.
+
+Det kan ibland falla snö även vid temperaturer som överstiger noll grader Celsius vid marken, vilket begränsas av den relativa luftfuktigheten. Vid hög luftfuktighet faller nederbörden som regn när temperaturen överstiger noll eller någon plusgrad. Vid lägre luftfuktighet kan det snöa trots att det är flera plusgrader i luften. I Sverige är det sistnämnda vanligt vid övergången från vinter till vår.
+
+När det snöar i samband med en kraftig vind har vi en snöstorm. Sjösnö är nederbörd som bildas i vindens riktning från en större sjö eller ett hav. Några typer av nederbörd med snö eller snöliknande slag beskrivs nedan.
+
+Kortvarig och ibland kraftig nederbörd av snö kallas för snöby. Sådan kommer från moln av typen cumulonimbus (bymoln). Snöbyar kan dock i vissa fall vara täta och ge ihållande nederbörd, exempelvis i samband med snökanoner. Typiskt för snöbyar är att de börjar och slutar plötsligt, samt att intensiteten varierar.
+
+Kornsnö är nederbörd i form av mycket små, vita, spröda partiklar av is. Partiklarna är platta eller avlånga och vanligen mindre än 1 millimeter. De faller vanligen från moln av typen stratocumulus eller stratus. METAR-koden för kornsnö är SG.
+
+Isnålar, även kallat diamantstoft, är nederbörd som faller från en klar himmel och består av mycket små iskristaller som är så tunna att de tycks sväva i luften. METAR-koden för isnålar är IC.

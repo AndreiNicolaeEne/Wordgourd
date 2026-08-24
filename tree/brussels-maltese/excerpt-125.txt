@@ -1,0 +1,9 @@
+12. Mingħajr preġudizzju għall-kompetenza tal-Istati Membri u l-kompitu tal-Aġenzija msemmija fil-punt (a)(i) tal-Artikolu 14(1) tar-Regolament (UE) Nru 1285/2013, matul il-fażi ta’ implimentazzjoni tal-programm Galileo, għandu jiġi stabbilit grupp ta’ esperti tal-Istati Membri taħt is-superviżjoni tal-Bord ta’ Akkreditament ta’ Sigurtà biex iwettaq il-kompiti tal-Awtorità tad-Distribuzzjoni Kriptografika (CDA) relatati mal-ġestjoni tal-materjal kriptografiku tal-UE b’mod partikolari għal:
+
+(i) il-ġestjoni tal-kodiċijiet tat-titjiriet u kodiċijiet oħra meħtieġa għall-funzjonament tas-sistema stabbilita skont il-programm Galileo;
+
+(ii) il-verifika tal-istabbiliment u l-infurzar tal-proċeduri għall-kontabbilità, it-trattament sigur, il-ħżin u d-distribuzzjoni tal-kodiċijiet PRS.
+
+13. Jekk ma jkunx jista’ jintlaħaq kunsens f’konformità mal-prinċipji ġenerali msemmija fl-Artikolu 10 ta’ dan ir-Regolament, il-Bord ta’ Akkreditament ta’ Sigurtà għandu jieħu deċiżjonijiet abbażi ta’ votazzjoni bil-maġġoranza, kif previst fl-Artikolu 16 tat-Trattat dwar l-Unjoni Ewropea u mingħajr preġudizzju għall-Artikolu 9 ta’ dan ir-Regolament. Ir-rappreżentant tal-Kummissjoni u r-rappreżentant tar-RGħ m’għandhomx jivvutaw. Il-President tal-Bord ta’ Akkreditament ta’ Sigurtà għandu jiffirma, f’isem il-Bord ta’ Akkreditament ta’ Sigurtà, id-deċiżjonijiet adottati mill-Bord ta’ Akkreditament ta’ Sigurtà.
+
+14. Il-Kummissjoni għandha żżomm lill-Parlament Ewropew u l-Kunsill infurmati, mingħajr dewmien bla bżonn, dwar l-impatt tal-adozzjoni tad-deċiżjonijiet dwar l-akkreditament ta’ sigurtà dwar it-tmexxija tajba tal-programmi. Jekk il-Kummissjoni tqis li deċiżjoni meħuda mill-Bord ta’ Akkreditament ta’ Sigurtà jista’ jkollha effett sinifikanti fuq it-tmexxija tajba tal-programmi, pereżempju fir-rigward ta’ spejjeż, skeda u prestazzjoni, hija għandha tinforma minnufih lill-Parlament Ewropew u lill-Kunsill.

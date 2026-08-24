@@ -1,0 +1,17 @@
+La malaltia d'Alzheimer, o simplement alzheimer, és la demència més comuna. És incurable, degenerativa i terminal. Va ser descrita per primer cop pel psiquiatre i neuròleg alemany Alois Alzheimer durant l'any 1906, per la qual cosa se li va donar el seu nom. En general es diagnostica en persones majors de 65 anys,
+
+malgrat que hi ha casos d'aparició precoç, els quals, tot i que amb menor prevalença, es poden donar força abans. Aproximadament, es calcula que al setembre de 2009 al món hi havia més de 35 milions de casos registrats. Segons sembla, la prevalença d'aquesta malaltia podria assolir els 107 milions de persones el 2050.
+
+Malgrat que la causa d'aquesta malaltia és diferent per a cada cas, hi ha força símptomes comuns. Els primers a manifestar-se solen ser confosos per simples efectes de l'edat o causes de l'estrès.
+
+En aquestes primeres etapes, el símptoma més comú que es detecta és la pèrdua de memòria, així com la dificultat per recordar coses apreses recentment. Quan un metge n'és informat i se sospita de la presència d'Alzheimer, el diagnòstic generalment es confirma amb una avaluació del comportament del pacient i amb tests cognitius, tot i que, si es pot, sovint també se li fa escàner cerebral.
+
+A mesura que la malaltia avança, apareixen símptomes com la confusió, la irritabilitat i l'agressivitat, canvis d'humor, pèrdua de memòria a llarg termini i de sensibilitat. Gradualment, també es perden les funcions corporals, tendint finalment cap a la mort.
+
+El pronòstic individual és difícil d'assegurar, ja que la durada de les etapes és molt variable. L'Alzheimer, per altra banda, presenta un període indeterminat de temps mentre es desenvolupa, abans d'esdevenir del tot evident. Per això, és possible que progressi sense diagnosticar durant força anys. La mitjana de vida una vegada diagnosticat és d'aproximadament set anys. Menys del 3% dels individus viu més de 14 anys després del diagnòstic.
+
+Els determinants són funcions que a un conjunt de vectors (en un nombre igual a la dimensió de l'espai) li assignen el volum amb signe (o hipervolum si l'espai és de dimensió diferent de 3) del paralel·lepípede (o hiperparal·lelepípede) que defineixen. Si els vectors estan aixafats en un espai de dimensió més petita que l'espai total (per exemple un pla en un espai de tres dimensions) el determinant és zero. Això permet caracteritzar els conjunts de vectors, les matrius i les aplicacions associades.
+
+Els primers elements del que avui coneixem com àlgebra lineal s'han trobat en el document matemàtic més antic que ha arribat fins avui en dia: el Papir de Rhind, conservat al Museu Britànic (amb alguns fragments al Brooklyn Museum), i conegut també com el Llibre de Càlcul, el qual va ser escrit pel sacerdot egipci Ahmés cap a l'any 1650 aC. En aquest valuós document es consideren les equacions de primer grau, on la incògnita apareix representada per un ibis que significa furgant a terra, possiblement per la seva primogènita aplicació a l'agrimensura.
+
+També es troben antecedents estructurals en l'àlgebra babilònica, com ara en l'execució de la divisió com a multiplicació d'un nombre per l'invers del divisor. Els matemàtics grecs, per la seva banda, no es van ocupar pels problemes lineals, tot i que la solució general de l'equació de segon grau apareix en el tractat Els Elements d'Euclides.

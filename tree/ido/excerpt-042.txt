@@ -1,0 +1,27 @@
+Teoremo di Pitagoro esas teorio pri geometrio qua enuncas relato inter la lateri di orta triangulo en plata plano, to signifikas triangulo qua havas un orta angulo.
+
+Ta rezulto ja konocesis dal Babiloniani sub sua numerala formo, mil yari ante Pitagoro. Euklid facis la prima departenda demonstro, qua trovesas en sua unesma libro:
+
+Che rektangulatra trianguli, la quadrato di la latero opozanta la rekta angulo, egalesas la quadrati de du altra lateri.
+
+Ni povas formulizigar ta enunco plu abstraktate, tale:
+
+Esanta c la longeso di hipotenuzo di rektangulo triangulo e la longesi di du altra lateri esas a e b, lore .
+
+Euklid anke demonstras, en la proposeso XLVIII di libro I, la reciproko du teoremo di Pitagoro :
+
+Kad la quadrato dil un di lateri di triangulo, egalesas di quadrati di du altra lateri ; l'angulo sustenita di to lateri esas rekta.
+
+Ni povas konkluzar di teorio e sua reciproko ta generaligo :
+
+Kad triangulo havas di lateri di longeso a, b e c, ta triangulo es rektangulo se e sole se la quadrato di hipotenuzo egalesas a quadrati di du altra lateri
+
+En facinta eventar la konceptajo di vektoro, on povas riformulizar la teorio kom sive :
+
+esinta donita du vektori e , se e sole se e esas ortogonala.
+
+Ordinare, on havas simple la triangula inegalita :
+
+ke on skribas ordinare To esas sendube la teorio qua posedas la plu granda nombro di konocita pruvi (la lego di quadratesa reciprokita ecelas anke en ta domeno). En yen du :
+
+Ante facar la demonstro, ol devas pruvar du proposesi. La prima question-esas dil equivalante di du paralelogrami di mem bazo e di mem alto :

@@ -1,0 +1,9 @@
+(11) A Biztonsági Akkreditációs Tanács speciális alárendelt, az utasításai alapján működő szerveket hoz létre, amelyek feladata speciális ügyek kezelése. A Biztonsági Akkreditációs Tanács, miközben biztosítja a munka szükséges folyamatosságát, létrehoz egy testületet, amelynek feladata a biztonsági elemzéseknek a vonatkozó kockázati jelentések elkészítéséhez szükséges felülvizsgálata és tesztelése, segítve a Biztonsági Akkreditációs Tanácsot határozatainak előkészítésében. A Biztonsági Akkreditációs Tanács az említett testület munkájának elősegítése érdekében szakértői csoportokat hozhat létre és szüntethet meg.
+
+(12) A tagállamok hatáskörének, valamint az Ügynökség 1285/2013/EU rendelet 14. cikke (1) bekezdése a) pontjának i. alpontjában említett feladatának a sérelme nélkül, a Galileo program kiépítési szakasza során a Biztonsági Akkreditációs Tanács felügyelete mellett létre kell hozni egy tagállami szakértői csoportot a kriptográfiai terjesztési hatóságnak (CDA) az EU kriptográfiai anyagok kezelésével kapcsolatos feladatainak teljesítésére, különösen az alábbiak tekintetében:
+
+i. a Galileo-program keretében létrehozott rendszer működéséhez szükséges repülési és egyéb rejtjelkulcsok kezelése;
+
+ii. a PRS kulcsainak könyvelésére, biztonságos kezelésére, tárolására és terjesztésére vonatkozó eljárások kialakításának és végrehajtásának ellenőrzése.
+
+(13) Amennyiben nem alakul ki az e rendelet 10. cikkében szereplő általános elvek szerinti konszenzus, a Biztonsági Akkreditációs Tanács az Európai Unióról szóló szerződés 16. cikkében előírt többséggel és az e rendelet 9. cikkében foglalt rendelkezések sérelme nélkül hozza meg határozatait. A Bizottság képviselője és a főképviselő képviselője nem vesz részt a szavazásban. A Biztonsági Akkreditációs Tanács által hozott határozatokat a Biztonsági Akkreditációs Tanács nevében a Biztonsági Akkreditációs Tanács elnöke írja alá.

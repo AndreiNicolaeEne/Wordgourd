@@ -1,0 +1,25 @@
+Nem sokkal később, 1878-ban feltalálták a szénporos mikrofont, amely jelentősen javított a hang minőségén.
+
+1888-ban Almon Strowger feltalálta és megépítette az első automata telefonközpontot.
+
+A készülékek csoportosítása többféleképpen lehetséges.
+
+Vezetékes telefonok nyilvános nosztalgia
+
+személyzethívó (pl. az ebédlő és a konyha között)
+
+kezelői ISDN telefon IP-telefon Hordozható (vezetékes, de hordozható kivitelű)
+
+vizsgáló tábori (főleg a katonaság használja)
+
+vezeték nélküli (rádióhullámokkal) korlátozott helyen (például lakásban) működő
+
+Rádióhullámokkal működő rádiótelefon mobiltelefon
+
+műholdas (Thuraya, Inmarsat, Iridium (Globális)
+
+Egyebek kaputelefon áltelefon Más csoportosításban asztali, fali (falra szerelt) és egységes (használható asztalon és falon is) készülékek ismertek. A legtöbb készülékház fából, fémből, bakelitből vagy másféle műanyagból készül.
+
+A telefonok a mikrofontáplálás módja szerint lehetnek helyi vagy központi teleptáplálásúak. Ennél a csoportosításnál rendszerint az angol rövidítéseket használják (LB: helyi telep, CB: központi telep).
+
+A készülék feladata, hogy egy mikrofonnal elektromos jellé alakítsa a hangot, ezt a jelet – esetleges további átalakítások, például tömörítés, kódolás stb. után – a hálózatra kiküldje és az onnan vett jelet egy hangszórón keresztül a használóhoz eljuttassa. A Bell-féle kísérleti telefon mindössze egy hallgatóból állt. A membrán átvette a hang rezgéseit, rezgése következtében az állandó mágnes erővonalait elmetszette. A tekercsben létrejött indukciós áram a másik készülék tekercsén át záródott. Ott megváltoztatta az állandó mágnes erőterét, a membrán az adókészülék ütemében mozgott. Már Bell is kísérletezett külön mikrofonnal (folyadékos mikrofon), de a megoldást ezek alapján Hughes, Hunnings és Edison szénmikrofonjai jelentették.

@@ -1,0 +1,1 @@
+Força é um dos conceitos fundamentais da mecânica clássica. Relacionado com as três leis de Newton, é uma grandeza que tem a capacidade de vencer a inércia de um corpo, modificando-lhe a velocidade (seja na sua magnitude ou direção, já que se trata de um vetor). Como corolário, chega-se ao constructo de que a força pode causar deformação em um objeto flexível.

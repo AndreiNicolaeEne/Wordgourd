@@ -1,0 +1,17 @@
+De regel van de disjuncte vereniging blijft gelden voor een aftelbaar oneindige disjuncte vereniging, waarbij de som van de oppervlakten moet worden opgevat als de som van een reeks.
+
+De laatste regel laat toe de oppervlakte te bepalen van kromlijnige figuren zoals cirkels. De integraalrekening geeft een exacte definitie en een berekeningsmethode voor de oppervlakte van een vlakke figuur die begrensd wordt door de grafiek van een continue functie en een horizontale en twee verticale rechten.
+
+In sommige toepassingen is het nuttig met negatieve oppervlaktes te rekenen als de omtrek van een figuur in een andere zin wordt doorlopen, conventioneel geeft tegenwijzerzin een positieve oppervlakte. We spreken dan in het algemeen van georiënteerde oppervlakte.
+
+De schoenveterformule is een eenvoudige regel voor de oppervlakte van een willekeurige veelhoek in termen van de coördinaten van de hoekpunten :
+
+Ze kan worden bewezen door op te merken dat de georiënteerde oppervlakte is van de driehoek gevormd door de oorsprong en de punten en .
+
+Het zwaartepunt van een vlakke figuur heeft de eigenschap dat elke rechte erdoorheen, de figuur in twee delen van gelijke oppervlakte snijdt. De zwaartelijnen van een driehoek vormen hiervan een voorbeeld.
+
+De oppervlakte van een cirkel is gelijk aan het kwadraat van zijn omtrek gedeeld door :
+
+De isoperimetrische ongelijkheid stelt dat deze verhouding optimaal is, in die zin dat voor eender welke andere vlakke figuur het isoperimetrisch quotiënt
+
+niet groter is dan 1, en dat het alleen bij de cirkel precies gelijk is aan 1.

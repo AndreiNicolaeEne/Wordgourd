@@ -1,0 +1,15 @@
+Um miðja 20. öld hófu nokkrir vísindamenn að nálgast smíði greindra véla með nýjum hætti með því að nýta sér nýlegar uppgötvanir í taugafræði, nýja stærðfræðikenningu um upplýsingar, nýjan skilning á stjórn og stöðugleika sem nefndist stýrifræði og umfram allt uppgötvun er nefndist tölva, vél sem byggðist á hlutbundnu inntaki stærðfræðilegrar röksemdafærslu.
+
+Fag nútíma gervigreindarrannsókna var stofnað á ráðstefnu í Dartmouth-háskóla sumarið 1956.
+
+Ráðstefnugestir urðu leiðtogar gervigreindarrannsókna um áratugabil, einkum John McCarthy, Marvin Minsky, Allen Newell og Herbert Simon sem stofnuðu gervigreindarsetur við MIT, Carnegie-Mellon og Stanford. Þeir ásamt nemendum sínum skrifuðu forrit sem ollu flestum samtímamönnum þeirra undrun:
+
+tölvur leystu orðaverkefni í algebru, sönnuðu rökfræðisetningar og töluðu ensku.
+
+Um miðjan 7. áratuginn styrkti varnarmálaráðuneyti Bandaríkjanna rannsóknir þeirra ríkulega og þeir voru bjartsýnir á framtíð þessa nýja fags:
+
+1965, H.A. Simon: „Innan tuttugu ára verða vélar færar um að vinna öll sömu verk og menn.“
+
+1967, Marvin Minsky: „Innan einnar kynslóðar verður að mestu leyti búið að leysa það viðfangsefni að skapa 'gervigreind'“
+
+Þessir spádómar og margir svipaðir rættust ekki. Vanmetið var hve erfið sum viðfangsefnanna voru. Árið 1974 brugðust stjórnvöld í Bandaríkjunum og Bretlandi við gagnrýni hins enska Sir James Lighthill og vaxandi þrýstingi á báðum þingum um að beina fjármagni frekar í vænlegri verkefni með því að fella niður framlög til allra tilraunakenndra grunnrannsókna á gervigreind. Þar með hófst hinn svokallaði fyrri gervigreindarvetur.

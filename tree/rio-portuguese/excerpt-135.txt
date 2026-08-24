@@ -1,0 +1,9 @@
+Desde a antiguidade o conceito da força vinha sendo utilizado na construção das máquinas da época. A vantagem atingida com o uso de uma máquina simples, como é o caso da alavanca, era descrita como "o uso de menos força para se chegar a uma certa quantidade de trabalho".
+
+Aristóteles entendia o conceito filosófico de força como uma parte integrante da cosmologia aristotélica. Na visão de Aristóteles, que ainda hoje é muito conhecida, a natureza tinha quatro elementos, água, terra, fogo e ar. Ele ligava a matéria ao elemento terra e a gravidade como a tendência dos objetos a buscar seu lugar natural. Assim, o movimento natural se distinguia do movimento forçado, o que dava origem ao conceito de força.
+
+Esta teoria, baseada nas experiências objetos em movimento, como carroças, não explicava o comportamento de projéteis, como o voo de flechas. O paradoxo era que a força era aplicada no projétil apenas no início do voo e entretanto o projétil navegava pelo ar posteriormente ao impulso inicial. Aristóteles estava ciente do problema e propôs que o ar deslocado pelo percurso do projétil forneceria a força necessária para continuar o seu movimento.
+
+Problemas adicionais no modelo aristotélico eram causados pela ausência do devido tratamento à resistência do ar do movimento dos projéteis.
+
+A física aristotélica enfrentou críticas na ciência medieval, inicialmente por João Filopono, no século XI. Galileu Galilei, posteriormente, já no século XVII, construiu um experimento no qual as pedras e balas de canhão inclinavam, refutando a teoria aristotélica do movimento. Ele mostrou que os corpos são acelerados pela gravidade de uma forma independente da sua massa e argumentou que os objetos retêm sua velocidade, sendo também influenciados pelas forças de atrito.

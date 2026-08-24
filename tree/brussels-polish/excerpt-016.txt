@@ -1,0 +1,9 @@
+13,1 % A688 Ninghai Organic Chemical Factory, Ninghai
+
+8,3 % A689 Wszystkie pozostałe przedsiębiorstwa (z wyjątkiem Hangzhou Bioking Biochemical Engineering Co. Ltd, Hangzhou - dodatkowy kod TARIC A687)
+
+34,9 % A999” Artykuł 2 Niniejsze rozporządzenie wchodzi w życie następnego dnia po jego opublikowaniu w Dzienniku Urzędowym Unii Europejskiej.
+
+Niniejsze rozporządzenie wiąże w całości i jest bezpośrednio stosowane we wszystkich państwach członkowskich.
+
+Sporządzono w Luksemburgu dnia 26 czerwca 2012 r.

@@ -1,0 +1,25 @@
+aasta kujunes poliitilises elus Abraham Lincolnile murdepunktiks: Viigide Partei nimekirjas – sellesse parteisse kuulus ka tema isa Thomas – valiti ta 4. augustil 1834 Illinois' üldassambleesse. Saadikutöö kõrvalt alustas Lincoln õigusteaduse õpinguid.
+
+Kui ta 1. augustil 1836 üldassambleesse tagasi valiti, oli 27-aastasest noormehest saanud juba Viigide partei juht Illinois' osariigis. Sama aasta septembris sai ta pärast kahte aastat õigusteaduse õpinguid loa praktiseerida juristina. 1837 osales ta Illinois' osariigi pealinna üleviimisel Springfieldi ja asus ka ise sinna elama. Poliitilise tegevuse kõrvalt töötas Lincoln nüüd advokaadina ja sai 1839 loa osaleda USA ringkonnakohtu protsessidel. Üldassambleesse valiti ta tagasi ka 1838 ja 1840, kuid üha enam mõjutasid tema elu sellel perioodil depressioon ja keerukad naissuhted (kuni katkestatud kihlusteni välja).
+
+1842 kujunes uueks muutuste aastaks – Lincoln ei pürginud enam üldassambleesse ja abiellus sama aasta sügisel Mary Ann Toddiga.
+
+1843 üritas Abraham Lincoln kandideerida Ameerika Ühendriikide Kongressi, kuid tema kandidatuur ei leidnud parteikaaslaste seas piisavat toetust. 1844 aitas ta korraldada presidendikandidaat Henry Clay kampaaniat ja 1846 seadis uuesti üles oma kandidatuuri USA Kongressi. Sel korral kiitis partei Lincolni kandidatuuri heaks ja 3. augustil 1846 valisid Illinois' elanikud ta oma esindajaks kongressis.
+
+Laadimisel pannakse niisiis pingeallika laengud liikuma kondensaatori sisemise elektrilise jõu vastu. Selle jõu ületamiseks tehtav töö salvestub kondensaatoris elektrivälja energiana:
+
+Valemis on W energia džaulides (J), C mahtuvus faradites (F) ja U pinge voltides (V).
+
+Alalisvooluahelas laadub kondensaatorit sisselülitamise järel kiiresti: esimese ajakonstandi jooksul kasvab pinge kondensaatoril väärtuseni 0,632Umax, vastavalt väheneb laadimisvool, kuni muutub nulliks.
+
+Vahelduvvooluahelas toimub kondensaatori perioodiline ümberlaadimine ja ahelat läbib pidevalt vool. Kondensaator avaldab vahelduvvoolule mahtuvuslikku reaktiivtakistust
+
+kus on nurksagedus (radiaani sekundis) ja ‒ sagedus (hertsides).
+
+Kondensaatori plaatide vahele moodustunud elektriväli ja seega ka elektrilaeng jääb püsima ka pingeallika lahutamise järel, kuid hakkab pikkamööda vähenema läbi dielektriku; ka parimat dielektrikut läbib teatav lekkevool.
+
+Eristatakse püsikondensaatoreid, mille mahtuvus on teatud kindla väärtusega, ja muutkondensaatoreid, mille mahtuvust saab etteantud piires sujuvalt muuta.
+
+Enamik kondensaatoreid on püsikondensaatorid. Neid liigitatakse elektroode eraldava dielektrikukihi järgi; levinuimad on keraamika-, plastkile- ja elektrolüütkondensaatorid. Dielektrikuna on olnud kasutusel ka immutatud paber, vilk, klaas jm. Kondensaatorite eriliigi moodustavad superkondensaatorid, mida kasutatakse peamiselt elektrilaengu akumuleerimiseks.
+
+Keraamika- ja plastkilekondensaatorite mahtuvuse suurusjärk ulatub 1 pikofaradist kuni 100 mikrofaradini, elektrolüütkondensaatoritel 1 mikrofaradist kuni 1 faradini ja superkondensaatoritel kilofaraditeni.

@@ -1,0 +1,25 @@
+Si plures operationes in eodem enuntiato mathematico sunt, eas fac imprimis quae inter parentheses sunt, tunc multiplicationes et divisiones, tunc additiones et subtractiones. Hoc est, 5 + 2 × 3 significat 5 + (2 × 3) = 5 + 6 = 30; si vis additionem facere ante multiplicationem, debes scribere (5 + 2) × 3, quod est 21.
+
+In arithmetica sensu stricto de numeris integris modo tractatur, sed fractiones e divisione oriuntur, numeri irrationales ex extractione radicis. Integri sunt anellus; integri cum numeris rationalibus sunt corpus. Algebra "abstracta" dicta est pars mathematicae quae de structuris similibus numeris arithmeticae tractat.
+
+In schola discipuli algorithmos operationum arithmeticarum discunt. Quod systemate numerico decimali utimur, necesse est tabulas additionis multiplicationisque modo usque ad 9 discere: regulae numeros maiores addere vel multiplicare permittunt.
+
+Tabula additionis haec est: Et tabula multiplicationis:
+
+Ut duos numeros addas, lineam tabulae inveni ubi est primus numerus, et columnam ubi est alter. Cellula quae hac in linea, hac in columna est summam continet. Exempli gratia, 7 + 6 = 13. Similiter, productum duorum numerorum est in cellula commune lineae unius, columnae alterius: 7 × 6 = 42. Nihil refert quis numerus primus sit: 7 + 6 = 6 + 7, et 7 × 6 = 6 × 7 -- hoc est, tabulae symmetriam habent, quod operationes sunt commutativae.
+
+Aequatio differentialis in mathematica est aequatio quae functiones unius aut multarum variabilium cum suis derivativis ordinat. Quae functiones in adhibitionibus quantitates corporeas plerumque repraesentant, derivativa eorum proportiones mutationis repraesentant, atque aequatio differentialis coniunctionem inter ea definit. Tales coniunctiones re vera saepe inveniuntur; ergo aequationes differentiales partes magni momenti in multis disciplinis agunt, inter quas sunt ars ingeniaria, physica, oeconomica, biologia.
+
+Aequationibus differentialibus scribuntur multae leges in scientiis naturalibus. Theoria aequationum differentialium pars magni momenti est analysis. Saepe sunt solutiones functiones, quae illis functionibus satisfaciunt. Cum aliae solvi non possint, saepissime sunt approximandae, et rationes talium approximationum faciendarum sunt pars analysis numericae.
+
+Saeculo septimo decimo, cum calculus infinitesimalis primum excogitaretur, coepit disciplina aequationis differentialis. Proposuit Isaacus Newtonus in opere Methodus fluxionum et Serierum Infinitarum tria aequationum differentialium genera:
+
+Solutae sunt hae aequationes in eo opere.
+
+Ecce exempli aequationum differentialium ordinariarumin quibus sunt u functiones incognitae, x variabiles indenpendentes, c,ω et ceteri constantes.
+
+Aequatio differentialis gradus primi linearis non homogenea cum coefficientibus constantibus:
+
+Aequatio differentialis gradus secundi linearis homogenea:
+
+Aequatio differentialis gradus secundi linearis homogenea cum coefficientibus constantibus, quae motus harmonicum describit:

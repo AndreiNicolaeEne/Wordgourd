@@ -1,0 +1,15 @@
+1. Las notificaciones que se remitan a los registros de operaciones deberán incluir lo siguiente:
+
+a) los elementos que figuran en el cuadro 1 del anexo, que recoge la información relativa a las contrapartes de un contrato;
+
+b) la información contemplada en el cuadro 2 del anexo, que recoge los datos relativos al contrato de derivados celebrado entre las dos contrapartes.
+
+2. A efectos del apartado 1, por celebración de un contrato se entenderá la «ejecución de una operación» según se contempla en el artículo 25, apartado 3, de la Directiva 2004/39/CE del Parlamento Europeo y del Consejo (4).
+
+3. Cuando se efectúe una notificación en nombre de ambas contrapartes, dicha notificación deberá contener la información establecida en el cuadro 1 del anexo, en relación con cada una de las referidas contrapartes. La información prevista en el cuadro 2 del anexo deberá presentarse una sola vez.
+
+4. Cuando se elabore una notificación en nombre de ambas contrapartes, se indicará este extremo, tal como se contempla en el cuadro 1, campo 9, del anexo.
+
+5. Cuando una contraparte notifique los datos de un contrato al registro de operaciones en nombre de la otra contraparte, o cuando una tercera entidad notifique un contrato a un registro de operaciones en nombre de una o de ambas contrapartes, los datos comunicados incluirán todos aquellos que hubieran debido comunicarse si cada una de las contrapartes hubiera notificado los contratos al registro de operaciones por separado.
+
+6. Cuando un contrato de derivados incluya características propias de más de un activo subyacente, según se contempla en el cuadro 2 del anexo, deberá indicarse en la notificación, antes de remitirla a un registro de operaciones, la categoría de activos a la que, según convengan las contrapartes, más se asemeja dicho contrato.

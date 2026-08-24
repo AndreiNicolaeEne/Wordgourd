@@ -1,0 +1,15 @@
+Artykuł 2 Rozliczone transakcje 1. Jeżeli istniejący kontrakt jest następnie rozliczany przez CCP, rozliczenie należy zgłosić jako zmianę istniejącego kontraktu.
+
+2. Jeżeli kontrakt jest zawierany w systemie obrotu i jest rozliczany przez CCP w taki sposób, że kontrahent nie zna tożsamości drugiego kontrahenta, kontrahent dokonujący zgłoszenia wskazuje CCP jako swojego kontrahenta.
+
+Artykuł 3 Zgłaszanie ekspozycji 1. Wymagane w tabeli 1 w załączniku informacje dotyczące zabezpieczenia obejmują wszystkie złożone zabezpieczenia.
+
+2. Jeżeli kontrahent nie składa zabezpieczenia na poziomie transakcji, kontrahenci zgłaszają do repozytorium transakcji zabezpieczenie złożone na poziomie portfela.
+
+3. Jeżeli zabezpieczenie związane z kontraktem jest zgłaszane na poziomie portfela, kontrahent dokonujący zgłoszenia informuje repozytorium transakcji o kodzie identyfikującym portfel zabezpieczeń złożonych u drugiego kontrahenta w odniesieniu do zgłaszanego kontraktu.
+
+4. Kontrahenci niefinansowi inni niż kontrahenci, o których mowa w art. 10 rozporządzenia (UE) nr 648/2012, są zwolnieni z wymogu zgłaszania zabezpieczeń oraz wyceny kontraktów według wartości rynkowej lub w oparciu o model zgodnie z tabelą 1 w załączniku.
+
+5. W przypadku kontraktów rozliczanych przez CCP wyceny według wartości rynkowej są zgłaszane wyłącznie przez CCP.
+
+Artykuł 4 Rejestr zgłoszeń Zmiany informacji zarejestrowanych przez repozytoria transakcji są zapisywane w rejestrze, z podaniem osoby lub osób, które złożyły wniosek o dokonanie zmiany, w tym także, w stosownych przypadkach, samego repozytorium transakcji, powodu lub powodów dokonania zmiany, daty i znacznika czasu oraz jasnego opisu zmian, w tym dotychczasowej i nowej treści odpowiednich informacji zgodnie z polami 58 i 59 w tabeli 2 w załączniku.

@@ -1,0 +1,15 @@
+Au nòrd e au nòrd-oèst dins lei regions aupencas d'altitud auta, lo clima es de tipe montanhard ambé d'estius cauds e d'ivèrns fòrça fregs. La Vau de Pò e la mitat nòrd de la costat adriatica an un clima subtropicau umid ambé d'estius cauds e d'ivèrns fregs. Lo rèsta, que representa la màger part de la peninsula, Sicília e Sardenha, a un clima mediterranèu. Leis estius i son cauds e secs amb una aumentacion de l'ariditat en direccion dau sud. Dura per exemple dos mes en Toscana dins lo centre de la peninsula e cinc en Calabra dins lo sud. Leis ivèrns i son doç e la prima e l'autona marcadas per de precipitacions importantas.
+
+En 2012, Itàlia teniá 60,87 milions d'abitants qu'èra magerament concentrada dins la Vau de Pò e dins lei zònas litoralas en causa dei constrenchas impausadas per lo relèu montanhós deis Aups e deis Apenins ò per l'ariditat dei regions meridionalas. 67% de la populacion es urbana e lo ret de vilas e de rotas es fòrça dens dins la Vau de Pò e lo centre de la peninsula. S'i troba la capitala economica dau país, Milan, e lei vilas de Turin, de Gènoa e de Florença. Dins lo rèsta dau país, Roma, Nàpols e Palèrme son lei centres de regions urbanas importantas situadas lòng de la costat occidentala mediterranèa.
+
+Tot aquò s'apren a la natura deis activitats matematicas. Aquestei d'aicí tendon de lònga an una presentacion precisa dei problèmas e dei solucions, çò qu'impausa de comunicar en avent per tòca finala la possibilitat d'esclarzir totei lei detalhs dei construccions logicas e dei resultats (cèrts esclarziments exigisson un investiment important, de desenas d'ans de còps que i a). Es per aquò que i a pas d'exemple d'error matematica majora que seriá pas estada lèu reconeguda e corregida, o aumens senhalada.
+
+Se destria actualament en matematicas tres grandei brancas mutualament liadas:
+
+l'algèbra (exemples: algèbra lineara, matematicas discrètas)
+
+l'analisi (exemples: eqüacions diferencialas, teoria de la mesura, calcul dei probabilitats)
+
+la geometria, au jonhent de l'algèbra e de l'analisi (exemples: geometria euclidiana, geometria diferenciala)
+
+Lei liames entre aquelei brancas e leis usatges que caduna fa de l'autra son mai que prefonds e fondamentaus. La teoria dei nombres, en particular la reflexion sus lei nombres premiers, es exemplara a regard d'aquò: a l'origina confonduda amb l'aritmetica elementària, s'es transformada au sègle XIX en una teoria onte l'analisi es venguda indispensabla. Au sègle XX, la geometria algebrica es venguda la terranha naturala acampant au còp metòdes algebrics, topologics e geometrics per afrontar lei problèmas de la teoria dei nombres, per exemple la conjectura de Fermat, venguda gràcias an aquel apròchi novèu lo teorèma d'Andrew Wiles en 1994. Aqueu teorèma se formula en tèrmes algebrics, mai sa demostracion fa un usatge massís de matematicas liadas tant a l'algèbra coma a l'analisi e a la geometria.

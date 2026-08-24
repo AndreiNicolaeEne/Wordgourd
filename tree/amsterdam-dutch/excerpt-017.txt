@@ -1,0 +1,15 @@
+De zwaartekracht of gravitatie is een aantrekkende kracht die twee of meer lichamen op elkaar uitoefenen. De zwaartekracht is een van de vier natuurkrachten. Deze kracht is op het niveau van atomen zeer klein vergeleken met de andere krachten, maar is de meest alledaagse op macroscopische afstanden: het gewicht van een lichaam evenredig met de massa ervan.
+
+De zwaartekracht is op astronomische afstanden in nog sterkere mate de overheersende kracht, bijvoorbeeld tussen de Aarde en de maan, tussen de zon en alle planeten en zelfs tussen sterrenstelsels, waardoor de uitdijing van het heelal, de metrische uitdijing van de ruimte wordt tegengewerkt. De zwaartekracht, die verantwoordelijk is voor bijvoorbeeld het vallen van een appel, zorgt er eveneens voor dat de maan of een satelliet in een baan om de aarde blijft, dat de aarde zelf in een baan om de zon blijft draaien, en dat de zon op zijn beurt samen met alle andere sterren van de Melkweg om een zeker middelpunt heen blijft draaien.
+
+Bovendien veroorzaakt de zwaartekracht de getijdenvelden rond het massamiddelpunt van een hemellichaam. De getijdenvelden van de zon en de maan zijn op de aarde bijvoorbeeld verantwoordelijk voor een verschijnsel als springtij.
+
+De gravitatiewet van Newton geeft een uitdrukking voor de zwaartekracht tussen twee puntmassa's, maar ook tussen twee bolsymmetrische lichamen:
+
+Daarin is de zwaartekracht tussen twee voorwerpen in newton
+
+de massa van het eerste voorwerp in kg
+
+de massa van het tweede voorwerp in kg
+
+de afstand tussen de zwaartepunten van die voorwerpen in m

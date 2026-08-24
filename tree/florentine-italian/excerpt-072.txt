@@ -1,0 +1,29 @@
+Inserito nel 1980 nella lista dei Patrimoni dell'umanità dell'UNESCO - insieme all'intero Centro storico di Roma, alle Zone extraterritoriali della Santa Sede in Italia e alla Basilica di San Paolo fuori le mura - nel 2007, unico monumento europeo, è stato anche inserito fra le Nuove sette meraviglie del mondo a seguito di un concorso organizzato da New Open World Corporation (NOWC).
+
+L'anfiteatro fu edificato in epoca flavia su un'area al limite orientale del Foro Romano. La sua costruzione, iniziata da Vespasiano nel 70 d.C., fu conclusa da Tito, che lo inaugurò il 21 aprile nell'80 d.C. Ulteriori modifiche vennero apportate durante l'impero di Domiziano, nel 90 d.C.
+
+L'edificio forma un ovale policentrico di 527 m di perimetro, con assi che misurano 187,5 e 156,5 m. L'arena all'interno misura 86 × 54 m, con una superficie di 3357 m². L'altezza attuale raggiunge 48 m, ma originariamente arrivava a 52 m. La struttura esprime con chiarezza le concezioni architettoniche e costruttive romane della prima Età imperiale, basate rispettivamente sulla linea curva e avvolgente offerta dalla pianta ellittica e sulla complessità dei sistemi costruttivi. Archi e volte sono concatenati tra loro in un serrato rapporto strutturale.
+
+dove il pedice e indica la funzione d'onda degli elettroni, il pedice n dei nuclei, ed e sono rispettivamente le posizioni di nuclei ed elettroni.
+
+Tale funzione d'onda soddisfa l'equazione agli autovalori:
+
+dove è l'energia cinetica degli elettroni, quella dei nuclei, l'interazione coulombiana tra nuclei ed elettroni, l'interazione coulombiana tra gli elettroni e quella tra i nuclei.
+
+Nell'approssimazione adiabatica, si richiede che la funzione d'onda elettronica soddisfi l'equazione agli autovalori:
+
+La precedente espressione è ottenuta grazie al fatto che l'operatore , contenuto nel termine , non agisce sulle coordinate dei nuclei, così che la funzione d'onda dei nuclei si possa raccogliere a fattor comune.
+
+La funzione d'onda dei nuclei, invece, è ricavata a partire dall'equazione totale, che esplicitando l'operatore impulso diventa:
+
+Essendo che: Si ottiene: che, trascurando per l'approssimazione adiabatica il termine:
+
+diventa, inserendo la soluzione dell'equazione elettronica:
+
+che è l'equazione del moto dei nuclei. Il potenziale che guida il moto dei nuclei:
+
+è detto potenziale adiabatico o potenziale intermolecolare, e sta alla base della dinamica della molecola.
+
+Dall'espressione del potenziale adiabatico si evince che la dinamica dei nuclei è guidata dall'energia fornita dall'equazione elettronica: questo termine è fondamentale, dal momento che rappresenta il "collante" che tiene uniti i nuclei degli atomi che compongono la molecola.
+
+Per le molecole biatomiche il potenziale adiabatico è un potenziale armonico, e può essere approssimato dal potenziale di Morse, che a differenza dell'oscillatore armonico quantistico include esplicitamente gli effetti della rottura del legame chimico, come l'esistenza di stati non legati.

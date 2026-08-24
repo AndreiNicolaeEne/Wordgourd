@@ -1,0 +1,3 @@
+Interval je vzdálenost mezi dvěma tóny. Ozvou-li se oba tóny současně, jedná se o interval harmonický, zazní-li po sobě, jde o interval melodický.
+
+Nejmenší vzdálenost mezi dvěma tóny je v evropské hudbě půltón, vzdálenost dvou půltónů se označuje jako celý tón. Základním intervalem je oktáva, která udává rozmezí, jež je dále rozděleno na tóny a půltóny. Oktáva je základním intervalem z toho důvodu, že kromě primy (dva stejně vysoké tóny – poměr frekvencí 1:1) je oktáva nejkonsonantnějším intervalem: tóny vzdálené o oktávu mají nejjednodušší možný podíl frekvencí – 2:1 (čili tón o oktávu vyšší má dvojnásobnou frekvenci). V evropské hudbě je oktáva rozdělena na dvanáct půltónů (více o této problematice v článku ladění).

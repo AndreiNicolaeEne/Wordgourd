@@ -1,0 +1,13 @@
+“patient dose” means the dose concerning patients or other individuals undergoing exposures to which these Regulations apply;
+
+“practical aspect” means the physical conduct of F14an exposure to which these Regulations apply and any supporting aspects, including handling and use of F15equipment, the assessment of technical and physical parameters (including radiation doses), calibration F16... of equipment, preparation and administration of radio-pharmaceuticals, clinical evaluation and image processing;
+
+“practitioner” means a registered health care professional who is entitled in accordance with the employer’s procedures to take responsibility for F17the justification of an individual exposure;
+
+“quality assurance” means all those planned and systematic actions necessary to provide adequate assurance that a structure, system, component or procedure will perform satisfactorily in compliance with generally applicable standards and quality control is a part of quality assurance;
+
+“quality control” means the set of operations (programming, coordinating, implementing) intended to maintain or to improve quality and includes monitoring, evaluation and maintenance at required levels of all characteristics of performance of equipment that can be defined, measured, and controlled;
+
+F18“radiation protection adviser” means an individual who, or a body which is competent to advise on radiation protection in relation to occupational and public exposures;
+
+“radioactive substance” means any substance that contains one or more radionuclides the activity or activity concentration of which cannot be disregarded from a radiation protection point of view;

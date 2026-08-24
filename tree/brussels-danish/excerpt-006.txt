@@ -1,0 +1,15 @@
+Artikel 49 Sikkerhed stillet af budgiveren
+
+1. Inden starten på en budperiode for auktionering af todages spot eller femdages futures, kræves det af budgiverne og formidlere, der handler på deres vegne, at de stiller sikkerhed.
+
+2. En ikke vindende budgiver kan anmode om, at dens ikke anvendte sikkerhed samt renter af sikkerhed, der har form af kontanter, frigives snarest muligt efter, at budperioden er udløbet.
+
+3. En auktionsvinder kan anmode om, at stillet sikkerhed, der ikke er anvendt til afvikling, samt renter af sikkerhed, der har form af kontanter, frigives snarest muligt efter afviklingen.
+
+Artikel 50 Sikkerhed stillet af kvoteudbyderen
+
+1. Inden starten på en budperiode for auktionering af todages spot eller femdages futures, kræves der af kvoteudbyderen sikkerhed i form af kvoter, der holdes i depot af clearingsystemet eller afviklingssystemet, der fungerer som depotinstitution, indtil levering.
+
+2. Når de juridiske og tekniske forudsætninger for levering af kvoter er tilvejebragt, kan den auktionerende medlemsstat med auktionsplatformens tilladelse vælge, at sikkerhed, som medlemsstaterne har stillet for auktionering af futures og forwards, frigives og erstattes af kvoter, der holdes i depot af clearing- eller afviklingssystemet, der fungerer som depotinstitution, indtil levering.
+
+3. Hvis de kvoter, der er stillet som sikkerhed ifølge stk. 1 eller 2, ikke anvendes, kan den auktionerende medlemsstat vælge, at de holdes tilbage af clearingsystemerne eller afviklingssystemerne på en udpeget kvotekonto, hvor de holdes i depot af clearingsystemet eller afviklingssystemet, der fungerer som depotinstitution, indtil levering.

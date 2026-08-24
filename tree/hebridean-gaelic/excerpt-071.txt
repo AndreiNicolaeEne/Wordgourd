@@ -1,0 +1,5 @@
+’S e cur-ris an t-obrachadh matamataigeach a chuireas dà àireimh ri chèile gus an t-suim a dhèanamh. ’S e sin an àireamh a tha co-ionnan ris an uimhir gu lèir nuair a chuireas dà uimhir ri chèile.
+
+Tha an t-obrachadh air a sgrìobhadh leis a’ chomharra “+” eadar an dà àireimh a thathar a’ cur-ris, mar eisimpleir:
+
+3 + 4. Faodar seo a leughadh an iomadh dòigh: “cuir-ris trì agus ceithir” no “trì, cuir-ris ceithir” no “cuir ceithir ri trì”. Mar cho-aontar, faodar a leughadh cuideachd gu bheil “a trì ’s a cheithir a’ dèanamh a seachd”:

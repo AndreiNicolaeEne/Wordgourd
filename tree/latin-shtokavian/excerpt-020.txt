@@ -1,0 +1,21 @@
+Francuska književnost se smatra jednom od najbogatijih i najraznolikijih književnosti, najznačajnija zbog svog istraživanja ljudskog društva i pozicija individualca u društvu. Francuska književnost ne obuhvata frankofonijsku književnost – djela pisana na francuskom, ali u drugim zemljama, kao što su Kanada i Senegal.
+
+Francuska književnost reflektira kulturnu i političku povijest Francuske. Do Francuske revolucije 1789., Francuska je imala društveno uređenje prema klasnom statusu, sa pravilima koja su određivala kako se pripadnici jedne klase trebaju odnositi prema članovima druge klase. Pogled kulture i društva slijedio je hijerarhijsku strukturu društva, uključujući i književne žanrove i stilove. Hijerarhija žanrova imala je epiku na vrhu, a prozne žanrove, kao romane, na dnu.
+
+Francuska revolucija, koja je trajala od 1789. do 1799., bila je ključni period u francuskoj historiji, a označila je i temeljitu promjenu u francuskoj književnosti. Povedena u ime jednakosti i slobode, donijela je demokratski duh koji je izjednačio klase, privilegije i hijerarhijsku podjelu u vladi i svim drugim područjima društva. Ali, književnici iz ranih 1800-ih, koji su pisali pod periodom romantizma, tražili su razriješenje svih pravila koje je postavila Académie Française – vrhovno tijelo za postavljanje literarnih regulacija u to doba.
+
+Sila u fizici jest bilo kakva interakcija, bez suprostavljanja, koja će promijeniti kretanje objekta. Drugim rječima, sila može uzrokovati promjenu brzine objekta sa masom (što uključuje i početak kretanja iz stanja mirovanja), npr. da ubrzava. Sila se može opisati i intuitivnim konceptima kao što su guranje i povlačenje. Sila ima i jačinu i smjer, što je čini vektorskom veličinom. Mjeri se u njutnima (SI jedinica) i predstavlja se simbolom F (force).
+
+Kontaktne – rezultat su fizičkog dodira dvaju tijela. Djelovanje neke kontaktne sile prenosi se mijenjanjem međumolekulskih razmaka u strukturi tvari. Postoji više vrsta kontaktnih sila:
+
+aktivne – npr. sila kojom reket udara tenisku lopticu
+
+reaktivne – npr. sila kojom podloga djeluje na tijela koja su na njoj
+
+vanjske – sve kontaktne sile koje na neki sistem djeluju izvana
+
+unutrašnje – sile međudjelovanja elemenata unutar nekog sistema, npr. naprezanje u materijalu
+
+Volumenske (masene) – vezane su uz postojanje polja sila u nekom prostoru. One ne djeluju neposredno na neki dio tijela, a na ostale dijelove posredno, nego istovremeno djeluju na sve čestice tijela, tj. prožimaju ga u njegovom cijelom volumenu. U ovu vrstu sila spadaju elektromagnetne, gravitacijska, inercijalne sile. Elektromagnetske i gravitacijske sile uvijek su aktivne sile, dok su inercijalne svojevrsna analogija reakcijskih sila, s obzirom na to da su reakcija na promjenu stanja gibanja. Informacija o izvoru koji stvara neko polje sila širi se prostorom brzinom svjetlosti.
+
+NAPOMENA: U biti, sve se sile mogu svesti na volumenske, s obzirom na to da su interakcije subatomskih čestica, atoma i molekula dominantno elektromagnetske prirode. Međutim, "pojednostavljenje" kontaktnom silom je dostatno, često i jedino prihvatljivo kod razmatranja konvencionalnih fizikalnih problema. Također kod međudjelovanja čestica je na molekularnoj razini (i niže) zapravo besmisleno govoriti o gravitacijskim i elektromagnetskim silama kao volumenskim silama, s obzirom na to da se elementarne mase i naboji mogu predstaviti tačkama (nemaju volumena). Takve sile opravdavaju naziv "volumenska" tek na makrorazini.

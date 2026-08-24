@@ -1,0 +1,23 @@
+Senovės graikai, naudodami kampinius matavimus, sugebėjo nustatyti Žemės perimetrą ir atstumą iki Mėnulio. Pitagoras parodė, kad trikampio kampų suma yra lygi 180°. O viena iš trijų gerai žinomų klasikinių graikų matematikos problemų buvo kampo trisekcija.
+
+Klasikinis kampo apibrėžimas pagal Euklidą – kampas yra pokrypis tarp dviejų tiesių, esančių toje pačioje plokštumoje. Remiantis Proklu, kampas turi būti kiekybė, kiekis arba santykis. Pirmąją kampo sąvoką kaip kiekybę panaudojo Eudemas Rodietis, apibūdinęs kampą kaip nukrypimą nuo tiesės. Karpas iš Antiochijos, apibūdino remiantis antrąja sąvoka – kokybe, įžvelgdamas kampą kaip intervalą arba tarpą tarp susikertančių tiesių. Euklidas priėmė trečiąją – santykio koncepciją, nors jo stačiojo, smailiojo ir bukojo kampo apibrėžimai buvo aiškiai kiekybiniai.
+
+Kampui θ išmatuoti nubrėžiamas apskritimo lankas, kurio centras yra kampo viršūnėje. Tada lanko ilgis s dalijamas iš apskritimo spindulio r ir dauginamas iš kintamojo k, kuris priklauso nuo pasirinkto matavimo vieneto (laipsniai arba radianai). Jei vienetas yra radianai, k = 1, jei vienetas – laipsniai,
+
+Svarbu paminėti, kad θ reikšmė nepriklauso nuo apskritimo dydžio (išlaikoma proporcija s / r), nes padidėjus apskritimo spinduliui, lanko ilgis taip pat padidėja ta pačia proporcija.
+
+Nulinis kampas – 0° kampas arba kai linijos guli viena ant kitos.
+
+Smailusis kampas – kampas, didesnis nei 0°, bet mažesnis nei 90°.
+
+Statusis kampas – 90° kampas. Bukasis kampas – kampas, didesnis nei 90°, bet mažesnis nei 180°.
+
+Ištiestinis kampas – 180° kampas arba kampas, kurio kraštinės sudaro tiesę.
+
+Ikiislaminiu laikmečiu turėjo kelias valstybės, iš kurių svarbiausios – Palmyra ir Nabatėjos karalystė. VI a. tarp arabų greitai paplito islamas, sukurta teokratinė valstybė Arabų kalifatas, kuri plėsdamasi arabizavo daugelį Artimųjų Rytų ir Šiaurės Afrikos gyventojų (asirus, berberus, palestiniečius, egiptiečius, kurdus ir kt.). Kitur (Irane, Vidurinėje Azijoje, Užkaukazėje) iš Arabijos atsikėlę arabai buvo patys asimiliuoti vietinių tautų.
+
+Nuo XIX–XX a. pr. arabai pradėjo migruoti į kitus žemynus, ypač Europą, Lotynų Ameriką. Dabar kelių milijonų arabų diaspora gyvena Brazilijoje, Prancūzijoje, JAV, Ispanijoje, Turkijoje, Argentinoje, Venesueloje, Belgijoje, Vokietijoje, Kolumbijoje ir kt.
+
+Arabų kalifate, kuriame susipynė įvairios tradicijos, suklestėjo mokslas, menai, architektūra, filosofija (vad. „islamo aukso amžius“).
+
+Arabai išlaikė gausią tautosaką, muzikinį paveldą (pagr. muzikos instrumentai – būgnas, rebabas, ūdas, kanūnas ir kt.).

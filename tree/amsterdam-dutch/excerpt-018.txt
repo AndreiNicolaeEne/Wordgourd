@@ -1,0 +1,13 @@
+de gravitatieconstante = (6,67428 ± 0,00067) × 10−11 Nm2 kg−2. Deze wet is een omgekeerde kwadratenwet.
+
+De algemene formule voor het zwaartekrachtsveld is:
+
+, waarbij wordt geïntegreerd over alle massa, en de massadichtheid is.
+
+Door de aarde bij benadering als bolsymmetrisch te beschouwen, kan de aantrekkingskracht die de aarde, als gevolg van de zwaartekracht, uitoefent op een voorwerp dat zich op het aardoppervlak bevindt, berekend worden door toepassing van de gravitatiewet; in de vergelijking wordt voor de massa van de aarde ingevuld en voor de (gemiddelde) straal van de aarde:
+
+waarin de massa van het betreffende voorwerp is en de zwaartekrachtsversnelling aan het aardoppervlak:
+
+Bij de aarde moet er mee rekening worden houden dat deze niet precies bolsymmetrisch is. Dat is een van de oorzaken dat de zwaartekracht op sommige plaatsen op het aardoppervlak groter kan zijn dan op andere, bijvoorbeeld door massievere steensoorten. Bovendien is de vorm van de Aarde geen zuivere bol, maar onder invloed van de rotatie bij de polen heel licht afgeplat. De aarde heeft de vorm van een oblate sferoïde. Dat betekent dat men zich op de polen ongeveer 21 km dichter bij het centrum van de aarde bevindt dan op de evenaar, wat de zwaartekracht op de polen iets groter maakt.
+
+De valversnelling op het aardoppervlak, die de versnelling is ten gevolge van het samenspel van de beide krachten, varieert door al deze oorzaken tussen ongeveer 9,789 m·s−2 en 9,832 m·s−2. In Nederland en België bedraagt die gemiddeld 9,81 m·s−2. Dit wordt voor niet al te nauwkeurige toepassingen afgerond naar 10 m·s−2.

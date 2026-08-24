@@ -1,0 +1,17 @@
+3. pants Ziņojumu sniegšana par riska darījumiem
+
+1. Datos par nodrošinājumu, kā paredzēts pielikuma 1. tabulā, ietver visus izvietotos nodrošinājumus.
+
+2. Ja darījuma partneris neizvieto nodrošinājumu darījuma līmenī, darījuma partneri darījumu reģistram sniedz ziņojumu par portfeļa līmenī izvietoto nodrošinājumu.
+
+3. Ja par nodrošinājumu, kas saistīts ar līgumu, sniedz ziņojumu portfeļa līmenī, darījuma partneris, kurš sniedz ziņojumu, darījumu reģistram iesniedz arī kodu, kas identificē otram darījuma partnerim izvietotā nodrošinājuma portfeli, kurš saistīts ar līgumu, par ko sniedz ziņojumu.
+
+4. Nefinanšu darījuma partneriem, izņemot tos, kas minēti Regulas (ES) Nr. 648/2012 10. pantā, nav jāsniedz ziņojums par līguma vērtējumiem pēc nodrošinājuma vai pēc tirgus vērtības, vai pēc modeļa, kā minēts pielikuma 1. tabulā.
+
+5. Attiecībā uz līgumiem, kam tīrvērti veic CCP, vērtējumus pēc tirgus vērtības veic tikai CCP.
+
+4. pants Ziņojumu žurnāls Darījumu reģistros reģistrēto datu grozījumus reģistrē žurnālā, kurā identificē personu vai personas, kas pieprasījušas grozījumus, tostarp attiecīgā gadījumā pašu darījumu reģistru, kā arī norāda šāda grozījuma iemeslu vai iemeslus, izmaiņu datumu un laika zīmogu un izmaiņu skaidru aprakstu, tostarp attiecīgo datu veco un jauno saturu, kā noteikts pielikuma 2. tabulas 58. un 59. laukā.
+
+5. pants Spēkā stāšanās Šī regula stājas spēkā divdesmitajā dienā pēc tās publicēšanas Eiropas Savienības Oficiālajā Vēstnesī.
+
+Šī regula uzliek saistības kopumā un ir tieši piemērojama visās dalībvalstīs. Briselē, 2012. gada 19. decembrī

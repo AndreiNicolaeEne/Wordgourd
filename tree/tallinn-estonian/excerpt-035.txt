@@ -1,0 +1,15 @@
+Dante kirjutas hulga Beatricele pühendatud sonette, aga oma naist Gemmat ei maininud ta iialgi üheski oma teoses.
+
+Dante võitles 11. juunil 1289 Campaldino lahingus gvelfide ratsaväes. Selles lahingus said gvelfid gibelliinide üle otsustava võidu. Pärast seda said gvelfid võimu Firenzes endale. Aga selleks, et osaleda avalikus elus, tuli kõigepealt astuda mõne gildi liikmeks. Gilde oli tollal linnas hulganisti, aga Dante valis arstide ja apteekrite gildi. Järgmiste aastate jooksul on Dante nime korduvalt üles märgitud Firenze nõukogude istungitel sõnavõtja ja hääletajana, aga kuna suur osa neist dokumentidest, eriti aastaid 1298–1300 käsitlev osa, on kaduma läinud, siis ei ole Dante osaluse tegelikku määra linna valitsemises enam võimalik kindlaks teha.
+
+Robot ei tohi vigastada inimest ega lase tegevusetuse tõttu inimesel kahju saada.
+
+Robot peab järgima inimeste antud korraldusi, välja arvatud juhtutel, kui mingid korraldused oleksid vastuolus esimesega seadusega.
+
+Robot peab kaitsma end seni, kuni kaitsmine ei ole vastuolus esimese ega teise seadusega.
+
+Esimesse põlvkonda kuuluvad kergema arhitektuuriga robotid, mis saavad edukalt hakkama vaid täpselt kindlaks määratud (determineeritud) tingimustes. Kui roboti mällu on salvestatud programm ja programmi ei muudeta roboti töötamise ajal, siis on tegu jäiga programmijuhtimisega robotiga. Sellistel robotitel puudub ümbrusetaju ja järelikult puudub neil võimalus saada välist tagasisidet. Manipulaatori liikumist ruumis juhitakse üksnes sisemistelt asendi- ja kiirusanduritelt saadud signaalide järgi.
+
+Esimese põlvkonna robotid suudavad haarata esemeid, mille asukoht ruumis on roboti suhtes täpselt fikseeritud. Robotsüsteemis kasutatakse tehnoloogilisi abivahendeid, näiteks enne orienteeritakse töödeldavad detailid ruumiliselt või paigutatakse fikseeritud pesadega kassettidesse. Nii suureneb oluliselt robotsüsteemi hind ja väheneb töö paindlikkus. Kokkuvõtteks võib öelda, et esimese põlvkonna robotite juhtseadmete ülesanne on realiseerida jäigalt etteantud programm.
+
+Teise põlvkonda kuuluvad ümbruskonda tajuvad robotid, mis kohastuvad keskkonnas toimuvate muutustega. Ümbrusetajuks vajaliku välise informatsiooni allikad on mitmesugused andurid, näiteks puute-, lähedus- ja lokatsiooniandurid ning tehisnägemine. Teise põlvkonna robotite juhtimisalgoritm sõltub konkreetsest olukorrast töötsoonis.

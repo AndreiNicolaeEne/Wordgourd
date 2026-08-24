@@ -1,0 +1,33 @@
+Namiesto vytvorenia slova počas ťahu sa hráč môže ťahu vzdať. Ak sa vzdá ťahu, môže jedno alebo viac písmen vymeniť.
+
+Keď už nie sú vo vrecku žiadne písmená a niektorý z hráčov vyprázdni celý svoj zásobník, hra končí. Hráči si spočítajú hodnotu písmen vo svojom zásobníku a táto hodnota sa im odráta, od dosiahnutého výsledku a zároveň sa priráta hráčovi, ktorý vyprázdnil svoj zásobník.
+
+Hra končí aj v prípade, ak už vo vrecku nie je žiadne písmeno a žiaden hráč počas dvoch kôl nevytvoril slovo. Vtedy si svoje písmena odrátajú, ale nikomu sa nepripočítajú.
+
+Tvorené slová by nemali byť vlastné mená, ale hráči sa môžu dohodnúť inak. Tiež nemožno používať skratky.
+
+Hru môže hrať aj jeden hráč. Snaží sa vytvoriť čo najväčší súčet.
+
+Hráči majú spoločný zásobník, svoje slovo (slová) vytvoria v duchu a svoj ťah zapíšu na papier. Spočítajú a zapíšu sa ich bodové zisky. Na hrací plán sa položí ťah s najväčším počtom bodov. Ak je takých viac, s väčším počtom použitých písmen, ak aj to je rovnaké, rozhodne los.
+
+Hráči majú spoločný zásobník, ale ťahajú postupne.
+
+Ťava môže znamenať aj hlupáka, najmä hlúpu ženu, pozri hlupák.
+
+Ťava (iné názvy pozri nižšie; lat. Camelus) je rod z čeľade ťavovité.
+
+Zastarané slovenské názvy rodu Camelus sú: ťáva, ťeva, kamel. Nárečové tvary sú tava, čava, ščava.
+
+Okrem toho sa do roku 1940, ale najmä v 19. storočí, v slovenčine ako spisovné synonymum slova ťava alternatívne používal názov veľblúd, veľblud, velblúd, velblud. V nárečiach (spravidla východoslovenských) sa dodnes vyskytujú tvary: velblud, velblut, veľbľud, velbľud.
+
+Niektorí autori slovo veľblúd (resp. jeho uvedené varianty) nepoužívali ako označenie rodu Camelus, ale ho používali v niektorom z nasledujúcich významov:
+
+len ťava dvojhrbá (rovnako sa niekedy používa aj názov ťava, t. j. ťava ako opak dromedára);
+
+len ťava jednohrbá (zatiaľ čo celý rod sa volal ťava).
+
+Podľa Bernoláka (okolo roku 1800) slovo velblúd (ktoré on považoval za bohemizmus) znamenalo popri zvierati aj kotevné lano alebo kotvicu (pričom ale nie je upresnené, ktorý z dvoch významov slova kotvica - rastlina kotvica plávajúca alebo vojenská kotva typu murex - má na mysli).
+
+Slovo ťava je v slovenčine doložené od 17. storočia. Pochádza z maďarského slova teve (ťava) prevzatého z turk. jazykov.
+
+Slovo veľblúd je v slovenčine doložené od 16., častejšie od 17. storočia. Nie je isté, či toto slovo bolo do slovenčiny prevzaté z češtiny (v dnešnej češtine: velbloud, v starej češtine: velblúd), alebo či bolo prevzaté už z praslovančiny, keďže sa obdobné slovo vyskytuje v mnohých nových i starých slovanských jazykoch (napr. v poľštine wielbłąd, po starorusky velьbudъ, dnes po rusky, ukrajinsky a bulharsky verbľud, po slovinsky velblod, po hornolužicky wjelbłud). Bernolák (okolo roku 1800) uvádzal slovo ťava ako slovenské slovo a slovo velblúd ako zodpovedajúce slovo české resp. bohemizmus. V starej češtine (a teda možno aj v starej slovenčine, ale priamych dokladov niet) slovo velblúd znamenalo ťavu i slona, zatiaľ čo v ostatných slovanských jazykoch obdobné slovo znamenalo a znamená len ťavu. Praslovanské slovo zodpovedajúce dnešnému slovenskému veľblúd (jeho presný tvar je neistý, možno *velьbǫdъ) znamenalo len ťavu. Toto slovanské slovo pochádza z gótskeho slova ulbandus, ktoré takisto znamenalo len ťavu. Pôvod gótskeho slova je sporný, navrhuje sa napríklad vznik z latinského (z gréčtiny prevzatého) slova elephantus (slon) alebo priamo z gréckeho slova elefas (slon; genitív: elefantos) alebo z nejakého anatólskeho jazyka (možno z chetitčiny či luvijčiny).

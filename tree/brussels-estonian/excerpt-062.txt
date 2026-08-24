@@ -1,0 +1,21 @@
+10) ilma kindlaksmääratud kasutuseata seadmete ning siiratavate seadmete puhul peavad tootjad säilitama elektroonilisi kasutusjuhendeid kasutajatele kättesaadavatena 15 aasta jooksul pärast viimase seadme tootmist.
+
+Artikkel 6 1. Tootjad peavad selgelt märkima, et paberkandja asemel on seadme kasutusjuhendid esitatud elektrooniliselt.
+
+Kõnealune teave tuleb esitada iga ühiku pakendil või müügipakendil, kui see on asjakohane. Paiksete meditsiiniseadmete puhul peab kõnealune teave olema esitatud ka seadmel.
+
+2. Tootjad peavad esitama teabe elektroonilistele kasutusjuhenditele juurdepääsu kohta.
+
+Kõnealune teave tuleb esitada esimese lõike teises lõigus sätestatu kohaselt või, kui see ei ole võimalik, siis iga seadmega kaasasoleval paberdokumendil.
+
+3. Teave elektroonilistele kasutusjuhenditele juurdepääsu kohta peab hõlmama järgmist:
+
+a) teave, mida on vaja kasutusjuhendite vaatamiseks;
+
+b) unikaalne viide, mis võimaldab vahetut juurdepääsu kasutusjuhenditele, ja muu teave, mida kasutaja vajab, et asjakohased kasutusjuhendid kindlaks teha ning neid kasutada;
+
+c) asjakohased tootja kontaktandmed; d) teave selle kohta, kust, kuidas ja mis aja jooksul saab paberkandjal kasutusjuhendeid nõuda ja saada ilma lisakuluta vastavalt artiklile 5.
+
+4. Kui mingi osa juhenditest on ette nähtud patsiendile esitamiseks, siis ei tohi see osa olla esitatud elektrooniliselt.
+
+5. Elektroonilised kasutusjuhendid peavad olema täielikult kättesaadavad tekstina, milles võib olla paberkandjal kasutusjuhenditega vähemalt sama teavet sisaldavaid sümboleid ja graafilisi elemente. Lisaks tekstile võib esitada ka video- ja audiofaile.

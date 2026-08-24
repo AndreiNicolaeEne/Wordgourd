@@ -1,0 +1,17 @@
+Gaua (latinetik: Nox, noctis) Lurraren zati batek, errotazioaren eraginez, eguzki-argia jasotzeari utzi eta, ondorioz, iluntasunean irauten duen aldia da. Eguzkiaren ilunabarretik biharamuneko egunsentira bitartean dago.
+
+Eguzkiaren argi-izpien atmosferaren errefrakzioak, Eguzkia sartu denean argia ikustea eragiten du: arratsaldeko krepuskulua. Errefrakzio horrek eguna luzatu eta gaua laburtzen du.
+
+Eguerditik neurtuta, ilunabarraren ezaugarri nagusia H ordu-angelua da.
+
+cos(H) = -tan(F) * tan(D) F lekuaren latitudea da, eta D, eguzki-deklinabidea. Ortoa -H ordu-angeluan gertatzen da.
+
+Egunaren eta gauaren iraupena urtean zehar aldatu egiten da; egunaren batez besteko iraupena 12 ordukoa da (latitude guztietan) ekinokzioetan 12 ordutik gora udaberrian eta udan, eta egunik luzeena udako solstizioan izaten da, gau laburrena gertatzen baita. Aldiz, egunak 12 ordu baino gutxiago irauten du udazkenean eta neguan, eta neguko solstizioan izaten da egunik laburrena eta gaurik luzeena.
+
+Hebrearren, grekoen eta beste nazio batzuen artean, gaua lau zatitan banatzen zen: esna egon edo guardia (vigiliae, custodiae) guardia militarrean zeudenak eta artaldeak gordetzen zituzten artzainak zaintzen zituztenak esna zeudelako, bakoitzak hiru ordu inguru irauten zituen. Lehena eguzkia sartu ondoren hasten zen, eta arratsaldea deitzen zen (vespere) eta gutxi gorabehera bederatziak arte irauten zuen; bigarrena, ordu horretatik hamabiak arte, eta gauerdia deitzen zen; hirugarrena, hamabietatik hirurak arte, eta oilarraren kantua deitzen zioten; eta laugarrena, hiruretatik seiak arte, edo eguzkia atera arte, bihar, mane edo custodia matutina deitzen zutena.
+
+Gizakiek hiru zelula fotohartzaile mota dituzte erretinan. Kono izeneko zelula horiek pigmentuak dituzte, eta argi-espektroaren zati jakin batekiko esposizioak deskonposatu egiten ditu eta nerbio-bulkadak sortu, organismoak berriz eratu aurretik. Beraz, gizakiaren eguneko ikusmena trikromatikoa da. Gauez, konoak baino hartzaile mota sentikorragoa erabiltzen du, makila izenekoa, eta ezin ditu koloreak bereizi.
+
+Hiru kono-motak ez datoz bat kolore jalkin batzuekin. Uhin-luzeraren gehienezko sentikortasun espektralaren arabera izendatzen dira: laburra (S, ingelesezko short), ertaina (M, ingelesezko medium) eta luzea (L, ingelesezko long). Espektroko balio bera hartzen duten zelulak egotea, nahiz eta gehienezkoak bat ez etorri, ez da nahikoa kolorea definitzeko. Sortzen dituzten nerbio-bulkadak alderatzeko gai den neurona-sare bat behar da. Prozesu konplexu batek kolorearen pertzepzioa eragiten du. M eta L konoen erantzunen arteko erkatzeak argitasun-sentsazioa sortzen du; horien arteko aldeak ardatz gorri-berde bat ezartzen du, eta M eta L konoen aldeak S konoekiko, berriz, ardatz hori-urdin bat.
+
+Daltonismoa jatorri genetikoko alterazio bat da, koloreak bereizteko gaitasunean. Afektazio-maila oso aldakorra da: edozein kolore bereizteko gaitasunik eza (akromatopsia) eta gorri-, berde- eta noizbehinka urdin-ñabardurak bereizteko zailtasuna (kolore ikusmen normala dutenek bereizteko gai diren ñabardurak).

@@ -1,0 +1,17 @@
+Linguistica est pars semioticae, quae omnium generum signa et signalia communicativa, sive vocibus emissa sive gestibus expressa sive picturis effecta, pertractat.
+
+Studia linguistica ex maxima parte ad singulas linguas describendas pertinent. Quibus in studiis philologia et linguistica corporum magnas partes agunt. Constat quamque linguam systema esse ex subsystematibus constans. Descriptionem structurae linguae perficit grammatica scientifica, quae multiplicem imaginem diagrammaticam subsystematum describendorum praebet.
+
+In linguistica, quamquam per singularum linguarum exemple proficitur, tamen quaestiones generales ad naturam ac pertractationem linguae naturalis pertinentes proponuntur:
+
+Quomodo a ceteris nuntiorum communicandorum modis differt lingua naturalis? Quae sunt eius virtutes et propietates?
+
+Verbum, sive lexis, est minima orationis et scriptionis pars individua, quae proprium habet sensum. In multarum linguarum scriptione verbum a verbo spatio separari a saeculo quinto coeptum est. Verbum sensu generali omnes partes orationis complectitur, sicut nomina, verba temporalia, adverbia, praepositiones. Idem autem verbum potest et nominis et verbi temporalis vice fungi (e.g. Anglice love 'amor'; 'amare'), aut adverbii et praepositionis (e.g. Latine versus et contra).
+
+Constat verbum duos habere intellectus, nam modo generali modo temporali sensu intellegitur. Quae ambiguitas non praeteriebat auctores antiquos. Etenim Quintilianus in primo Institutionis libro dicit:
+
+Ad quam ambiguitatem levandam interdum proderit pro verbo, si opus erit, synonymum aliquod, sicut vocabulum, aut aliquid infinitius, sicut dictionem, locutionem, vocem substituere.
+
+Sensus verbi adeo involutus est, ut definitio generalis ad omnes linguas apta vix possit inveniri. Nec prodest verbum sine ulla oratione generali ad singulas linguas definire. Praestat igitur verbum ad certas proprietates exemplares definire, quas typologicas appellare consuevit aetas recentior. Imprimis typologia morphologica in notione verbi posita est. Quapropter linguas in analyticas, syntheticas, polysyntheticas secundum gradum compactionis verborum dividere possumus.
+
+Linguarum analyticarum proprium est quod verba structura interna carent, id est, (1) neque casu genere numero declinantur nec modo persona tempore coniugantur; (2) omni verbo una tantum notio est. Itaque functiones grammaticae ipso verborum ordine ac particulis inter partes orationis insertis designantur. Sententiarum constructio efficitur verbis singulis tamquam insulatis quae quadam lege in ordine disponuntur. Celeberrimum exemplum linguae analyticae est Sinica. Ecce sententiam "Omnes amici mei volunt ovum edere" Sinice:

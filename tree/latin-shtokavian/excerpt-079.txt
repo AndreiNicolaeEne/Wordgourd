@@ -1,0 +1,9 @@
+Erwin Rudolf Josef Alexander Schrödinger (Beč, 12. kolovoza 1887. - Beč, 4. siječnja 1961.), austrijski fizičar.
+
+Rođen je kao sin jedinac dobro obrazovanih roditelja. Do 11. godine obrazovao se je kod kuće, a nakon toga je pohađao školu da se pripremi za Bečko sveučilište.
+
+Tamo je diplomirao fiziku te je ostao na sveučilištu do Prvog svjetskog rata u kojem je sudjelovao na talijanskoj fronti. Nakon rata vraća se u Beč gdje se ženi i 1921. dobiva poziciju teorijskog fizičara na sveučilištu u Zürichu. Šest godina koje je tu proveo bile su među najproduktivnijima u njegovoj karijeri, iako je na mehanici valova počeo raditi tek 1925. Već 1926. objavio je svoj rad gdje kretanje elektrona u atomu opisuje kao valnu funkciju. Godine 1927. dobiva veliko priznanje, jer ga pozivaju na Berlinsko sveučište gdje bi trebao zamijeniti Maxa Plancka. Tamo ostaje do 1933. kada zbog nacista odlazi na Oxford. Iste godine podijelio je Nobelovu nagradu za fiziku sa Paulom Diracom.
+
+Godine 1938. varaća se u Austriju, ali nakon što ju Njemačka pripaja emigrira u Dublin gdje se bavi filozofijom fizike. Godine 1960. vraća se u Beč i godinu dana kasnije umire.
+
+Schrödingerova jednadžba gibanja elektrona je osnovna jednadžba u modernoj kvantnoj fizici. Potpuno odbacuje pokušaje da se gibanje elektrona odvija po određenim putanjama u atomu i nastoji opisati njihovo gibanje isključivo valnim svojstvima. U nekom trenutku ta vjerojatnost da se elektron nađe u nekoj točki prostora jednaka je kvadratu apsolutne vrijednosti valne funkcije. Valna funkcija se mijenja ovisno o kvantizaciji elektrona. Pomoću te jednadžbe dobiva se kvantofizikalni model svakog pojedinog atoma. Ipak, tu jednadžbu je iznimno teško riješiti i očekuje se da će svoju punu uporabnu vrijednost dosegnuti daljnjim razvojem računala.

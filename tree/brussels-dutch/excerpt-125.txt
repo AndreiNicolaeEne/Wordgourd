@@ -1,0 +1,9 @@
+12. Onverminderd de bevoegdheid van de lidstaten en de bij artikel 14, lid 1, onder a), i), van Verordening (EU) nr. 1285/2013 aan het Agentschap toebedeelde taak wordt tijdens de stationeringsfase van het Galileo-programma onder toezicht van de Raad voor de veiligheidsaccreditatie een deskundigengroep van de lidstaten opgericht die de taken van de instantie voor de distributie van versleuteling (IDV) moet verrichten met betrekking tot het beheer van cryptografisch materiaal van de Unie, met name voor:
+
+i) het beheer van vluchtsleutelcodes en andere codes die noodzakelijk zijn voor de werking van het in het kader van het Galileo-programma opgezette systeem;
+
+ii) de verificatie van de vaststelling en uitvoering van procedures voor de boekhouding, veilige behandeling, opslag en verstrekking van PRS-sleutelcodes.
+
+13. Indien er geen consensus kan worden bereikt overeenkomstig de in artikel 10 vermelde algemene beginselen, stelt de Raad voor de veiligheidsaccreditatie besluiten vast met de in artikel 16 van het Verdrag betreffende de Europese Unie bedoelde meerderheid en onverminderd artikel 9. De vertegenwoordiger van de Commissie en de vertegenwoordiger van de hoge vertegenwoordiger stemmen niet. De door de Raad voor de veiligheidsaccreditatie vastgestelde besluiten worden door zijn voorzitter namens de Raad voor de veiligheidsaccreditatie ondertekend.
+
+14. De Commissie stelt het Europees Parlement en de Raad zo spoedig mogelijk op de hoogte van de gevolgen van veiligheidsaccreditatiebesluiten voor het goede verloop van de programma’s. Indien de Commissie van oordeel is dat een door de Raad voor de veiligheidsaccreditatie genomen besluit belangrijke gevolgen kan hebben voor het goede verloop van de programma’s, bijvoorbeeld wat betreft kosten, tijdschema’s of prestaties, stelt zij het Europees Parlement en de Raad daarvan onverwijld in kennis.

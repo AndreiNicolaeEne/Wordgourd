@@ -1,0 +1,9 @@
+11. Saugumo akreditavimo valdyba įsteigia jai pavaldžius specialius organus konkretiems klausimams spręsti, kurie vykdo jos nurodymus. Visų pirma, užtikrinant būtiną veiklos tęstinumą, steigiama specialistų grupė, kuri atlieka saugumo analizės apžvalgas ir tyrimus, kad parengtų atitinkamas rizikos ataskaitas, padedančias valdybai rengti sprendimus. Saugumo akreditavimo valdyba gali sudaryti ir panaikinti ekspertų grupes, skirtas prisidėti prie specialistų grupės darbo.
+
+12. Nedarant poveikio valstybių narių kompetencijai ir Agentūros užduočiai, nurodytai Reglamento (ES) Nr. 1285/2013 14 straipsnio 1 dalies a punkto i papunktyje, Galileo programos įdiegimo etape bus sudaryta Saugumo akreditavimo valdybos prižiūrima valstybių narių ekspertų grupė, pavedant jai vykdyti Kriptografijos platinimo institucijos (KPI) užduotis, susijusias su ES kriptografinės medžiagos valdymu, visų pirma siekiant:
+
+i) valdyti skrydžių kodus ir kitus kodus, būtinus sistemos, nustatytos pagal Galileo programą, veikimui;
+
+ii) vykdyti patikrą, ar yra nustatytos PVI šifravimo raktų apskaitos, saugaus tvarkymo, saugojimo ir paskirstymo procedūros, ir kaip jų laikomasi.
+
+13. Jei, laikantis šio reglamento 10 straipsnyje nurodytų bendrųjų principų, negalima pasiekti bendro susitarimo, Saugumo akreditavimo valdyba priima sprendimus balsų dauguma, kaip numatyta Europos Sąjungos sutarties 16 straipsnyje ir nedarant poveikio šio reglamento 9 straipsniui. Komisijos atstovas ir vyriausiojo įgaliotinio atstovas nebalsuoja. Saugumo akreditavimo valdybos pirmininkas Saugumo akreditavimo valdybos vardu pasirašo Saugumo akreditavimo valdybos priimtus sprendimus.

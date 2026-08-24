@@ -1,0 +1,15 @@
+9. a meghatározott szavatossági idejű eszközök esetében - a beültethető eszközök kivételével - a gyártóknak biztosítaniuk kell a felhasználók számára a használati utasításhoz való elektronikus úton történő hozzáférést a legutoljára gyártott eszköz szavatossági idejének lejárta után még legalább két évig;
+
+10. a meghatározott szavatossági idővel nem rendelkező eszközök és a beültethető eszközök esetében biztosítaniuk kell a felhasználók számára a használati utasításhoz való elektronikus úton történő hozzáférést a legutoljára gyártott eszköz gyártásától számított 15 éven át.
+
+6. cikk (1) A gyártóknak egyértelműen meg kell jelölniük, hogy az eszköz használati utasítását nyomtatott forma helyett elektronikus úton bocsátják a felhasználó rendelkezésére.
+
+Ezt a tájékoztatást az egyes egységek csomagolásán vagy adott esetben a kereskedelmi csomagoláson is fel kell tüntetni. A rögzített beépített orvostechnikai eszközök esetében ezt a tájékoztatást magán az eszközön is fel kell tüntetni.
+
+(2) A gyártóknak tájékoztatást kell nyújtaniuk a használati utasítás elektronikus úton történő hozzáférésének módjáról.
+
+Ezt a tájékoztatást az (1) bekezdés második albekezdésében leírtak szerint, vagy ha ez nem kivitelezhető, az egyes eszközökhöz mellékelt nyomtatott dokumentum formájában kell biztosítani.
+
+(3) A használati utasítás elektronikus úton történő hozzáféréséről szóló tájékoztatásnak az alábbiakat kell tartalmaznia:
+
+a) a használati utasítás megtekintéséhez szükséges minden információ;

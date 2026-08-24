@@ -1,0 +1,15 @@
+2. Den korrigerande åtgärd som anges i punkt 1 ska vara den enda korrigerande åtgärd som en vinnande budgivare eller en senare rättsinnehavare ska ha rätt till i fall där auktionerade utsläppsrätter inte kan levereras på grund av omständigheter som ligger utanför det berörda clearingsystemets eller avvecklingssystemets kontroll.
+
+KAPITEL XIII FÖRVALTNING AV SÄKERHETER Artikel 49
+
+Säkerheter som ställs av budgivaren 1. Innan budgivningsperioden inleds för auktioneringen av 2-dagars spotkontrakt eller 5-dagars futurekontrakt ska budgivare eller mellanhänder som agerar för deras räkning åläggas att ställa säkerheter.
+
+2. Om så begärs ska outnyttjade säkerheter som ställts av en icke vinnande budgivare, tillsammans med upplupen ränta på kontanta säkerheter, frisläppas så snart det är praktiskt möjligt efter budgivningsperiodens slut.
+
+3. Om så begärs ska säkerheter som ställts av en vinnande budgivare och som inte har använts för avveckling, tillsammans med upplupen ränta på kontanta säkerheter, frisläppas så snart det är praktiskt möjligt efter avveckling.
+
+Artikel 50 Säkerheter som ställs av auktionsförrättaren
+
+1. Innan budgivningsperioden inleds för auktionering av 2-dagars spotkontrakt eller 5-dagars futurekontrakt ska auktionsförrättaren endast vara skyldig att lämna utsläppsrätter som säkerhet som ska förvaras av clearingsystemet eller avvecklingssystemet i egenskap av förvaringsinstitut i väntan på leverans.
+
+2. När de rättsliga åtgärder och tekniska möjligheter som krävs för att leverera utsläppsrätter har genomförts, får alla säkerheter som ställts av medlemsstaterna för auktionering av futurekontrakt eller forwardkontrakt, enligt den auktionerande medlemsstatens eget val och med auktionsplattformens tillåtelse, frisläppas och ersättas med utsläppsrätter som ska förvaras av clearingsystemet eller avvecklingssystemet i egenskap av förvaringsinstitut i väntan på leverans.

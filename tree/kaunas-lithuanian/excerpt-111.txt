@@ -1,0 +1,29 @@
+Lošimo automatas (angl. slot machine) – elektroninis prietaisas, sukurtas ir pagamintas lošimo tikslais, kurį naudojant, atsitiktinai laimimi arba pralaimimi pinigai. Lošimo automatai literatūroje dar vadinami „vienarankiais banditais“ dėl to, kad gali palikti lošėją be pinigų, o anksčiau buvo valdomi prie automato pritvirtinta svirtimi.
+
+Daugelis modernių kompiuterinių lošimo automatų leidžia imituoti kitus azartinius žaidimus ar televizijos žaidimus su išlošimais, pavyzdžiui, pokerį, ruletę, laimės ratą, loteriją ir pan., taip pat yra ir originalių, specialiai kompiuteriniams lošimo automatams sukurtų žaidimų.
+
+Senesnio tipo fiziškai apčiuopiamuose lošimų automatuose kiekvienas įmanomas simbolis yra paeiliui išgraviruotas ant automato cilindro griovelių, todėl šansai išsukti bet kurį simbolį yra vienodi.
+
+Neriboto laimėjimo automatai – tokie automatai, kuriuose vienkartinis didžiausias laimėjimas nėra ribojamas. Šie automatai dar vadinami A kategorijos automatais. Automatuose lošimo principas pagrįstas simbolių struktūra. Susidarančios eilutės iš įvairių piešinukų ant būgnų ir lemia laimėjimus bei papildomus lošimus.
+
+Riboto laimėjimo automatai – tokie automatai, kuriuose yra apribota didžiausia statoma suma, laimėjimas ir vieno lošimo trukmė. Lietuvoje leidžiama didžiausia statoma suma – 1 litas (0,3 euro), vieno lošimo laimėjimas negali būti daugiau kaip 200 kartų didesnis už statomą sumą, o vieno lošimo trukmė ne trumpesnė kaip 3 sekundės. Šie automatai dar vadinami B kategorijos automatais. Riboto laimėjimo automatus paprastai draudžiama jungti į kaupiamojo fondo sistemą.
+
+Lietuvoje veikia Lietuvos geologijos tarnyba, Vilniaus universiteto Chemijos ir geomokslų fakulteto Geomokslų institute – Geologijos ir mineralogijos katedra. Yra Geologijos studijų programa, kurias baigus, suteikiamas Fizinių mokslų bakalauro laipsnis.
+
+bendroji geologija tektonika geodinamika
+
+inžinerinė geologija inžinerinė geodinamika
+
+vulkanologija geomorfologija mineralogija
+
+geochemija hidrogeologija (arba geohidrologija)
+
+naftos geologija ekonominė geologija paleontologija
+
+geofizika seismologija petrografija stratigrafija
+
+litologija sedimentologija Yra daug principų, naudojamų geologijoje. Tačiau pateiktieji yra ypač svarbūs, nustatant santykinį uolienų ar nuogulų amžių.
+
+Intruzijos sąsajų principas susijęs su intruzijų kontaktu su uolienomis. Jei randamos intruzijos, jų kontaktinės zonos bus visada jaunesnės už pačias intruzijas.
+
+Lūžio sąsajų principas taip pat padeda nustatyti santykinį amžių. Jei lūžis kerta uolienų sluoksnius, tai lūžis susiformavo vėliau nei perkirstos uolienos.

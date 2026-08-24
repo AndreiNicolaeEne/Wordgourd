@@ -1,0 +1,41 @@
+V. Paperwork Reduction Act The information collection requirements of the Defense Federal
+Acquisition Regulation Supplement (DFARS) part 245, Government
+Property, related clauses in DFARS part 252, and related forms in DFARS
+part 253, have been approved by the Office of Management and Budget
+(OMB) under OMB Control Number 0704-0246. No new information collection
+requirements are imposed by this final rule.
+
+List of Subjects in 48 CFR Parts 201, 245, and 252
+
+Government procurement. Ynette R. Shelkin,
+Editor, Defense Acquisition Regulations System.
+
+Therefore, 48 CFR parts 201, 245, and 252 are amended as follows:
+
+0
+1. The authority citation for 48 CFR parts 201; 245, and 252 continues
+to read as follows:
+
+Authority: 41 U.S.C. 1303 and 48 CFR chapter 1.
+
+PART 201--FEDERAL ACQUISITION REGULATIONS SYSTEM
+
+0
+2. Add section 201.670 to read as follows:
+
+201.670 Appointment of property administrators and plant clearance
+officers.
+
+(a) The appropriate agency authority shall appoint or terminate (in
+writing) property administrators and plant clearance officers.
+(b) In appointing qualified property administrators and plant
+clearance officers, the appointing authority shall consider experience,
+training, education, business acumen, judgment, character, and ethics.
+
+PART 245--GOVERNMENT PROPERTY 0
+3. Amend section 245.107 by adding paragraph (e) to read as follows:
+
+245.107 Contract clauses. * * * * *
+(d) Use the clause at 252.245-7004, Reporting, Reutilization, and
+Disposal, in solicitations and contracts that contain the clause at FAR
+52.245-1, Government Property.

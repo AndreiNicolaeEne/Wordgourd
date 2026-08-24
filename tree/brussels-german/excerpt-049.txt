@@ -1,0 +1,13 @@
+c) wenn der Feeder-OGAW Aufzeichnungen über die frühere Wertentwicklung aus der Zeit vor der Aufnahme seiner Tätigkeit als Feeder besitzt, wobei seine eigenen Aufzeichnungen im Balkendiagramm für die entsprechenden Jahre ausgewiesen und wesentliche Änderungen im Sinne von Artikel 17 Absatz 2 dieser Verordnung kenntlich gemacht sind.
+
+ABSCHNITT 5 Strukturierte OGAW Artikel 36
+
+Wertentwicklungsszenarien (1) Das Dokument mit wesentlichen Informationen für den Anleger für strukturierte OGAW enthält nicht den Abschnitt „Frühere Wertentwicklung“.
+
+Im Sinne dieses Abschnitts versteht man unter „strukturierten OGAW“ OGAW, die für die Anleger zu bestimmten vorher festgelegten Terminen nach Algorithmen berechnete Erträge erwirtschaften, die an die Wertentwicklung, Preisänderungen oder sonstige Bedingungen der Finanzvermögenswerte, Indizes oder Referenzportfolios gebunden sind, oder OGAW mit vergleichbaren Merkmalen.
+
+(2) Bei strukturierten OGAW enthält der Abschnitt „Ziele und Anlagepolitik“ des Dokuments mit wesentlichen Informationen für den Anleger eine Erläuterung der Funktionsweise der Formel und der Berechnung der Erträge.
+
+(3) Der in Absatz 2 genannten Erläuterung ist eine Illustration von mindestens drei Szenarien der potenziellen OGAW-Wertentwicklung beizufügen. Dabei sind zweckmäßige Szenarien zu wählen, die die Umstände aufzeigen, unter denen mit der Formel eine niedrige, mittlere oder hohe und gegebenenfalls auch eine negative Rendite für den Anleger erwirtschaftet wird.
+
+(4) Die in Absatz 3 genannten Szenarien müssen den Anleger in die Lage versetzen, sämtliche Auswirkungen des der Formel zugrunde liegenden Berechnungsmechanismus in jeder Hinsicht verstehen zu können.

@@ -1,0 +1,13 @@
+Jako stacionární se označuje elektrický proud, který je v čase konstantní, tj. má časově neměnnou velikost i směr toku. Stacionárním proudem je generováno stacionární magnetické pole. Jako nestacionární se označuje elektrický proud, který v čase mění velikost nebo směr toku.
+
+Prochází-li elektrický náboj průřezem vodiče rovnoměrně, definuje se stacionární proud jako množství náboje prošlého průřezem vodiče za čas :
+
+Okamžitá hodnota proudu je limitním případem stacionárního proudu, definuje se jako množství náboje , prošlého průřezem vodiče za infinitesimální (nekonečně krátký) čas :
+
+V ustáleném stavu protéká všemi průřezy vodiče stejně velký proud.
+
+Při přenosu elektrické energie vyvstaly problémy s tím, že průchod proudu vodičem vytváří elektrické pole. Účinným řešením se stalo rychlé střídání směru proudu zvané střídavý proud. Ten se proto stal dominantním v elektrické přenosové soustavě. Pro rozlišení se nestřídavý proud nazývá stejnosměrný a jeho využití je zejména ve slaboproudé elektronice, kde elektrické pole nehraje zásadní roli.
+
+Stejnosměrný proud je elektrický proud, který v čase nemění směr svého toku, na rozdíl od proudu střídavého.
+
+Stejnosměrný proud byl historicky prvním využívaným druhem proudu. O jeho rozšíření se zasloužil svými vynálezy především Thomas Alva Edison, který stále lpěl na jeho využívání, i když se koncem 19. století se ukázalo, že pro přenos elektřiny na delší vzdálenosti se hodí více proud střídavý, podporovaný naopak Nikolou Teslou. Od třicátých let 20. století se prosazuje stejnosměrný pro přenos velmi velkých výkonů na velké vzdálenosti, kvůli menším elektromagnetickým a přechodovým ztrátám.

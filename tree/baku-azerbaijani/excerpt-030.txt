@@ -1,0 +1,25 @@
+əhəmiyyətli (istifadəçi üçün vacib olmalıdır);
+
+aktual (cari vaxtda tələb edilən olmalıdır);
+
+anlamlı (istifadəçinin başa düşdüyü tərzdə hazırlanmalıdır).
+
+İnformasiya hal-hazırkı və potensial sahibinə hər hansı sahədə (maddi, siyasi, hərbi) mənfəət gətirirsə, bu informasiya qiymətli informasiya sayılır.
+
+İnformasiyanın qorunması informasiyanın itirilməsi, dəyişdirilməsi, silinməsi ehtimallarının qarşısını alır.
+
+İnformasiyalar yaranmasına, qəbul edilməsinə, ötürülməsinə, ifadə formalarına və vasitələrinə, istifadəsinə və s. görə müxtəlif cür qruplaşdırıla bilər.
+
+İnformasiyaları hər hansı əlifba simvollarının köməyi ilə ifadə etmək və onu digər əlifbaya da keçirmək olar. İnformatikada fakt, məlumat, xəbər terminləri çox vaxt "verilənlər" sözü ilə ifadə olunur.
+
+İnformasiya (məlumat) (latınca informatio, informare — məlumatlandırmaq, formaya salmaq) – abstrakt anlayış, hara çatdırılmasından asılı olmayaraq çoxşaxəli məlumat.
+
+Təbiətdə və cəmiyyətdə bizi əhatə edən obyektlər, hadisələr, onların xassələri, qarşılıqlı münasibətləri haqqında məlumatlar yığımı olub, onlara dair bilikləri çoxaltmaq məqsədi daşıyır.
+
+İnformasiya təbiətdə siqnallar şəklində ötürülür və iki tipə ayrılır: analoq və rəqəmli. İnsanlar öz hissiyyat üzvlərinə görə analoq, kompüterlər isə rəqəmli informasiyaların köməyilə fəaliyyət göstərir.
+
+Informasiyanın istifadəyə yararlı olması üçün aşağıdakı şərtlər ödənilməlidir (informasiyanın xüsusiyyətləri):
+
+tam (tam şəkildə təsvir olunmalıdır); düzgün (həqiqi situasiyanı əks etdirməlidir);
+
+qiymətli (maksimum az məsrəflə əldə edilməlidir)

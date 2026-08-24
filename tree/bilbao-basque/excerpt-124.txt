@@ -1,0 +1,11 @@
+Fisika klasikoan, azelerazioa magnitude fisiko bektorial bat da, abiadurak denboraren funtzioan jasaten duen aldaketa adierazten duena; azelerazio-bektorea ere esaten zaio.
+
+Matematikoki adierazita, azelerazio-bektorea abiadura-bektorearen denborarekiko deribatua da, eta sinboloaz adierazten da ( sinboloa ere erabil daiteke). Azelerazioaren egitura dimentsionala da, eta nazioarteko SI sisteman beraren unitatea da (edo ). Unitate hori bizpahiru eratan irakurtzen («esaten») da: «metro zati segundo karratu», «metro segundo ber minus bi» edo «metro bider segundo ber minus bi».
+
+Hizkera arruntean, gorputzaren abiaduraren modulua handiagotzen ari denean, gorputza azeleratzen ari dela esaten da, alegia azelerazio positiboa duela; aldiz, abiaduraren modulua txikiagotzen ari denean, dezeleratzen ari dela esaten da, eta azelerazio negatibo horri dezelerazio esaten zaio, eta horrek esan nahi du gorputza balaztatzen edo frenatzen ari dela.
+
+Abiadurak objektu batek denboran zehar duen posizio-aldaketa deskribatzen duen era berean, azelerazioak «objektuaren abiadurak denboran zehar duen aldaketa» zehazten du. Hizkera matematikoan esanda, «azelerazioa abiaduraren denborarekiko deribatua da». Fisikan, azelerazio kontzeptuak hizkera arrunteko hiru kasu hauek biltzen ditu:
+
+Bizkorrago joatea. Azelerazio-pedalari gehiago sakatzean, automobilaren abiadura-neurgailuak gero eta abiadura handiagoa adierazten du. Matematikoki, azelerazio positiboa duela esan nahi du horrek (alboko irudiko bigarren kasua).
+
+Astiroago joatea. Oinpeko balazta zapaltzean, automobilaren abiadura-neurgailuak gero eta abiadura txikiagoa adierazten du (hirugarren kasua). Azelerazio negatiboa duela esan nahi du horrek. Balaztatzen, frenatzen edo dezeleratzen ari dela esan ohi da.

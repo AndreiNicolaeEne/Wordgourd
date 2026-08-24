@@ -1,0 +1,9 @@
+11. Rada pre bezpečnostnú akreditáciu zriadi osobitné orgány, ktoré jej budú podliehať, konajúce podľa jej pokynov, na riešenie osobitných otázok. S cieľom zabezpečiť potrebnú kontinuitu rada pre bezpečnostnú akreditáciu najmä vytvorí tím odborníkov na realizáciu prieskumov a skúšok bezpečnostných analýz s cieľom vypracúvať príslušné správy o rizikách a pomáhať rade pre bezpečnostnú akreditáciu pri príprave jej rozhodnutí. Rada pre bezpečnostnú akreditáciu môže na podporu práce tohto tímu odborníkov zriaďovať, ako aj zrušiť, expertnú skupinu.
+
+12. Bez toho, aby bola dotknutá právomoc členských štátov a úlohy agentúry podľa článku 14 ods. 1 písm. a) bodu i) nariadenia (EÚ) č. 1285/2013, sa počas fázy budovania programu Galileo zriadi pod dohľadom rady pre bezpečnostnú akreditáciu skupina odborníkov z členských štátov, aby plnila úlohy kryptografického distribučného orgánu (CDA) súvisiace s riadením kryptografického materiálu EÚ predovšetkým na účely:
+
+i) riadenia letových kľúčov a iných kľúčov potrebných na fungovanie systému vytvoreného v rámci programu Galileo;
+
+ii) overovanie zavedenia a uplatňovania postupov evidencie, bezpečnej manipulácie, uchovávania a distribúcie kľúčov PRS.
+
+13. Ak nemožno dosiahnuť konsenzus všeobecnými zásadami uvedenými v článku 10 tohto nariadenia, rada pre bezpečnostnú akreditáciu prijíma rozhodnutia väčšinovým hlasovaním ustanoveným v článku 16 Zmluvy o Európskej únii a bez toho, aby tým bol dotknutý článok 9 tohto nariadenia. Zástupca Komisie a zástupca VP nehlasujú. Rozhodnutia prijaté radou pre bezpečnostnú akreditáciu podpisuje v mene rady pre bezpečnostnú akreditáciu jej predseda.

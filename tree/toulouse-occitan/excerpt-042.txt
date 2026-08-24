@@ -1,0 +1,19 @@
+lei cristaus plastics que presentan un ret organizat de dimension granda onte lei particulas gardan la possibilitat de realizar de rotacions a l'entorn de sa posicion.
+
+lei quasi cristaus presentan un òrdre organizat que tèn pas un motiu possible de repetir.
+
+Dins un liquid, lei particulas constitutivas (atòms ò moleculas) son liadas per de liames quimics poderós. Pasmens, a una energia sufisenta per se desplaçar. Un liquid es donc un fluid qu'a la forma de son contenent. Son volum, definit per lei condicions de pression e de temperatura, es pauc variable e un liquid es generalament considerat coma incompressible. Per la màger part dei substàncias, lo volum d'una quantitat de matèria liquida es pus important qu'aqueu ocupat per la meteissa quantitat de matèria a l'estat solid mai existís d'excepcions coma l'aiga.
+
+Existís dos estats particulars que son pròches de l'estat liquid :
+
+lei cristaus liquids presentan un estat intermediari entre lo solid e lo liquid. Son capables de rajar coma un liquid mai sei particulas presentan un òrdre sus de distàncias lòngas coma un solid.
+
+lei fluids non newtonians seguisson pas la lèi de la viscositat de Newton.
+
+Dins un gas, lei particulas constitutivas (atòms ò moleculas) son pauc liadas entre elei e an una energia cinetica sufisenta per rompre lei liames interparticulas e ocupar tot l'espaci disponible. Dins aquel estat, fòrman un fluid compressible qu'a pas de forma ni de volums definits.
+
+Un plasma es un fluid electricament neutre qu'es format de particulas neutras, d'ions positius e d'electrons negatius derrabats a seis atòms. Sembla a una mena d'estat gasós fòrça ionizat. En causa d'aquela natura, es fòrça sensible a l'accion de camps electrics, magnetics ò electromagnetics. De mai, lo plasma a pas de forma definida, de volum pròpri ò d'energia establa mesurabla dins un volum. A respècte deis estats solid, liquid ò gasós, es fòrça rar a la superficia de la Tèrra. Dins aquò, es pas impossible de l'i observar (flamas de temperatura auta, tròn...).
+
+Divèrsei grandors son utilizadas per representar l'escorrement de l'aiga dins una ribiera. Lo debit brut (ò modul brut), exprimit en m3/s, representa lo debit instantanèu a un endrech donat. Aumenta de l'amont vèrs l'avau. Per exemple, lo debit de Ròse es de 600 m3/s avans son passatge a Lion e de 1690 m3 a l'estacion de Bèucaire. Lo debit especific (ò modul especific) es lo rapòrt dau debit brut a respècte de la superficia dau bacin versent. Permet de representar l'abondància d'una ribiera. A tendància de demenir en direccion de l'embocadura. Enfin, la lama d'aiga, exprimida en millimètres, representa l'autor d'aiga transportada cada an per la ribiera.
+
+Lei variacions interannualas estúdian lei fluctuacions dau debit durant plusors annadas. Aquò utiliza fòrça leis estatisticas car la mejana, l'escart-tipe e lei diferents coeficients de variacion permèton d'observar d'evolucions de remarca. En particular, lo rapòrt entre lei debits extrèms enregistrats durant un periòde de dètz ans son utils per caracterizar l'alimentacion en aiga d'un corrent d'aiga. Aquelei que prènon son origina dins un glacier ò dins un jaç freatic an de rapòrts febles (generalament entre 1,2 e 2) car la fonda regulara dei glaç permet d'amortir de variacions importantas de precipitacions. En revènge, lei ribieras eissidas de fònts alimentadas per lei pluejas son pus irregularas (sovent entre 2,5 e 5).

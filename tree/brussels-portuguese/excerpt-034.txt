@@ -1,0 +1,15 @@
+1. As comunicações de dados efetuadas a um repositório de transações devem incluir:
+
+a) Os dados indicados no quadro 1 do anexo, que contém informações relativas às contrapartes num contrato;
+
+b) As informações indicadas no quadro 2 do anexo, que contém pormenores relativos aos contratos de derivados celebrados entre as duas contrapartes.
+
+2. Para efeitos do n.o 1, entende-se que celebra um contrato quem «efetua uma transação» na aceção do artigo 25.o, n.o 3, da Diretiva 2004/39/CE do Parlamento Europeu e do Conselho (4).
+
+3. Se uma comunicação de dados for transmitida em nome das duas contrapartes, deve conter as informações estabelecidas no quadro 1 do anexo relativamente a cada uma das contrapartes. As informações estabelecidas no quadro 2 do anexo apenas devem ser apresentadas uma vez.
+
+4. Se uma comunicação de dados for transmitida em nome das duas contrapartes deve especificar esse facto, conforme indicado no campo 9 do quadro 1 do anexo.
+
+5. Caso uma contraparte comunique a um repositório de transações dados relativos a um contrato por conta da outra contraparte, ou uma terceira entidade comunique a um repositório de transações um contrato por conta de uma ou das duas contrapartes, os dados comunicados devem incluir o conjunto completo de dados que teriam sido comunicados caso o contrato tivesse sido comunicado ao repositório de transações por cada contraparte em separado.
+
+6. Caso um contrato de derivados inclua características próprias de mais do que um ativo subjacente, como especificado no quadro 2 do anexo, o relatório deve indicar a classe de ativos à qual, no entender das contrapartes, o contrato mais se assemelha, antes de a comunicação ser enviada a um repositório de transações.

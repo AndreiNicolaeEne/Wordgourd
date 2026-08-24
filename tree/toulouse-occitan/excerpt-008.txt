@@ -1,0 +1,27 @@
+Per exemple, en geometria, l'aira a d'un carrat es una foncion de la longor dau costat :
+
+; la dependéncia entre e a se representa per l'aplicacion (l'ensemble dei reaus positius se nòta ).
+
+Formalament, una aplicacion f d'un ensemble X dins (o vèrs) un ensemble Y es un triplet onte es un sosensemble dau produch cartesian X x Y satisfasent la condicion seguenta :
+
+per tot element x de X, existís un element unic y de Y tau que .
+
+L'element y ansin definit (dich associat a x) se nòta f(x) : es l'imatge de x per l'aplicacion f, o la valor de f en x.
+
+S'escriu (que se liège : « f (es una) aplicacion de X dins Y »).
+
+Se ditz que l'ensemble X es lo domeni de f o l'ensemble de definicion de f.
+
+Se ditz que l'ensemble Y es lo codomeni de f o l'ensemble d'arribada de f.
+
+L'ensemble es un sosensemble dau produch cartesian X x Y : es un graf. Se ditz qu'es lo graf de l'aplicacion f. Per definicion :
+
+; autrament dich : Es l'aplicacion de X dins X, notada , qu'a cada element x de X associa lo meteis element x.
+
+; autrament dich : per tot x dins X. Lo graf de l'aplicacion identica de X es l'ensemble seguent (sonat diagonala dau carrat cartesian de X) :
+
+; autrament dich : Se ditz qu'una aplicacion es constanta s'existís un element (fixat) de Y tau que per tot element x de X : es una aplicacion tala que la valor de f en un ponch x siá independenta de x (totei leis elements de X an lo meteis imatge per f ; dins l'interpretacion ja donada, totei leis objèctes son plaçats dins la meteissa boita).
+
+Segon la definicion supra, doas aplicacions e son egalas se e solament se :
+
+, çò qu'equivau a : Autrament dich, lei doas aplicacions e son egalas, çò que s'escriu , se e solament se, simultaneament :

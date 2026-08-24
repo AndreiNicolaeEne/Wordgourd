@@ -1,0 +1,19 @@
+Is dìreach loidhne a tha neo-lùbte (agus sin a-mhàin).
+
+Is ingearach loidhne a tha ceart-cheàrnach ri loidhne chòmhnard.
+
+Far a bheil am facal loidhne air a cleachdadh gun buadhair sam bith aice, 's e loidhne dhìreach a th' ann .
+
+Ann an ailseabra, thèid loidhne dhìreach a sònrachadh le co-aontaran loidhneach, no fuincseanan loidhneach. Air plàna dà-sheallach tha an co-aontar samhlachail den riochd:
+
+'S e caisead (no claonadh) na loidhne a th' ann an m, crasg na h-axis y a th' ann an c, agus caochladair neo-eisimeileach an fhuincsein a th' ann an x. Ma tha an caisead dearbh, thèid an loidhne suas bho chlì gu deas. Ma tha e àicheil, thèid an loidhne sìos.
+
+Ma tha dà loidhne co-shìnte, tha an aon chaisead aca. Ma tha dà loidhne ceart-cheàrnach, 's e -1 a th' ann an toradh nan caisead aca. Ma tha caisead na loidhne co-ionnan ri neoni, , agus 's e loidhne chòmhnard a th' innte. 'S e cunbhal a th' ann an c. Ma tha co-aontar na loidhne: , tha an loidhne ingearach (ceart-cheàrnach ris an axis-x). 'S e eicrioch a th' ann an caisead na loidhne ingearaich.
+
+Tha caisead na loidhne tron dà phuing (x1, y1) agus (x2, y2) air fhaotainn bho:
+
+agus faodaidh co-aontar loidhne fhaotainn bho:
+
+Tha co-aontar den aon riochd ann far a bheil trì siùil-thomhais ann:
+
+'S e cuid a' chaiseid air plàna z-x a th' ann an a, cuid a' chaiseid air plàna z-y a th' ann an b, agus crasg na h-axis z a th' ann an c. Tha co-aontar den riochd seo feumail far a bheil z na fuincsean an dà chaochladair neo-eisimeilich x agus y. Uaireannan, 's ann nas feumaile a tha riochd paraimeatrach a' cho-aontar, agus a' cho-chothromachd a leanas bhon riochd seo. Mas e a th' ann an t am paraimeatair neo-eisimeileach, tha co-chomharran na loidhne rim faotainn bho:

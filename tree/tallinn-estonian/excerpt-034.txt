@@ -1,0 +1,9 @@
+Robot (tšehhi sõnast robota – 'sunnitöö') on programmeeritav, automaatselt isetoimiv/-töötav masin, mida kasutatakse inimese liikumist ja tajumist asendavates töödes või toimingutes. Robot asendab inimest inimesele mittejõukohastel töödel, kuid robot ei saa olla täiuslik asendaja inimese enda töötegemisega ega täita funktsioone inimlikult. Roboteid on mitut tüüpi, näiteks tööstus-, militaar-, uurimis-, meditsiini-, põllumajandus- ja majapidamisrobotid.
+
+Robotid on kaugjuhitavad, programmeeritavad või mõlemat korraga. Roboteid on ehitatud inimesekujuliseks, kuid enamik roboteid on mingi vajaliku funktsiooni täitva mehhanismi sarnased. Robotid on konstrueeritud teatud ülesannete täitmiseks, näiteks tööstusrobotid.
+
+Teadus- ja tehnikaharu, mis tegeleb robotite uurimisega, nimetatakse robootikaks ehk robotitehnikaks. Lisaks on robootika inseneriteadus, mis tegeleb robotite kavandamise, ehitamise ja kasutamisega.
+
+Tänapäevane termin "robot" on tulnud tšehhi sõnast robota, mis tähendab sunnitöölist või pärisorja. Tšehh Karel Čapek kasutas 1920. aastal oma näidendis „Rossumi universaalsed robotid“ (inglise keeles „Rossum’s Universal Robots”) kunstlikku inimest ehk robotit. Näidendis valmistasid inimesed roboteid ning tehaseomanikud kasutasid neid meeleldi, kuni robotid hakkasid mässama ja hävitasid inimkonna.
+
+Sõna "robootika" ilmus esimest korda Isaac Asimovi teadusulmeloos „Runaround“. Hilisemate Asimovi robotilugudega andis ta ideid ja eeskuju intelligentsete robotite väljatöötamiseks. Teadusulmeloos „Runaround“ sisaldub Asimovi kolm robootika seadust:

@@ -1,0 +1,13 @@
+3) tootjatel peab olema toimiv süsteem, et esitada ilma lisakuluta kasutajale paberkandjale trükitud kasutusjuhendid artiklis 4 viidatud riskihindamise käigus kindlaks määratud ajavahemiku jooksul, kõige hiljem seitsme kalendripäeva jooksul pärast sellekohase nõude saamist kasutajalt või seadme tarnimise ajal, kui seda on nõutud seadme tellimisel;
+
+4) tootjad peavad kas seadmel või infolehel esitama teabe ettenähtavate meditsiiniliste erakorraliste olukordade kohta ja kasutusjuhendite visuaalseks kuvamiseks sisseehitatud süsteemiga seadmete puhul tuleb esitada teave selle kohta, kuidas seadet käivitada;
+
+5) tootjad peavad tagama elektrooniliste kasutusjuhendite asjakohase ülesehituse ja toimimise ning esitama selle kohta kontrolli- ja valideerimistõendid;
+
+6) kasutusjuhendite visuaalseks kuvamiseks sisseehitatud süsteemiga meditsiiniseadmete puhul peavad tootjad tagama, et kasutusjuhendite kuvamine ei takistaks seadme ohutut kasutamist, eelkõige elutähtsate funktsioonide jälgimist või tagamist;
+
+7) tootjad peavad seadme tootekataloogis või muus asjakohases teabekandjas esitama teabe tark- ja riistvara nõuete kohta, mida on vaja kasutusjuhendite kuvamiseks;
+
+8) tootjatel peab olema toimiv süsteem, et selgelt näidata, millal kasutusjuhendid on läbi vaadatud, ja kui läbivaatamine oli vajalik ohutuse tõttu, siis iga seadme kasutajat sellest teavitada;
+
+9) kindlaksmääratud kasutuseaga seadmete puhul, välja arvatud siiratavad seadmed, peavad tootjad säilitama kasutusjuhendeid kasutajatele kättesaadavatena vähemalt kaks aastat pärast viimase toodetud seadme kasutusea lõppu;

@@ -1,0 +1,9 @@
+Keemiliste elementide perioodilisussüsteem ehk Mendelejevi tabel on süsteem, mille moodustavad kindla seaduspära järgi muutuvate omaduste alusel reastatud keemilised elemendid, mis on jagatud rühmadesse ja perioodidesse. Elementide keemilised omadused korduvad elementide tuumalaengu suurenedes seaduspäraselt ja perioodiliselt, nii et tekivad sarnaste keemiliste omadustega elementide rühmad ja sama elektronkihi või elektronkihtide arvuga perioodid – keemiliste elementide perioodilisussüsteem.
+
+Kuigi keemilisi elemente oli püütud ka enne Mendelejevit järjestada, peetakse tänapäeval kasutatava perioodilisussüsteemi loojaks vene keemikut Dmitri Mendelejevit, kes järjestas 1869. aastal tollal teada olnud keemilised elemendid vastavalt nende aatommassile ja keemilistele omadustele. Tänapäeva perioodilisustabelis on Mendelejevi süsteemi veidi muudetud; elemendid järjestatakse vastavalt aatomnumbrile, mis väljendab aatomituuma elektrilaengut ehk prootonite arvu tuumas. See muutus tugineb Henry Moseley avastusele 1913 aastal, kui ta leidis keemiliste elementide (peamiselt metallide) karakteerset röntgenikiirgust uurides seaduspärasuse (Moseley seadus) ja korrastas perioodilisustabeli, muutes selle selliseks, mis on kasutusel ka tänapäeval.
+
+Süsteemi kujutamiseks on palju viise. Enamasti kujutatakse seda tabelina, mille veerud moodustavad 18 rühma ja read seitse perioodi.
+
+Rühmad on tihti jagatud ka kaheksaks pea- ja kaheksaks kõrvalalarühmaks ehk A- ja B-rühmadeks, mida tähistatakse Rooma numbritega I–VIII.
+
+Esimest kolme perioodi nimetatakse lühikesteks perioodideks ning neljandat, viiendat, kuuendat ja seitsmendat perioodi pikkadeks perioodideks.

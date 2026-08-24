@@ -1,0 +1,5 @@
+A probabilidat constituye un important parametro en a determinación d'as diversas casualidat obtenidas dimpués d'una serie d'eventos asperatos aintro d'un rango estatistico.
+
+A probabilidat d'un evento se denota con a letra p y s'expresa en termins d'una fracción y no en porcentaches, por lo que a valor de p caye entre 0 y 1. D'atra man, a probabilidat de que un evento "no ocurra" equivale a 1 menos a valor de p y se denota con a letra q:
+
+Os tres metodos ta calcular as probabilidaz son a regla de l'adición, a regla d'a multiplicación y a distribución binomial.

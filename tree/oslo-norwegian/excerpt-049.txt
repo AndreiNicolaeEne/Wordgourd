@@ -1,0 +1,13 @@
+Et atom er en submikroskopisk struktur som ikke kan deles i mindre elementer via kjemiske reaksjoner og beholde sine kjemiske egenskaper. Atomer er bestanddeler i molekyler (kjemiske stoffer). Ordet atom kommer fra det greske ordet atomos som betyr udelelig. Et atoms radius er i området 31 (helium) til 215 (radium) picometer.
+
+Tidligere forestillinger om stoffers fysiske struktur var basert på at fysisk deling i stadig mindre biter ville resultere i atomet som minste og udelelige bestanddel. I 1913 presenterte Bohr sin atommodell som deler atomet opp i tre underliggende elementærpartikler:
+
+elektroner, som har negativ elektrisk ladning og er minst av de tre;
+
+protoner, som har positiv ladning og er omtrent 1836 ganger tyngre enn elektronet; og
+
+nøytroner, som er elektrisk nøytrale og er omtrent 1839 ganger tyngre enn elektronet.
+
+Kvantemekanikken beskriver nå materiens bølge-partikkel-dualitet og er det matematiske rammeverket for standardmodellen som beskriver krefter og partikler på subatomært nivå. Elementærpartiklene deles nå videre opp i flere typer partikler f.eks kvarker og kraftvirkning mellom partikler f.eks gluoner. Atomære og subatomære partikler kan ikke sees som distinkt avgrensede fysiske objekter, men som en romlig fordeling som angir sannsynligheten for partikkelens energi, utstrekning og posisjon til forskjellig tid. Partiklenes egenskaper er ikke lenger uavhengige, men avhenger av hvilke andre partikler de opptrer i kombinasjon med. Dette betegnes som resonanser eller interaksjoner.
+
+Beskrivelsen av elementærpartikler brukes allikevel som modell for å forklare mange av atomets egenskaper og oppbygning. I figuren over viser den grå skyggen posisjonen for elektronene i 1s orbitalet som et integral over sannsynlighetsfordelingen for bølgefunksjonen langs en siktelinje. Den forstørrede atomkjernen viser tilsvarende for protonene i rødt og nøytronene i blått. I virkeligheten er kjernen for 4He rotasjonssymmetrisk, dette er ikke generelt tilfelle for mer komplekse kjerner.

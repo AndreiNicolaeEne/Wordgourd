@@ -1,0 +1,7 @@
+Sadə domino oyunu kimi bilinən “101” oyununun bir çox qaydaları var. Bilavasitə razılaşma yolu ilə olan qaydalarda, ümumqaydalar rol oynamır.
+
+TƏSDİQ OLUNMUŞ ÜMUMQAYDALAR 101 oyunu “1 qoşa” ilə başlanır. Oyunda, (saya düşmək üçün) ilk xal minimal 13 olmalıdır.
+
+Əgər tərəflərdən birisi, “3 dəfədə” 13 xalı toplaya bilmirsə, onun topladığı xallar sıfırlanır.
+
+Əgər oyun bitdikdə rəqib xal toplamayıbsa, bu sadəcə “quru məğlubiyyət” sayılır. (Yazılmamış qanunlara görə, bu qalibiyyət 2 dəfə artıq kimi hesablanır)

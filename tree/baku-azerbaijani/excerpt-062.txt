@@ -1,0 +1,11 @@
+Enerji (ἐν = daxili, və ἔργον = təsir etmək) — fiziki kəmiyyət.
+
+Onun işarəsi E-dir. Ancaq çox vaxt müxtəlif enerji növləri üçün başqa işarələmələrdən də istifadə olunur. Beynəlxalq ölçü sistemində enerji Coul ilə ölçülür. Enerji fizikada verilmiş sistemin iş görmə qabiliyyəti kimi başa düşülür. Enerji müxtəlif formalarda yarana bilir.
+
+Enerji anlayışı 1852-ci ildə ilk dəfə şotlandiyalı fizik Con Rankine tərəfindən ortaya atılır. Burada məqsəd qüvvəni daxili təsirdən fərqləndirmək idi. Qabaqlar enerjini qüvvə növü kimi səciyyələndirirdilər, məsələn, "saxlanmış qüvvə" kimi. Bu bir tərəfdən fiziki olaraq səhv olmuş, digər tərəfdən yalnız mexaniki enerjiyə aid edilə bilərdi. Başqa enerji (termiki, kimyəvi və b.) formalarında qüvvənin tətbiqi mənasız idi.
+
+Fiziki proseslərdə bir neçə enerji forması mövcuddur. Onları bir neçə qrup daxilində birləşdirmək mümkündür. Enerji forması onun daxil olduğu qrupdan asılı olmayaraq sistemin halını göstərən xarakteristik kəmiyyətdir. Burada enerjinin saxlanması qanunu hökm sürür, yəni qapalı sistemin ümumi enerjisi həmişə sabitdir. Yalnız sistemə kənardan təsir etdikdə (əlavə enerji verdikdə) onun ümumi enerjisi dəyişir.
+
+Enerji hər yerdə var – adamlarda, mexanizmlərdə, bitkilərdə, heyvanlarda, atmosfer hadisələrindəvə s. O, nədir? Fizika nöqteyi-nəzərindən bu, iş görmək, hərəkət etmək və qarşılıqlı təsirdə olmaq qabiliyyətidir.
+
+Enerjinin növləri çoxdur: obyektlərin hərəkəti zamanı kinetik enerji, müxtəlif maddələr qarışdıqda kimyəvi enerji, atomlar parçalandıqda nüvə enerjisi, qızdırılma zamanı istilik enerjisi yaranır.

@@ -1,0 +1,17 @@
+f) les mécanismes de sécurité et de secours en cas de défaillance du matériel informatique ou des logiciels, en particulier quand les instructions d’emploi électroniques sont intégrées au dispositif;
+
+g) les situations d’urgence médicale prévisibles nécessitant le recours à des informations sur un support papier;
+
+h) les répercussions d’une indisponibilité temporaire du site web concerné ou d’internet en général, ou de leur consultation depuis la structure de soins, et les mesures de sécurité envisageables pour remédier à cette situation;
+
+i) une évaluation du délai dans lequel la version papier des instructions d’emploi devra être fournie à la demande des utilisateurs.
+
+2. L’évaluation des risques liés à la fourniture d’instructions d’emploi sous forme électronique doit être actualisée à la lumière de l’expérience acquise après la commercialisation.
+
+Article 5 Les fabricants des dispositifs visés à l’article 3 peuvent les livrer avec une notice d’instruction électronique et non sur un support papier, sous les conditions suivantes:
+
+1. l’évaluation des risques visée à l’article 4 démontre qu’en fournissant des instructions d’emploi électroniques, ils maintiennent ou améliorent le degré de sécurité offert par la notice imprimée;
+
+2. ils fournissent des instructions électroniques dans tous les États membres où le produit est disponible ou mis en service, sauf exception dûment justifiée dans l’évaluation des risques mentionnée à l’article 4;
+
+3. ils disposent d’un système leur permettant de fournir des instructions d’emploi sur un support papier sans frais supplémentaires pour l’utilisateur, dans le délai établi dans l’évaluation des risques mentionnée à l’article 4 et au plus tard dans les sept jours de calendrier suivant la réception de la demande de l’utilisateur, ou à la livraison du dispositif si la demande a été faite au moment de la commande;

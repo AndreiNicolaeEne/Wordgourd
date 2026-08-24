@@ -1,0 +1,17 @@
+D'efiech, leis ans 1813-1817 veguèron Schubert compausar un important nombre de troç de tipes diferents. Lei principaus foguèron sa Messa n°1 en fa major, sa Sinfonia n°2 en si bemòl major, lo lied Gretchen am Spinnrade, sa Sonata per piano n°1 en mi major, sa Messa n°2 en sòu major, sa Sinfonia n°3 en re major, sa Messa n°3 en si bemòl major, son Stabat Mater en fa minor, sa Sinfonia n°4 en ut minor, sa Messa n°4 en ut major e enfin sa Simfonia n°5 en si bemòl major.
+
+En fòra de la realizacion d'aqueleis òbras, Schubert realizèt tanben un nombre important de rescòntres durant aqueu periòde. Lei pus importants aguèron luòc amb lo poeta Johann Mayrhofer (1787-1836) que li inspirèt plusors lieder, Franz von Schober (1796-1882) qu'anava fortàment influenciar la reflexion intelectuala de Schubert e Anselm Hüttenbrenner (1794-1868) que li permetèt d'intrar en contacte amb l'elèit culturau de la vila de Graz. En paralèl, Schubert, vengut adjonch de son paire dins l'ensenhament, assaièt d'obtenir son independéncia financiera per arrestar aqueu mestier e trobar una libertat de composicion pus importanta.
+
+Leis ans 1816-1818 foguèron lei premierei onte Schubert poguèt viure d'un biais independent. Durant aqueu periòde, son public evolucionèt passant dau mitan de sa familha e de sa glèisa a aqueu format per d'intellectuaus joves e de familhas importantas de l'Empèri austrian (Esterházy, Sonnleithner...). En 1818, venguèt ansin lo mèstre de musica deis enfants dau còmte Esterházy. Puei, lo 28 de febrier de 1819, se debanèt la premiera execucion publica d'un de sei troç amb Schäfers Klagelied. Au nivèu musicau, lei tròç principaus d'aqueu periòde foguèron lei lieder Der Tod und das Mädchen e Die Forelle, la Sonata n°1 per piano a quatre mans en si bemòl major e lei Uech variacions sus un cant francés.
+
+La velocitat finala d'un objècte aviant amb la velocitat puèi d'acceleracion constanta pendent un temps es:
+
+La velocitat mejana d'un objècte subissent una acceleracion constanta es . Per trobar lo desplaçament d'un tal objècte accelerant pendent lo periòde , remplaçar aquela expression dins la primièra formula per obtenir :
+
+Quand solament la velocitat iniciala de l'objècte es coneguda, se pòt utilizar l'expression :
+
+Aquelas equacions de basa per la velocitat finala e desplaçament se pòdon combinar per formar una equacion qu'es independenta del temps :
+
+Aquelas equacions son validas per la mecanica classica mas pas per la relativitat restrencha. En particular en mecanica classica, totes seràn d'acòrdi sus la valor de e las règlas de transformacion per la posicion creant una situacion ont totes los observators qu'acceleran pas descrivon l'acceleracion d'un objècte amb las meteissas valors. Ni l'un ni l'autre son pas vertadièrs per la relativitat restrencha.
+
+L'energia cinetica d'un objècte se desplaçant en translacion es proporcionala a sa massa e al carrat de sa velocitat :

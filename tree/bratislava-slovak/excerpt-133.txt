@@ -1,0 +1,19 @@
+Poker je hazardná kartová hra. Princíp hry spočíva v tom, že každá kombinácia kariet je hierarchicky zatriedená, aby bolo možné určiť víťaza (napr. tri karty s rovnakým symbolom majú vyššiu hodnotu než dve karty s rovnakým symbolom).
+
+Existuje veľa verzií pokru. Počet hráčov: 2 až 10
+
+Cieľ hry: vyhrať čo najviac peňazí Poker sa hrá s balíčkom francúzskych kariet (52) (v niektorých verziách pokru sa používajú aj žolíky). Hodnota kariet podľa veľkosti: eso, kráľ, dáma, dolník, 10, 9, 8, 7, 6, 5, 4, 3, 2 . Sú 4 farby: piky, srdcia, kára a trefy. V niektorých verziách pokru sú dvojky divoké karty, ktoré môžu zastúpiť ľubovoľnú kartu.
+
+Texas Hold'em je najrozšírenejší a najobľúbenejší zo všetkých variantov pokru. Hrať ho môžu dvaja až desiati hráči naraz. Najčastejšie sa stretnete so stolmi pre dvoch, šiestich alebo deviatich hráčov.
+
+Pozície Díler: Jeden z hráčov vystupuje v pozícií dílera (aj keď reálne karty môže rozdávať napr. pracovník kasína). Táto pozícia sa nazýva aj button a počas hry rotuje v smere hodinových ručičiek.
+
+Geológia (z gr. gé = zem + logos = slovo, náuka) je veda, ktorá sa zaoberá zložením, stavbou, vlastnosťami a vývojom Zeme, ako aj procesmi, ktoré ju tvorili/tvoria. Je to jedna z geovied.
+
+Odborníci, ktorí sa zaoberajú geológiou sú geológovia. Geológovia pomohli stanoviť vek Zeme (okolo 4,5 miliardy, 4,5.109 rokov), ako aj históriu jej vývoja. Vysvetlili príčiny vzniku pohorí, sopečnej činnosti a zemetrasení na základe pohybu litosferických platní po plastickom plášti. Geológia sa zaoberá aj praktickými otázkami vyhľadávania a ťažby nerastných surovín ako ropa, uhlie, rudy kovov, nerudné materiály (azbest, zeolity, ílové minerály, vápenec, atď…), vyhľadávaním a prevenciou znečistenia podzemných vôd alebo predchádzaniu zosuvom pôdy.
+
+Slovo „geológia“ prvý raz použil Jean-André Deluc v roku 1778, ako vedecký termín ho začal používať Horace-Bénédict de Saussure v roku 1779.
+
+Určitými poznatkami z geológie disponoval, už človek zručný, pričom svoje poznatky využíval na vyhľadávanie dobre štiepateľných kameňov (pazúrikov), ktoré mu slúžili ako rôzne pracovné nástroje. Neskôr po vynájdení výroby a spracovania kovov a zliatin (zlato, striebro, meď, bronz, železo, atď…) sa poznatky o neživej prírode ďalej rozširovali (získavanie poznatkov o výskyte rúd obsahujúcich dané kovy, zhodnotenie kvality týchto rúd, spôsob ťažby, atď.).
+
+Viaceré z poznatkov o Zemi boli objavené už v staroveku najmä antickými filozofmi, ktorí sa pri svojich úvahách a pozorovaní prírodných javov ako prví dokázali odpútať od zaužívaných mýtov. Aristoteles ako jeden z prvých spozoroval, že procesy, ktoré menia tvar Zemského povrchu prebiehajú veľmi pomaly a sú preto v horizonte ľudského života nepozorovateľné. Strabón vo svojich geografických dielach písal o premenách súše a mora, vzniku a miznutí hôr, riek aj jazier, o pôsobení morských vĺn na transport riečnych nánosov, či o zmenách morskej hladiny. Začiatkom stredoveku dosiahla oproti ostatným národom vyššiu úroveň najmä arabská veda, ktorá čiastočne nadviazala na antickú filozofiu. Problematikou Zeme sa zaoberali v 10. a 11. storočí perzskí učenci Ibn Síná a Abú ar Rajhán a Číňan Šen Kuo.

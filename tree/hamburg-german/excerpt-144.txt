@@ -1,0 +1,17 @@
+Das Instrument ist zwar meist aus verschiedenen konischen und zylindrischen Stücken zusammengesetzt, wirkt aber physikalisch im Wesentlichen wie ein konisches, am engen Ende durch den Mund des Spielers verschlossenes Rohr. Der tiefste erzeugbare Ton hat daher eine Wellenlänge, die etwa das Doppelte der Instrumentlänge beträgt. Bei der nächsthöheren Eigenfrequenz, also dem zweiten Naturton, ist die Wellenlänge gleich der Instrumentlänge, der Ton liegt also eine Oktave höher.
+
+Insgesamt ergeben die Eigenfrequenzen die bekannte Naturtonreihe. Sie ist identisch mit der Teiltonreihe des Grundtones. Durch Anpassung der Schwingungsfrequenz mittels Beschleunigung der Strömungsgeschwindigkeit der Luft durch den Lippenspalt überblasen Blechblasinstrumente jeweils zu dem Ton, dessen Frequenz das nächste ganzzahlige Vielfache der Frequenz des Grundtons bildet. Zwei, drei, vier oder mehr Halbwellen entstehen im Rohr. Ob der Grundton praktisch brauchbar ist, hängt unter anderem von der Bauart und Mensur (s. unten) des Instruments ab (siehe unten, Halbinstrument/Ganzinstrument).
+
+Das koreanische Jikji wurde im Jahr 1377 mit Lettern aus Metall gedruckt. Es ist damit das älteste erhaltene Buch, das mit dieser Technik gedruckt wurde. Der Buchdruck mit beweglichen Lettern in Fernost wurde jedoch nur sporadisch verwendet, blieb als arbeitsintensiver Reiberdruck unter den technischen Möglichkeiten der Zeit und verschwand mit Einführung der westlichen Drucktechnik im 19. Jahrhundert schließlich ganz.
+
+Die Erfindung des modernen Buchdrucks geht auf den Mainzer Goldschmied Johannes Gutenberg zurück. Er entwickelte eine Reihe von Verfahren und Geräten, die zusammen einen effizienten Buchdruck mit beweglichen Lettern ermöglichten (siehe Gutenbergs Druckverfahren):
+
+Prinzip der beweglichen Lettern Handgießinstrument für den Guss der metallenen Lettern
+
+Weiterentwicklung der Spindelpresse zur Druckpresse
+
+Setzkasten und Winkelhaken Verbesserung der Druckfarbe
+
+Gutenbergs Druckverfahren löste einerseits das manuelle Kopieren von Büchern ab, andererseits verdrängte es bald die herkömmliche Herstellung von Blockbüchern mittels Blockdruck. Das Setzen der vorgefertigten Lettern war viel einfacher und schneller als die Herstellung von Druckplatten für den Blockdruck. Der von Gutenberg erfundene Buchdruck mit beweglichen Lettern und Druckpresse machte das Buch zu einem Massenartikel, da Bücher für eine breitere Allgemeinheit erschwinglich wurden.
+
+Im 15. Jahrhundert breitete sich die Erfindung des Buchdrucks von Mainz ausgehend sehr schnell aus (Jahreszahlen gemäß dem Incunabula Short Title Catalogue der British Library).

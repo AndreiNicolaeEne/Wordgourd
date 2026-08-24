@@ -1,0 +1,19 @@
+Elektrický proud je pohyb elektrického náboje prošlého za jednotku času daným průřezem elektrického vodiče.
+
+Proud v elektrických rozvodech může být stejnosměrný (značí se ss, DC – direct current, symbol =) nebo střídavý (značí se st, AC – alternating current, symbol ~), jehož směr toku i okamžitá velikost se v čase periodicky mění.
+
+Značka elektrického proudu je velké (většinou efektivní hodnota) resp. malé (většinou okamžitá hodnota). Jednotkou elektrického proudu v soustavě SI je ampér, značí se :
+
+Jeden ampér je stálý elektrický proud, který při průchodu dvěma přímými rovnoběžnými nekonečně dlouhými vodiči zanedbatelného kruhového průřezu umístěnými ve vakuu ve vzájemné vzdálenosti jeden metr vyvolá mezi nimi stálou sílu o velikosti 2×10−7 newtonu na metr délky vodiče.
+
+Elektrický proud se měří ampérmetrem, který se zapojuje do obvodu sériově.
+
+Elektrický proud je roven elektrickému náboji procházejícím průřezem vodiče za jednotku času resp. plošnému integrálu přes hustotu elektrického proudu procházejícího plochou :
+
+resp. . Konvenčně je směr proudu definován ve směru od kladného pólu k zápornému, např. při značení v elektrickém schématu a v podobě schematických značek, např. diody. Obvykle se kladný pól vyznačuje v horní části a záporný značený též 0 V nebo zem (i bez uzemnění) v dolní části, čímž se naznačuje tok proudu shora dolů analogicky k vodnímu toku. Náboj se vodičem šíří rychlostí blížící se rychlosti světla.
+
+Fyzikální směr pohybu náboje je však naopak od záporného náboje ke kladnému, protože nosič náboje je záporný, nejčastěji elektron. To však bylo zjištěno až v době, kdy už byl konvenční směr zaveden v užívání. Elektrický proud není proud elektronů (nosičů náboje) rychlostí světla skrz vodič. Jednotlivé elektrony uvnitř vodiče se pohybují chaoticky všemi směry a náhodně se srážejí, tento pohyb je jen velmi slabě ovlivněn ve směru ke kladnému pólu. Rychlost elektronu skrz kovový vodič, tzv. unášivá či driftovací rychlost, je proto řádově jen asi 10-4 m/s, tedy za minutu se konkrétní elektron posune o desítky centimetrů. Rychlost proudu je rychlost, kterou se náboj šíří celou chaotickou soustavou elektronů.
+
+Katedrála svatého Petra, krátce Kolínský dóm (německý: Kölner Dom, německá výslovnost: IPA: [ˌkœlnɐ ˈdoːm], poslech), je gotická katedrála v Kolíně nad Rýnem a sídlo kolínského arcibiskupa. Stojí blízko řeky na západním břehu Rýna, na severním okraji někdejší římské kolonie a v bezprostředním sousedství hlavního nádraží. S délkou 147 m a výškou věží 157 m jedna z největších gotických katedrál a kostelů vůbec byla založena roku 1248, ale dostavěna až v letech 1823–1880. Stavba je od roku 1996 součástí kulturních památek světového dědictví UNESCO. Při bombardování v roce 1945 byla mírně poškozena, zatímco blízké nádraží a most byly zcela zničeny.
+
+Katedrála stojí na místě starších staveb z doby kolem roku 500 a 650, u severní hradby tehdejšího římského města. Roku 873 byl vysvěcen „Starý dóm“ se dvojím chórem a dvěma příčnými loděmi na obou koncích lodi. Roku 1164 přivezl arcibiskup z Milána ostatky sv. Tří králů, dar císaře Fridricha Barbarossy, a do Kolína začaly přicházet proudy poutníků. Roku 1248 byla zahájena stavba současného chrámu podle vzoru katedrály v Amiens, ovšem s pěti místo se třemi loděmi. Roku 1311 byly osazeny vitráže v chóru o celkové ploše 1350 m² a roku 1322 chór vysvěcen. Základy pro jižní stranu včetně věže byly hotovy kolem 1360, kolem 1375 vznikl portál sv. Petra a 1437 dosáhla jižní věž výšky 59 m, takže se do ní mohly zavěsit tři zvony. Po roce 1510 však stavební činnost ustávala, až úplně přestala. Roku 1531 byl Ferdinand I. v dómě zvolen německým králem a v letech 1744 až 1770 proběhly barokní úpravy chóru. Šlapací jeřáb ze 14. století však zůstal na jižní věži až do roku 1868.

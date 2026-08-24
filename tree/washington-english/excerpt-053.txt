@@ -1,0 +1,44 @@
+List of Subjects 29 CFR Part 4022 Employee benefit plans, Pension insurance, Pensions, Reporting and
+recordkeeping requirements.
+
+29 CFR Part 4044 Employee benefit plans, Pension insurance, Pensions.
+
+In consideratin of the foregoing, 29 CFR parts 4022 and 4044 are
+amended as follows:
+
+PART 4022--BENEFITS PAYABLE IN TERMINATED SINGLE-EMPLOYER PLANS
+
+0
+1. The authority citation for part 4022 continues to read as follows:
+
+Authority: 29 U.S.C. 1302, 1322, 1322b, 1341(c)(3)(D), and
+1344.
+
+0
+2. In appendix B to part 4022, Rate Set 225, as set forth below, is
+added to the table.
+
+Appendix B to Part 4022--Lump Sum Interest Rates for PBGC Payments
+
+* * * * * For plans with a valuation date Immediate Deferred annuities (percent)
+Rate set ---------------------------------- annuity rate ------------------------------------------------------------------------------------
+On or after Before (percent) i1 i2 i3 n1 n2
+
+* * * * * * *
+225 7-1-12 8-1-12 1.00 4.00 4.00 4.00 7 8
+
+0
+3. In appendix C to part 4022, Rate Set 225, as set forth below, is
+added to the table.
+
+Appendix C to Part 4022--Lump Sum Interest Rates for Private-Sector
+Payments
+
+* * * * * For plans with a valuation date Immediate Deferred annuities (percent)
+Rate set ---------------------------------- annuity rate ------------------------------------------------------------------------------------
+On or after Before (percent) i1 i2 i3 n1 n2
+
+* * * * * * *
+225 7-1-12 8-1-12 1.00 4.00 4.00 4.00 7 8
+
+PART 4044--ALLOCATION OF ASSETS IN SINGLE-EMPLOYER PLANS

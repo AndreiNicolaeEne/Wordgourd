@@ -1,0 +1,15 @@
+(c) kad postoji evidencija o povijesnom prinosu napajajućeg UCITS-a prije datuma nego li je počeo poslovati kao napajajući fond, njegova evidencija je zadržana u stupčastom grafikonu za dotične godine, uz označenu znatnu promjenu, u skladu sa zahtjevima iz članka 17. stavka 2.
+
+ODJELJAK 5. Strukturirani UCITS Članak 36.
+
+Scenariji poslovanja 1. Dokument s ključnim informacijama za ulagatelje o strukturiranom UCITS-u ne sadrži odjeljak „Povijesni prinos”.
+
+Za potrebe ovog odjeljka, podrazumijeva se da strukturirani UCITS znači UCITS koji osigurava ulagateljima na određene, unaprijed utvrđene datume, isplate na osnovi algoritma, koje su povezane s rezultatom ili realizacijom promjene cijena ili drugim uvjetima, povezanim uz financijsku imovinu, indekse ili referentni portfelj ili UCITS sa sličnim značajkama.
+
+2. Za strukturirane UCITS-e odjeljak „Ciljevi i investicijska politika” dokumenta s ključnim informacijama za ulagatelje sadrži objašnjenje o tome kao funkcionira formula ili kako je izračunana isplata.
+
+3. Objašnjenje iz stavka 2. popraćeno je ilustracijom koja prikazuje najmanje tri scenarija mogućeg poslovanja UCITS-a. Odabiru se odgovarajući scenariji kako bi se prikazale okolnosti u kojima bi formula mogla proizvesti nisku, srednju ili visoku dobit, uključujući, gdje je to primjereno, negativan povrat za ulagatelja.
+
+4. Scenariji iz stavka 3. omogućuju ulagatelju da u potpunosti shvati sve učinke mehanizma izračuna koji su ugrađeni u formulu.
+
+Takvi scenariji prikazani su na istinit, jasan i nedvosmislen način, koji prosječan mali ulagatelj vjerojatno može shvatiti. Scenariji posebno ne smiju na umjetan način povećavati važnost završnog poslovanja UCITS-a.

@@ -1,0 +1,21 @@
+En spesiell type suffiks er bøyningsendelsene. En ordform uten bøyningsendelser, men med avledningsaffiks, kalles ordets stamme. Når et avledningsaffiks settes til et ord, dannes en ny stamme; når en bøyningsendelse settes til, er stammen fortsatt den samme. Noen ord bøyes ved at endelsen legges til ulike stammer: «gammel – eld-re – eld-st». Dette kalles suppletivbøying.
+
+Det er vanlig å dele ordene i et språk i leksikalske ord, grammatiske ord og pro-ord. Leksikalske ord refererer til forhold utenfor kommunikasjonssituasjonen, for eksempel «mann», «kjøre». Pro-ord refererer til forhold i kommunikasjonen, for eksempel «dette», «der», «nå». Grammatiske ord får sin betydning kun i forhold til andre ord i teksten, for eksempel «som», «og». Pro-ord og grammatiske ord skiftes sjelden ut i et språk; de utgjør lukkede klasser. De leksikalske ordene er en åpen klasse, der ord går ut av bruk, nye ord importeres eller eksisterende ord danner nye sammensetninger.
+
+Affiks – ordledd som er føyd til en ordstamme eller -rot
+
+Infiks – innskudd i stammen i et verb Prefiks – forstaving eller forledd i et ord
+
+Suffiks – etterledd til et ord Ordene i et språk grupperes videre i et antall ordklasser etter form eller funksjon.
+
+Substantiv – navn på noe eller noen Adjektiv – beskriver substantiv
+
+Pronomen – settes i stedet for et substantiv
+
+Determinativ – bestemmer substantivet nærmere
+
+Verb – navn på en handling Adverb – beskriver verb
+
+Preposisjon – forteller hvor verbet eller substantivet befinner seg i forhold til et annet i tid eller rom
+
+Konjunksjon – binder sammen to ord eller setninger

@@ -1,0 +1,26 @@
+0
+1. The authority citation for 48 CFR parts 15 and 53 continues to read
+as follows:
+
+Authority: 40 U.S.C. 121(c); 10 U.S.C. chapter 137; and 42
+U.S.C. 2473(c).
+
+PART 15--CONTRACTING BY NEGOTIATION 15.509 [Amended]
+
+0
+2. Amend section 15.509 by removing from the first sentence
+``appropriate.'' and adding ``appropriate. Note however, if using the
+SF 26 for a negotiated procurement, block 18 is not to be used.'' in
+its place.
+
+PART 53--FORMS 53.214 [Amended] 0
+3. Amend section 53.214 by removing from the second sentence in
+paragraph (a) the phrase ``Pending issuance of a new edition of the
+form, the reference in ``block 1'' should be amended to read ``15 CFR
+700.'''' and adding ``Block 18 may only be used for sealed-bid
+procurements.'' in its place.
+
+53.215-1 [Amended] 0
+4. Amend section 53.215-1 by removing from paragraph (a) ``15.509.''
+and adding ``15.509. Block 18 may not be used for negotiated
+procurements.'' in its place.

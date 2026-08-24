@@ -1,0 +1,75 @@
+DEPARTMENT OF THE TREASURY Internal Revenue Service
+
+26 CFR Part 1 [TD 9800]
+RIN 1545-BM75 Covered Asset Acquisitions
+
+AGENCY: Internal Revenue Service (IRS), Treasury.
+
+ACTION: Temporary regulations. SUMMARY: This document contains temporary Income Tax Regulations under
+section 901(m) of the Internal Revenue Code (Code) with respect to
+transactions that generally are treated as asset acquisitions for U.S.
+income tax purposes and either are treated as stock acquisitions or are
+disregarded for foreign income tax purposes. These regulations are
+necessary to provide guidance on applying section 901(m). The text of
+the temporary regulations also serves in part as the text of the
+proposed regulations under section 901(m) (REG-129128-14) published in
+the Proposed Rules section of this issue of the Federal Register.
+
+DATES: Effective date: These regulations are effective on December 7,
+2016.
+Applicability dates: For dates of applicability, see Sec. Sec.
+1.901(m)-1T(b), 1.901(m)-2T(f), 1.901(m)-4T(g), 1.901(m)-5T(i), and
+1.901(m)-6T(d).
+
+FOR FURTHER INFORMATION CONTACT: Jeffrey L. Parry, (202) 317-6936 (not
+a toll-free number).
+
+SUPPLEMENTARY INFORMATION: Background I. Section 901(m)
+
+Section 212 of the Education Jobs and Medicaid Assistance Act
+(EJMAA), enacted on August 10, 2010 (Public Law 111-226), added section
+901(m) to the Code. Section 901(m)(1) provides that, in the case of a
+covered asset acquisition (CAA), the disqualified portion of any
+foreign income tax determined with respect to the income or gain
+attributable to relevant foreign assets (RFAs) will not be taken into
+account in determining the foreign tax credit allowed under section
+901(a), and in the case of foreign income tax paid by a section 902
+corporation (as defined in section 909(d)(5)), will not be taken into
+account for purposes of section 902 or 960. Instead, the disqualified
+portion of any foreign income tax (the disqualified tax amount) is
+permitted as a deduction. See section 901(m)(6).
+Under section 901(m)(2), a CAA is (i) a qualified stock purchase
+(as defined in section 338(d)(3)) to which section 338(a) applies; (ii)
+any transaction that is treated as an acquisition of assets for U.S.
+income tax purposes and as the acquisition of stock of a corporation
+(or is disregarded) for purposes of a foreign income tax; (iii) any
+acquisition of an interest in a partnership that has an election in
+effect under section 754; and (iv) to the extent provided by the
+Secretary, any other similar transaction.
+Section 901(m)(3)(A) provides that the term ``disqualified
+portion'' means, with respect to any CAA, for any taxable year, the
+ratio (expressed as a percentage) of (i) the aggregate basis
+differences (but not below zero) allocable to such taxable year with
+respect to all RFAs; divided by (ii) the income on which the foreign
+income tax referenced in section 901(m)(1) is determined. If the
+taxpayer fails to substantiate the income on which the foreign income
+tax is determined to the satisfaction of the Secretary, such income
+will be determined by dividing the amount of such foreign income tax by
+the highest marginal tax rate applicable to the taxpayer's income in
+the relevant jurisdiction.
+Section 901(m)(3)(B)(i) provides the general rule that the basis
+difference with respect to any RFA will be allocated to taxable years
+using the applicable cost recovery method for U.S. income tax purposes.
+Section 901(m)(3)(B)(ii) provides that, except as otherwise provided by
+the Secretary, if there is a disposition of an RFA, the basis
+difference allocated to the taxable year of the disposition will be the
+excess of the basis difference of such asset over the aggregate basis
+difference of such asset that has been allocated to all prior taxable
+years. The statute further provides that no basis difference with
+respect to such asset will be allocated to any taxable year thereafter.
+Section 901(m)(3)(C)(i) provides that basis difference means, with
+respect to any RFA, the excess of (i) the adjusted basis of such asset
+immediately after the CAA, over (ii) the adjusted basis of such asset
+immediately before the CAA. If the adjusted basis of an RFA immediately
+before the CAA exceeds the adjusted basis of the RFA immediately after
+the CAA (that is, where the adjusted basis

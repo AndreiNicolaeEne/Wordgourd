@@ -1,0 +1,15 @@
+Til forskjell fra eukaryote celler kan bakterier produsere folsyre. Trimetoprim er ett eksempel på et vanlig antibiotikum som hemmer denne produksjonen. Det benyttes også innimellom sammen med sulfonamid som også hemmer folatsyntesen.
+
+De aller fleste bakterier, til forskjell fra alle dyreceller, har en cellevegg. Antibiotika som ødelegger eller hindrer oppbygging av denne tillhører de mest brukte antibakterielle legemidlene. Den største gruppen av disse kalles betalaktamantibiotika og omfatter penicilliner, cefalosporiner og karbapenemer.
+
+Betalaktamantibiotika har en baktericid virkemåte.
+
+Enkelte glykopeptider, for eksempel vankomycin, ødelegger også oppbyggingen av celleveggen.
+
+Såvel bakterier som eukaryoter har ribosomer som produserer proteiner etter RNA-tegninger. Det finnes likevel forskjeller i oppbygningen deres, prokaryoter har en 70 S-ribosom bygget opp av en 30S- og en 50S-enhet, mens eukaryoter har en 80S-ribosom som består av en 40S- og en 60S-enhet. Antibiotika som tetracykliner, aminoglykosider, linkosamider (klindamycin), kloramfenikol, makrolider og linezolid hemmer på forskjellige måter proteinsyntesen i ribosomene.
+
+Andre eksempler på slike antibiotika er streptograminer og Fusidinsyre.
+
+Bakterier mangler cellekjerne, men har på samme måte som eukaryote celler DNA. Kinoloner og metronidazol ødelegger på forskjellige måter DNA-syntesen mens rifampicin hemmer RNA-syntesen.
+
+Noen polypeptider, for eksempel Polymyxin E, fungerer som løsningsmiddel i det fettrike cellemembranet, og dette medfører at bakteriens celleinnhold lekker ut og bakterien dør.

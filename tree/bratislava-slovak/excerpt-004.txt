@@ -1,0 +1,9 @@
+Magnet je objekt, ktorý v priestore vo svojom okolí vytvára magnetické pole. Môže mať formu permanentného magnetu alebo elektromagnetu. Permanentné magnety nepotrebujú k vytváraniu magnetického poľa žiadnu vonkajšiu energiu. Vyskytujú sa prirodzene v niektorých nerastoch, ale dajú sa tiež vyrobiť. Elektromagnety potrebujú k vytvoreniu magnetického poľa elektrickú energiu.
+
+Magnety sú priťahované alebo odpudzované inými materiálmi. Materiál, ktorý je silno priťahovaný k magnetu má vysokú permeabilitu. Železo a oceľ sú dva príklady materiálov s veľmi vysokou permeabilitou a sú veľmi silno priťahované magnetmi. Voda má tak nízku permeabilitu, že je magnetickým poľom ľahko odpudzovaná.
+
+SI-je jednotkou magnetickej indukcie, ktorá je nesprávne považovaná za „intenzitu“ magnetického poľa, je tesla (značka T). Homogénne magnetické pole, majúce magnetickú indukciu 1 T pôsobí na každý meter priameho vodiča pretekaného elektrickým prúdom 1 ampér silou 1 newton. Jednotkou SI intenzity magnetického poľa je ampér na meter (A/m). Jednotkou SI magnetického toku je Weber (značka Wb). Magnetický tok je súčinom magnetickej indukcie a plochy, ktorou pole prechádza; 1 Wb = 1 T·m2. Je to veľmi vysoká hodnota magnetického toku.
+
+Slovo magnet pochádza z gréckeho μαγνήτης λίθος (magnētēs lithos), čo znamená „magnéziový kameň“. Magnesia bola oblasť v Antickom Grécku, dnešná Manisa v Turecku, kde boli objavené zásoby magnetitu už v antike. Starodávni čínski navigátori boli medzi prvými zaznamenanými užívateľmi magnetických kompasov.
+
+V mytológii arabských moreplavcov hrala významnú rolu povesť o magnetovej hore. V pätnástom storočí sa Arabi magnetovej hory báli natoľko, že vo svojich plavidlách nepoužívali žiadne železné predmety (teda ani klince).

@@ -1,0 +1,5 @@
+La chimica affronta argomenti come il modo in cui gli atomi e le molecole interagiscono tramite legami chimici per formare nuovi composti chimici. Esistono due tipi di legami chimici:
+
+Primari: legami covalenti, in cui gli atomi condividono uno o più elettroni; legami ionici, in cui un atomo dona uno o più elettroni a un altro atomo per produrre ioni (cationi e anioni); e legami metallici.
+
+Secondari: legami a idrogeno; legami con le forze di van der Waals; interazioni ione-ione; e interazioni ione-dipolo.

@@ -1,0 +1,5 @@
+A teoria dos números é o ramo da matemática pura que estuda propriedades dos números em geral, e em particular dos números inteiros, bem como a larga classe de problemas que surge no seu estudo.
+
+A primeira descoberta histórica de natureza aritmética é um fragmento de uma tabela: a tábua de argila quebrada Plimpton 322 (Larsa, Mesopotâmia, cerca de 1800 a.C.) contém uma lista de "ternos pitagóricos", ou seja, inteiros tais que .
+
+Os ternos são muitos e bastante elevados para terem sido obtidos pela força bruta. A posição sobre a primeira coluna diz: "O takiltum da diagonal que foi subtraído de tal forma que a largura ..."

@@ -1,0 +1,13 @@
+Um transformador é um dispositivo destinado a modificar os níveis de tensão e corrente elétrica, mantendo potência elétrica praticamente constante, de um circuito a outro, modificando também os valores das impedâncias elétricas de um circuito elétrico.
+
+Inventado em 1831 por Michael Faraday, os transformadores são dispositivos que funcionam através da indução de corrente de acordo com os princípios do eletromagnetismo, ou seja, ele funciona baseado nos princípios eletromagnéticos da Lei de Faraday-Neumann-Lenz e da Lei de Lenz, onde se afirma que é possível criar uma corrente elétrica em um circuito uma vez que esse seja submetido a um campo magnético variável, e é por necessitar dessa variação no fluxo magnético que os transformadores só funcionam em corrente alternada.
+
+Um transformador é formado basicamente de:
+
+Enrolamento - O enrolamento de um transformador é formado de várias bobinas que em geral são feitas de cobre eletrolítico ou alumínio, de formato circular, retangular ou chapa e recebem uma camada de verniz sintético como isolante.
+
+Núcleo - esse em geral é feito de um material ferromagnético, geralmente de aço silício ou metal amorfo, e o responsável por transferir a corrente induzida no enrolamento primário para o enrolamento secundário.
+
+Esses dois componentes do transformador são conhecidos como parte ativa, os demais componentes do transformador fazem parte dos acessórios complementares.
+
+No caso dos transformadores de dois enrolamentos, é comum se denominá-los como enrolamento primário e secundário, existem transformadores de três enrolamentos sendo que o terceiro é chamado de terciário. Há também os transformadores que possuem apenas um enrolamento, ou seja, o enrolamento primário possui um conexão com o enrolamento secundário, de modo que não há isolação entre eles, esses transformadores são chamados de autotransformadores.

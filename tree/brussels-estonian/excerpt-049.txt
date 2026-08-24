@@ -1,0 +1,11 @@
+c) kui investor-eurofondil on võimalik esitada selliste eelmiste perioodide tootlust käsitlevad andmed, mil ta investor-eurofondina veel ei tegutsenud, ja kui kõnealused andmed asjakohaste aastate kohta esitatakse tulpdiagrammil, kusjuures olulised muudatused on kajastatud vastavalt artikli 17 lõikele 2.
+
+5. JAGU Struktureeritud eurofondid Artikkel 36
+
+Tootlusstsenaariumid 1. Struktureeritud eurofondide puhul koostatav investorile esitatava põhiteabe dokument ei sisalda jagu „Eelmiste perioodide tootlus”.
+
+Käesoleva jao kohaldamisel käsitletakse struktureeritud eurofondidena eurofonde, kes tagavad investoritele teatavatel kindlaksmääratud kuupäevadel algoritmil põhinevad väljamaksed, mis on seotud finantsvarade, indeksite, võrdlusportfellide või samalaadsete eurofondide tootlusega või hinnamuutustega või muude selliste tingimustega realiseerumisega, mis on seotud finantsvarade, indeksite või võrdlusportfellide või samalaadsete eurofondidega.
+
+2. Struktureeritud eurofondide puhul koostatav investorile esitatava põhiteabe dokumendi jagu „Eesmärgid ja investeerimispoliitika” sisaldab selgitust selle kohta, kuidas valem toimib või kuidas väljamaksed arvutatakse.
+
+3. Lõikes 2 osutatud selgitusele lisatakse joonis, mis kirjeldab eurofondi potentsiaalse tootluse vähemalt kolme stsenaariumit. Asjakohased stsenaariumid valitakse nii, et demonstreerida asjaolusid, mil valemi kohaselt arvutades võidakse tulemuseks saada madal, keskmine või kõrge tootlus, sealhulgas vajaduse korral negatiivne tootlus investori jaoks.

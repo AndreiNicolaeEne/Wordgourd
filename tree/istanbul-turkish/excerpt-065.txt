@@ -1,0 +1,3 @@
+Günümüzde kullanılan doğru, yay, ışın, açı ortay, kenarortay gibi birçok temel geometri teriminin Türkçesi Mustafa Kemal Atatürk'ün Geometri adlı eserinde yazılan eserde önerdiği terimlerden yararlanılarak kullanılmaya başlanmıştır.
+
+İlk geometrilerin tümü, kendi doğası nedeniyle sezgiseldir. Bunlar daha çok ilk insanların çevresinde görünen doğal şekillerdir. Bu geometriler daha çok görsel türdedir. İkinci olarak şekillerin ölçülmesi aşaması gelir. Dörtgenlerin ve üçgenlerin ölçülmesi ilk kez Mısır'da Ahmes'in (MÖ 1550) papirüsünde görülür.

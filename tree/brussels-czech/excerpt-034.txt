@@ -1,0 +1,15 @@
+4. Pokud je jménem obou protistran vypracována jedna zpráva, potom je tato skutečnost ve zprávě uvedena, jak je stanoveno v poli 9 tabulky 1 v příloze.
+
+5. Pokud jedna protistrana vykazuje do registru obchodních údajů údaje o smlouvě jménem druhé protistrany nebo pokud třetí subjekt vykazuje smlouvu do registru obchodních údajů jménem jedné nebo obou protistran, vykazované údaje musí obsahovat úplný soubor údajů, který by byl vykázán, kdyby smlouvy byly do registru obchodních údajů vykázány každou protistranou samostatně.
+
+6. Pokud derivátová smlouva zahrnuje prvky typické pro více než jedno podkladové aktivum, jak je uvedeno v tabulce 2 přílohy, ve zprávě se uvede kategorie aktiva, na které se protistrany před odesláním zprávy do registru obchodních údajů shodnou, že se jí smlouva blíží nejvíce.
+
+Článek 2 Obchody, u nichž byl proveden clearing
+
+1. Pokud u stávající smlouvy následně provede ústřední protistrana clearing, měl by být clearing vykázán jako změna stávající smlouvy.
+
+2. Pokud je smlouva uzavřena v obchodním systému a ústřední protistrana provede clearing tak, že protistraně není známa identita druhé protistrany, vykazující protistrana identifikuje uvedenou ústřední protistranu jako svou protistranu.
+
+Článek 3 Vykazování expozic 1. Údaje o zajištění požadované podle tabulky 1 přílohy musí obsahovat veškerá poskytnutá zajištění.
+
+2. Pokud protistrana neposkytuje zajištění na úrovni obchodu, protistrany vykáží do registru obchodních údajů zajištění poskytnuté pro portfolio.

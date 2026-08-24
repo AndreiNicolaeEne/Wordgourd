@@ -1,0 +1,13 @@
+Greitis, kuriuo reikia judėti, norint palikti traukiančią žvaigždę ar planetą, pagal Niutono dėsnius yra toks, kad kinetinė energija prilygtų gravitacinio lauko sukurtai potencinei energijai:
+
+kur G – gravitacijos konstanta, r – atstumas nuo žvaigždės ar planetos centro, M – žvaigždės ar planetos masė, m – kylančio kūno (tarkim, raketos) masė ir v – šio kūno greitis. Iš čia reikiamas pakilti greitis (pabėgimo greitis) lygus
+
+Kadangi šviesos greičio negali viršyti joks materialus kūnas, juodoji bedugnė atsiranda objekto spinduliui sumažėjus iki
+
+čia c – šviesos greitis. Pagal bendrąją reliatyvumo teoriją, objektui susitraukus žemiau kritinio skersmens, jo tolesnio traukimosi nebegali sustabdyti jokios jėgos, todėl juodoji bedugnė susitraukia iki taško (nesisukančios juodosios bedugnės) arba apskritimo (besisukančios juodosios bedugnės). Abiems atvejais jos tūris lygus nuliui.
+
+Singuliarumo taške erdvėlaikis neapibrėžtai iškreipiamas ir žinomi fizikos dėsniai nustoja galioti.
+
+Kyla viena svarbiausių šiuolaikinės fizikos problemų – reliatyvumo teorija juodųjų bedugnių atveju prieštarauja kvantinei fizikai, teigiančiai, kad dalelės negali užimti mažesnės negu jų bangos ilgis erdvės. Deja, bent šiuo metu neįmanoma nustatyti tikrosios vidinės juodųjų bedugnių struktūros, nes visais žinomais atvejais jas dengia įvykių horizontas (tai vadinama kosmine cenzūra).
+
+Dėl singuliarumo juodosios bedugnės tankis yra laikomas begaliniu. Formaliai galima apskaičiuoti įvykių horizonto apribotos erdvės tankį. Kuo mažesnis kritinis spindulys, tuo didesnis yra juo apribotos erdvės tankis, ir atvirkščiai. Laikant, kad juodosios bedugnės spindulys sutampa su jos įvykių horizonto spinduliu, jos tankį galima rasti, padalijus juodosios bedugnės masę iš kritinio spindulio rutulio tūrio:

@@ -1,0 +1,3 @@
+W obrębie jednego okresu powłoka walencyjna jest zajmowana przez kolejne elektrony. Po zapełnieniu całej powłoki następuje przejście do nowego okresu i powstanie kolejnej powłoki elektronowej.
+
+Można więc powiedzieć, że atomy występujące w tych samych okresach mają taką samą liczbę powłok elektronowych, a występujące w tych samych grupach mają taką samą liczbę elektronów na powłokach walencyjnych.

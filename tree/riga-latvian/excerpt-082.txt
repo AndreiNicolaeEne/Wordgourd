@@ -1,0 +1,25 @@
+Precizējot, strāvas stipruma formula ir:
+
+kur — lādiņš, kurš izplūda caur vadītāja šķērsgriezuma laukumu
+
+— laika intervāls, kad notiek lādiņa plūsma.
+
+Elektriskās strāvas tilpuma blīvumu apzīmē ar .
+
+Ja lādiņnesēji pārvietojas tilpumā, tad to plūsmas līnijas šķērso virsmu
+
+kur - virsmas normāles vektors. Ja lādiņnesēji ir metāla brīvie elektroni, , kur ir elektrona lādiņš, ir lādiņnesēju koncentrācija, ir lādiņnesēju orientētās kustības vidējais ātrums.
+
+Saistība ar lādiņa tilpuma blīvumu kur
+
+- lādiņu orientētās kustības vidējais ātrums
+
+Elektriskās strāvas virsmas blīvumu apzīmē ar
+
+Ja lādiņnesēji pārvietojas pa ķermeņa (vada) virsmu, tad to plūsmas līnijas šķērso līniju , kura veido šo virsmu.
+
+kur Saistība ar lādiņa virsmas blīvumu
+
+Elektriskās strāvas veids ir atkarīgs no strāvas avota. Ja ir galvaniskais elements (baterijas, akumulatori), tad ir līdzstrāva, savukārt ģenerators ražo maiņstrāvu. Līdzstrāvā elektriskā strāva visu laiku plūst tikai vienā virzienā, bet maiņstrāvā strāvas plūšanas virziens periodiski mainās. Dažreiz tiek izmantoti arī angļu valodas apzīmējumi AC/DC, kur AC nozīmē maiņstrāvu (alternating current), bet DC apzīmē līdzstrāvu (direct current). Maiņstrāva plaši tiek izmantota sadzīves elektrotīklā. Audio un radio signāli arī ir specifiski maiņstrāvas piemēri.
+
+Ja pa ķēdi, starp kuras galiem ir spriegums , izplūst lādiņš , tad elektriskais lauks, kas pastāv vadītājā, pastrādā darbu . Laikā caur vadītāja šķērsgriezumu izplūstošais lādiņš , kur ir strāvas stiprums, tātad , kas arī ir strāvas darbs. Tā kā, pēc Oma likuma, , strāvas darbu var izteikt kā jeb , kur ir patērētāja pretestība.

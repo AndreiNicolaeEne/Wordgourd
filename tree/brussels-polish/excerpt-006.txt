@@ -1,0 +1,15 @@
+2. Środek zaradczy przewidziany w ust. 1 jest jedynym środkiem zaradczym przysługującym zwycięskiemu oferentowi lub jego następcom prawnym w przypadku niedostarczenia uprawnień sprzedawanych na aukcji ze względu na okoliczności, na które dany system rozliczeniowy lub rozrachunkowy nie ma wpływu.
+
+ROZDZIAŁ XIII ZARZĄDZANIE ZABEZPIECZENIEM
+
+Artykuł 49 Zabezpieczenie wnoszone przez oferenta
+
+1. Przed otwarciem okresu składania ofert dotyczących sprzedaży na aukcji dwudniowych kontraktów na rynku kasowym lub pięciodniowych kontraktów terminowych typu future oferenci lub pośrednicy działający w ich imieniu są zobowiązani do wniesienia zabezpieczenia.
+
+2. Na żądanie oferenta niebędącego zwycięskim oferentem wszystkie wniesione przez niego zabezpieczenia, które nie zostały wykorzystane, są zwracane, wraz z odsetkami naliczonymi od zabezpieczeń gotówkowych, tak szybko, jak jest to wykonalne po zamknięciu okresu składania ofert.
+
+3. Na żądanie zwycięskiego oferenta wszystkie wniesione przez niego zabezpieczenia, które nie zostały wykorzystane do celów rozrachunku, są zwracane, wraz z odsetkami naliczonymi od zabezpieczeń gotówkowych, tak szybko, jak jest to wykonalne po dokonaniu rozrachunku.
+
+Artykuł 50 Zabezpieczenie wnoszone przez prowadzącego aukcje
+
+1. Przed otwarciem okresu składania ofert dotyczących sprzedaży na aukcji dwudniowych kontraktów na rynku kasowym lub pięciodniowych kontraktów terminowych typu future prowadzący aukcje jest zobowiązany jedynie do wniesienia zabezpieczenia w postaci uprawnień, które będą przechowywane w depozycie przez system rozliczeniowy lub rozrachunkowy działający jako powiernik do czasu ich dostarczenia.

@@ -1,0 +1,15 @@
+f) biztonsági és biztonsági másolati rendszerek arra az esetre, ha a hardver vagy a szoftver meghibásodna, különösen ha az elektronikus formájú használati utasítást magába az eszközbe építették be;
+
+g) nyomtatott formájú használati utasítást előíró, előreláthatóan sürgős orvosi beavatkozást igénylő helyzetek;
+
+h) az abból adódó hatások, hogy az adott oldal vagy maga az internet átmenetileg nem elérhető, vagy az egészségügyi létesítmény hozzáférése átmenetileg nem biztosított, valamint az ilyen jellegű helyzetek megoldására rendelkezésre álló biztonsági intézkedések;
+
+i) az időszak értékelése, amelyen belül a nyomtatott formájú használati utasítást a felhasználó kérésére rendelkezésre kell bocsátani.
+
+(2) Az elektronikus formájú használati utasítás biztosítására vonatkozó kockázatfelmérést naprakésszé kell tenni a forgalomba hozatalt követő tapasztalatokra való tekintettel.
+
+5. cikk A 3. cikkben említett eszközgyártóknak lehetőségük van a használati utasítás nyomtatott forma helyett elektronikus formában történő biztosítására az alábbi feltételek szerint:
+
+1. a 4. cikkben említett kockázatfelmérésnek bizonyítania kell, hogy a használati utasítás nyomtatott formában történő biztosításával fenntartható, illetve javítható a nyomtatott formában rendelkezésre álló használati utasítás biztosításával elért biztonsági szint;
+
+2. biztosítaniuk kell az elektronikus formájú használati utasítást minden tagállamban, amelyben a termék elérhető vagy üzemben van, kivéve, ha a 4. cikkben említett kockázatfelmérés nem tartja másképp indokoltnak;

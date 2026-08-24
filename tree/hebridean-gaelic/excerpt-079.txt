@@ -1,0 +1,9 @@
+’S e oideachadh structair agus dàimhe agus meud a th’ anns an ailseabra agus tha i tè de na mòr-roinnean matamataig. Tha ailseabra inntrigidh ann an clàr-teagaisg na h-àrd-sgoile far a bheil sgoilearan a’ faighinn aithne air smuaintean bunasach ailseabra, agus nan lùib feartan cur-ris agus iomadachadh àireamh, bun-bheachd nan caochladairean, agus feartan iol-teirmich, am factaradh agus am freumhan a lorg. Ach tha ailseabra nas farsainge. Mar a tha ailseabra ag obair le àireamhan, ’s ann a tha i ag obair le comharran, le caochladairean, agus le eileamaidean seata. Faodar cur-ris agus iomadachadh a mheas mar gum b’ e obrachaidhean uile-choitcheann a bh’ annta agus faodar structairean mar grùpaichean, fàinneachan, agus raointean a thogail bho na mìneachaidhean pongail a thathar a’ dèanamh orra.
+
+’S e seo ailseabra bhunasach mar a thathar ag ionnsachadh do sgoilearan aig nach eil ach eòlas bun-phrionnsabail na h-àireamhachd. Anns an àireamhachd, ’s e àireamhan agus na obrachaidhean àireamhach (.i. +, −, ×, ÷) a th’ ann. Anns an ailseabra inntrigidh, tha comharran (me. a, x, y) air an cur an àite àireamhan gus:
+
+Riaghailtean àireamhach a chur nan riochd coitcheann (me. a + b = b + a) agus mar sin toiseach a dhèanamh air feartan siostam nam fior-àireamhan a rannsachadh,
+
+Co-aontaran a chur ri chèile far a bheil àireamhan “neo-aithnichte” ach am fuasgladh (me. “Lorg an àireamh x far a bheil 3x + 1 = 10”),
+
+Dàimhean fuincseanach a chur ri chèile (me. “Nan reicte x ticeadan, bhiodh a’ phrothaid agad 3x − 10 notaichean, no f (x) = 3x − 10, far a bheil f am fuincsean a tha a’ dèanamh giollachd air àireamh x).

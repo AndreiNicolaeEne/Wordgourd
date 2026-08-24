@@ -1,0 +1,15 @@
+Kimyasal bileşik, kimyasal bağlarla bir arada tutulan birden fazla kimyasal elementin atomlarını içeren birçok özdeş molekülden (veya moleküler varlıklardan) oluşan kimyasal maddedir. Dolayısıyla tek bir elementin atomlarından oluşan bir molekül bileşik değildir. Bir bileşik, diğer maddelerle etkileşimi içerebilen kimyasal reaksiyonla farklı bir maddeye dönüştürülebilir. Bu süreçte atomlar arasındaki bağlar kırılabilir ve/veya yeni bağlar oluşabilir.
+
+Bileşen atomlarının birbirine nasıl bağlandığına göre ayırt edilen dört ana bileşik türü vardır. Moleküler bileşikler kovalent bağlarla bir arada tutulur; iyonik bileşikler iyonik bağlarla bir arada tutulur; intermetalik bileşikler metalik bağlarla bir arada tutulur; Koordinasyon kompleksleri koordine kovalent bağlarla bir arada tutulur. Stokiyometrik olmayan bileşikler tartışmalı marjinal durum oluşturur.
+
+Kimyasal formül, sayısal alt simgelerle birlikte standart kimyasal sembolleri kullanarak, bileşik moleküldeki her elementin atom sayısını belirtir. Birçok kimyasal bileşiğin, Kimyasal Özetler Servisi tarafından atanan benzersiz bir CAS numarası tanımlayıcısı vardır. Dünya çapında 350.000'den fazla kimyasal bileşik (kimyasal karışımları dahil) üretim ve kullanım için tescil edilmiştir.
+
+Kimyasal bir bileşik, iki ya da daha fazla elementin sabit kütle oranında birleşmesiyle oluşan saf maddelere denir. Bileşiklerin en küçük yapı taşı moleküllerdir.
+
+Bileşiklerin çoğu moleküler yapıdadır. Ama tuz gibi iyonik bileşikler atomik yapıdadır.
+
+Bileşikler belirli formüllerle ifade edilir. Örneğin Asetonitrilin formülü CH3CN olarak ifade edilir.
+
+İlk yapılan çömlekler sargı-dolama usulü ile elde şekillendiriliyor ve pişirim ise genellikle açık ateşte yapılıyordu. Açık pişirim adı verilen ve MÖ 6 binden beri kullanılan bu ilkel fırınlama tekniğinde, pişirilecek seramikler güneşte kurutulduktan sonra, aralarına saman ve kuru dallar konarak dizilir, üzerleri yine dal ve saman ile örtülüp baca açıklığı bırakılır. MÖ 3000 yılında da çömlekçi çarkı bulunmasıyla çark üzerinde şekillendirmeler de başlamış oldu. Yine aynı dönemde toprağın pişirilmesi için ilkel fırınlar da kullanılmaya başlanmıştır.
+
+Günümüzde Anadolu'nun pek çok yerleşim yerinde çömlek yapılmaktadır. Hatta çağdaş tekniklerle günümüzden binlerce yıl önce uygulanan teknikler, aynı zamanda, birbirine yakın mekanlarda süregelmektedir. Örneğin Eskişehir'in Mihalıççık ilçesi Sorkun mahallesinde kadınlar, Neolitik dönemde uygulanan teknikle çamuru şekillendiriyor, topraktan çeşitli eşyalar yapıyor ve aynı dönemin yöntemiyle çömleklerini açıkta pişiriyorlar. Manisa'nın Salihli ilçesine bağlı Gökeyüp mahallesindeki kadınlar da aynı şekilde çömlek üretiyorlar. Ana Tanrıça kültürünün egemen olduğu dönemlerin tekniğinin günümüzde de sürüyor olması ve üstelik kadınlar tarafından sürdürülüyor olması araştırmaya değer bir olgu olsa gerek. Çömlek üretiminde çarkın kullanıldığı yerlerde ise artık bu işi erkekler de yapmakta.

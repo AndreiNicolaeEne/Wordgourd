@@ -1,0 +1,9 @@
+11. Hyväksyntälautakunta perustaa alaisuudessaan toimivia elimiä, jotka toimivat sen ohjeiden mukaisesti ja jotka käsittelevät erityiskysymyksiä. Samalla kun lautakunta varmistaa työn jatkuvuuden, se perustaa erityisesti paneelin, joka tekee turvallisuusanalyysikatsauksia ja testejä asiaankuuluvien riskiraporttien laatimiseksi avustaakseen hyväksyntälautakuntaa tämän päätösten valmistelussa. Hyväksyntälautakunta voi perustaa tämän paneelin työtä edistäviä asiantuntijatyöryhmiä ja hajottaa niitä.
+
+12. Galileo-ohjelman käyttöönottovaiheessa perustetaan, tämän vaikuttamatta jäsenvaltioiden toimivaltaan ja asetuksen (EU) N:o 1285/2013 14 artiklan 1 kohdan a alakohdan i alakohdassa tarkoitettuihin Euroopan GNSS-virastolle uskottuihin tehtäviin, hyväksyntälautakunnan valvoma jäsenvaltioiden asiantuntijatyöryhmä suorittamaan salatun aineiston jakelusta vastaavan viranomaisen tehtäviä, jotka liittyvät EU:n salausteknisen aineiston hallinnointiin, erityisesti seuraavaa varten:
+
+i) lentojen salausavainten ja muiden Galileo-ohjelman nojalla perustetun järjestelmän toiminnalle tarpeellisten avainten hallinnointi;
+
+ii) PRS-salausavainten kirjanpitoon, turvalliseen käsittelyyn, varastointiin ja jakeluun liittyvien menettelyjen perustamisen ja toimeenpanon tarkistaminen.
+
+13. Jos tämän asetuksen 10 artiklassa tarkoitettuihin yleisiin periaatteisiin perustuvaa yhteistä näkemystä ei saavuteta, hyväksyntälautakunta tekee päätökset määräenemmistöllä siten kuin Euroopan unionista tehdyn sopimuksen 16 artiklassa on määrätty ja rajoittamatta tämän asetuksen 9 artiklan soveltamista. Komission edustaja ja korkean edustajan edustaja eivät osallistu äänestykseen. Hyväksyntälautakunnan puheenjohtaja allekirjoittaa lautakunnan puolesta lautakunnan hyväksymät päätökset.

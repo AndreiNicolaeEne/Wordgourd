@@ -1,0 +1,23 @@
+Huwa ppublika l-ewwel poeżija tiegħa tal-età ta' 15-il sena, u ġie rikonoxxut b'mod wiesa' mid-dinja letterarja ta' żmienu sakemm iggradwa mil-Liċeo ta' Tsarskoye Selo. Malli ggradwa mil-liċeo, Pushkin qara l-poeżija kontroversjali tiegħu "Tribut għal-Libertà", waħda minn bosta li wasslu għall-eżilju tiegħu mill-Imperatur Alessandru I. Waqt li kien taħt sorveljanza stretta mill-pulizija politika tal-Imperatur u ma setax jippubblika x-xogħol tiegħu, Pushkin kiteb l-iżjed dramm famuż tiegħu, Boris Godunov. Ir-rumanz tiegħu f'versi Eugene Onegin tfassal f'sensiela bejn l-1825 u l-1832. Pushkin indarab b'mod fatali fi ġlieda mal-maħbub allegat ta' martu (ir-raġel ta' oħt il-mara), Georges-Charles de Heeckeren d'Anthès, magħruf ukoll bħala Dantes-Gekkern, uffiċjal Franċiż tar-Riġment tal-Għassa tal-Kavallieri.
+
+Missier Pushkin, Sergei Lvovich Pushkin (1767–1848) tnissel minn familja distinta tan-nobbiltà Russa b'nisel li kien imur lura għas-seklu 12. Omm Pushkin, Nadezhda (Nadya) Ossipovna Gannibal (1775–1836) tnisslet minn nobbiltà Ġermaniża u Skandinava min-naħa tan-nanna tan-naħa ta' missierha. Hija kienet bint Ossip Abramovich Gannibal (1744–1807) u martu, Maria Alekseyevna Pushkina (1745–1818).
+
+Il-fatt li hija funzjoni minn għal li tassoċja ma’ l-element nistgħu nuruh billi niktbu:
+
+Is-sett (li minnu l-funzjoni "tieħu" il-valuri) hu id-dominju tal-funzjoni , waqt li s-sett (li fih insibu l-valuri "mogħtijin" mill-funzjoni ) hu l-kodomiju tal-funzjoni .
+
+Nosservaw li t-termini metaforiċi "tieħu valur" u "tagħti valur" jirreferu għal mudell mekkaniku tal-funzjonijiet li jirrapreżenthom bħala magna li meta ttiha element tad-dominju, tittrasformah fl-element imqabbel tal-kodominju. Minn din ix-xbieha jiġi s-sinonimu trasformazzjoni.
+
+Is-sett mogħti mill-elementi tal-kodominju li għalihom jeżisti fid-dominju li tittrasfoma f’ ngħidulu l-immaġini ta’ u niddenotawh b’ Im jew b’abbuż żgħir tal-lingwa b' .
+
+Anki din it-termini ġejja minn mudell li jħares lejn funzjoni bħala sistema tad-dawl, pereżempju lenti; f’dal-mudell l-elementi tad-dominju jikkorrespondu ma’ ġħejun ta’ raġġi tad-dawl u l-elementi tal-kodominju ma’ fejn jolqtu r-raġġi jew l-immaġini.
+
+Xi matematiċi jippreferixxu d-definizzjoni alternattiva ta’ funzjoni li ġejja, li għalkemm hi iżjed rigoruża, rari tintuża:
+
+Funzjoni hija terna ordnata , fejn hu sett, hu sett ieħor, u hu tali
+
+Jekk ikollna żewġ funzjonijiet : → u : → nistgħu niddefinixxu l-kompożizzjoni tagħhom: din hi definita bħala l-applikazzjoni l-ewwel ta’ fuq u mbagħad l-applikazzjoni ta’ fuq ir-riżultat .
+
+Din il-funzjoni ġdida niddenotawha b’ . Jekk nużaw in-notazzjoni tradizzjonali nistgħu niktbu hekk:
+
+Jistgħu jintużaw notazzjonijiet oħra għall-valur ta’ funzjoni li jikkorrispondi ma’ element , iddenotat fin-notazzjoni tradizzjonali b’:

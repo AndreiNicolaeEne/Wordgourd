@@ -1,0 +1,19 @@
+a) var modelēt jaunas esoša PVKIU vai ieguldījumu apakšstruktūras akciju kategorijas rādītājus, izmantojot citas kategorijas rādītājus, ja abas kategorijas viena no otras būtiski neatšķiras tajā ziņā, cik liels ir to īpatsvars PVKIU aktīvos;
+
+b) pakārtotā PVKIU darbības rādītājus var modelēt, izmantojot attiecīgā galvenā PVKIU darbības rādītājus, ja ir izpildīts viens no šādiem nosacījumiem:
+
+i) pakārtotās struktūras stratēģija un mērķi neļauj tai turēt citus aktīvus, kā vien galvenās struktūras sertifikātus un likvīdus palīgaktīvus;
+
+ii) pakārtotās struktūras iezīmes būtiski neatšķiras no galvenās struktūras iezīmēm.
+
+2. Visos gadījumos, kad darbības rādītāji ir modelēti saskaņā ar 1. punktu, joslu diagrammā skaidri norāda, ka darbības rādītāji ir modelēti.
+
+3. PVKIU, kas maina savu juridisko statusu, bet joprojām darbojas tajā pašā dalībvalstī, nemaina savus darbības rādītājus tikai tad, ja dalībvalsts kompetentā iestāde pamatoti atzīst, ka statusa maiņa PVKIU darbības rādītājus neietekmēs.
+
+4. Direktīvas 2009/65/EK 2. panta 1. punkta p) apakšpunkta i) un ii) punktā minētas apvienošanas gadījumā ieguldītājiem paredzētās pamatinformācijas dokumentā saglabā tikai iegūstošā PVKIU līdzšinējās darbības rādītājus.
+
+5. IEDAĻA Praktiska informācija un savstarpējas atsauces
+
+20. pants Iedaļas “Praktiska informācija” saturs
+
+1. Ieguldītājiem paredzētās pamatinformācijas dokumenta iedaļā “Praktiska informācija” iekļauj šādu informāciju, kas ir noderīga ieguldītājiem ikvienā dalībvalstī, kurā tiek tirgots PVKIU:

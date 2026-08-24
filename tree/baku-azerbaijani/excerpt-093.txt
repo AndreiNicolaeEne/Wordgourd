@@ -1,0 +1,9 @@
+Alkenlər və Alkinlər: C=C və C≡C ikili və üçlü əlaqələri olan karbohidrogenlər (doymamış).
+
+Funksional qruplar: Üzvi birləşmələrin kimyəvi və fiziki xüsusiyyətlərini müəyyən edən xüsusi atom qruplarıdır. Məsələn:
+
+Hidroksil qrupu (-OH): Spirtlərdə. Karboksil qrupu (-COOH): Karbon turşularında.
+
+Amin qrupu (-NH₂): Aminlərdə. Halogenlər (F, Cl, Br, I): Halogenli üzvi birləşmələrdə.
+
+Üzvi kimyanın sahələri Sintez: Yeni üzvi birləşmələrin hazırlanması prosesidir. Üzvi sintez tibb, materialşünaslıq və kənd təsərrüfatı sahələrində geniş tətbiq olunur.

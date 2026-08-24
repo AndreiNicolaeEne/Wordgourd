@@ -1,0 +1,9 @@
+Un submarino es una nave capaz de operar tanto en la superficie como bajo el agua, diseñada para diversas funciones que incluyen usos militares, científicos y recreativos.
+
+Los submarinos pueden clasificarse según su propósito principal. Existen submarinos civiles, orientados a la investigación científica o el turismo, y submarinos militares, diseñados para operaciones de defensa y ataque. Cada tipo presenta características constructivas, operativas y tecnológicas particulares.
+
+Los submarinos civiles suelen ser considerablemente más pequeños que sus equivalentes militares, dado que están diseñados para optimizar el espacio disponible. Los modelos turísticos operan principalmente en regiones tropicales o zonas con aguas claras, y están destinados a ofrecer experiencias visuales a los pasajeros. Estos submarinos tienen capacidad para entre 25 y 50 personas, y pueden realizar más de diez inmersiones diarias.
+
+Su diseño está inspirado en los submarinos de investigación, con amplias portillas que permiten observar el entorno marino. Los componentes mecánicos más voluminosos suelen ubicarse fuera del casco para maximizar el espacio interno, que aun así resulta limitado. La mayoría de estos sumergibles funciona con baterías eléctricas, lo que limita su velocidad pero favorece una operación silenciosa y sostenible.
+
+En el uso común, el término "submarino" se refiere a una nave que puede operar de forma autónoma tanto en la superficie como bajo el agua. Sin embargo, existen también los sumergibles, diseñados para funciones específicas como el rescate, la investigación o el salvamento. Estos suelen tener movilidad limitada y dependen de una embarcación nodriza para su transporte y suministro de energía y aire mediante un "cordón umbilical".

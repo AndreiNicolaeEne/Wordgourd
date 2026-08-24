@@ -1,0 +1,13 @@
+Í fyrsta þrepinu breytum við upplýsingum sem birtast okkur sjónrænt, hljóðrænt eða með öðrum hætti í taugaboð. Þetta kallast umskráning. Annað þrepið kallast geymd, og felst í því að upplýsingarnar eru geymdar í minninu (meira má lesa um þetta þrep í greininni um geymd). Svo þegar við þurfum á upplýsingunum að halda náum við í upplýsingarnar úr minninu. Það er kallað endurheimt. Minnið getur brugðist okkur á öllum þessum þrepum, en það veldur því sem við köllum dags-daglega að við munum ekki [eitthvað].
+
+Hvert minniskerfi fyrir sig notar sérhæfðar aðferðir við umskráningu, geymslu og endurheimt.
+
+Almennt er viðurkennt að minniskerfin séu minnst tvö, en sumir segja að þau séu þrjú. Þau eru:
+
+Skynminni (SM); geymir nákvæma mynd áreitanna sem berast skynfærum. Oftast er það bundið við eitt skynfæri í einu (svo sem sjón eða heyrn). (Þetta minniskerfi er umdeilt, og er stundum eða oft sleppt)
+
+Skammtímaminni (STM); geymir fá atriði í senn, menn hafa oft horft til tölunnar sjö varðandi geymslugetu. Notast helst við hljóðræna úrvinnslu.
+
+Langtímaminni (LM); geymir mjög mikið magn upplýsinga og varir lengi. Það er ómeðvitað að mestu og notast helst við merkingarlega úrvinnslu.
+
+Ef litið er á flæði upplýsinga um skynminni og skammtímaminni, þá er ljóst að áreiti berst frá umhverfinu inn í skynminnið. Skynminnið er óvirkt minniskerfi, því ekki er unnið úr upplýsingum þar. Það sem á sér stað í skynminninu er eitthvað sem við erum ekki meðvituð um. Þegar athyglin beinist að einhverju í umhverfinu er upplýsingunum hleypt inn í skammtímaminnið, og þar er svo unnið úr áreitunum og er því virkt minniskerfi.

@@ -1,0 +1,21 @@
+Idag används vindmätare som direkt mäter vindens hastighet, och enheten har ändrats till "meter per sekund (m/s)".
+
+Utifrån Beauforts tabell har det även utformats en liknande skala på land.
+
+Högre vindhastigheter än 11 beaufort (28,5 m/s) är ovanliga i inlandet (betydligt vanligare till sjöss).
+
+Sveriges meteorologiska och hydrologiska institut, SMHI har använt enheten meter per sekund (m/s) sedan mitten av 1920-talet vid prognoser som då presenterades i radion. Trots att den internationellt vedertagna SI-enheten för hastighet är m/s så har detta inte slagit igenom bland alla väderinstitut. Våra nordiska grannländer använder m/s, men i till exempel Tyskland och Frankrike används km/tim. I anglosaxiska länder är enheten "miles per hour" vanlig. Inom sjöfart och flygtrafik anges ofta vindhastigheten i knop.
+
+Omräkningstabell: ``` 1 km/h motsvarar ungefär 0,28 m/s. 90 km/h = 25 m/s.
+
+1 mile/hour motsvarar ungefär 0,45 m/s. 1 knop motsvarar 0,5 m/s.
+
+``` Observera att man (åtminstone i Sverige) avser så kallade "meteorologiska knop". Egentligen är 1 knop en nautisk mil per timme, det vill säga ungefär 0,514 m/s.
+
+Gemensamt för jugendstilen inom arkitekturen var en reaktion mot det historicistiska tänkandet. Arkitekterna frigjorde sig från klassiska kompositionsprinciper och utsmyckade istället byggnaderna med en naturalistisk ornamentik som utmärks av slingrande linjer och blom- och växtmotiv. Många jugendbyggnader bär drag av tidigare stilar, inte minst (ny)barocken, och inom jugendstilen kan såväl japanska som andra asiatiska drag märkas liksom nationalromantik.
+
+Bakgrunden till Jugendstilens framväxt går att spåra också i brittisk kulturdebatt, där företrädare för Arts and Crafts-rörelsen som Augustus Welby Pugin och senare John Ruskin och William Morris betonat hantverksmässigheten och skaparkraften och strävat efter att frigöra sig från äldre tiders stilar. Andra häften av 1800-talet dominerades av olika "nystilar". Under 1880-talet skapades en av böljande växtslingor, blommor, bubblor och vågor utformad grafisk stil i Storbritannien av Arthur Heygate Mackmurdo. Kort därpå skapade Émile Gallé sitt överfångsglas med växtornamentik i Frankrike. På 1890-talet introducerade Victor Horta, Paul Hankar och Henry van de Velde stilen inom arkitekturen och Hector Guimard förde den i slutet av 1890-talet över till Frankrike.
+
+Ungefär samtidigt hade Otto Wagner, följd av Joseph Maria Olbrich och Josef Hoffmann skapat en egen, mer geometriskt präglad jugend influerad av Charles Rennie Mackintosh.
+
+I Sverige fick stilen sitt genombrott med Allmänna konst- och industriutställningen 1897. Vid Världsutställningen i Paris år 1900 hade stilen redan fått sitt internationellt genombrott och dominerade nu konsten och konsthantverket.

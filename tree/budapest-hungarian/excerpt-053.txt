@@ -1,0 +1,17 @@
+Az angol főleg izoláló nyelv, vagyis a mondatokban a fő nyelvtani funkciókat a szavak sorrendje határozza meg. Ugyanakkor indoeurópai örökségként számos példáját hordozza a flexiónak – mint rendhagyásnak. Emellett mutatkoznak – a pongyolább köznyelvben egyre gyakrabban – bizonyos agglutináló vonások is.
+
+Peter sees Laura. Péter Laurát látja. („ő lát” kifejezése agglutinációval see látni -s E/3)
+
+Laura sees Peter. Laura Pétert látja. (pusztán a szórend megváltoztatásával megváltozik az alany és a tárgy)
+
+Laura saw Peter. Laura látta Pétert. (múlt idő flexióval see > saw)
+
+A mai angolban már nincsenek esetek, az eredeti esetragok lekoptak, a mai ragok újabb fejlemények. Érdekes az -s rag hármassága:
+
+pluralis drop csepp → drops cseppek sing. genitivus drop → drop's cseppnek a… (pluralis -s után időnként elmarad)
+
+igéknél Sing./3 drop leejteni → drops leejt.
+
+A köznevek kis betűvel íródnak, mint a magyarban. Néhány kivételtől eltekintve (például raincoat) nem használ összetett szavakat, emiatt szókincse legfeljebb közel 500-600 ezerre tehető.
+
+A többes számot egy szóvégi közvetlenül kapcsolt -s betű jelzi, ritka kivételek vannak. Ezek vagy a régi alapszavak (man → men, woman → women, ox → oxen, mouse → mice, louse → lice, die/dice → dice/dies, deer → deer (∅), goose → geese, foot → feet, tooth → teeth, child → children stb...), ezek egy része már angolban is archaizáló hatású (brother → brethren/brothers, child → childer) vagy jövevényszavak (bureau → bureaux v. bureaus, appendix → appendices v. appendixes), melyek közül sok a latinból átvett jövevényszó, amelyek esetén a többes szám jele az -a (medium → media, datum → data, millennium → millennia).

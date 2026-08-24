@@ -1,0 +1,3 @@
+Scrabble ya iku papan dolanan nyusun tembung racaké sing dolanan wong 2 utawa 4. Saka tembung-tembung sing bisa kasusun bakal pikantuk poin saka poin saben aksara ing dhuwuré papan dolanan kotak-kotak (15 kolom lan 15 baris).
+
+Wujud dolanané wujud kotakan cilik gèpèng sing ana tulisané aksara. Wong sing dolanan njupuk 7 kotakan aksara saka wadhahé, banjur disusun supayané dadi tembung, olèh manengen utawa mangisor kaya teka-teki silang. Tembung-tembung sing digawé kudu kelebu ing kamus standar miturut basa sing dianggo dolanan.

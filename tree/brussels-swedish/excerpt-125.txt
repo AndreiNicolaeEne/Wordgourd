@@ -1,0 +1,9 @@
+11. Styrelsen för säkerhetsackreditering ska inrätta särskilda underställda organ, som ska handla enligt dess instruktioner, för att hantera specifika frågor. Den ska i synnerhet, samtidigt som den nödvändiga kontinuiteten i arbetet tryggas, inrätta en panel som ska genomföra översyner av säkerhetsanalyser och tester för att ta fram relevanta riskrapporter i syfte att bistå styrelsen i beredandet av beslut. Styrelsen för säkerhetsackreditering får inrätta och upplösa expertgrupper som ska bidra till panelens arbete.
+
+12. Utan att det påverkar medlemsstaternas behörighet och den byråns uppgift enligt artikel 14.1 a i i förordning (EU) nr 1285/2013 ska en grupp av experter från medlemsstaterna inrättas under Galileoprogrammets uppbyggnadsfas under tillsyn av styrelsen för säkerhetsackreditering för att utföra kryptodistribueringsmyndighetens arbetsuppgifter i fråga om förvaltningen av EU:s kryptografiska material avseende framför allt
+
+i) förvaltningen av nyckelförsörjningspunkter och de nycklar som krävs för att det system som inrättats inom Galileoprogrammet ska fungera,
+
+ii) kontrollen av att förfaranden för redovisning, säker hantering, förvaring och distribution av PRS-nycklar har fastställts och tillämpas.
+
+13. Om enighet enligt de allmänna principer som avses i artikel 10 i denna förordning inte kan nås ska styrelsen för säkerhetsackreditering fatta ett majoritetsbeslut efter omröstning i enlighet med artikel 16 i fördraget om Europeiska unionen, utan att det påverkar tillämpningen av artikel 9 i denna förordning. Kommissionens företrädare och den höga representantens företrädare ska inte rösta. Styrelseordföranden för styrelsen för säkerhetsackreditering ska på dess vägnar underteckna de beslut som fattas av styrelsen för säkerhetsackreditering.

@@ -1,0 +1,7 @@
+Small blind (SB) – Malý blind: Nazýva sa podľa povinnej stávky, ktorú musí do hry vložiť hráč, ktorý sedí naľavo od dílera. Výška povinnej stávky závisí od výšky limitu, aký hráči hrajú a je polovicou z povinnej stávky na veľkom blinde.
+
+Big blind (BB) – Veľký blind: Nazýva sa podľa povinnej stávky, ktorú musí do hry vložiť hráč sediaci naľavo od malého blindu. Výška povinnej stávky závisí od výšky limitu, aký hráči hrajú.
+
+Under the gun (UTG): Je prvou pozíciou v hre pred vyložením kariet.
+
+Middle position (MP) – Stredná pozícia Cut-off (CO): Pozícia napravo od dílera.

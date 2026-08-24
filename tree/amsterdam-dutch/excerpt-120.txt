@@ -1,0 +1,19 @@
+De overproductie in de landbouw en industrie werd niet voldoende erkend, laat staan de gevaren ervan. Er werd gedacht dat het een tijdelijke verstoring van de economische verhoudingen was die vanzelf over zou gaan. Bovendien was non-interventie een heilig uitgangspunt van de Republikeinse regering van Calvin Coolidge.
+
+Een andere verklaring komt van de Oostenrijkse economische school. Theoretici van de Oostenrijkse School die schreven over de crisis zijn onder andere de Oostenrijkse econoom Friedrich Hayek en de Amerikaanse econoom Murray Rothbard, die America's Great Depression (1963) schreef. In hun ogen en ook die van de monetaristen, is de Federal Reserve, gecreëerd in 1913, de grote schuldige; maar in tegenstelling tot de monetaristen, stellen zij dat de hoofdoorzaak van de depressie, de expansie van het geldaanbod in de jaren 1920, heeft geleid tot een onduurzame kredietgedreven bubbel. In deze Oostenrijkse kijk was het de inflatie van het geldaanbod die leidde tot een onduurzame bubbel in zowel prijzen van activa (aandelen en obligaties) en kapitaalgoederen. Tegen de tijd dat de FED haar beleid aanscherpte in 1928, was het veel te laat en was, volgens de Oostenrijkers, een depressie onvermijdelijk. Volgens de Oostenrijkers was de kunstmatige ingreep in de economie een ramp voor de Depressie, en hebben de overheidsinspanningen om de economie na de crash van 1929 overeind proberen te houden het alleen maar erger gemaakt. Volgens Rothbard, vertraagde de overheidsinterventie de aanpassing van de markt en maakte dit de weg naar een volledig herstel moeilijker.
+
+De stelling van Pythagoras is equivalent met het parallellenpostulaat. Daarom geldt de stelling van Pythagoras niet in niet-euclidische meetkunde.
+
+Uit de stelling van Pythagoras volgt de grondformule van de goniometrie. Voor een rechthoekige driehoek met schuine zijde gelijk aan 1 geldt dat
+
+Een rechthoekige driehoek heeft rechthoekszijden met lengten en . Volgens de stelling van Pythagoras geldt dan voor de lengte van de schuine zijde:
+
+Omdat de lengte niet negatief kan zijn, is
+
+Als de lengten en gegeven zijn, volgt de lengte van de overgebleven zijde uit:
+
+Waaruit volgt: Er bestaan meer dan 350 bewijzen voor de stelling van Pythagoras. Onder deze bewijzen zijn er die zijn ontdekt of mogelijk herontdekt door prominenten, zoals James Garfield, de 20e president van de Verenigde Staten, en Multatuli.
+
+Een van de meer eenvoudige bewijzen deelt een vierkant met zijde op twee manieren in. In de linkerfiguur is het vierkant opgebouwd uit een vierkant met zijde , een vierkant met zijde , en 4 rechthoekige driehoeken. De rechterfiguur is een vierkant opgebouwd uit een vierkant met zijde en dezelfde 4 rechthoekige driehoeken.
+
+Beide figuren tonen een vierkant met zijde , dus beide vierkanten hebben dezelfde oppervlakte. Laat men nu zowel links als rechts de vier rechthoekige driehoeken weg, dan hebben de figuren die overblijven dezelfde oppervlakte. Links blijven een vierkant met zijde en een vierkant met zijde over, met een gezamenlijke oppervlakte van . Rechts resteert een vierkant met zijde . Het vierkant met zijde heeft een oppervlakte van . Hiermee is de stelling bewezen.

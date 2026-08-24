@@ -1,0 +1,3 @@
+Durante gli anni quaranta vennero costruiti ulteriori modelli di sintetizzatori.
+
+Nei primi anni cinquanta aumentò la produzione dei transistor che sostituirono le valvole termoioniche nel controllo della corrente elettrica. Grazie alle loro dimensioni ridotte, alla loro maggiore praticità, ed ai loro costi ridotti, i transistor rivoluzionarono l'intera industria elettronica, vennero di conseguenza adoperati in un numero sempre crescente di apparecchiature elettroniche. Nel 1965 vennero inventati i primi circuiti integrati che potevano includere numerosi transistor al loro interno.

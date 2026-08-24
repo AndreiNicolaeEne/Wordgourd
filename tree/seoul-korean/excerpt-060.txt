@@ -1,0 +1,11 @@
+인간 중심 치료(Person-centered therapy) 혹은 내담자 중심 치료(client-centered therapy)는 치료자가 열린 마음, 공감, 무조건적인 긍정적 존중을 보여서 내담자가 자아를 표출하고 발달시키도록 돕는다.
+
+게슈탈트 치료(Gestalt therapy) 혹은 집중치료(concentration therapy)는 실존적/경험적 형태로 환자와는 동떨어진 상황들을 이야기하는 것으로 시작하여, 환자가 행한 활동과 직접 연관되는 최근의 경험들로 옮겨 감으로써, 삶의 다양한 맥락에 대하여 쉽게 알 수 있도록 한다. 다양한 영향들에서 유래하여 정신분석의 정밀검사를 포함한다. 현상학적 방법(phenomenological method), 대화적 관계(dialogical relationship), 필드-이론적 전략(field-theoretical strategies), 실험적 자유(experimental freedom) 네 가지 이론을 기반으로 설립되었다.
+
+인간 소여 치료(human givens therapy)는 보다 간단한 형태의 인본주의치료로서 1998년(혹은 1999년)에 소개되었다. 안정(security), 자율(autonomy), 사회적 연결(social connection)과 같은 정서적 욕구(emotional needs)를 규명하는 것에 기반한 해결중심적 개입(solution-focused intervention) 방식이다. 또한 다양한 교육적 심리학적 방법을 사용하여, 이러한 욕구들을 적절하게 충족시키는 방안을 모색한다.
+
+통찰지향 심리치료(Insight-oriented psychotherapy)는 무의식 과정을 드러내거나 해석하는 것에 주목한다. 보통 정신역동 심리치료(psychodynamic psychotherapy)를 의미한다. 정신분석은 가장 오래되고 강렬한 유형으로서 이러한 심층심리학(depth psychology)의 적용은 자유연상(free associations), 공상(fantasies), 꿈(drems)을 포함한 환자들의 모든 사고를 언어화하는 것을 돕고, 이로부터 분석가는 환자의 통증과 성격 문제를 유발하는 과거와 현재의 무의식적 갈등을 언어로 구성한다.
+
+정신분석학에는 정신역동이론(psychodynamic theory)에 영향을 준 프로이트학파(Freudian), 자아심리학(ego psychology), 대상관계이론(object relations theory), 자기심리학(self psychology), 대인관계 정신분석학(interpersonal psychoanalysis), 관계 정신분석학(relational psychoanalysis) 6가지 학파가 있다. 분석적 집단 치료(analytic group therapy)를 위한 기술도 발전해 왔다.
+
+행동치료(Behavior therapy)는 응용행동분석(applied behavior analysis) 혹은 행동수정(behavior modification)을 포함한 행동적 기법들(behavioral techniques)을 사용하며, 부적응적 행동 유형을 변화시켜 정서반응(emotional response), 인지, 타인과의 대인관계를 향상시키는 것이다. 기능분석치료(Functional analytic psychotherapy)는 이러한 접근 방식 중 한 형태이다. 원래 행동치료는 실증적(empirical, 데이터에 따라 처리), 맥락적(contextual, 환경과 맥락에 주목), 기능적(functional, 행동의 최종적 결과나 효과에 관심을 갖는), 확률적(probabilistic, 행동을 통계적으로 예측가능하다고 봄), 일원론적(monistic, 심신이원론을 거부하고 인격체를 하나의 단위로 다룸), 상관적(relational, 양방향적 상호작용 분석)이다.

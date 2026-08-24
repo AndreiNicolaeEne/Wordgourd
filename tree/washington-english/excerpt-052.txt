@@ -1,0 +1,56 @@
+of an asset with a built-in loss is reduced in a CAA), such excess is
+taken into account as a basis difference of a negative amount. See
+section 901(m)(3)(C)(ii).
+Section 901(m)(4) provides that an RFA means, with respect to a
+CAA, an asset (including goodwill, going concern value, or other
+intangible) with respect to such acquisition if income, deduction,
+gain, or loss attributable to such asset is taken into account in
+determining the foreign income tax referenced in section 901(m)(1).
+Section 901(m)(7) provides that the Secretary may issue regulations
+or other guidance as is necessary or appropriate to carry out the
+purposes of section 901(m).
+
+II. Notices 2014-44 and 2014-45 The Department of the Treasury (Treasury Department) and the IRS
+issued Notice 2014-44 (2014-32 I.R.B 270 (July 21, 2014)) and Notice
+2014-45 (2014-34 I.R.B. 388 (July 29, 2014)), announcing the intent to
+issue regulations addressing the application of section 901(m) to
+dispositions of RFAs following CAAs and to CAAs described in section
+901(m)(2)(C) (regarding section 754 elections).
+The notices were issued in response to certain taxpayers engaging
+in transactions shortly after a CAA with the intention of invoking the
+application of the statutory disposition rule under section
+901(m)(3)(B)(ii) to avoid the purposes of section 901(m). To address
+these transactions, Notice 2014-44 described the definition of
+disposition that would be set forth in future regulations, as well as
+the rules for determining the portion of basis difference that would be
+taken into account upon a disposition of an RFA (the disposition
+amount). In addition, Notice 2014-44 described the computation of basis
+difference and disposition amount with respect to an RFA that is
+subject to a section 743(b) CAA. Notice 2014-44 also announced that
+future regulations would provide successor rules for the continued
+application of section 901(m) after a subsequent transfer of an RFA
+with remaining basis difference. Notice 2014-44 further provided that
+future regulations would provide that, if an asset is an RFA with
+respect to two section 743(b) CAAs involving the same partnership
+interest, the RFA will be treated as having no remaining basis
+difference with respect to the first section 743(b) CAA if the basis
+difference with respect to the second section 743(b) CAA is determined
+independently from the first section 743(b) CAA. In this regard, see
+generally Sec. 1.743-1(f) and proposed Sec. 1.743-1(f)(2).
+Notice 2014-44 provided that the future regulations described
+therein would apply (i) concerning dispositions, to dispositions
+occurring on or after July 21, 2014 (the date Notice 2014-44 was
+issued), (ii) concerning section 743(b) CAAs, to section 743(b) CAAs
+occurring on or after July 21, 2014, unless a taxpayer consistently
+applied those provisions to all section 743(b) CAAs occurring on or
+after January 1, 2011, and (iii) concerning successor rules, to
+remaining basis difference with respect to an RFA as of July 21, 2014,
+and any basis difference with respect to an RFA that arises in a CAA
+occurring on or after July 21, 2014. Notice 2014-45 provided that the
+future regulations described in Notice 2014-44 also would apply to
+determine the tax consequences under section 901(m) of an entity
+classification election made under Sec. 301.7701-3 that is filed on or
+after July 29, 2014 (the date Notice 2014-45 was issued), including
+whether a disposition results from the election for purposes of section
+901(m) and the treatment of any remaining basis difference that results
+from such an election.

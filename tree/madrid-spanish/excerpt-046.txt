@@ -1,0 +1,11 @@
+La estadística se divide en dos grandes áreas:
+
+Estadística descriptiva: Se dedica a la descripción, visualización y resumen de datos originados a partir de los fenómenos de estudio. Los datos pueden ser resumidos numérica o gráficamente. Su objetivo es organizar y describir las características sobre un conjunto de datos con el propósito de facilitar su aplicación, generalmente con el apoyo de gráficas, tablas o medidas numéricas.
+
+Ejemplos básicos de parámetros estadísticos son: la media y la desviación estándar.
+
+Ejemplos gráficos son: histograma, pirámide poblacional, gráfico circular, entre otros.
+
+Estadística inferencial: Se dedica a la generación de los modelos, inferencias y predicciones asociadas a los fenómenos en cuestión teniendo en cuenta la aleatoriedad de las observaciones. Se usa para modelar patrones en los datos y extraer inferencias acerca de la población bajo estudio. Estas inferencias pueden tomar la forma de respuestas a preguntas sí/no (prueba de hipótesis), estimaciones de unas características numéricas (estimación), pronósticos de futuras observaciones, descripciones de asociación (correlación) o modelamiento de relaciones entre variables (análisis de regresión). Otras técnicas de modelamiento incluyen análisis de varianza, series de tiempo y minería de datos. Su objetivo es obtener conclusiones útiles para lograr hacer deducciones acerca de la totalidad de todas las observaciones hechas, basándose en la información numérica.
+
+Ambas ramas (descriptiva e inferencial) se utilizan en la estadística aplicada. La estadística inferencial, por su parte, se divide en estadística paramétrica y estadística no paramétrica.

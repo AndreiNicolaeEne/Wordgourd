@@ -1,0 +1,13 @@
+Barcha turdagi yarim oʻtkazgichlar tarmoqli boʻshligʻining davrga qiziqarli bogʻliqligiga ega, yaʼni davr oʻsishi bilan tarmoqli boʻshligʻi kamayadi.
+
+Quyidagi jadval koʻp sonli yarimoʻtkazgich elementlari va ularning bir nechta turlarga boʻlingan ulanishlari haqida maʼlumot beradi:
+
+davriy elementlar tizimining IV guruhining bir elementli yarimoʻtkazgichlari,
+
+kompleks: mos ravishda uchinchi va beshinchi guruhlardan ikki elementli A III B V va A II B VI va elementlarning ikkinchi va oltinchi guruhlari.
+
+Yarimoʻtkazgichlarning fizik xususiyatlari metallar va dielektriklar bilan solishtirganda eng koʻp oʻrganilgan. Bunga koʻp jihatdan har ikkala moddada kuzatilmaydigan va yarim oʻtkazgichlarning tarmoqli tuzilishi qurilmasi va juda tor tarmoqli boʻshligʻi bilan bogʻliq boʻlgan juda koʻp jismoniy effektlar yordam beradi.
+
+Yarimoʻtkazgichli materiallarni oʻrganish uchun asosiy turtki yarimoʻtkazgichli qurilmalar va integral mikrosxemalar ishlab chiqarishdir — bu birinchi navbatda kremniyga taalluqlidir, lekin boshqa yarimoʻtkazgich materiallariga ham taʼsir qiladi (Ge, GaAs, InP, InSb).
+
+Silikon bilvosita boʻshliqli yarimoʻtkazgich boʻlib, uning optoelektrik xususiyatlari fotodiodlar va quyosh batareyalarini yaratish uchun keng qoʻllanadi, ammo kremniyga asoslangan nurlanish manbasini yaratish qiyin va bu yerda toʻgʻridan-toʻgʻri boʻshliqli yarimoʻtkazgichlar qoʻllanadi — A birikmalari. III B V turi, ular orasida GaAs, GaN ajratilishi mumkin, ular LED va yarimoʻtkazgichli lazerlarni yaratish uchun ishlatiladi.

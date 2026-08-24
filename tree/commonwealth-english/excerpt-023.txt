@@ -1,0 +1,23 @@
+“Relevant transitional provision” means article 2, 3 or 4 of the Independent Police Complaints Commission (Transitional Provisions) Order 2004 (S.I. 2004/671).
+
+The Commission may, if it considers that there are exceptional circumstances, direct that a matter to which subsection (5) applies should be treated as a conduct matter or a DSI matter.
+
+This subsection applies to a matter which—
+
+relates to conduct which took place, or circumstances which occurred, before 1 April 2004,
+
+has been the subject of a relevant complaint, and
+
+would be a conduct matter or a DSI matter if it had not been the subject of a relevant complaint.
+
+“Relevant complaint” means— a complaint made before 1 April 2004, or
+
+a complaint made on or after that date to which a relevant transitional provision applied.
+
+Where under subsection (1)(a) the Commission directs that a relevant transitional provision does not apply in relation to a pre-commencement matter, that provision does not apply in relation to that matter.
+
+The appropriate authority must comply with a direction under subsection (1)(b).
+
+Where under subsection (4) the Commission directs that a matter should be treated as a conduct matter or a DSI matter, the matter is (subject to any regulations under subsection (10)) to be treated as a conduct matter or a DSI matter for the purposes of this Part (including subsections (1) and (2)) and any provision made under it.
+
+The Secretary of State may by regulations provide for this Part or any provision made under it to apply with such modifications as the Secretary of State thinks fit to a matter in relation to which the Commission has made a direction under subsection (1) or (4).”

@@ -1,0 +1,13 @@
+2. Jos sopimus tehdään markkinapaikassa ja keskusvastapuoli määrittää sen eikä vastapuoli tiedä, kuka toinen vastapuoli on, raportoivan vastapuolen on ilmoitettava keskusvastapuoli vastapuolekseen.
+
+3 artikla Vastuista ilmoittaminen 1. Liitteessä olevan taulukon 1 mukaisesti vakuuksista esitettävien tietojen on sisällettävä kaikki asetetut vakuudet.
+
+2. Jos vastapuoli ei aseta vakuutta transaktiotasolla, vastapuolten on ilmoitettava kauppatietorekisteriin vakuus, joka on asetettu salkkuperusteisesti.
+
+3. Jos sopimukseen liittyvä vakuus ilmoitetaan salkkuperusteisesti, raportoivan vastapuolen on ilmoitettava kauppatietorekisteriin koodi, jolla ilmoitettuun sopimukseen liittyvien, toiselle vastapuolelle asetettujen vakuuksien salkku yksilöidään.
+
+4. Finanssialan ulkopuolisten vastapuolten, joita ei tarkoiteta asetuksen (EU) N:o 648/2012 10 artiklassa, ei tarvitse ilmoittaa liitteessä olevassa taulukossa 1 tarkoitettuja sopimusten vakuuksia eikä arvostuksia markkinahintaan tai arvostusmallilla.
+
+5. Jos keskusvastapuoli määrittää sopimuksen, ainoastaan se toimittaa arvostuksen markkinahintaan.
+
+4 artikla Raportointiloki Kauppatietorekistereihin kirjattujen tietojen muutokset on säilytettävä raportointilokissa, jossa yksilöidään muutosta hakenut henkilö tai hakeneet henkilöt, mukaan lukien tarvittaessa itse kauppatietorekisteri, tällaisen muutoksen syy tai syyt, päiväys ja aikaleima sekä selkeä kuvaus muutoksista, mukaan lukien asianomaiset tiedot vanhassa ja uudessa muodossaan, kuten liitteessä olevan taulukon 2 kentissä 58 ja 59 esitetään.

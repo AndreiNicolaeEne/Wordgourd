@@ -1,0 +1,3 @@
+Jende gehienarentzat, simetria mota ohikoena, simetria geometrikoa da. Objektu geometriko bat simetrikoa dela esaten da: geometrikoki eraldatu ondoren jatorrizko objektuaren propietateren bat mantentzen badu (hau da, objektuak aldaezintasun bat badu transformazioaren azpian). Adibidez, bere baitan biratzen duen zirkulu batek jatorrizko zirkuluaren forma eta tamaina bera izango du. Orduan, zirkulu bat biraketan simetrikoa dela edo errotazio simetria duela esaten da.
+
+Objektu fisiko edo elementu geometrikoetan simetriaz aritzean, transformazio geometrikoaz hitz egiten da: birak, translazioak eta islapenak. Objektu batek hainbat simetria mota izan ditzake:

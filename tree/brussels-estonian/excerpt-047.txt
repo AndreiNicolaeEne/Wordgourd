@@ -1,0 +1,17 @@
+6. Kui tuletisleping sisaldab tunnusjooni, mis on omased rohkem kui ühele lisa tabelis 2 osutatud alusvarale, tuleb enne kauplemisteabehoidla teavitamist ära märkida selline varaliik, mida vastaspooled peavad kokkuleppeliselt lepinguga kõige sarnasemaks.
+
+Artikkel 2 Kliiritud tehingud 1. Kui keskne vastaspool kliirib olemasolevat lepingut hiljem, teavitatakse kliiringust kui olemasoleva lepingu muutmisest.
+
+2. Kui leping on sõlmitud kauplemiskohas ja kliiritud keskse vastaspoolega selliselt, et üks vastaspool ei tea teise vastaspoole tunnusandmeid, märgib teavitav vastaspool keskse vastaspoole oma vastaspooleks.
+
+Artikkel 3 Riskidest teavitamine 1. Lisa tabeli 1 kohases tagatise teabes esitatakse andmed kõikide antud tagatiste kohta.
+
+2. Kui vastaspool ei anna tagatist tehingupõhiselt, teavitavad vastaspooled kauplemisteabehoidlat sellisest antud tagatisest portfellipõhiselt.
+
+3. Kui lepingu tagatisest teavitatakse portfellipõhiselt, esitab teavitav vastaspool kauplemisteabehoidlale portfelli tunnuskoodi seoses tagatisega, mis on antud teavitatud lepingu teisele vastaspoolele.
+
+4. Muu kui määruse (EL) nr 648/2012 artiklis 10 sätestatud finantssektoriväline vastaspool ei pea teavitama tagatisest ja lisa tabeli 1 kohasest lepingu turuhinnas hindamisest või mudelipõhisest hindamisest.
+
+5. Kui lepingu kliirib keskne vastaspool, esitab turuhinnas hindamise teabe ainult tema.
+
+Artikkel 4 Andmekogu Andmekogus tuleb registreerida kauplemisteabehoidlas säilitatavatesse andmetesse tehtavad muudatused ning muudatusi taotlevad isikud, kelleks võib vajaduse korral olla ka kauplemisteabehoidla ise, samuti muudatuse põhjendus, muutmise kuupäev, ajatempel ja muudatuse selge kirjeldus, sealhulgas andmete esialgne ja muudetud sisu, nagu on nõutud lisa tabeli 2 lahtrites 58 ja 59.

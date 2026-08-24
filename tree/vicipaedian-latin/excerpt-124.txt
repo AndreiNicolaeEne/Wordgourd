@@ -1,0 +1,3 @@
+Theoria classium vel theoria copiarum est pars mathematicae in qua copiae tractantur, quae rerum collationes intelleguntur. Quamquam quaelibet res in copias colligi possunt, theoria classium plerumque rebus mathematicis adhibetur.
+
+Classium theoria nostrae aetatis a Georgio Cantor et Ricardo Dedekind annis 1870 inchoata est. Post theoriam paradoxorum in simplici classium theoria excogitatam multa systemata axiomatica saeculo vicesimo ineunte proposita sunt, quorum notissima sunt axiomata Zermelo-Fraenkel et axioma electionis.

@@ -1,0 +1,21 @@
+10) attiecībā uz ierīcēm bez derīguma termiņa un uz implantējamām ierīcēm, tie nodrošina, ka elektroniska formāta lietošanas pamācības lietotājiem ir pieejamas vēl 15 gadus pēc pēdējās ierīces izgatavošanas.
+
+6. pants 1. Ražotāji skaidri norāda, ka ierīces lietošanas pamācības ir nodrošinātas elektroniskā nevis papīra formātā.
+
+Minēto informāciju norāda uz katras ierīces iesaiņojuma vai, attiecīgos gadījumos, uz pārdošanas iesaiņojuma. Attiecībā uz stacionārajām medicīnas ierīcēm minēto informāciju norāda uz pašas ierīces.
+
+2. Ražotāji nodrošina informāciju par to, kā piekļūt elektroniska formāta lietošanas pamācībām.
+
+Minēto informāciju nodrošina saskaņā ar 1. punkta otro daļu vai, ja tas nav praktiski izdarāms, papīra formāta dokumentā, kas pievienots katrai ierīcei.
+
+3. Sniedzot informāciju par piekļuvi elektroniska formāta lietošanas pamācībām, norāda:
+
+a) jebkādu informāciju, kas vajadzīga, lai apskatītu lietošanas pamācību;
+
+b) unikālu atsauci, kas nodrošina tiešu piekļuvi, un jebkādu citu informāciju, kas lietotājam vajadzīga, lai atrastu attiecīgo lietošanas pamācību un tai piekļūtu;
+
+c) ražotāja kontaktinformāciju; d) kur, kā un kādā laikposmā var pieprasīt un bez papildu maksas saņemt papīra formāta lietošanas pamācības saskaņā ar 5. pantu.
+
+4. Ja ir paredzēts, ka arī pacientam tiek nodrošināta daļa no lietošanas pamācības, attiecīgo pamācības daļu nenodrošina elektroniskā formātā.
+
+5. Elektroniskā formāta lietošanas pamācības ir pieejamas kā teksts, kurā var būt ietverti simboli un grafikas un norādīta vismaz tāda pati informācija kā attiecīgajās papīra formāta lietošanas pamācībās. Papildus tekstam var piedāvāt video un audio failus.

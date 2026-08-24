@@ -1,0 +1,13 @@
+Das Wort Cyan geht auf altgriechisch κύανος zurück, welches ein tiefes, dunkles Blau bezeichnet (Stahlblau, Schwarzblau).
+
+Als neuere Sprachentwicklung ist der Farbbegriff Cyan insbesondere durch die Euroskala und durch modische Designgestaltungen im Deutschen eingeführt. Im RAL-Farbsystem, das in seinen Anfängen in der Mitte des 20. Jahrhunderts entstand, findet sich keine Kategorie Cyan-Farbtöne. Allerdings sind Farbnamen in der Zusammensetzung mit -türkis enthalten. Die Türkisfarben sind in der Kategorie Grün eingegliedert.
+
+Bei den nachfolgend aufgeführten Farben handelt es sich um farbmetrisch definierte Farben, ihre Erscheinung ist für bestimmte Beleuchtungs- und Betrachtungsbedingungen eindeutig über Messwerte festgelegt.
+
+Cyan ist der Name der nach ISO 2846 und ISO 12647 genormten Druckfarbe des Vierfarbdrucks. Sie wird üblicherweise als Druck-Cyan oder Prozess-Cyan geführt. Definiert wird die Farberscheinung der gedruckten Farbe bei Tagesnormlicht D50. Das für die physische Druckfarbe geeignete Pigment ist die Beta-Modifikation von Kupferphthalocyanin, wodurch eine grünliche Variante von Phthalocyaninblau entsteht.
+
+Nach ISO 2846-1 hat Druck-Cyan (0°/45° Geometrie) für einen 2°-CIE-Normalbeobachter bei festgelegtem Druckprozess folgende Farbwerte:
+
+Die Farbe liegt auch nach eventueller Anpassung an die Betrachtungsverhältnisse außerhalb des sRGB-Gamuts, kann also auf einem Computermonitor in der Regel nicht dargestellt werden. Es kann nur versucht werden, die Erscheinung der Farbe möglichst gut auf dem Bildschirm anzunähern.
+
+Verschiedene Visualisierungen von Druck-Cyan in sRGB (etwa als Farbmuster auf weißem Hintergrund) sind zu finden, etwa

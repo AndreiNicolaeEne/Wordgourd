@@ -1,0 +1,13 @@
+L'interval és la distància en altura existent entre dues notes o sons. Segons que ens referim a sons simultanis o a sons successius, parlem, respectivament, d'intervals harmònics o bé d'intervals melòdics. Entre aquests darrers, parlem, també d'intervals ascendents o d'intervals descendents, segons quin sigui el moviment que efectuï el salt melòdic en qüestió.
+
+Pel que fa a l'amplitud d'aquests intervals, aquests reben dues denominacions que es complementen. En primer lloc cal establir el nombre de notes que hi ha entre l'una i l'altra, tenint en compte que cal comptar-les totes dues. Així, de do a re en sentit ascendent hi ha una segona (dues notes), i entre sol i re, en sentit descendent (sol, fa, mi, re) hi ha una quarta (quatre notes). En segon lloc cal establir el nombre de tons i semitons que hi ha entre ambdues notes.
+
+Segons el nombre de notes o graus que hi ha entre les dues notes que formen els intervals, s'anomenen:
+
+uníson segona tercera quarta quinta sexta
+
+sèptima octava Aquests són els intervals simples, és a dir, els menors o iguals a una octava. Els intervals més amplis que aquests s'anomenen compostos. Així, per exemple, una novena harmònicament és equiparable a una segona, i una desena ho és a una tercera.
+
+Els intervals melòdics de 2a s'anomenen, també, graus conjunts. Les melodies per graus conjunts acostumen a tenir una suavitat que no tenen les melodies en les quals predominen els intervals més amples.
+
+El nom d'un interval només dona una idea aproximada de la seva extensió exacta. Per exemple, els dos intervals de tres notes, do-mi i re-fa, tot i ser intervals de tercera, no tenen la mateixa extensió, ja que el primer inclou dos tons i el segon inclou un to i mig. El qualificatiu permet distingir-los. N'hi ha cinc de principals que són:

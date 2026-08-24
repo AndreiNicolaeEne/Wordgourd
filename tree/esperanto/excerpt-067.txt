@@ -1,0 +1,11 @@
+Lineara algebro estas branĉo de matematiko, kiu origine okupiĝis pri sistemoj de linearaj ekvacioj, kiel
+
+kaj linearaj transformoj, kiel . La moderna lineara algebro uzas la nociojn vektoro, vektorspaco, matrico kaj lineara transformo kiel ilojn por esplorado.
+
+Lineara algebro estas grava kampo en matematiko, kiu estas esenca al multaj aliaj kampoj. Ekzemple, lineara algebro estas esenca por moderna prezento de geometrio, ĉar ĝi difinas la bazajn terminojn "punkto", "rekto" kaj "ebeno". Ĉar vektorspacoj estas grava ilo en multaj branĉoj de la matematiko, lineara algebro estas unu el la bazoj de matematiko.
+
+Lineara algebro estas vaste uzata en abstrakta algebro, funkcia analizo kaj analitika geometrio. Lineara algebro estas uzata ankaŭ en informadiko kaj komputoscienco. Ekster la pura matematiko, lineara algebro estas uzata precipe en natursciencoj, sociosciencoj, inĝenierarto kaj ekonomiko (por optimumigo).
+
+La proceduro por solvi sistemon de linearaj ekvacioj, kiu nun estas nomata Gaŭsa eliminado, aperis jam en la antikva ĉina matematika teksto, nome Sistemo de linearaj ekvacioj, en la oka ĉapitro Ortangulaj matricoj de Naŭ ĉapitroj pri matematika arto de Jiuĵang Suanŝu. Ĝia uzado klariĝas en dekok problemoj pri po du ĝis kvin ekvacioj.
+
+Unu el la fundamentoj de lineara algebro estis metita fare de René Descartes, kiu en 1637 evoluigis la kartezian koordinatsistemon (nomitan laŭ li) por priskribi la ebenon kaj uzis ĝin en la kadro de analitika geometrio por trakti problemojn de klasika geometrio. Por marki punkton sur ebeno li uzis ordigitan duopon da nombroj.

@@ -1,0 +1,17 @@
+(2) Die in Absatz 1 genannte Abhilfe ist die einzige Abhilfe, auf die ein erfolgreicher Bieter oder seine Rechtsnachfolger Anspruch haben, wenn aufgrund von Umständen, die sich der Kontrolle des betreffenden Clearing- oder Abrechnungssystemsentziehen, versteigerte Zertifikate nicht geliefert werden.
+
+KAPITEL XIII VERWALTUNG VON SICHERHEITEN
+
+Artikel 49 Vom Bieter gestellte Sicherheit
+
+(1) Vor Öffnung des Zeitfensters für Gebote für die Versteigerung von Zwei-Tage-Spot oder Fünf-Tage-Futures werden die Bieter oder Intermediäre, die in ihrem Namen handeln, aufgefordert, eine Sicherheit zu stellen.
+
+(2) Eine von einem erfolglosen Bieter verlangte, nicht in Anspruch genommene Sicherheit wird zusammen mit den Zinsen, die auf eine Barsicherheit angefallen sind, auf Verlangen so bald wie möglich nach der Schließung des Zeitfensters für Gebote freigegeben.
+
+(3) Eine von einem erfolgreichen Bieter nicht für die Abrechnung verwendete Sicherheit wird zusammen mit den Zinsen, die auf eine Barsicherheit angefallen sind, auf Verlangen so bald wie möglich nach der Abrechnung freigegeben.
+
+Artikel 50 Vom Auktionator gestellte Sicherheit
+
+(1) Vor Öffnung des Zeitfensters für Gebote für die Versteigerung von Zwei-Tage-Spot oder Fünf-Tage-Futures wird der Auktionator lediglich aufgefordert, Zertifikate als Sicherheit zu stellen, die das als Verwahrer fungierende Clearing- oder Abrechnungssystem bis zu ihrer Lieferung treuhänderisch hält.
+
+(2) Wenn die erforderlichen rechtlichen Maßnahmen und technischen Mittel zur Lieferung der Zertifikate geschaffen worden sind, kann jede Sicherheit, die die Mitgliedstaaten für die Versteigerung der Futures oder Forwards stellen, nach Ermessen des versteigernden Mitgliedstaats und mit Zustimmung der Auktionsplattform freigegeben und durch Zertifikate ersetzt werden, die das als Verwahrer fungierende Clearing- oder Abrechnungssystem bis zu ihrer Lieferung treuhänderisch hält.

@@ -1,0 +1,30 @@
+Tees Valley Darlington Hartlepool Middlesbrough
+
+Stockton-on-Tees Redcar and Cleveland West Midlands
+
+Birmingham Coventry Dudley Sandwell Solihull
+
+Walsall Wolverhampton Calculation of amount
+Subject to sub-paragraph (2), the amount specified by this paragraph is the amount calculated in accordance with the formula—
+where—
+A is the total amount credited to the billing authority’s collection fund income and expenditure account in the year in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act;
+
+B is the total amount charged to that account in the year in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act;
+
+C is the total amount written back for the year from the allowance for non-collection;
+
+D is the total amount written off for the year in excess of that allowance;
+
+E is the total amount released from that allowance for the year;
+
+F is the total amount by which that allowance is increased for the year after amounts written off against the allowance have been made for the year;
+
+G is the amount of any transitional protection payment due to be made to the billing authority for the year;
+
+H is the amount of any transitional protection payment due to be made by the billing authority for the year;
+
+J is the total amount of a relevant provision utilised for the year;
+
+K is the amount calculated in relation to the billing authority for the year in accordance with sub-paragraph (3) or (4).
+
+If the amount calculated under sub-paragraph (1) is less than zero, for the purposes of regulations 4, 9 and 9B the amount specified by sub-paragraph (1) is zero.

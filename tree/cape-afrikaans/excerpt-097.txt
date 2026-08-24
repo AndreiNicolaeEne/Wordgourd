@@ -1,0 +1,3 @@
+Alle tydsones is relatief tot Gekoördineerde Universele Tyd (UTC). Die verwysingspunt vir tydsones is die hoofmeridiaan (lengteligging 0°), wat deur die Royal Greenwich Observatory in Greenwich in Londen, Engeland, getrek word. Om hierdie rede is die term Greenwich Mean Time (GMT) steeds in gebruik (byvoorbeeld deur die BBC) om die "basistyd" aan te dui waarvolgens alle ander tydsones bepaal word. UTC is die amptelike, internasionale afkorting vir vandag se atomies gemete tyd.
+
+UTC is toevallig slegs plaaslike tyd in Greenwich tussen 01:00 UTG van die laaste Sondag in Oktober en 01:00 UTG van die laaste Sondag in Maart. Die res van die jaar is plaaslike tyd UTG+1 — bekend in die Verenigde Koninkryk as British Summer Time (BST).

@@ -1,0 +1,13 @@
+2. Na účely odseku 1 uzavretie zmluvy znamená „vykonanie transakcie“, ako sa uvádza v článku 25 ods. 3 smernice Európskeho parlamentu a Rady 2004/39/ES (4).
+
+3. Ak sa jedno ohlásenie podá v mene oboch protistrán, obsahuje informácie stanovené v tabuľke 1 prílohy vo vzťahu ku každej z protistrán. Informácie stanovené v tabuľke 2 prílohy sa predkladajú len raz.
+
+4. Ak sa jedno ohlásenie podá v mene oboch protistrán, táto skutočnosť sa v ňom uvedie, ako sa stanovuje v kolónke 9 tabuľky 1 prílohy.
+
+5. Ak jedna protistrana ohlási podrobnosti zmluvy archívu obchodných údajov v mene druhej protistrany alebo tretia strana ohlási zmluvu archívu obchodných údajov v mene jednej alebo oboch protistrán, ohlásené podrobnosti zahŕňajú úplný súbor údajov, ktoré by sa ohlásili, ak by zmluvy ohlásila archívu obchodných údajov každá protistrana samostatne.
+
+6. Ak zmluva o derivátoch obsahuje znaky, ktoré sú typické pre viac ako jedno podkladové aktívum, ako sa bližšie určuje v tabuľke 2 prílohy, v ohlásení sa uvádza trieda aktív, ktorej sa zmluva na základe dohody protistrán predtým, než sa ohlásenie odošle archívu obchodných údajov, najviac podobá.
+
+Článok 2 Zúčtované obchody 1. Ak existujúcu zmluvu následne zúčtuje centrálna protistrana, zúčtovanie sa ohlási ako zmena existujúcej zmluvy.
+
+2. Ak sa zmluva uzatvorí na mieste obchodovania a centrálna protistrana ju zúčtuje tak, že protistrana si nie je vedomá totožnosti druhej protistrany, ohlasujúca protistrana určí uvedenú centrálnu protistranu za svoju protistranu.

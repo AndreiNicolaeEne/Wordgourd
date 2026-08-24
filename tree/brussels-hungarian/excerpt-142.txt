@@ -1,0 +1,9 @@
+„22. cikk A minősített vagy különleges adatokra vonatkozó biztonsági szabályok
+
+(1) Az Ügynökség az EU-minősített adatok védelmére vonatkozóan a Bizottság biztonsági szabályait alkalmazza.
+
+(2) Az Ügynökség a belső szabályaiban rendelkezéseket állapíthat meg a minősítés nélküli, ugyanakkor különleges adatok kezelésére vonatkozóan. Az ilyen rendelkezéseknek többek között ezen adatok cseréjére, kezelésére és tárolására kell kiterjedniük.
+
+22a. cikk Összeférhetetlenség (1) Az Igazgatótanács és a Biztonsági Akkreditációs Tanács tagjai, az ügyvezető igazgató, valamint a kirendelt nemzeti szakértők és a megfigyelők kötelezettségvállalási nyilatkozatot és érdekeltségi nyilatkozatot tesznek, amelyben nyilatkoznak a függetlenségüket esetleg befolyásoló mindenfajta közvetlen vagy közvetett érdekeltségük hiányáról vagy meglétéről. E nyilatkozatoknak pontosaknak és teljeseknek kell lenniük. A nyilatkozatot a hivatalba lépéskor, írásban kell megtenni, majd évente meg kell újítani. A nyilatkozatot szükség esetén - és különösen az érintett személyek személyes körülményeiben bekövetkezett releváns változás esetén - aktualizálni kell.
+
+(2) Az Igazgatótanács és a Biztonsági Akkreditációs Tanács tagjai, az ügyvezető igazgató, valamint a kirendelt nemzeti szakértők, a megfigyelők és az ad hoc munkacsoportokban részt vevő külső szakértők minden olyan ülés előtt, amelyen részt vesznek, pontos és teljes nyilatkozatot tesznek a napirendi pontokkal kapcsolatban a függetlenségüket esetleg befolyásoló bármilyen érdekeltségük hiányáról vagy meglétéről, és érdekeltségük esetén tartózkodnak bármely napirendi pontról folytatott megbeszélésen vagy szavazáson való részvételtől.

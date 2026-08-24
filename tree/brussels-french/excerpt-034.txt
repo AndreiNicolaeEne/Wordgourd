@@ -1,0 +1,13 @@
+a) les informations énoncées au tableau 1 de l’annexe, qui concernent les contreparties à un contrat;
+
+b) les informations énoncées au tableau 2 de l’annexe, qui concernent le contrat dérivé conclu entre les deux contreparties.
+
+2. Aux fins du paragraphe 1, «conclure un contrat» a le même sens qu’«effectuer une transaction» comme visé à l’article 25, paragraphe 3, de la directive 2004/39/CE du Parlement européen et du Conseil (4).
+
+3. Lorsqu’une déclaration est effectuée pour le compte des deux contreparties, elle contient les informations énoncées au tableau 1 de l’annexe pour chacune des contreparties. Les informations énoncées au tableau 2 de l’annexe ne sont déclarées qu’une seule fois.
+
+4. Lorsqu’une déclaration est effectuée au nom des deux contreparties, ce fait est mentionné, comme énoncé au champ 9 du tableau 1 de l’annexe.
+
+5. Lorsqu’une contrepartie déclare les informations relatives à un contrat auprès d’un référentiel central au nom de l’autre contrepartie ou qu’un tiers déclare un contrat auprès d’un référentiel central au nom des deux contreparties, elle ou il fournit toutes les informations qui auraient été déclarées auprès du référentiel central si les contrats avaient été déclarés séparément par chaque contrepartie.
+
+6. Lorsqu’un contrat dérivé présente des aspects caractéristiques de plusieurs actifs sous-jacents tels que précisés au tableau 2 de l’annexe, la déclaration précise à quelle catégorie le contrat ressemble le plus, conformément à ce que les parties conviennent entre elles avant que la déclaration ne soit transmise au référentiel central.

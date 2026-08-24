@@ -1,0 +1,9 @@
+11. Rada pro bezpečnostní akreditaci zřídí zvláštní orgány, které se budou na základě jejích pokynů zabývat specifickými otázkami. Při zajišťování kontinuity své činnosti rada pro bezpečnostní akreditaci zřídí zejména panel, který provádí zejména přezkumy bezpečnostních analýz a testy za účelem vypracování příslušných zpráv o riziku s cílem napomoci jí při přípravě rozhodnutí rady pro bezpečnostní akreditaci. Rada pro bezpečnostní akreditaci může zřizovat skupiny odborníků, aby přispívaly k práci tohoto panelu, a tyto skupiny rozpouštět.
+
+12. Aniž jsou dotčeny pravomoci členských států a úloha svěřená agentuře podle čl. 14 odst. 1 písm. a) bodu i) nařízení (EU) č. 1285/2013, zřídí se v průběhu zaváděcí fáze programu Galileo pod dohledem rady pro bezpečnostní akreditaci skupina odborníků z členských států k provádění úkolů orgánu pro distribuci kryptografických materiálů souvisejících se správou kryptografických materiálů EU, zejména pro:
+
+i) správu letových kódů a jiných kódů nezbytných pro fungování systému zřízeného v rámci programu Galileo,
+
+ii) ověření toho, že byly zavedeny a jsou uplatňovány postupy pro zaznamenávání klíčů PRS, bezpečné zacházení s nimi, jejich ukládání a distribuci.
+
+13. Pokud nelze dosáhnout konsenzu v souladu s obecnými zásadami uvedenými v článku 10 tohoto nařízení, přijme rada pro bezpečnostní akreditaci rozhodnutí většinou hlasů, jak je stanoveno v článku 16 Smlouvy o Evropské unii a aniž je dotčen článek 9 tohoto nařízení. Zástupce Komise a zástupce vysokého představitele se hlasování neúčastní. Předseda rady pro bezpečnostní akreditaci podepisuje jménem rady pro bezpečnostní akreditaci rozhodnutí, která rada pro bezpečnostní akreditaci přijme.

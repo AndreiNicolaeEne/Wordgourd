@@ -1,0 +1,15 @@
+Článek 5 Výrobci prostředků uvedených v článku 3 mohou poskytnout návod k použití v elektronické namísto v tištěné podobě za následujících podmínek:
+
+1) posouzení rizik uvedené v článku 4 prokáže, že poskytnutí návodu k použití v elektronické podobě zachovává nebo zlepšuje úroveň bezpečnosti dosaženou poskytnutím návodu k použití v tištěné podobě;
+
+2) poskytnou návod k použití v elektronické podobě ve všech členských státech, kde je výrobek dostupný nebo uveden do provozu, nebude-li v posouzení rizik uvedeném v článku 4 řádně zdůvodněno jinak;
+
+3) musí mít zaveden systém k poskytnutí návodu k použití v tištěné papírové podobě bez dalších nákladů pro uživatele ve lhůtě stanovené v posouzení rizik uvedeném v článku 4 a nejpozději do sedmi kalendářních dnů od obdržení žádosti od uživatele nebo v době dodání prostředku, pokud je tak požadováno v době objednávky;
+
+4) poskytnou na prostředku nebo na letáku informace o předvídatelných mimořádných zdravotních situacích a u prostředků vybavených vestavěným systémem, který vizuálně zobrazuje návod k použití, informace o tom, jak prostředek spustit;
+
+5) zajistí vhodný vzhled a fungování návodu k použití v elektronické podobě a zajistí k tomu účelu doklad o ověření a validaci;
+
+6) u zdravotnických prostředků vybavených vestavěným systémem vizuálně zobrazujícím návod k použití zajistí, že zobrazení návodu k použití neznemožní bezpečné používání prostředku, zejména monitorování nebo podporu životních funkcí;
+
+7) poskytnou ve svém katalogu nebo jiné vhodné informační podpoře prostředku informace o požadavcích na technické a programové vybavení nutné k zobrazení návodu k použití;

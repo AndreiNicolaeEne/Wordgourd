@@ -1,0 +1,35 @@
+Za ostala značenja, vidi Latinica (razvrstavanje).
+
+Latinska abeceda, također poznata i kao rimska abeceda, jest najkorišteniji alfabetski sistem na svijetu.
+
+Osnovna slova abecede su onakva kakva se koriste u engleskom jeziku, i sastoji se od sljedećih grafema:
+
+Ligature Æ, Œ i simbol ß, kada se koriste u engleskom, francuskom i njemačkom, ne ubrajaju se u posebna slova, već su varijante AE, OE i ss, respektivno. Slova sa dijakritikama također se ne ubrajaju u posebna u ovim jezicima, što nije slučaj sa nekim drugim jezicima koji koriste ovakva slova. Na primjer, å, ä i ö su zasebna slova u švedskom jeziku.
+
+Slova Þ þ, Ð ð, Æ æ i Ƿ ƿ nisu više dio abecede engleskog jezika, ali su u prošlosti to bila.
+
+Vidi Alfabet: Povijest i rasprostiranje za povijesti pisama koji je doveo do rimskog alfabeta.
+
+Smatra se da su Latini prihvatili zapadnu varijantu grčkog alfabeta u 7. vijeku pne. iz Kume, grčke kolonije u južnoj Italiji. Etrurski alfabet se razvio iz alfabeta Kume, a iz njega su Latini preuzeli 21 od izvornih 26 etrurskih slova. Prvobitna latinska abeceda je bila:
+
+C se koristilo za g i k. I se koristilo za i i j.
+
+V se koristilo za u i v. Kasnije je grčko zeta (Ζ) izbačeno i na njegovo mjesto je stavljeno novo slovo G. Nakon osvajanja Grčke u 1. vijeku pne., uvrštena su i slova Y i Z i stavljena na kraj. Sada je abeceda sadržala 23 slova. Sve do srednjeg vijeka nisu dodata slova J (za neslogotvorno I) i U i W (da bi se razlikovali od V).
+
+i time se uvodi veličina koja se naziva ubrzanje ili akceleracija a. Iz Newtonove definicije slijedi da se sila može očitovati i kao promjena mase. To omogućuje da se klasična mehanika javlja kao poseban slučaj teorije relativnosti za brzine koje nisu bliske brzini svjetlosti.
+
+Treći Newtonov zakon (zakon akcije i reakcije) tvrdi da uz svaku silu koja proizlazi iz djelovanja okoline na tijelo javlja protusila ili reakcija koja je iznosom jednaka sili, ali je suprotnoga smjera.
+
+Newtonov zakon gravitacije tvrdi da se bilo koja dva tijela ili čestice uzajamno privlače silom razmjernom njihovim masama m1 i m2, a obrnuto razmjernom kvadratu njihove udaljenosti r :
+
+gdje je: F - uzajamna sila privlačenja između dva tijela (kg), i vrijedi F = F1 = F2,
+
+G - univerzalna gravitacijska konstanta koja otprilike iznosi 6.67428 × 10−11 N m2 kg−2,
+
+m1 - masa prvog tijela (kg), m2 - masa drugog tijela (kg), i
+
+r - međusobna udaljenost između središta dva tijela (m).
+
+Galileijevo načelo relativnosti je načelo klasične fizike za preračunavanje koordinata i brzina čestica između dvaju inercijskih sustava koji se jedan u odnosu na drugi gibaju stalnom brzinom. Vrijedi samo za male brzine. Za brzine bliske brzini svjetlosti vrijede Lorentzove transformacije.
+
+Povijest klasične mehanike, kao i drugih grana fizike (povijest fizike), usko je povezana s razvojem kulture i civilizacije čovječanstva, a sastoji se uglavnom od tri glavna razdoblja: antičke mehanike, srednjovjekovne mehanike i klasične ili Newtonove mehanike, koja obuhvaća i analitičku mehaniku. Mnogi povijesni spomenici govore da su se ljudi bavili mehanikom i u dalekoj prošlosti. Piramide drevnog Egipta, viseći vrtovi Babilona, Stonehenge, hramovi i luke stare Grčke, mostovi i vodovodi starog Rima i mnoge druge građevine, dokazuju da su ljudi već u starom vijeku raspolagali s iskustvenim znanjima s područja mehanike. Ljubljanski drveni kotač je najstariji drveni kotač s osovinom na svijetu, a star je oko 5150 godina. Osim toga, drevni ljudi su se dosta bavili nebeskom mehanikom, promatranjem i proučavanjem gibanja nebeskih tijela, pa se može reći da su prvi početci mehanike istodno s početcima ljudske civilizacije i religije. Mehanizam iz Antikitere je složen mehanički uređaj sa zupčanicima i brojčanicima, a služio je za predviđanje položaja planeta, Sunca i Mjeseca i pretpostavlja se da potječe od 150. do 100. pr. Kr.

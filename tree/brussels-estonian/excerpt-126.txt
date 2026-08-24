@@ -1,0 +1,15 @@
+(6) Komisjon andis 6. septembril 2005 Euroopa standardiasutustele volituse M/372 koostada Euroopa standard(id), milles käsitletakse veepinnal või vees kasutatavate ujuvate vabaajatoodetega seotud põhiriske, nimelt uppumist ja peaaegu uppumist, aga ka muid tootedisainiga seotud riske, nagu eemaletriivimine, toetuspunkti kadumine, suurelt kõrguselt kukkumine, kinnijäämine või takerdumine veepinnast üleval- või allpool, ootamatu ujuvuse kadumine, ümberminek, külmašokk, samuti nende toodete kasutamisest tuleneda võivaid riske, näiteks kokkupõrge või löögid, ning riske, mis on seotud tuule, hoovuste ja loodetega.
+
+(7) Euroopa Standardikomitee võttis komisjoni volituse alusel vastu veepinnal või vees kasutatavate ujuvate vabaajatoodete Euroopa standardite seeria (EN 15649, osad 1-7).
+
+(8) Veepinnal või vees kasutatavate ujuvate vabaajatoodete Euroopa standardite seeria EN 15649 (osad 1-7) vastab volitusele M/372 ja direktiivi 2001/95/EÜ üldisele ohutusnõudele. Nende standardite viited tuleks avaldada Euroopa Liidu Teatajas.
+
+(9) Käesolevas otsuses sätestatud meetmed on kooskõlas direktiivi 2001/95/EÜ alusel loodud komitee arvamusega,
+
+ON VASTU VÕTNUD KÄESOLEVA OTSUSE: Artikkel 1
+
+Järgmised Euroopa standardid vastavad neis käsitletavate ohtude osas direktiivi 2001/95/EÜ üldisele ohutusnõudele:
+
+a) EN 15649-1:2009 + A1:2012 „Veepinnal või vees kasutatavad ujuvad vabaajatooted - 1. osa: Klassifikatsioon, materjalid, üldised nõuded ja katsemeetodid”;
+
+b) EN 15649-2:2009 + A1:2012 „Veepinnal või vees kasutatavad ujuvad vabaajatooted - 2. osa: Info kasutajatele”;

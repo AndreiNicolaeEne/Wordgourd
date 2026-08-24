@@ -1,0 +1,15 @@
+2. Za namene odstavka 1 sklenitev pogodbe pomeni „opravljeno transakcijo“, kot navaja člen 25(3) Direktive 2004/39/ES Evropskega parlamenta in Sveta (4).
+
+3. Kadar se pripravi eno poročilo v imenu obeh nasprotnih strank, vsebuje informacije iz razpredelnice 1 Priloge v zvezi z vsako nasprotno stranko. Informacije iz razpredelnice 2 Priloge se predložijo le enkrat.
+
+4. Kadar se v imenu obeh nasprotnih strani pripravi eno poročilo, se to navede, kot je določeno v polju 9 razpredelnice 1 Priloge.
+
+5. Kadar ena nasprotna stranka repozitoriju sklenjenih poslov sporoči podrobnosti pogodbe v imenu druge nasprotne stranke ali tretji subjekt repozitoriju sklenjenih poslov poroča o pogodbi v imenu ene ali obeh nasprotnih strank, podatki, ki se sporočijo, zajemajo celovit sklop podrobnosti, ki bi se sporočile, če bi o pogodbah repozitoriju sklenjenih poslov ločeno poročala posamezna nasprotna stranka.
+
+6. Kadar pogodbe o izvedenih finančnih instrumentih vključujejo lastnosti, ki so značilne za več kot eno osnovno sredstvo, kot je opredeljeno v razpredelnici 2 Priloge, se v poročilu navede razred sredstva, kateremu po dogovoru nasprotnih strank pogodba najbolj ustreza, preden se poročilo posreduje repozitoriju sklenjenih poslov.
+
+Člen 2 Sklenjeni posli z opravljenim kliringom
+
+1. Kadar nato CNS opravi kliring obstoječe pogodbe, ga je treba sporočiti kot spremembo obstoječe pogodbe.
+
+2. Kadar je pogodba sklenjena na mestu trgovanja in njen kliring opravi CNS tako, da ena nasprotna stranka ne pozna identitete druge nasprotne stranke, nasprotna stranka poročevalka določi navedeni CNS kot svojo nasprotno stranko.

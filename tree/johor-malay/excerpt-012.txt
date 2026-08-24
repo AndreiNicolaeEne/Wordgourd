@@ -1,0 +1,27 @@
+Nombor kompleks ialah gabungan nombor nyata dan nombor khayalan. Nombor kompleks mempunyai bentukdi mana dan ialah nombor nyata, dan ialah unit khayalan.
+
+| Secara terminologi, dikatakan sebagai bahagian nyata nombor manakala dikatakan sebagai bahagian khayalan nombor kompleks itu. Bahagian nyata ditandai dengan fungsi atau dan bahagian khayalan ditandai dengan fungsi atau .
+
+| | Dua nombor kompleks adalah sama jika dan hanya jika bahagian-bahagian nyatanya sama dan bahagian-bahagian khayalannya sama. Maka;
+
+Set bagi semua nombor kompleks diwakili dengan .
+
+Perkataan 'nombor kompleks' dikenalkan oleh Carl Friedrich Gauss. Perkataan "kompleks" itu sendiri mencerminkan idea untuk menggabungkan kedua-dua bahagian nyata dan khayalan.
+
+Nombor kompleks boleh diplotkan atas satah Cartes.
+
+Paksi- dilabelkan sebagai paksi nyata manakala paksi- dilabel sebagai paksi khayalan. Satah ini sekarang dekenali sebagai satah kompleks.
+
+Operasi aritmetik asas atas nombor kompleks boleh menghasilkan hasilan unik.
+
+, , Di mana , , dan adalah nombor nyata. , Di mana , , dan adalah nombor nyata.
+
+Di mana , , , adalah nombor nyata dan . Konjugat bagi suatu nombor kompleks ditandai dengan adalah nombor kompleks dimana tanda bahagian khayalan terbalik. Jadi;
+
+Konjugat nombor kompleks juga ditandai dengan .
+
+Tersebut adalah rumus-rumus konjugat nombor kompleks;
+
+Konjugat datang daripada perkataan bahasa Latin 'coniugatus' yang datang dicantum dengan 'con' dan 'jugam' yang bermaksud 'bersama' dan 'terikat'.
+
+Nilai mutlak, modulus atau magnitud ditakrifkan sebagai jarak suatu nombor daripada 0. Mengikut definisi ini, nilai mutlak bagi suatu nombor kompleks ditakrifkan sebagai;

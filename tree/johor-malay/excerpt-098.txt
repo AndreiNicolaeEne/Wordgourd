@@ -1,0 +1,29 @@
+Perisian komputer atau sofwe (Sin.) merupakan himpunan arahan dan data yang dimuatkan dalam komputer yang mampu dijanakan dan dikendalikan sistem terlengkap dalam binaan komputer yang bertindak sebagai pelantar. Ia boleh datang dalam bentuk aturcara atau program, dokumentasi yang menerangkan tataguna dan keperluan sistem, serta data konfigurasi yakni data yang diperlukan atau parameter "setting" membolehkan perisian tersebut beroperasi lalu komputer dapat melakukan sesuatu tugas diarahkan pengguna atau ditentukan pembangun perisian tersebut.
+
+Perisian boleh dibahagikan kepada empat kelas utama iaitu perisian sistem, perisian pengaturcaraan, perisian penggunaan, Perisian untuk tujuan penyelenggaraan dan keselamatan.
+
+Perisian pengendalian membantu mengawal perkakasan komputer, sistem komputer dan sebagai contoh "Operating system", Disk Partition, BIOS, GRUB, MBR dan lain-lain berkaitan.
+
+Perisian pengaturcaraan selalunya menyediakan alatan untuk memudahkan pembikinan perisian itu sendiri. Contohnya pengkompil, penyunting teks dan lain-lain berkaitan .
+
+Perisian penggunaan atau aplikasi membantu menjalankan tugas-tugas bersifat gunaan(tidak berkenaan dengan komputer) seperti mengarang, melukis, mengedit gambar dan sebagainya.
+
+Perisian Penyelenggaran dan Keselamatan atau aplikasi penyelenggaraan dan keselamatanmembantu menjalankan tugas-tugas bersifat selenggara pencegahan dan pembetulan (tidak berkenaan dengan komputer) seperti "error checking", "defragment", "device manager", antivirus dan lain-lain perisian berkaitan dengan penyelenggaraan dan keselamatan.
+
+Jarak astronomi kadang-kala diukur dalam tahun cahaya, terutamanya dalam teks-teks yang popular.
+
+Kelajuan cahaya menjadikannya sangat releven untuk komunikasi. Sebagai contoh, diberikan ukur lilit bumi pada ketinggian 40,075 m dan c, masa terpendek
+
+yang diperlukan untuk maklumat malalui separuh glob ialah 0.067 saat.
+
+Telah diketahui bahawa kelajuan cahaya adalah lebih perlahan di dalam gentian optik dan garisan lurus
+
+jarang muncul dalam situasi komunikasi, masa yang diperlukan untuk ping dari Australia atau
+
+Jepun ke AS dari komputer ke komputer adalah lebih kurang 0.250 saat.
+
+Kelajuan cahaya juga memberi kesan kepada komunikasi tanpa wayar.
+
+Penting untuk diketahui bahawa kelajuan cahaya bukan merupakan "kelajuan muktamad" untuk pemahaman yang biasa. Menurut teori relativiti khas, semua pemerhati akan mendapat kelajuan cahaya yang sama. Seseorang pemerhati yang mengejar perembatan sesuatu cahaya akan mendapati bahawa cahaya masih bergerak menjauhinya dengan kelajuan pembarisnya. Ini membawa kepada sesuatu keadaan yang bercanggah dengan prinsip kelajuan.
+
+Kita semua telah diajar akan sesuatu yang menjadi biasa dalam prinsip kelajuan: jika dua buah kereta menghampiri di antara satu sama lain, setiap satu bergerak dengan kelajuan 50 batu sejam, kita menjangka yang setiap kereta akan menghampiri antara satu sama lain dengan kelajuan hasil daripada penjumlahan kelajuan kedua-dua kereta batu sejam (hingga ke darjah ketepatan yang sangat tinggi).

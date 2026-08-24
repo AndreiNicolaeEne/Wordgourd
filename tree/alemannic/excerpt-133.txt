@@ -1,0 +1,9 @@
+S Arbetsverfahre von ere Dampfmaschine isch aso in zwei Dakt iideilt und isch dorum e Zweitaktverfahre.
+
+In ere atmosphärische Dampfmaschine wird dr Zylinderruum under em Cholbe mit Wasserdampf gfüllt. Im nechste Arbetstakt wird Wasser in dr Zylinder iigsprützt, so dass dr Wasserdampf abchüehlt und drbii kondensiert. Es wird en Underdruck erzügt, so dass dr Cholbe vom üssere Atmosphäredruck in dr Zylinder druckt wird. Für d Bewegig vom Cholbe in die andere Richdig wird s Dampfventil ufgmacht und e Schwungmasse, wo am ene Hebelarm, em sogenannte Balancier, agmacht isch, stosst dr Cholbe zrugg.
+
+Dr bekanntist Verdräter vo dere Bauart isch die atmosphärischi Dampfmaschine vom Thomas Newcomen vo 1712 aa. Die Dampfmaschine si vor allem in Chohlezechene iigsetzt worde, zum s Grundwasser uusezpumpe. Dr exergetisch Wirkigsgrad vo dere Maschine isch under 1 % gläge.
+
+Bi dr Niiderdruckdampfmaschine wird dr Dampf mit eme liichte Überdruck von e baar 100 mbar iigfüehrt. Im Gegesatz zur Newcomen-Dampfmaschine wird nit nume bi dr Kondensation, sondern au bim Fülle vom Zylinder Arbet verrichtet. Das erhöht d Leistigsfähigkeit und isch dr Usgangspunkt für d Wiiterentwicklig vo dr Dampfmaschine zu höchere Dampfdrück gsi. Die bekanntiste Verdräter vo dere Bauart si d Dampfmaschine vom James Watt vo öbbe 1769 aa gsi.
+
+Bi Hochdruckdampfmaschine wird dr Dampf wiit über 100 °C erwermt, so dass sich e höchere Druck ufbaut. Uf en Abchüehlig vom Waserdampf, wo us em Zylinder uusechunnt, cha verzichtet wärde (Uspuffbedriib). Dr Kondensator cha also wägfalle, was dä Maschinetyp in Verbindig mit dr höchere Energiidichti vom Dampf, wo under hochem Druck stoht, erheblig liichter macht und eso dr Iisatz vo Dampfmaschine in Dampflokomotive erst möglig gmacht het.

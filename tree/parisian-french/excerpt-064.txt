@@ -1,0 +1,13 @@
+Pour les articles homonymes, voir Cyan (homonymie).
+
+Le cyan est, par définition, la couleur primaire complémentaire du rouge, dans la synthèse soustractive des couleurs utilisée en photographie argentique en couleurs et en imprimerie.
+
+Avant la fin du XIXe siècle, le préfixe cyan était utilisé en chimie pour désigner les produits « ayant une affinité pour le bleu ».
+
+Le cyan est un bleu-vert. En synthèse soustractive des couleurs, chaque colorant retranche du blanc de départ une partie des rayonnements lumineux. La chromaticité ne suffit pas à définir un colorant. Il faut spécifier la courbe d'absorption spectrale.
+
+En photographie argentique en couleurs, la caractéristique du colorant cyan est déterminée par les colorants coupleurs associés à la couche sensible au rouge obtenus au développement chromogène par réaction de la p-phénylène diamine du développeur, oxydée pendant le processus, sur un phénol ou un naphtol, corrigée par des masques.
+
+En imprimerie, la norme ISO 2846 fixe la courbe d'absorption spectrale et la transparence des encres afin de permettre une reproduction uniforme en quadrichromie. Les coordonnées trichromatiques de l'encre dans le système CIE xy sont x = 0,153, y = 0,196 avec une luminance relative Y = 4,9 ; dans l'espace chromatique uniforme CIE UVW 1964, elles sont U = -54,5, V = 50,9, W = 52,9.
+
+Avec les encres magenta, jaune et noire, le cyan est utilisé dans toutes les imprimantes couleurs à jet d'encre, à sublimation ou à laser. Certaines imprimantes à jet d'encre utilisent deux nuances de cyan : le cyan normal et le cyan clair (light cyan). Le cyan est une couleur assez sombre (en langage d'imprimeur on dit qu'elle « dessine »). Dans les nuances claires, les gouttelettes éparses que dépose l’imprimante pour produire de la couleur deviennent visibles comme une granulation. Avec une encre claire, ces gouttelettes sont plus serrées et moins distinctes.

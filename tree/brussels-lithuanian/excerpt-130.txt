@@ -1,0 +1,19 @@
+(3) todėl Direktyva 2007/46/EB, nustatanti motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, sudėtinių dalių ir atskirų techninių mazgų patvirtinimo pagrindus (Pagrindų direktyva) (3), turėtų būti atitinkamai iš dalies pakeista;
+
+(4) šiame reglamente numatytos priemonės atitinka Motorinių transporto priemonių techninio komiteto nuomonę,
+
+PRIĖMĖ ŠĮ REGLAMENTĄ: 1 straipsnis Taikymo sritis
+
+Šis reglamentas taikomas M1 kategorijos transporto priemonėms, kurios atitinka šiuos reikalavimus:
+
+- jose sumontuotos rankinės pavarų dėžės,
+
+- jų atskaitos masė neviršija 2 610 kg arba jų patvirtinimo išplėtimas suteiktas vadovaujantis Reglamento (EB) Nr. 715/2007 2 straipsnio 2 dalimi.
+
+Šis reglamentas netaikomas transporto priemonėms, skirtoms specialioms socialinėms reikmėms tenkinti, kaip apibrėžta Reglamento (EB) Nr. 715/2007 3 straipsnio 2 dalies c punkte.
+
+2 straipsnis Apibrėžtys Be Reglamente (EB) Nr. 661/2009 pateiktų apibrėžčių, šiame reglamente taip pat taikomos šios apibrėžtys:
+
+1. transporto priemonės tipas atsižvelgiant į pavarų perjungimo indikatorius- grupei priskiriamos transporto priemonės, kurių nesiskiria PPI veikimo charakteristikos ir pavarų perjungimo indikatorių loginės funkcijos, naudojamos pavaros perjungimo momentui nurodyti. Nebaigtinis įvairių loginių funkcijų pavyzdžių sąrašas:
+
+2. PPI veikimo charakteristikos- naudojamų parametrų, pavyzdžiui, variklio greičio, galios poreikio, sukimo momento ir jų pokyčio per tam tikrą laiko tarpą, pagal kuriuos nustatomas PPI signalas ir PPI signalų funkcinė priklausomybė nuo šių parametrų, rinkinys;

@@ -1,0 +1,19 @@
+(3) Należy zatem odpowiednio zmienić dyrektywę 2007/46/WE Parlamentu Europejskiego i Rady z dnia 5 września 2007 r. ustanawiająca ramy dla homologacji pojazdów silnikowych i ich przyczep oraz układów, części i oddzielnych zespołów technicznych przeznaczonych do tych pojazdów (dyrektywa ramowa) (3).
+
+(4) Środki przewidziane w niniejszym rozporządzeniu są zgodne z opinią Komitetu Technicznego ds. Pojazdów Silnikowych,
+
+PRZYJMUJE NINIEJSZE ROZPORZĄDZENIE: Artykuł 1
+
+Zakres Niniejsze rozporządzenie ma zastosowanie do pojazdów kategorii M1, które spełniają następujące wymogi:
+
+- są wyposażone w ręcznie sterowaną skrzynię biegów,
+
+- ich masa odniesienia nie przekracza 2 610 kg lub rozszerzono na nie homologację typu zgodnie z art. 2 ust. 2 rozporządzenia (WE) nr 715/2007.
+
+Niniejsze rozporządzenie nie ma zastosowania do pojazdów przeznaczonych do zaspokajania szczególnych potrzeb społecznych w znaczeniu przyjętym w art. 3 ust. 2 lit. c) rozporządzenia (WE) nr 715/2007.
+
+Artykuł 2 Definicje Do celów niniejszego rozporządzenia stosuje się definicje określone w rozporządzeniu (WE) nr 661/2009 oraz następujące definicje dodatkowe:
+
+1) „typ pojazdu w odniesieniu do sygnalizatora zmiany biegów” oznacza grupę pojazdów, które nie wykazują różnic pod względem parametrów funkcjonalnych sygnalizatora zmiany biegów oraz logiki określania przez sygnalizator zmiany biegów chwili wskazania punktu zmiany biegów. Przykłady różnych logik obejmują, lecz nie ograniczają się do:
+
+(i) wskazywania zmiany biegu na wyższy przy określonych prędkościach silnika;

@@ -1,0 +1,35 @@
+\60\ https://www.census.gov.cgi-bin/sssd/naics/naicsrch .
+\61\ 13 CFR 121.201, NAICS code 515112.
+\62\ http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ECN_2012_US_51SSSZ5&prodType=table .
+
+20. In assessing whether a business concern qualifies as small
+under the above size standard, business affiliations must be
+included.\63\ In addition, to be determined to be a ``small business,''
+the entity may not be dominant in its field of operation.\64\ We note
+that it is difficult at times to assess these criteria in the context
+of media entities, and our estimate of small businesses may therefore
+be over-inclusive.
+
+\63\ ``Concerns and entities are affiliates of each other when
+one controls or has the power to control the other, or a third party
+or parties controls or has the power to control both. It does not
+matter whether control is exercised, so long as the power to control
+exists.'' 13 CFR 121.103(a)(1) (an SBA regulation).
+\64\ 13 CFR 121.102(b) (an SBA regulation).
+
+21.Cable Television and Other Subscription Programming. This
+industry comprises establishments primarily engaged in operating
+studios and facilities for the broadcasting of programs on a
+subscription or fee basis. The broadcast programming is typically
+narrowcast in nature (e.g., limited format, such as news, sports,
+education, or youth-oriented). These establishments produce programming
+in their own facilities or acquire programming from external sources.
+The programming material is usually delivered to a third party, such as
+cable systems or direct-to-home satellite systems, for transmission to
+viewers.\65\ The SBA has established a size standard for this industry
+of $38.5 million or less. Census data for 2012 shows that there were
+367 firms that operated that year. Of this total, 319 operated with
+annual receipts of less than $25 million.\66\ Thus under this size
+standard, the majority of firms offering cable and other program
+distribution services can be considered small and may be affected by
+rules adopted.

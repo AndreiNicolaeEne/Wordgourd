@@ -1,0 +1,9 @@
+Roulette er et casinospil navngivet efter et fransk ord der betyder "lille hjul". I spillet drejer en croupier et hjul i en retning og får en kugle til at spinne i den anden retning på en cirkulært skrå overflade der omgiver hjulet. Kuglen falder til sidst ned på hjulet og ned i en af de 37 (i europæisk roulette) eller 38 (i amerikansk roulette) farvede og nummerede huller i hjulet. Numrene skifter mellem lige mange sorte og røde felter, 18 af hver, samt 1 (europæisk) eller 2 (amerikansk) grønne felter, de såkaldte nuller. Den ægte amerikanske roulette med den 38. "lomme" med dobbelt-nullet findes endnu slet ikke på de hjemlige kasinoer. Det ekstra felt ville lægge beslag på ca. 1/38 af slagene og på ca. 1/38 af alt det, der blev sat på spil i område nr. 0-36. Det ville være en ekstra belastning for spillerne.
+
+I det europæiske hjul er summen af de atten numre til højre (og til venstre) for zero netop 333. På spillestedet må man som gæst dog ikke bruge lommeregner, mobiltelefon og den slags.
+
+Selve spillet består af deltagerne foretager et eller flere "bet". Et bet er fx "Sort", "Rød", "Ulige", "Lige", eller en sammensætning af et eller flere numre, og payoff af hvert bet udregnes separat. Lander roulettekuglen ikke i et nummer tilsvarende pågældende bet tabes indsatsen. Lander Roulettekuglen i et nummer i bettet, udbetales gevinsten 36/(antallet af numre i bettet).
+
+Eksempel: Der er 18 sorte felter. Vindes på bettet "sort" udbetales 36/18 = 2 (medregnet indsatsen, dvs man får tilsvarende tilbage som man bettede)
+
+Hvis bettet "nummer 7" vindes, udbetales 36/1 = 36 (medregnet indsatsen, dvs man får 35 udover jetonen man bettede)

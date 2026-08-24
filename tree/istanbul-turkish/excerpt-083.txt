@@ -1,0 +1,9 @@
+1698 yılında, İngiliz mühendis Thomas Savery (1650-1715), ilk ticari olarak satılan buhar makinesini yapmıştır. Bu makine maden ocağından suyu dışarı atmak amacıyla kullanılmıştır. Madencinin Arkadaşı olarak tanınmaktaydı.
+
+Çalışma prensibi ise şöyledir: Buhar kazanından gelen buhar odacığa dolar. Odacık buhar ile doluyken üzerine soğuk su döküldüğünde suya dönüşen buhar vakum yaratır; böylece odacıktaki su seviyesi yükselir. Vana yardımıyla odaya buhar dolduğunda iş yapılmış olur yani madenden su çekilmiş olur. Bu makinede vanalar insan gücüyle sırayla kapatılıp açılması gerekmektedir.
+
+Yüksek basınçla çalıştığından o günün teknolojisine göre bu tip bir buharı güvenli biçimde kullanacak düzeyde değildi. Ayrıca gerekli buharı oluşturmak için suyu ısıtmada çok fazla yakıt gerekliydi. Bu tip makinelerin öncülü olan Savery'nin makinesi verimi düşük olduğundan fazla kullanılmadı fakat kendinden sonra gelen makineler için temel teşkil etti.
+
+Makinenin çalışma şeması 1712 ‘de İngiliz mühendis Thomas Newcomen (1663-1729) yeni bir tür buhar makinesi geliştirdi. Bu makinenin Savery Makinesinden en büyük avantajı pistonun bir zincir yardımıyla tahterevalli benzeri bir tür kaldıraca tutturulmuş olmasıydı. Bu kaldıracın diğer ucu ise bir tür tulumbaya bağlanmıştı. Piston silindirin en üst noktasında iken silindirin içine gönderilen soğuk su buharı yoğunlaştırıyordu. Böylece atmosferik basınç pistona aşağıya doğru kuvvet uyguladığı anda su madenden yükseliyordu. Buhar pistona dolunca bu çevrim tekrar ediyordu.
+
+Ayrıca daha az tehlikeliydi. Yine de makine istenilen verime ulaşamamış ve yakıt tüketimi azalmamıştı.

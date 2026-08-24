@@ -1,0 +1,21 @@
+Glícidos: Este nome provén da palabra grega glykýs, que significa "sabor doce", xa que a maioría derivan da glicosa e teñen ese sabor. Pero non todos teñen sabor doce (o amidón non, por exemplo).
+
+Azucres: Este termo só debería usarse para os monosacáridos e disacáridos, xa que a maioría dos demais non teñen o sabor do azucre. En singular (azucre) utilízase para referirse á sacarosa ou azucre de mesa (un disacárido).
+
+Sacáridos: Provén do grego σάκχαρον (saccharon) que significa "azucre", palabra que é a raíz do nome da maioría dos tipos de carbohidratos: monosacáridos, disacáridos, oligosacáridos e polisacáridos.
+
+Neste artigo utilizaranse principalmente as denominacións carbohidrato e glícido.
+
+Unha primeira clasificación baséase na súa complexidade molecular, é dicir, no seu grao de polimerización:
+
+Simples: tamén chamados xenericamente azucres:
+
+monosacáridos disacáridos Complexos: polisacáridos.
+
+Algúns autores subdividen este grupo en oligosacáridos (con 3 a 9 átomos de carbono) e polisacáridos (con 10 ou máis). Outros autores inclúen os disacáridos entre os oligosacáridos. O límite de 10 unidades entre oligosacáridos e polisacáridos é arbitrario.
+
+A radiación electromagnética é unha combinación de campos eléctricos e magnéticos oscilantes e perpendiculares entre si que se propagan a través do espazo transportando enerxía dun lugar a outro. A luz visíbel é unha das partes da radiación electromagnética. A diferenza doutros tipos de onda, como o son, que necesitan dun medio material para propagarse, a radiación electromagnética pódese propagar no baleiro. No século XIX pensábase que existía unha substancia indetectable chamada éter que ocupaba o baleiro e servía de medio de propagación das ondas electromagnéticas. James Clerk Maxwell desenvolveu as súas ecuacións das que se desprende que un campo eléctrico variante no tempo xera un campo magnético e viceversa, a variación temporal do campo magnético xera un campo eléctrico. Pódese visualizar a radiación electromagnética como dous campos que se xeran mutuamente, por iso non necesitan ningún medio material para propagarse. As ecuacións de Maxwell tamén predín a velocidade de propagación no baleiro (que se representa c e ten un valor de 299.792,458 km/s), e a súa dirección de propagación (perpendicular ás oscilacións do campo eléctrico e magnético, que á súa vez son perpendiculares entre si). Heinrich Rudolf Hertz demostrouno experimentalmente en 1888.
+
+O estudo teórico da radiación electromagnética denomínase electrodinámica e é un subcampo do electromagnetismo.
+
+Dependendo do fenómeno estudado, a radiación electromagnética pódese considerar, no canto de como unha serie ondas, como un chorro de partículas, chamadas fotóns. Esta dualidade onda-corpúsculo fai que cada fotón teña unha enerxía proporcional á frecuencia da onda asociada, dada pola relación de Planck:

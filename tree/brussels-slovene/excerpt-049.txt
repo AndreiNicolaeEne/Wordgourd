@@ -1,0 +1,15 @@
+2. Odstavek 1 se ne uporablja: (a) kadar napajalni KNPVP preteklo uspešnost svojega centralnega KNPVP predstavlja kot merilo; ali
+
+(b) kadar je bil napajalni sklad kot napajalni KNPVP ustanovljen za centralnim KNPVP in kadar so izpolnjeni pogoji iz člena 19 in kadar so simulirani rezultati prikazani za več let pred ustanovitvijo napajalnega sklada na podlagi pretekle uspešnosti centralnega KNPVP; ali
+
+(c) kadar evidenca o pretekli uspešnosti napajalnega KNPVP izhaja iz časa, ko še ni deloval kot napajalni sklad, vendar se je njegova evidenca ohranila v paličnem stolpčnem grafu za zadevna leta, pri čemer se bistvena sprememba označi v skladu z zahtevo iz člena 17(2).
+
+ODDELEK 5 Strukturirani KNPVP Člen 36 Poslovni načrti
+
+1. Dokument s ključnimi podatki za vlagatelje o strukturiranem KNPVP ne vsebuje oddelka z naslovom „Pretekla uspešnost“.
+
+Za namene tega oddelka strukturirani KNPVP pomenijo KNPVP, ki vlagateljem na vnaprej določen datum zagotovijo izplačila na osnovi algoritma, ki so povezana z rezultati ali uresničitvijo sprememb cen ali drugih pogojev, povezanih s finančnimi sredstvi, indeksi ali referenčnimi portfelji ali KNPVP s podobnimi lastnostmi.
+
+2. Za strukturirane KNPVP oddelek dokumenta s ključnimi podatki za vlagatelje z naslovom „Cilji in naložbena politika“ vsebuje razlago, kako enačba deluje ali kako se izračuna izplačilo.
+
+3. Razlago iz odstavka 2 spremlja ilustracija, iz katere so razvidni vsaj trije načrti možnega poslovanja KNPVP. Izberejo se ustrezni načrti, da bi se pokazale okoliščine, v katerih bi enačba lahko ustvarila nizek, srednji ali visok donos, vključno, kjer je primerno, negativen donos za vlagatelja.

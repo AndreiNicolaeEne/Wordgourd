@@ -1,0 +1,19 @@
+Article 6 1. Les fabricants indiquent clairement que les instructions d’emploi du dispositif sont fournies sous forme électronique et non sur un support papier.
+
+Cette information figure sur l’emballage de chaque unité ou, le cas échéant, sur l’emballage commercial. Dans le cas des dispositifs médicaux fixes installés, cette information figure aussi à même le dispositif.
+
+2. Les fabricants donnent des informations sur le mode de consultation des instructions d’emploi électroniques.
+
+Ces informations sont fournies conformément au deuxième alinéa du paragraphe 1 ou, si cela n’est pas possible, sur un document imprimé fourni avec chaque dispositif.
+
+3. Les informations sur le mode de consultation des instructions d’emploi électroniques comprennent:
+
+a) toute information nécessaire à l’affichage de ces instructions;
+
+b) une référence unique donnant un accès direct, et toute autre information nécessaire à l’utilisateur pour identifier et consulter les instructions voulues;
+
+c) les coordonnées du fabricant; d) des informations indiquant où, comment et dans quel délai il est possible de demander et d’obtenir les instructions d’emploi sur un support papier sans frais supplémentaires, conformément à l’article 5.
+
+4. Quand une partie de la notice d’instruction est destinée au patient, cette partie ne peut pas être fournie sous un format électronique.
+
+5. Les instructions d’emploi électroniques sont disponibles dans leur intégralité sous forme de texte pouvant comprendre des symboles et des graphiques, et comprennent au moins les mêmes informations que la version papier. Des fichiers vidéo ou audio peuvent être ajoutés au texte.

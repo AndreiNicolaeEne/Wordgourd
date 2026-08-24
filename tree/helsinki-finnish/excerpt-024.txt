@@ -1,0 +1,15 @@
+Tietotekniikka tai informaatiotekniikka (IT) tarkoittaa tietokoneiden ja digitaalisen tietoliikenteen avulla tehtävää tietojen muokkaamista, tallennusta ja hakua. Tietokonejärjestelmä on toiminnallinen kokonaisuus, joka sisältää itse tietokoneen laitteiston lisäksi ohjelmiston ja oheislaitteet, joita tarvitaan tietojen välittämiseen ja tallentamiseen ihmiselle tai toisille tietokoneille.
+
+Aiemmin asiaan on viitattu myös termillä automaattinen tietojenkäsittely (ATK).
+
+Eräissä suomenkielisissä yhteyksissä tietotekniikkaan viitataan tieto- ja viestintäteknologiaa tarkoittavalla englanninkielisellä lyhenteellä ICT (information and communication technology, suomeksi tieto- ja viestintätekniikka). Näistä varsinkin jälkimmäisen käyttö on viime vuosinamilloin? yleistynyt nopeasti erityisesti talouselämässä.
+
+Termi informaatiotekniikka on peräisin vuodelta 1958 Harvard Business Reviewin artikkelista.
+
+Pääartikkeli: Tietokonetekniikan historia
+
+Tietotekniikan varhaishistoria on tietokoneiden ja tietokonetekniikan historiaa.
+
+Tietokonetekniikka alkoi 1880-luvulla reikäkorteista ja reikäkorttikoneista. Ensimmäinen käyttökohde oli Yhdysvaltain vuoden 1890 väestönlaskenta. 1940-luvulla kehitettiin päättelyitä ja laskutehtäviä suorittavia laskukoneita. Ne oli tehty toimimaan ennen transistorien aikakautta elektroniputkilla tai releillä. Myöhempi kehitys johti mikropiirien ja mikroprosessorien kehittämiseen.
+
+Elinkeinoelämän tarpeet ja sovellutukset ovat historiallisesti ohjanneet tietotekniikan kehittymistä ratkaisevalla tavalla. Vaikka nykyään muut sovellutusalueet vaikuttavat nekin merkittävästi tietotekniikan kehitykseen, on elinkeinoelämän sovellutusimu edelleen merkittävä.

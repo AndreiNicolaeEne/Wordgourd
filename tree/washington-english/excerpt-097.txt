@@ -1,0 +1,41 @@
+consistent with the proposed regulations, these final regulations do
+not provide special acceleration rules for an electing corporation in
+bankruptcy proceedings. However, to remove any doubt, the final
+regulations include non-substantive changes to clearly provide that the
+acceleration rules contained therein apply with respect to any electing
+corporation regardless of whether the electing corporation is in a
+title 11 or similar case at the time a mandatory acceleration event
+occurs.
+
+B. Guidance on Built-in Items Commenters made requests for guidance on how the treatment of
+built-in items under section 382 interacts with section 108(i). The IRS
+and Treasury Department believe that this issue is better addressed in
+more general guidance regarding the treatment of built-in items under
+section 382. Accordingly, no guidance on this issue is provided in
+these final regulations.
+
+C. Adjustments to Earnings and Profits The proposed regulations provide that deferred COD income generally
+increases earnings and profits in the taxable year that it is realized,
+and deferred OID deductions generally decrease earnings and profits in
+the taxable year or years in which the deductions would be allowed
+without regard to the deferral rules of section 108(i). The approach
+adopted in the proposed regulations reflects the view that an electing
+corporation has recognized economic income in the year of the
+discharge, enhancing its dividend paying capacity, and has recognized
+an economic cost in the year the OID accrues, decreasing its dividend
+paying capacity. Therefore, earnings and profits are appropriately
+adjusted. The IRS and Treasury Department also recognized that it was
+important to provide general guidance regarding the timing for
+adjustments to earnings and profits so that an electing corporation
+would understand the consequences of making a section 108(i) election.
+A question was raised concerning why the proposed regulations did
+not provide a rule similar to section 301(e) in conjunction with the
+general rule for earnings and profits. The IRS and Treasury Department
+do not believe that such a rule is necessary to achieve the purposes of
+section 108(i). In addition, because adjustments to earnings and
+profits for the relevant years have already been made in accordance
+with the proposed regulations (and Rev. Proc. 2009-37 (2009-36 IRB
+309)), the IRS and Treasury Department believe that a change to the
+earnings and profits rules in these final regulations would be
+burdensome. Accordingly, these final regulations adopt these rules of
+the proposed regulations without change.

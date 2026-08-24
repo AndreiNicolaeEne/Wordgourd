@@ -1,0 +1,11 @@
+Elektromagnetiline vastastikmõju ehk elektromagnetiline interaktsioon on üks neljast fundamentaalsest jõust looduses.
+
+Elektromagnetiline vastastikmõju toimib elektriliselt laetud kehade vahel, tekitades elektromagnetilise jõu. Elektromagnetiline jõud hoiab näiteks aatomis elektronid aatomituuma ümber ja selle abil luuakse keemilised sidemed molekulides.
+
+Kuna elektrilaeng võib olla kas positiivne või negatiivne, siis võib elektromagnetilise vastastikmõju tulemusena tekkinud elektromagnetiline jõud olla nii tõmbejõud (erineva märgiga laengute vahel) kui tõukejõud (samamärgiliste laengute vahel).
+
+Elektromagnetilise vastastikmõju vahendajaks on footon. Kuna footon ei oma seisumassi, siis on elektromagnetilise vastastikmõju ulatus lõpmatu.
+
+Elektromagnetilisel interaktsioonil põhinevad paljud igapäevanähtused, nagu valgus, elekter ja magnetism. Koos vahetusinteraktsiooniga määrab see vastastikmõju aatomite, molekulide ja tahkiste struktuuri ja omadused.
+
+Elektromagnetilise jõu uurimise lähtepunktiks oli elektrilaengute vahel toimivate jõudude uurimine. Umbes 1785. aastast pärit Coulombi seadus määratleb selle jõu kahe punktlaengu vahel analoogselt gravitatsiooniseadusega. Elektrijõudude mõju kaugematele laengutele kirjeldab elektrivälja mõiste. Seda välja ei põhjusta mitte ainult elektrilaengud, vaid ka magnetvälja muutused ajas. Selle seose avastajaks oli eelkõige Michael Faraday. Kui paigal seisvatel elektrilaengutel pole magnetisminähtustega ilmselt mingit seost, siis liikuv elektrilaeng kutsub esile magnetvälja, nagu Hans Christian Ørsted 1820. aastal katsetega kindlaks tegi. Kui selles väljas liigub teine laeng, kogeb see klassikalise elektrodünaamika seaduste kohaselt magnetjõudu, mis on umbes niisama suur kui elektrijõud, seda eeldusel, et laengu liikumise suhteline kiirus on valguse kiiruse suurusjärgus. Klassikaline elektrodünaamika on esimene näide väljateooriast, mis rahuldab Einsteini relatiivsusprintsiipi. Kui elektrodünaamika oleks invariantne ainult Galilei teisenduste suhtes, siis ei saaks olla induktsiooninähtusi ega levida elektromagnetlained.

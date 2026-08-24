@@ -1,0 +1,13 @@
+Mat de geographesche Koordinaten (geographesch Breet a geographesch Längt) kann een d'Lag vun engem Punkt op der Äerd bestëmmen. D'Äerd gëtt dobäi an 360 Längegrade souwéi an 180 Breedegraden opgedeelt. Längegrade verlafen duerch Nord- a Südpol, Breedegrade parallel zum Equator.
+
+Geographesch Koordinate ginn dacks am Sexagesimalsystem uginn, d. h. 1 Grad ass ënnerdeelt a sechzeg Minutten, 1 Minutt nees a 60 Sekonnen.
+
+D'Gradnetz vun der Äerd ass e geduechte Koordinatesystem op der Äerduewerfläch mat Längen- a Breetekreesser déi sech rechtwénkeleg schneiden. Et gëtt fir d'geographesch Bestëmmung vun enger Plaz benotzt. D'Breedegrade ginn dobäi vum Equator aus gezielt, d'Pole leien bei 90° Nord resp. Süd, d'Längegrade gi vun engem willkürleche Nullmeridian no Osten an no Weste gezielt bis 180°. D'Festleeë vun de Wénkelen ass deem an der Mathematik gebräichleche Kugelkoordinatesystem entgéintgesat.
+
+Bis Ufank vum 20. Joerhonnert waren a verschiddene Länner ënnerschiddlech Nullmeridiane gebräichlech (z. B. de Ferro-Meridian vun El Hierro an de Meridian vu Paräis). Haut gëtt weltwäit de Meridian vu Greenwich benotzt.
+
+Och kënne geographesch Koordinate jee no Land ënnerschiddlech Bezuchssystemer hunn, deenen hir Referenzellipsoiden dem regionale Geoid ugepasst sinn. International gëtt haut meeschtens d'World Geodetic System 1984 (WGS84) gebraucht.
+
+Genee Positiounsdonnéeë sinn an der Loftfaart an an der Nautik erfuerdert. Do gi geographesch Breet a Längt a Grad an Minutten uginn, z. B. Zugspitze Lat = 47° 25' N oder Nord, Lon = 010° 59' E oder Ost.
+
+Bouminutte ginn dezimal weider ënnerdeelt.

@@ -1,0 +1,21 @@
+Evolutae civilizationis exsistentia in Bangladesa hodierna, velut orientalis pars regionis notioris cum nomine Bengaliae multo tempore abhinc originem trahit. Civilizationum ante annum 700 a.C.n. exsistentium indicia Buddhisticorum monasteriorum modo inventae sunt. Quod ad socialium structurarum circa annum 1000 a.C.n. exsistentiam attinet, inventa indicia non omnino convincunt. Primitivae aliquot civilizationes Buddhismo et Hinduismo affectae sunt. Septemtrionalis Bangladeshae pars complures architecturae in mole locos, templorum monasteriorumque modo, possidet, quod huius religiosorum ponderum generis exsistentiam consolidat.
+
+Bengalia in Islamismum ineunte saeculo XIII se convertit et per saeculum XVI prosperum commercialis industrialisque intermutationis sedes facta est, Tartaris regnantibus. Europaei mercatores exeunte saeculo quinto decimo advenerunt et Societas Britannica Indiae Orientalis regionem usque ad exeuns saeculum XVIII dominata est, e qua Britanni dicionem in totam Indiam extenderunt. Ubi anno 1947 India libertatem consecuta est, aliquot politicae voluntates civitatem in civitates duas dividi provocaverunt: Pacistaniam, praecipue Musulmanam; et Indiam, praecipue Hinduisticam.
+
+Mille annis postea, ad aequationes magis intricatas solvendas, mathematicis oportuit novos numeros comperiri, sicut numeros irrationales et numeros complexos. Aequatio celeberrima, quae multos tales numeros simul proponit, est aequatio Euleri
+
+ubi e = 2.71828... est numerus Euleri, i = unitas imaginaria, π = 3.14159... numerus pi, et -1 unitas negativa. Deinde anno 1806 Ioannes Robertus Argand demonstravit theorema fundamentale algebrae, quod dixit esse exactiter n solutiones distinctas cuique aequationi polynomiali gradus n
+
+ubi sunt coefficientes valoribus complexis. Independenter postea Gauss ea theorema quoque demonstravit annis 1816 et 1849.
+
+Saeculo undevicensimo, mathematici etiam novas structuras algebraicas e numeris factas comminiscerunt sicut quaterniones, vectores, matrices, et tensores. Tales sunt perutiles non modo ad simultanea aequationum systemata solvenda, sed hodie etiam ad computationes numericas computatris facendas.
+
+Postquam tanti numeri novi definiuntur, nova algebrae abstractae disciplina incepta est ut numeri suarum operationum, sicut + et *, arithmeticarum contextu abstractiter meditetur et ut condiciones determinentur quibus aequationes algebraicas solvantur.
+
+Res algebrae abstractae sunt numerorum generalizationes classificatae modo axiomatico secundum earum operationes:
+
+Copia = rerum elementalium collectio quaedam sine aut cum operationibus inter elementa definitis.
+
+Grex = copia clausa sub operatione invertibili associativaque, symbolo "+".
+
+Grex abelianus vel commutativus = copia clausa sub operatione invertibili associativaque commuativaque, symbolo "+".

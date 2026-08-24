@@ -1,0 +1,3 @@
+Figura namque que in tertio fuerit gradu, tot centenas denotat, quot in secundo decenas, vel in primo unitates, ut si figura unitatis centum; si binarij, ducenta; si ternarij, trecenta, et novenarij, nongenta.
+
+Ipsa igitur que fuerit in quarto gradu tot millenas quot in tertio centenas, aut in secundo decenas, vel in primo unitates denotat; et sic semper mutando gradum, numerus decuplando ascendit.

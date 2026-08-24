@@ -1,0 +1,11 @@
+4. Andra icke-finansiella motparter än de som anges i artikel 10 i förordning (EU) nr 648/2012 ska inte vara skyldiga att rapportera säkerheter, det uppdaterade marknadsvärdet eller modellberäknade värdet för kontrakt som avses i tabell 1 i bilagan.
+
+5. För kontrakt som clearas via en central motpart ska endast denna tillhandahålla marknadsvärdet.
+
+Artikel 4 Rapporteringsjournal Ändring av uppgifter i transaktionsregister ska sparas i en journal med uppgift om den eller de personer som begärt ändringen, inklusive transaktionsregister självt i förekommande fall, skälet eller skälen till sådan ändring, datum och tidpunkt och en klar beskrivning av ändringen, inklusive de relevanta uppgifternas gamla och nya innehåll enligt fälten 58 och 59 i tabell 2 i bilagan.
+
+Artikel 5 Ikraftträdande Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i Europeiska unionens officiella tidning.
+
+Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.
+
+Utfärdad i Bryssel den 19 december 2012.

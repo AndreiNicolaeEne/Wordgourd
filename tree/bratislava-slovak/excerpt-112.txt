@@ -1,0 +1,11 @@
+Priestupný rok je dlhší, ako obyčajný rok a vkladá sa v intervale podľa daného kalendára. Používa sa v slnečných (solárnych) (juliánskych, gregoriánskych) aj lunisolárnych kalendároch na vyrovnávanie rozdielov medzi dĺžkou kalendárneho a tropického roka. Dĺžka kalendárneho roka je daná istým počtom dní alebo mesiacov odvodených od dĺžky rotovania Zeme okolo svojej osi, resp. dĺžky rotovania Mesiaca okolo Zeme, kým tropický rok je daný dĺžkou obiehania Zeme okolo Slnka, ktorý ovplyvňuje striedanie sa ročných období.
+
+V solárnych kalendároch máva priestupný rok namiesto 365 dní 366 dní, v lunisolárnych namiesto 12 mesiacov 13 mesiacov.
+
+Kalendárny rok má 365 dní. No keďže jeden tropický rok je dlhý 365,24219 dní, musí po čase dôjsť k odchýlke jedného dňa. To nastane raz za štyri roky a práve vtedy sa vkladá jeden deň navyše, ktorý sa často nazýva priestupný deň (pozri juliánsky kalendár). Tým sa docieli hodnota 365,25 dňa na rok.
+
+Ani to nie je dostatočne presná dĺžka tropického roka. Za tisíc rokov dôjde k posunu o 7,81 dní, ktoré budú nadbytočné oproti skutočnosti. Preto gregoriánsky kalendár spresnil, že roky deliteľné 100 sú priestupné iba vtedy, ak sú deliteľné 400. Priestupné boli napríklad roky 1600, 2000 a pod. Priestupné nie sú roky 1700, 1800, 1900, 2100 atď. Tým sa dosiahne priemerná hodnota 365,2425 dňa na rok. Odchýlka gregoriánskeho kalendára je teda oproti skutočnosti 31 dní, ktoré nadbytočné za 10 tisíc rokov.
+
+Priestupný deň je mimoriadny deň, ktorý sa pridáva do kalendára, aby kalendárny rok svojou dĺžkou čo najviac zodpovedal tropickému roku. Rok s týmto dňom sa nazýva priestupný rok.
+
+História priestupných dní siaha až do starovekého Egypta, keď sa v roku 238 pred Kr. zaviedol dodatočný deň každý štvrtý rok.

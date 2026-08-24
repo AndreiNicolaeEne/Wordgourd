@@ -1,0 +1,15 @@
+2) tie elektroniskā formāta lietošanas pamācības nodrošina visās dalībvalstīs, kurās ražojums ir pieejams tirgū vai tiek lietots, ja to pamato 4. pantā minētais riska novērtējums;
+
+3) tiem ir noteikta kārtība, kādā lietotājiem bez papildu izmaksām laika periodā, kas noteikts 4. pantā minētajā riska novērtējumā, un ne vēlāk kā septiņu kalendāro dienu laikā pēc lietotāja pieprasījuma saņemšanas vai, ja pasūtījuma veidlapā pieprasīts, piegādājot ierīci, nodrošina lietošanas pamācības papīra formātā;
+
+4) tie uz ierīces vai pamācībā norāda informāciju par paredzamām ārkārtas medicīniskām situācijām un attiecībā uz ierīcēm ar integrētu sistēmu lietošanas pamācību nolasīšanai - informāciju par to, kā iedarbināt ierīci;
+
+5) tie nodrošina, ka elektroniskā formāta lietošanas pamācībām ir atbilstošs dizains un tās pienācīgi strādā, un tām paredz attiecīgu pārbaudes un validācijas apliecinājumu;
+
+6) attiecībā uz medicīnas ierīcēm ar integrētu sistēmu lietošanas pamācību nolasīšanai ražotāji nodrošina, ka lietošanas pamācību nolasīšana neietekmē medicīnas ierīču drošu lietošanu, jo īpaši dzīvībai nepieciešamo funkciju uzraudzību vai nodrošināšanu;
+
+7) tie savos katalogos vai citos atbilstošos ierīces pavaddokumentos norāda, kāda programmatūra un datortehnika ir vajadzīga, lai nolasītu lietošanas pamācības;
+
+8) tiem ir noteikta kārtība, kādā skaidri norāda lietošanas pamācības pārskatīšanas laiku un informē ikvienu ierīces lietotāju, vai pārskatīšana veikta drošības apsvērumu dēļ;
+
+9) attiecībā uz ierīcēm, kam ir noteikts derīguma termiņš, izņemot implantējamas ierīces, tie nodrošina, ka elektroniska formāta lietošanas pamācības ir pieejamas vēl vismaz divus gadus pēc pēdējās izgatavotās ierīces derīguma termiņa beigām;

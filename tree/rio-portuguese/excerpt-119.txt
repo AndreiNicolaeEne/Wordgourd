@@ -1,0 +1,3 @@
+Tradicionalmente, a teoria dos números é o ramo da matemática pura que se preocupa com as propriedades dos números inteiros e que envolve muitos problemas que são facilmente compreendidos mesmo por pessoas sem grandes conhecimentos matemáticos. A disciplina veio a ocupar-se com uma classe mais vasta de problemas que surgiram naturalmente do estudo dos números inteiros.
+
+A teoria dos números pode ser subdividida em vários campos, de acordo com os métodos que são usados e das questões que são investigadas, a saber:

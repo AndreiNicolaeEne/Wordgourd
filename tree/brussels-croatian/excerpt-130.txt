@@ -1,0 +1,21 @@
+(4) Mjere predviđene ovom Uredbom u skladu su s mišljenjem Tehničkog odbora za motorna vozila,
+
+DONIJELA JE OVU UREDBU: Članak 1. Područje primjene
+
+Ova se Uredba primjenjuje na vozila kategorije M1 koja ispunjavaju sljedeće zahtjeve:
+
+- opremljena su ručnim mjenjačem, - imaju nazivnu masu do 2 610 kg ili im je homologacija produljena u skladu s člankom 2. stavkom 2. Uredbe (EZ) br. 715/2007.
+
+Ova se Uredba ne primjenjuje na „vozila konstruirana za ispunjavanje posebne društvene potrebe” iz članka 3. stavka 2. točke (c) Uredbe (EZ) br. 715/2007.
+
+Članak 2. Definicije Za potrebe ove Uredbe, uz definicije iz Uredbe (EZ) br. 661/2009, primjenjuju se sljedeće definicije:
+
+1. „tip vozila s obzirom na indikatore stupnja prijenosa” znači skupina vozila koja se ne razlikuju u pogledu funkcionalnih značajki indikatora stupnja prijenosa i logike indikatora stupnja prijenosa za određivanje momenta u kojem treba ukazati na promjenu stupnja prijenosa. Pri tome su između ostalih moguće sljedeće vrste logike:
+
+i. prebacivanje u viši stupanj prijenosa prikazuje se pri određenim brzinama motora;
+
+ii. prebacivanje u viši stupanj prijenosa prikazuje se kad dijagrami specifične potrošnje goriva motora pokažu da će se u višem stupnju postići određeno minimalno poboljšanje potrošnje goriva;
+
+iii. prebacivanje u viši stupanj prijenosa prikazuje se kad se potreban zakretni moment može postići u višem stupnju;
+
+2. „funkcionalne značajke indikatora stupnja prijenosa” znači skup ulaznih parametara, kao što su brzina motora, pogonska snaga i zakretni moment, kao i njihove promjene u vremenu, koji regulira obavijest indikatora stupnja prijenosa i funkcionalnu ovisnost indikatora stupnja prijenosa o tim parametrima;

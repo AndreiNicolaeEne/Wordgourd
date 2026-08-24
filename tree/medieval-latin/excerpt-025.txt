@@ -1,0 +1,17 @@
+Et ut hoc quod dictum est lucidius declarescat, ipsum cum figuris ostendatur.
+
+Si figura septenarij fuerit in primo gradu, et ternarij in secundo, ambe insimul 37 denotant; vel econtra:: figura ternarij in primo, et septenarij in secundo, 73
+
+denotabunt. Item si figura quaternarij fuerit in primo, et unitatis in secundo sic 14, nimirum XIIII denotabunt: vel si figura unitatis fuerit in primo, et quaternarij in secundo sic 41, denotabunt XLI.
+
+Rursus in primo 72, et in secundo faciunt 27; contrarium enim facit 72.
+
+Si autem septuaginta tantum scribere voluerit, ponat in primo gradu 0, et post ipsum ponat figuram septenarii, sic 70; si octuaginta sequatur zephirum figuram octonarij sic 80: hac itaque demonstratione quemlibet numerum a decem usque in centum cum duabus figuris scribere potes.
+
+Cum tribus vero a centum scribitur usque in mille; ut si figura octonarii fuerit in primo, et quinarii in secundo, et unitatis in tertio 158, centum quinquaginta octo denotabunt; et econverso: si figura unitatis fuerit in primo, et quinarii in secundo, et octonarii in tertio 851, octigenta et quinquaginta unum denotabunt; vel econtra: si figura octonarii fuerit in primo, et unitatis in secundo, et quinarii in tertio, denotabunt 518.
+
+Item si permutatim figura quinarii fuerit in primo, octonarii in secundo, et unitatis in tertio, denotabunt 185.
+
+Item si figura unitatis fuerit in primo, octonarii in secundo, et quinarii in tertio, nimirum denotabunt 581: tres vero unitates sic 111, centum undecim faciunt.
+
+Verum si quinquaginta tantum scribere volueris, in primo et in secundo gradu ponas zephyra, et in tertio figuram quinarii hoc modo 500; et sic cum duobus zephyris quemlibet centenariorum numerum scribere poteris.

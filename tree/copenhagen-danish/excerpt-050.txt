@@ -1,0 +1,21 @@
+Logaritmer er en klasse af matematiske funktioner , der opfylder
+
+for alle . kaldes for logaritmens grundtal. er altså det tal (den potens), som skal opløftes i, for at få , og er derfor den inverse funktion til eksponentialfunktionen .
+
+Tager man for eksempel er resultatet 2, fordi .
+
+Før regnemaskinerne blev udbredt, brugte man i stor stil logaritmetabeller med "færdigberegnede" logaritmer til en masse tal, til at lette regnearbejdet med. Eksempel: Skulle man gange to tal med hinanden, slog man tallenes logaritme op i tabellerne, lagde tallenes logaritmer sammen, hvorefter man fandt gangeresultatet ved at tage summens antilogaritme i en anden tabel. De to mest anvendte logaritmer er 10-talslogaritmen med grundtal 10 og den naturlige logaritme med grundtallet e (2,71828...). Brugen af logaritmetabeller er nu stort set blevet erstattet af lommeregnere og computerprogrammer.
+
+Den naturlige logaritme er defineret som
+
+De øvrige logaritmefunktioner kan defineres ud fra den naturlige logaritme ved
+
+Matematikere kalder ofte den naturlige logaritme for blot logaritmen (log), mens de pointerer 10-tallet i 10-talslogaritmen (log10).
+
+Omvendt er ingeniørerens logaritme (log) den med grundtallet 10, og den naturlige logaritme betegnes ln.
+
+Da ingeniørerne var dem, der konstruerede lommeregneren, har deres betegnelser vundet indpas på dette hjælpemiddel.
+
+Logaritmer bruges bl.a. i udregning af visse enheder og værdier, ligesom logaritmiske skalaer ofte ses i koordinatsystemerne til visse grafer.
+
+Logaritmerne spiller en central rolle i matematikken, hvilket skyldes følgende regneregler, som kan benyttes til at omdanne vanskelige multiplikationer eller divisioner til mere simple additioner eller subtraktioner. For positive reelle tal og og et reelt tal x, gælder der, at

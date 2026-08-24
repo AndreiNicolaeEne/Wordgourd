@@ -1,0 +1,13 @@
+2. Pre štruktúrované PKIPCP musí oddiel „Ciele a investičná politika“ dokumentu s kľúčovými informáciami pre investorov obsahovať vysvetlenie toho, ako funguje daný vzorec alebo ako sa počíta výplata zisku.
+
+3. Vysvetlenie uvedené v odseku 2 musí byť sprevádzané príkladom, v ktorom sú znázornené najmenej tri scenáre potenciálnej výnosnosti PKIPCP. Príslušné scenáre sa vyberajú tak, aby zobrazovali okolnosti, za ktorých sa na základe daného vzorca vygeneruje nízka, stredná alebo vysoká návratnosť vrátane, ak je to relevantné, zápornej návratnosti pre investora.
+
+4. Scenáre uvedené v odseku 3 musia umožňovať investorovi, aby plne pochopil všetky účinky mechanizmu výpočtu zahrnutého do vzorca.
+
+Musia sa prezentovať spôsobom, ktorý je verný, jasný a nie zavádzajúci a pri ktorom je pravdepodobné, že ho pochopí priemerný retailový investor. V scenároch sa najmä nesmie umelo zvyšovať dôležitosť konečnej výnosnosti PKIPCP.
+
+5. Scenáre uvedené v odseku 3 musia vychádzať z primeraných a konzervatívnych predpokladov o budúcich trhových podmienkach a pohyboch cien.
+
+Kedykoľvek sa však investori vďaka vzorcu vystavia možnosti významných strát, ako napr. pri kapitálovej záruke, ktorá funguje iba za určitých podmienok, tieto straty sa náležite doložia príkladmi, a to aj vtedy, keď je pravdepodobnosť výskytu príslušných trhových podmienok nízka.
+
+6. Scenáre uvedené v odseku 3 musia byť sprevádzané výrokom, že tieto sú príkladmi, ktoré sú použité s cieľom bližšie ilustrovať vzorec, a ako také nepredstavujú prognózu toho, čo sa môže v skutočnosti stať. Jasne sa pritom uvedie, že pri uvedených scenároch neexistuje rovnaká pravdepodobnosť ich výskytu.

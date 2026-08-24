@@ -1,0 +1,19 @@
+Weiterhin gewinnt jüngst vor dem Hintergrund des Klimawandels auch der umwelttheoretische Aspekt der Architekturtheorie zunehmend an Bedeutung; relevant sind hier v. a. Gesichtspunkte der Umweltverträglichkeit bzw. Klimaneutralität der verwendeten Baustoffe bzw. von deren Herstellungsprozess oder auch die klimatischen Auswirkungen der Beheizungs- und Isolierungssysteme der jeweiligen Bauwerke.
+
+„Theorie der Architektur (ist) disziplinunabhängiges oder […] interdisziplinäres Nachdenken über Architektur, zudem Methodenreflektion, Wissenschafts- und Metatheorie der Architektur.“ (Selbstbeschreibung des Lehrstuhls für Architekturtheorie TU Cottbus)
+
+Architekturtheorie fragt nach Ästhetik, Wesen und Bedeutung der Architektur, erforscht deren „ideen- und geistesgeschichtlichen Hintergründe“ und betreibt deren Einordnung in größere historische, kulturelle, soziale und künstlerische Zusammenhänge. Architekturtheorie ist „Teil [der] Kunstliteratur, die sich zwar mit Architektur [befasst], auch Aussagen zum Berufsbild des Architekten und zur Entwurfslehre [trifft], meist aber zunächst im Zusammenhang mit der allgemeinen Kunsttheorie und der Diskussion an den akademischen Institutionen zu begreifen [ist].“ (Zitate aus Selbstbeschreibung des Lehrstuhls der Architekturtheorie am Karlsruher Institut für Kunstgeschichte)
+
+so nennt man die gewöhnliche Differentialgleichung explizit. Nicht jede Differentialgleichung, die in impliziter Form vorliegt, kann auf eine explizite Form gebracht werden. In den Anwendungen sind explizite gewöhnliche Differentialgleichungen mathematisch einfacher zu verarbeiten. Die höchste vorkommende Ableitungsordnung wird Ordnung der Differentialgleichung genannt. Beispielsweise hat eine explizite gewöhnliche Differentialgleichung 1. Ordnung die Gestalt
+
+Es gibt eine abgeschlossene Lösungstheorie expliziter gewöhnlicher Differentialgleichungen.
+
+Eine gewöhnliche Differentialgleichung ist linear, falls sie linear in der Funktion und ihren Ableitungen ist:
+
+Sie ist semilinear, falls sie zwar in den Ableitungen und der Funktion auf der linken Seite linear ist, die Funktion aber auch von der Funktion und ihren Ableitungen abhängen kann, außer der höchsten Ableitung:
+
+Hängt die gesuchte Funktion von mehreren Variablen ab und treten in der Gleichung partielle Ableitungen nach mehr als einer Variable auf, so spricht man von einer partiellen Differentialgleichung. Partielle Differentialgleichungen sind ein großes Feld, und die Theorie ist mathematisch nicht abgeschlossen, sondern Gegenstand der aktuellen Forschung in mehreren Gebieten.
+
+Ein Beispiel ist die sog. Wärmeleitungsgleichung für eine Funktion
+
+Man unterscheidet verschiedene Typen partieller Differentialgleichungen. Zunächst gibt es lineare partielle Differentialgleichungen. Dabei gehen die gesuchte Funktion und ihre Ableitungen linear in die Gleichung ein. Die Abhängigkeit bezüglich der unabhängigen Variablen kann dabei durchaus nichtlinear sein. Die Theorie linearer partieller Differentialgleichungen ist am weitesten fortgeschritten, jedoch weit davon entfernt, abgeschlossen zu sein.

@@ -1,0 +1,11 @@
+4 artikla Sulautumiset, jakautumiset ja uudelleenjärjestelyt
+
+Jos kyseessä on sulautuminen, jakautuminen tai muu uudelleenjärjestely, joka saattaa vaikuttaa tilastotietojen antamista koskevien velvollisuuksien täyttämiseen, tiedonantaja ilmoittaa, sen jälkeen kun aikomus tällaisen toimen toteuttamisesta on tullut julkiseksi ja kohtuullisessa ajassa ennen kuin se tulee voimaan, asianomaiselle kansalliselle keskuspankille suunnitelluista menettelyistä tämän asetuksen mukaisten tilastointiin liittyvien tiedonantovaatimusten täyttämiseksi.
+
+5 artikla Toimitusajat Kansalliset keskuspankit toimittavat 3 artiklan 1 ja 2 kohdan nojalla ilmoitettavat tilastotiedot EKP:lle viimeistään 15. pankkipäivänä (työajan loppuun mennessä) sen kuukauden päättymisestä, jota toimitettavat tiedot koskevat. Kansalliset keskuspankit päättävät, milloin niiden on saatava tiedot tiedonantajilta tämän määräajan noudattamiseksi.
+
+6 artikla Kirjanpitosäännöt tilastointia varten
+
+1. Ellei 2 tai 3 kohdasta muuta johdu, kirjanpitosäännöt, joita postisiirtolaitokset noudattavat tässä asetuksessa tarkoitettuja tietoja antaessaan, ovat pankkien ja muiden rahoituslaitosten tilinpäätöksestä ja konsolidoidusta tilinpäätöksestä 8 päivänä joulukuuta 1986 annetun neuvoston direktiivin 86/635/ETY (5) kansallisten täytäntöönpanosäännösten ja muiden sovellettavien kansainvälisten kirjanpitostandardien mukaisia.
+
+2. Talletusvelat ja lainat ilmoitetaan kuukauden lopussa maksamatta olevan nimellispääoman suuruisina. Talletusvelkoja ja lainoja ei nettouteta mitään muita saamisia tai velkoja vastaan.

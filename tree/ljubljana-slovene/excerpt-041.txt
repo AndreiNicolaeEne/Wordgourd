@@ -1,0 +1,23 @@
+Téžnost ali gravitácijska sila je ena od štirih osnovnih interakcij v naravi. Je sila, ki povzroča, da telesa z maso privlačijo drug drugega.
+
+V vsakdanjem življenju je gravitacija najbolj opazna kot sila, ki da telesom z maso težo in povzroči, da padejo na tla po spustitvi iz neke višine. Med drugim povzroči tudi povezavo razpršenega materiala v Vesolju, zaradi česar nastanejo makroskopska telesa, kot so Zemlja, Sonce idr. Je tudi odgovorna za vzdrževanje gibanja Zemlje in drugih planetov po tirih okrog Sonca; za vzdrževanju gibanja Lune po tiru okrog Zemlje; za pojav bibavice; za pojav konvekcije, preko katere nastane tok tekočine; za segrevanje notranjosti nastajajočih planetov in zvezd do zelo visokih temperatur itd. Njeni prenašalni delci naj bi bili gravitoni.
+
+V splošnem se lahko gravitacijsko silo med dvema telesoma, ki sta dovolj daleč narazen, da je njuna velikost zanemarljiva v primerjavi z njuno medsebojno razdaljo in se ju lahko ima za točkasti telesi v njunih težiščih, izračuna z Newtonovim splošnim gravitacijskim zakonom:
+
+kjer so: , – masi teles – razdalja med težiščema teles
+
+– gravitacijska konstanta (Splošna) gravitacijska konstanta je enaka:
+
+Enačba pa tudi ne velja le za točkasta telesa, pač pa tudi za homogeni krogli z razdaljo r med njunima središčema. Omeniti je treba naslednji 2 dejstvi:
+
+gravitacijska sila je vedno privlačna (torej nikoli odbojna).
+
+gravitacijska sila je zelo šibka, razen v primeru, da ima vsaj eno od teles zelo veliko maso (npr. asteroidi, planeti ali zvezde).
+
+Moderna fizika sicer opisuje gravitacijo s pomočjo splošne teorije relativnosti, pri kateri je gravitacija posledica ukrivljenja prostor-časa.
+
+Gradnja stolnice se je začela leta 1248 in se je ustavila leta 1473, ter ostala nedokončana. Delo so nadaljevali v 19. stoletju in jo končali po prvotnem načrtu leta 1880. Je 144,5 metrov dolga, 86,25 m široka in njena zvonika sta visoka približno 157 m. Stolnica je največja gotska cerkev v severni Evropi in ima druga najvišja zvonika (po Ulmski cerkvi). Njeni ogromni fiali obvladujeta največje pročelje katerekoli cerkve na svetu. Kor ima največjo višino glede na razmerje širine, 3,6 :1, kar je več kot katera koli srednjeveška cerkev.
+
+Kölnski srednjeveški gradbeniki so načrtovali veliko strukturo kot prostor za relikviarij Treh Kraljev in kot primeren za vlogo kraja čaščenja za svetega rimskega cesarja. Kljub temu, da je v obdobju srednjega veka ostala nedograjena, je stolnica v Kölnu sčasoma postala »mojstrovina izjemne vrednosti« in »močno pričevanje o moči in vztrajnosti krščanske vere v srednjeveški in sodobni Evropi«.
+
+Ko se je gradnja stolnice leta 1248 začela, so na tem mestu že stale zgodnejše zgradbe. Najstarejša je bila morda za shranjevanje zrnja in je morda nasledila rimski tempelj, ki ga je zgradil Mercurius Augustus. Od 4. stoletja dalje so bile na tem mestu krščanske zgradbe, vključno s kvadratno, znano kot najstarejša stolnico, ki jo je naročil Maternus, prvi škof v Kölnu. Prosto stoječa krstilnica iz 6. stoletja se je nahajala na vzhodnem koncu te stolnice, vendar je bila ob gradnji nove stolnice v 9. stoletju porušena. Še danes obstajajo ruševine krstilnice in osmerokotnega krstilnika. Druga cerkev, ki se imenuje stara stolnica, je bila končana leta 818. Uničena je bila v požaru 30. aprila 1248, med rušenjem, ko so se pripravljali na gradnjo nove stolnice.

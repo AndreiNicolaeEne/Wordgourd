@@ -1,0 +1,17 @@
+Arithmetica est disciplina numerorum. Graeci enim numerum ἀριθμός dicebant; ἡ ἀριθμετική (sc. τέχνη) est ergo ars numerorum tractandorum. Quam artem scriptores saeculorum litterarum inter disciplinas mathematicas ideo primam esse voluerunt, quoniam ipsa ut sit nulla alia indiget disciplina. Musica autem, ac geometria et astronomia, quae sequuntur, ut sint atque subsistant istius egent auxilio. Arithmetica sublimior (vel theoria numerorum, pars algebrae) est theoria universalis rerum arithmeticarum.
+
+In medicina malum facultatis calculationes arithmethicas perficiendi vel dyscalculia (in infantibus malum profectus, primaria) vel acalculia (initium demum post malum aliud, secundaria) nominatur.
+
+Numeri disciplinam apud Graecos primum Pythagoram autumant conscripsisse, ac deinde a Nicomacho diffusius esse dispositam; quam apud Latinos primus Apuleius, deinde Boethius Latine verterunt, ut nobis dicit De etymologiarum libri III Isidori Hispalensis.
+
+Diophantus quoque de rebus arithmeticis scripsit. Etiam Euclides, quamquam pluria de geometria scripsit, multa dixit de numeris integris et de arithmetica.
+
+Medio Aevo, Leonardus Pisanus signa numerorum nunc usitata Europae introduxit, ut calculationes faciliores essent quam numeris Romanis utentes.
+
+Additio, ut 2 + 3 = 5 Subtractio, operatio inversa additionis, ut 5 - 3 = 2
+
+Multiplicatio, ut 2 × 3 = 6 Divisio, operatio inversa multiplicationis, ut 6/3 = 2
+
+Potentia, ut 23 = 8 Radicis extractio, operatio inversa potestatem faciendi, ut
+
+Tria principia has operationes regunt: additio et multiplicatio sunt commutativae; additio et multiplicatio sunt associativae; et multiplicatio super additionem se distribuit. Operatio est commutativa si ordo operandorum non refert: 2 + 3 = 3 + 2. Subtractio non est commutativa, quod 2 - 3 = -1, 3 - 2 = +1. Operatio est associativa si licet operandos quamvis disponere: 2 + (3 + 5) = (2 + 3) + 5. Subtractio non est associativa: 5 - (3 - 2) = 5 - (1) = 4, sed (5 - 3) - 2 = (2) - 2 = 0. Distributio multiplicationis super additionem haec est: a × (b + c) = (a × b) + (a × c). Exempli gratia, 5 × 13 = 5 × (10 + 3) = (5 × 10) + (5 × 3) = 50 + 15 = 65.

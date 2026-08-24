@@ -1,0 +1,35 @@
+DEPARTMENT OF TRANSPORTATION Federal Aviation Administration
+
+14 CFR Part 39 [Docket No. FAA-2013-0522; Directorate Identifier 2013-SW-018-AD;
+Amendment 39-17487; AD 2013-10-51]
+RIN 2120-AA64
+
+Airworthiness Directives; Eurocopter France Helicopters
+
+AGENCY: Federal Aviation Administration (FAA), Department of
+Transportation (DOT).
+
+ACTION: Final rule; request for comments.
+
+SUMMARY: We are publishing a new airworthiness directive (AD) for
+Eurocopter France Model AS350B, AS350BA, AS350B1, AS350B2, AS350B3,
+AS350C, AS350D, AS350D1, AS355E, AS355F, AS355F1, AS355F2, AS355N, and
+AS355NP helicopters. This AD requires, before further flight,
+determining whether a single hydraulic main or tail rotor servo-control
+is installed on your helicopter. If a certain servo-control is
+installed, before the further flight, this AD requires replacing that
+servo-control. This AD was prompted by the discovery of excessive axial
+play detected on bearings installed on certain single hydraulic main
+and tail rotor servo-controls (servo-control). The excessive play could
+cause the distributor slide valve to jam in its sleeve. This condition
+could result in jamming the hydraulic flight controls, necessitating
+that the pilot cut off hydraulic power. This action would increase the
+pilot's workload, resulting in possible loss of helicopter control.
+
+DATES: This AD becomes effective to all persons July 31, 2013, except
+those persons to whom it was made immediately effective by Emergency AD
+No. 2013-10-51, issued on May 9, 2013, which contains the requirements
+of this AD.
+The Director of the Federal Register approved the incorporation by
+reference of certain documents listed in this AD as of July 31, 2013.
+We must receive comments on this AD by September 16, 2013.

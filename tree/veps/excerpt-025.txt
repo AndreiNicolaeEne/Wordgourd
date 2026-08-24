@@ -1,0 +1,5 @@
+ühthine algebr, erasti nimi om nügüd'aigaine algebr vai abstraktine algebr. Siš aksiomatiziruidas da tedoitadas kaikiš ühthižembid algebraližid strukturoid, mugomid kut gruppad, renghad i kendad;
+
+universaline algebr. Siš tedoitadas ühthižid kaikiden algebraližiden stukturoiden täht ičendoid. Lugetas ühthižen algebran alajaguseks;
+
+linearine algebr. Siš tedoitadas vektoravaruziden ičendoid (sen paloin matricoid);

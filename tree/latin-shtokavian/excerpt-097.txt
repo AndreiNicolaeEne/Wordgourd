@@ -1,0 +1,17 @@
+Jedan od mnogih faktora za stvaranje današnje hip hop muzike je jamajkanski stil zvan Dub, koji se uzdigao kao podvrsta Reggaea u 1960-ima. U dub muzici su producenti kao što su King Tubby stvarali instrumentalne verzije popularnih reggae pjesama za svrhe klubova i zvučnih sastava; otkrili su da plesači bolje reagiraju na produžene, izolirane ritmove pjesama, često predstavljajući čvrste nastupe udaraljki i snažne bas-linije.
+
+Ubrzo su MC-evi koji su vodili plesove počeli pričati preko instrumentalnih ploča i vještine MCeva poput U-Roya, Dr. Alimontada i Dillingera su im pomogle da dostignu popularnost. Ova se tradicija nastavlja u današnjoj Dancehall muzici. 1967., jamajkanski imigranti poput DJ Kool Herca primijenili su metode Dub dionica na Funk dionice koje su bile popularne u New Yorku. Prema Davidu Topu, reggae nije bio popularan među hip hop obožavaocima u ranim godinama hip hopa, unatoč njegovu uticaju.
+
+Fresnelova formula daje spekularnu reflektansu, , za nepolarizovano svetlo intenziteta , pod upadnim uglom , dajući intenzitet spekularno reflektovanog zraka intenziteta , dok je refraktivni indeks prelamanja površinskog uzorka .
+
+Fresnelova jednačina data je na sledeći način:
+
+Hrapavost površine u mikrometarskom opsegu utiče na nivoe spekularne refleksije. Dijagram desno prikazuje refleksiju pod uglom na hrapavoj površini sa karakterističnom visinom hrapavosti . Razlika u putanji između zraka odbijenih od vrha i dna površinskih neravnina je:
+
+Kada je talasna dužina svetlosti , fazna razlika je:
+
+Ako je malo, dva zraka (pogledajte dijagram) su skoro u fazi i stoga se površina uzorka može smatrati glatkom. Ali kada je , tada zraci nisu u fazi i putem interferencije dolayi do međusobnog poništavanja. Nizak intenzitet spekularno reflektovane svetlosti znači da je površina hrapava i rasipa svetlost u drugim pravcima. Ako je proizvoljan kriterijum za glatku površinu , tada se zamenom u gornjoj jednačini dobija:
+
+Ovo stanje glatke površine poznato je kao Rejlijev kriterijum hrapavosti.
+
+Najranija istraživanja percepcije sjaja pripisuju se Ingersolu koji je 1914. ispitivao efekat sjaja na papiru. Kvantitativnim merenjem sjaja pomoću instrumenata Ingersol je svoje istraživanje zasnovao na teoriji da je svetlost polarizovana u spekularnoj refleksiji, dok je difuzno odbijena svetlost nepolarizovana. Ingersolov „glarimetar“ imao je spekularnu geometriju sa uglovima upada i posmatranja od 57,5°. Korišćenjem ove konfiguracije sjaj je izmeren kontrastnom metodom koja je oduzela spekularnu komponentu od ukupne refleksije pomoću polarizacionog filtera.

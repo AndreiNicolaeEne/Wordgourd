@@ -1,0 +1,31 @@
+\16\ See Remand NOPR, 145 FERC ] 61,158 at P 85. Further,
+currently-effective Reliability Standard IRO-009-1, Requirement R4
+states that ``[w]hen actual system conditions show that there is an
+instance of exceeding an IROL in its Reliability Coordinator Area,
+the Reliability Coordinator shall, without delay, act or direct
+others to act to mitigate the magnitude and duration of the instance
+of exceeding that IROL within the IROL's Tv.''
+
+17. Furthermore, the revised definitions of operational planning
+analysis and real-time assessment are critical components of the
+proposed TOP and IRO Reliability Standards and, together with the
+definitions of SOLs, IROLs and operating plans, work to ensure that
+reliability coordinators, transmission operators and balancing
+authorities plan and operate the bulk electric system within all SOLs
+and IROLs to prevent instability, uncontrolled separation, or
+cascading. In addition, the revised definitions of operational planning
+analysis and real-time assessment address other concerns raised in the
+Remand NOPR as well as multiple recommendations in the 2011 Southwest
+Outage Blackout Report.\17\
+
+\17\ NERC Petition at 17-18. Outage Coordination
+
+18. In the NOPR, the Commission explained that NERC had addressed
+concerns raised in the Remand NOPR with respect to the IRO standards
+regarding planned outage coordination. In the Remand NOPR, the
+Commission expressed concern with NERC's proposal because Reliability
+Standards IRO-008-1, Requirement R3 and IRO-010-1a (subjects of the
+proposed remand and now withdrawn by NERC) did not require the
+coordination of outages, noting that outage coordination is a critical
+reliability function that should be performed by the reliability
+coordinator.\18\

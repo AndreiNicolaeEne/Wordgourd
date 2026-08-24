@@ -1,0 +1,28 @@
+paragraph (f)(1) of this AD and before the initial inspection
+required in paragraph (f)(3) of this AD, install access panels as
+follows:
+(i) If the airplane is free of STCs or any other modifications
+affecting the wings, install additional inspection access panels
+following the Accomplishment Instructions Part A of Viking DHC-3
+Otter Service Bulletin No. V3/0002, Revision ``C'', dated April 30,
+2014.
+(ii) If the airplane is fitted with STC SA2009NY (which can be
+found on the internet at: http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgstc.nsf/0/F7309B7D9B008C588625734F00730144?OpenDocument&Highlight=sa02009ny ),
+incorporate additional inspection access panels following the
+Accomplishment Instructions of Viking Air Limited SB 3-STC (03-50)-
+001, Revision ``NC'', dated July 3, 2013.
+Note 1 to paragraph (f)(2)(ii) of this AD: STC SA03-50 would be
+the Canadian equivalent of the United States (FAA) STC SA2009NY.
+(iii) If there are other STCs or modifications affecting the
+wings the operator must contact the FAA to request an FAA-approved
+alternative method of compliance using the procedures in paragraph
+(g)(1) of this AD and 14 CFR 39.19. To develop these procedures, we
+recommend you contact the STC holder for guidance in developing
+substantiating data.
+(3) Based on the accumulated air time on the wings determined in
+paragraph (f)(1) of this AD, perform initial and repetitive
+borescope and visual inspections of both the left-hand and right-
+hand wing box following Part B of the Accomplishment Instructions of
+Viking DHC-3 Otter Service Bulletin V3/0002, Revision ``C'', dated
+April 30, 2014, using the inspection schedules specified in Table 1
+of paragraph (f)(3) of this AD:

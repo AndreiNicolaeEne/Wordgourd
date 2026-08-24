@@ -1,0 +1,7 @@
+2a + b + c = 8 3a - 2b - c = 1 4a - 7b + 3c = 10 haec est aequatio inter matrices:
+
+Si matrix A invertibilis est, solutio AX = B est X = A-1B. Et si non est invertibilis, non exstat solutio.
+
+Matrices quadratae (quae tantas lineas habet quantas columnas) possunt invertibiles esse; matrices non quadratae non sunt.
+
+Matrix idemfactor vel I ext matrix quadrata cuius elementa in diagonale sunt 1 et alia sunt 0: Est idemfactor quod si quemlibet matricem A per I multiplicamus, productum est A ipsa: AI = IA = A.

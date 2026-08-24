@@ -1,0 +1,3 @@
+Z fizyczno-chemicznego punktu widzenia ogień powstaje w wyniku gwałtownego procesu utleniania łatwopalnych gazów pochodzących z materiału palnego. Proces ten rozpoczyna się w momencie dostarczenia materiałowi palnemu wstępnego impulsu w postaci porcji energii (pochodzącej np. z płonącej zapałki bądź zapalniczki) i jest następnie podtrzymywany przez samoczynne uwalnianie się energii cieplnej.
+
+Płomień jest to mieszanina świecących gazów i cząstek ciał stałych (np. sadza). Energia powstająca w procesie spalania, oprócz energii cieplnej, rozprasza się w postaci promieniowania elektromagnetycznego, w tym energii świetlnej, na którą składają się:

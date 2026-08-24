@@ -1,0 +1,15 @@
+Zobrazenie (iné názvy: jednoznačné zobrazenie, funkcia (v širšom zmysle), totálna funkcia (v širšom zmysle), priradenie) je predpis (presnejšie binárna relácia), ktorý priraďuje každému prvku jednej množiny (A) práve jeden prvok druhej množiny (B).
+
+Pojem viacznačné zobrazenie/viacznačná funkcia nie je (napriek svojmu názvu) nikdy zobrazenie/funkcia podľa vyššie uvedenej definície. Pojem parciálna funkcia takisto (napriek svojmu názvu) nie je nevyhnutne zobrazenie/funkcia podľa vyššie uvedenej definície. Pojem (len) "zobrazenie" sa však ojedinele definuje tak, že zahŕňa aj parciálne funkcie.
+
+Pojem jednoznačné zobrazenie je "opačný" pojem k pojmu viacznačné zobrazenie. Pojem totálna funkcia je "opačný" pojem k pojmu parciálna funkcia.
+
+Z historických dôvodov sa hovorí v niektorých prípadoch zobrazeniam (hlavne, ak je definičný obor karteziánska mocina) operácie (napr. hovoríme o operácii sčítania či násobenia).
+
+V minulosti mali viacerí známi matematici svoju vlastnú definíciu funkcie (vždy síce podobnú vyššie uvedenej ale odlišnú).
+
+Výraz funkcia (totálna funkcia) v užšom zmysle je taká funkcia v širšom zmysle, u ktorej je B množinou čísiel (podľa iných zdrojov musí byť navyše A množina čísiel či skupín (usporiadaných n-tíc) čísiel).
+
+Pojem zobrazenie patrí medzi najzákladnejšie v matematike. Pôvodne vznikol ako abstrakcia vzťahov a pozorovaných zákonitostí v prírodných vedách (napr. veľkosť gravitačnej sily, ktorou je priťahované teleso k inému telesu, závisí od ich hmotností; počet jedincov za určitých podmienok je závislý od času a i.).
+
+Zobrazenie (funkcia) z množiny A do množiny B je ľubovoľná podmnožina karteziánskeho súčinu , ktorá spĺňa nasledovné vlastnosti:

@@ -1,0 +1,13 @@
+b) die in Tabelle 2 des Anhangs genannten Angaben zu dem zwischen den beiden Gegenparteien geschlossenen Derivatekontrakt.
+
+(2) Für die Zwecke von Absatz 1 bedeutet „Abschluss eines Kontrakts“ die Tätigung eines Geschäfts im Sinne von Artikel 25 Absatz 3 der Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates über Märkte für Finanzinstrumente (4).
+
+(3) Erfolgt eine Meldung im Namen beider Gegenparteien, so enthält diese die in Tabelle 1 des Anhangs geforderten Angaben zu jeder Gegenpartei. Die in Tabelle 2 des Anhangs genannten Angaben werden nur einmal übermittelt.
+
+(4) Erfolgt eine Meldung im Namen beider Gegenparteien, so ist dies in Feld 9 von Tabelle 1 des Anhangs anzugeben.
+
+(5) Meldet eine Gegenpartei die Einzelheiten eines Kontrakts im Namen der anderen Gegenpartei an ein Transaktionsregister oder meldet ein Dritter einen Kontrakt im Namen einer oder beider Gegenparteien an ein Transaktionsregister, so sind sämtliche Einzelheiten anzugeben, die bei einer getrennten Meldung des Kontrakts an das Transaktionsregister durch die Gegenparteien mitgeteilt worden wären.
+
+(6) Weist ein Derivatekontrakt Merkmale auf, die für mehr als einen der in Tabelle 2 des Anhangs genannten Basiswerte typisch sind, wird in der Meldung angegeben, welche Einigung die Gegenparteien vor Übermittlung der Meldung an ein Transaktionsregister hinsichtlich der Vermögensklasse erzielt haben, der der Kontrakt am ehesten zuzuordnen ist.
+
+Artikel 2 Geclearte Geschäfte (1) Wird ein bestehender Kontrakt anschließend von einer CCP gecleart, sollte das Clearing als Änderung des bestehenden Kontrakts gemeldet werden.

@@ -1,0 +1,11 @@
+Em colorimetria, matiz é uma das três propriedades da cor que nos permite classificar e distinguir uma cor de outra através de termos como vermelho, verde, azul, etc. As outras duas propriedades são a saturação e a luminosidade podendo esta última ser entendida ainda como reflectância ou transmitância.
+
+Matiz também é uma das três dimensões em alguns modelos de cor junto com saturação e luminosidade às quais, às vezes, se junta uma outra dimensão, para emular um outro atributo, a transparência.
+
+Já na teoria das cores, matiz se refere à cor "pura", sem adição de branco ou preto. No círculo de cores desta teoria, o matiz é um elemento posicionado no círculo mais externo cuja cor se torna mais branco na medida em que se aproxima do centro. O matiz também permanece inalterado ao se adicionar sua cor complementar (ou oposta), quando então o matiz se esmaece até se tornar gradualmente cinza.
+
+Há uma correlação entre comprimento de onda e matiz, que se faz notar quando a luz se abre num arco-íris. Estas cores formam parte de um grupo de cores chamadas de cores espectrais.
+
+As cores não intimamente relacionadas com determinados comprimentos de onda de luz podem ser obtidas pela mescla de duas ou mais luzes monocromáticas que, a exemplo do magenta, são agrupadas como cores não espectrais.
+
+Embora haja esta segregação em cores espectrais e não espectrais, um matiz "puro" só seria visível com a presença de uma onda de luz isolada, o que não ocorre na natureza. Mesmo as cores do arco-íris não são monocromáticas, suas cores representam os matizes das ondas dominantes.

@@ -1,0 +1,7 @@
+(3) Ezen követelmények együttes alkalmazásának biztosítania kell a nyomonkövethetőséget és a fogyasztók magas szintű védelmét az élelmiszer- és takarmányláncon keresztül.
+
+(4) A hatósági és a takarmányipari vállalkozók által végzett ellenőrzések kimutatták, hogy egyes olajokat, zsírokat és az ezekből származó, nem takarmányozás céljára szánt termékeket takarmány-alapanyagként használták fel, amely a takarmányban előforduló nemkívánatos anyagokról szóló, 2002. május 7-i 2002/32/EK európai parlamenti és tanácsi irányelvben (4) lefektetett maximális dioxin-határérték átlépéséhez vezetett. Következésképpen, a szennyezett takarmánnyal táplált állatokból származó élelmiszerek közegészségügyi kockázatot jelenthetnek, továbbá a szennyezett takarmány és ennek az élelmiszerpiacról való kivonása pénzügyi veszteségeket vonhat maga után.
+
+(5) A takarmányhigiénia javítása érdekében, a tagállamok illetékességének sérelme nélkül a 183/2005/EK rendelet 10. cikke (2) bekezdésében foglaltak szerint, a nyers növényi olajokat előállító, a növényi eredetű olajokból származó termékeket gyártó és a zsírokat keverő létesítményeket az említett rendelet szerint jóvá kell hagyni, amennyiben ezeket a termékeket takarmányozás céljára szándékozzák felhasználni.
+
+(6) Ezen takarmány-alapanyagok termelésére, címkézésére, tárolására és a szállítására vonatkozó különleges előírásoknak biztosítaniuk kell a veszélyelemzésen és a kritikus ellenőrzési pontokon alapuló rendszerek (továbbiakban: HACCP-rendszer) alkalmazásával szerzett tapasztalatok figyelembevételét.

@@ -1,0 +1,19 @@
+8) musí mít zaveden systém, který bude jasně uvádět, kdy byl návod k použití revidován, a informovat o této revizi každého uživatele daného prostředku, pokud byla revize nutná z bezpečnostních důvodů;
+
+9) u prostředků s definovaným datem ukončení použitelnosti, s výjimkou implantabilních prostředků, musí udržovat návod k použití v elektronické podobě dostupný pro uživatele nejméně dva roky po datu ukončení použitelnosti posledního vyrobeného prostředku;
+
+10) u prostředků bez definovaného data ukončení použitelnosti a u implantabilních prostředků musí udržovat návod k použití v elektronické podobě dostupný pro uživatele po dobu patnácti let od vyrobení posledního prostředku.
+
+Článek 6 1) Výrobci jasně uvedou, že návod k použití prostředku se dodává v elektronické namísto v tištěné podobě.
+
+Tyto informace musí být uvedeny na obalu každé jednotky, nebo v příslušném případě na prodejním obalu. V případě pevně nainstalovaných zdravotnických prostředků musí být tyto informace uvedeny také na samotném prostředku.
+
+2) Výrobci poskytnou informace o tom, jak získat přístup k návodu k použití v elektronické podobě.
+
+Tyto informace musí být poskytnuty podle odst. 1 druhého pododstavce nebo, pokud to není možné, v tištěném dokumentu dodaném s každým prostředkem.
+
+3) Informace o tom, jak získat přístup k návodu k použití v elektronické podobě, musí obsahovat:
+
+a) všechny informace potřebné k zobrazení návodu k použití;
+
+b) jedinečný odkaz, poskytující přímý přístup, a všechny další informace, které uživatel potřebuje k identifikaci příslušného návodu k použití a přístupu k němu;

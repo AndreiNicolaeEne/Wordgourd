@@ -1,0 +1,17 @@
+(3) Europa-Parlamentets og Rådets direktiv 2007/46/EF af 5. september 2007 om fastlæggelse af en ramme for godkendelse af motorkøretøjer og påhængskøretøjer dertil samt af systemer, komponenter og separate tekniske enheder til sådanne køretøjer (Rammedirektiv) (3) bør ændres i overensstemmelse hermed.
+
+(4) Foranstaltningerne i dette direktiv er i overensstemmelse med udtalelse fra Det Tekniske Udvalg for Motorkøretøjer -
+
+VEDTAGET DENNE FORORDNING: Artikel 1 Anvendelsesområde
+
+Denne forordning finder anvendelse på køretøjer i klasse M1, som
+
+- er udstyret med manuel gearkasse - har en referencemasse på højst 2 610 kg, eller som typegodkendelsen udvides til, jf. artikel 2, stk. 2, i forordning (EF) nr. 715/2007.
+
+Nærværende forordning finder ikke anvendelse på »køretøjer udformet med henblik på opfyldelse af specifikke sociale behov« som defineret i artikel 3, stk. 2, litra c), i forordning (EF) nr. 715/2007.
+
+Artikel 2 Definitioner Ved anvendelsen af nærværende forordning gælder foruden definitionerne i forordning (EF) nr. 661/2009 følgende definitioner:
+
+1) »køretøjstype med hensyn til GSI«: en gruppe af køretøjer, som ikke adskiller sig fra hinanden med hensyn til GSI'ens funktionelle egenskaber og den logik, som GSI'en anvender til at bestemme, hvornår der skal indikeres gearskift: Eksempler på forskellig logik kan være (men er ikke begrænset til):
+
+2) »GSI'ens funktionelle egenskaber«: et sæt parametre, såsom motorhastighed, motoreffekt, drejningsmoment og deres variation over tid, som bestemmer GSI-angivelsen og dens funktionelle afhængighed af disse parametre

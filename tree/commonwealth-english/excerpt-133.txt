@@ -1,0 +1,17 @@
+a the basic amount of council tax calculated by an adult social care authority under section 31B or 42B of the Act (as the case may be) is higher than its basic amount of council tax (as so calculated) in relation to the year beginning in 2015; and
+
+b the authority intends to use the additional council tax, or any part of the additional council tax, for the purpose in paragraph (4),
+
+3 a reference in these Regulations to “the adult social care precept” means, in relation to a category of dwellings in the authority’s area, the amount of the additional council tax for that category of dwelling which is attributable to the purpose in paragraph (4) .
+
+4 The purpose referred to in paragraph (3) is the purpose of funding adult social care functions exercised in the year beginning in 2016.
+
+3 In regulation 8 (supply of information by precepting authorities) after paragraph (3), insert—
+
+3A When a relevant precepting authority which is an adult social care authority issues a precept to a billing authority for the year beginning in 2016—
+
+a it must supply the information specified in paragraph (3B) to the billing authority; and
+
+b if an amount stated under section 40(2)(a) of the Act includes an amount attributable to the adult social care precept, it must also supply the information specified in paragraph (3C).
+
+3B The information mentioned in paragraph (3A)(a) is a statement as to whether or not an amount stated under section 40(2)(a) of the Act includes an amount for the adult social care precept.

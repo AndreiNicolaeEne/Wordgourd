@@ -1,0 +1,19 @@
+Flatevidd eller areal er ord som vert brukte for å uttrykka utstrekkinga av eit område.
+
+Einingane ein bruker til å måle flatevidd har to dimensjonar, lengde og breidde. Ein kvadratmeter er til dømes ein meter lang og ein meter brei, medan ein kvadratkilometer er ein kilometer i kvar retning. Andre einingar ein ofte brukar for å snakka om flatevidd er mål og dekar, som begge er definert som 1000 kvadratmeter.
+
+Det er fleire kjende formlar for enkle former som trekantar, rektangel og sirklar. Ved å nytte desse formlane kan ein finne arealet til alle polygon ved å dele dei inn i trekantar. For former som består av kurver, må ein som regel nytte differensialrekning for å finne arealet. Faktisk var problemet med å finne arealet til forskjellige figurar ein stor motivasjonsfaktor for utviklinga av differensialrekning.
+
+For former som kuler, kjegler og sylindrar, vert arealet av overflata kalla overflatearealet. Formlar for overflateareal av enkle former vart rekna ut av greske matematikarar i antikken.
+
+Ei tilnærming til å definere kva ein meiner med areal finn ein gjennom aksioma. Til dømes kan ein definere eit areal som ein funksjon a frå ei samlnig M av ei særskild plan figur i ei mengd reelle tal som tilfredsstiller følgjande eigenskapar:
+
+For alle S i M, . Om S og T er i M så er òg og det, .
+
+Om S og T er i M med så er T − S i M og a(T − S) = a(T) − a(S).
+
+Om ei mengd S er i M og S er kongruent til T så er T òg i M og a(S) = a(T).
+
+Alle rektangel R er i M. Om rektangelet har lengda h og breidda k så er a(R) = hk.
+
+La Q vere ei mengd lukka mellom to stegvise regionar S go T. Ein stegregion er danna av ein endeleg union av tilstøytande rekangel som kviler på same grunnlinje, til dømes . Om det finst eit unikt tal c slik at for alle slike stegregionar S og T, så er a(Q) = c.

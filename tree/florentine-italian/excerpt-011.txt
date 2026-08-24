@@ -1,0 +1,1 @@
+Il giorno solare vero non è costante di durata perché la velocità (anche angolare) sull'orbita ellittica varia, in base alla seconda legge di Keplero: il giorno solare vero ha quindi durata massima al perielio, attualmente in gennaio, quando la velocità di rivoluzione è maggiore, e minima all'afelio, in luglio, quando la velocità di rivoluzione è minore.

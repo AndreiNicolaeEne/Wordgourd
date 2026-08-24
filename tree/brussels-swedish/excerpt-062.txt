@@ -1,0 +1,15 @@
+6. I fråga om medicintekniska produkter som är försedda med ett inbyggt system som visar bruksanvisningen ska tillverkarna se till att produkten är säker att använda även när bruksanvisningen visas, särskilt när det gäller produktens livsövervakande eller livsuppehållande funktioner.
+
+7. Tillverkaren ska i sin katalog eller annan relevant produktinformation lämna information om den programvara och maskinvara som krävs för att visa bruksanvisningen.
+
+8. Tillverkaren ska ha ett system för att tydligt ange när bruksanvisningen har reviderats och för att informera alla användare av produkten om detta, om revideringen var nödvändig av säkerhetsskäl.
+
+9. För produkter med angivet utgångsdatum, utom implantat, ska tillverkaren hålla bruksanvisningen tillgänglig i elektronisk form för användarna i minst två år efter den sist tillverkade produktens utgångsdatum.
+
+10. För produkter utan utgångsdatum och för implantat ska tillverkaren hålla bruksanvisningen tillgänglig i elektronisk form för användarna i 15 år efter att den sista produkten tillverkats.
+
+Artikel 6 1. Tillverkaren ska tydligt ange att bruksanvisningen till produkten levereras i elektronisk form i stället för i pappersform.
+
+Denna information ska tillhandahållas på varje produkts förpackning eller i förekommande fall på försäljningsförpackningen. När det gäller fast installerade medicintekniska produkter ska informationen också lämnas på själva produkten.
+
+2. Tillverkaren ska tillhandahålla information om hur man får tillgång till bruksanvisningen i elektronisk form.

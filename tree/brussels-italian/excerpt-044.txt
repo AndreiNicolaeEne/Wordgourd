@@ -1,0 +1,15 @@
+g) le situazioni di emergenza medica prevedibili che richiedono la fornitura di informazioni su supporto cartaceo;
+
+h) le ripercussioni di una temporanea indisponibilità del sito web specifico o di internet in generale, o di un problema di accesso nella struttura sanitaria, nonché le misure di sicurezza previste per rimediare a tale situazione;
+
+i) una valutazione del periodo durante il quale la versione su carta delle istruzioni per l’uso può essere fornita su richiesta dell’utilizzatore.
+
+2. La valutazione dei rischi connessi alla messa a disposizione di istruzioni per l’uso elettroniche deve essere rivista alla luce dell’esperienza acquisita dopo la commercializzazione.
+
+Articolo 5 I fabbricanti di dispositivi di cui all’articolo 3 possono fornire istruzioni per l’uso in formato elettronico invece che su carta alle seguenti condizioni:
+
+1) la valutazione dei rischi di cui all’articolo 4 dimostra che fornendo istruzioni per l’uso elettroniche essi mantengono o migliorano il grado di sicurezza offerto dalle istruzioni stampate;
+
+2) forniscono istruzioni per l’uso elettroniche in tutti gli Stati membri nei quali il prodotto è disponibile o messo in funzione, fatte salve situazioni debitamente giustificate nella valutazione dei rischi di cui all’articolo 4;
+
+3) dispongono di un sistema che consente loro di fornire istruzioni per l’uso su supporto cartaceo senza spese supplementari su richiesta dell’utilizzatore, durante un periodo stabilito nella valutazione dei rischi di cui all’articolo 4 e al più tardi entro sette giorni a decorrere dal ricevimento della domanda, o alla consegna del dispositivo se la domanda è stata fatta al momento dell’ordinazione;

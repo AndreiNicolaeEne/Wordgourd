@@ -1,0 +1,9 @@
+(15) A feldolgozóiparnak tanácsadói minőségben kell segíteni a SESAR üzemeltetését, ezzel együtt gondoskodva az iparosítással meglévő összhangról és a berendezések megfelelő időben történő rendelkezésre állításáról.
+
+(16) A Bizottság feladata meggyőződni arról, hogy az üzemeltetési tevékenységek során szem előtt tartják az egységes európai égboltra vonatkozó célkitűzéseket, a meglévő eszközöket a lehető leghatékonyabb módon felhasználó, megfelelő jelentéstételi és nyomonkövetési mechanizmusok létrehozása révén.
+
+(17) A Bizottságnak folyamatos tájékoztatást kell adnia az egységes égbolttal foglalkozó bizottság számára az üzemeltetési vezető és a végrehajtási projektek kiválasztásának, valamint az üzemeltetési program jóváhagyásának terén elért eredményekről. Egyeztetéseket kell folytatni az egységes égbolttal foglalkozó bizottsággal a vonatkozó uniós támogatási programokban meghatározott szabályok és eljárások sérelme nélkül.
+
+(18) A technikai anyagokat előállító és az európai szabványosítással kapcsolatos előkészítő vagy kiegészítő munkát végző Polgári Repülési Berendezésekkel Foglalkozó Európai Szervezetnek (Eurocae) támogatnia kell a Bizottságot a szabványosítási eljárások nyomon követésében és előmozdításában, valamint az európai szabványok alkalmazásának népszerűsítésében.
+
+(19) Jóllehet a SESAR üzemeltetésének honvédséget érintő kérdéseiben továbbra is az adott állam illetékes, mindvégig együtt kell működni a honvédséggel annak érdekében, hogy el lehessen kerülni bármely, a védelmi képességeket kedvezőtlenül befolyásoló hatást.

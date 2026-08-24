@@ -1,0 +1,41 @@
+C. Other Corrections and Clarifications In finalizing the rule, the EPA is addressing several other
+technical corrections and clarifications in the regulatory language
+based on public comments that were received in response to the January
+2015 proposal and other feedback as a result of implementing the rule.
+In addition to the changes outlined in Table 1 of the January 21, 2015,
+proposal (80 FR 2879), the EPA is finalizing several other changes, as
+outlined in Table 2 as follows:
+
+Table 2--Summary of Technical Corrections and Clarifications Since
+January 2015 Proposal
+Section of subpart JJJJJJ Description of correction
+63.11195(c).................. Revised the paragraph to remove
+``unless such units do not combust
+hazardous waste and combust comparable
+fuels.'' The comparable fuels exclusion
+codified in 40 CFR 261.38 was vacated by
+the Court.
+63.11223(c).................. Revised the paragraph to clarify
+the oxygen level set point for a source
+not subject to emission limits. The
+following sentence was added at the end
+of the paragraph, ``If an oxygen trim
+system is utilized on a unit without
+emission standards to reduce the tune-up
+frequency to once every 5 years, set the
+oxygen level no lower than the oxygen
+concentration measured during the most
+recent tune-up.'' This clarification was
+made instead of the proposed
+clarification to 63.11224(a)(7).
+63.11225(e).................. Revised the paragraph to include
+current electronic reporting procedures.
+63.11237..................... Revised the definition of
+``Liquid fuel'' to remove the phrase
+``and comparable fuels as defined under
+40 CFR 261.38.'' The comparable fuels
+exclusion codified in 40 CFR 261.38 was
+vacated by the Court.
+Revised the definition of
+``Voluntary consensus standards (VCS)''
+to correct typographical errors.

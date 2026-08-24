@@ -1,0 +1,11 @@
+Pooljuht on aine, mille elektrijuhtivus on halvem kui elektrijuhil ja parem kui dielektrikul. Pooljuhtide erijuhtivus toatemperatuuril σ = 106...10−8 S/m.
+
+Pooljuhtide hulka kuuluvad mõned lihtained (räni, germaanium, seleen, telluur, arseen, fosfor ja teised), palju oksiide, sulfiide, seleniide ja telluriide, mõned sulamid, paljud mineraalid jm. Arendatakse ka pooljuht-nanokristalle (näiteks tuum-kest-struktuuriga pooljuht-nanokristallid). Pooljuhid on enamasti kristallstruktuuriga ained, st nende aatomid või molekulid paiknevad kindla korra kohaselt, moodustades kristallivõre.
+
+Pooljuhid on väga tundlikud välismõjude ja lisandite suhtes. Iseloomulik on elektrijuhtivuse järsk suurenemine temperatuuri kasvades, samuti võõraine aatomite mõjul.
+
+Pikemalt artiklis Pooljuhttehnoloogia Elektronseadiste valmistamisel kasutatakse lähtematerjalina peamiselt neljavalentset elementi räni (Si) ning kolme- ja viievalentsete ainete ühendit galliumarseniidi (GaAs); pooljuhttehnika algusaegadel kasutati peamiselt neljavalentset elementi germaaniumi (Ge).
+
+Räni ja germaaniumi iga aatomi väliskihis on neli valentselektroni, millest igaüks tiirleb ühtlasi ümber naaberaatomi (vt joonis a). Niiviisi iga aatomipaari ümber tiirlevad kaks valentselektroni moodustavad kovalentsideme. Tasapinnas kujutatakse kovalentsidemeid aatomivaheliste joontega (joonis b).
+
+Absoluutsest nullist kõrgemal temperatuuril lahkub osa valentselektrone aatomist, muutudes vabadeks elektronideks. Lahkunud elektroni kohta kovalentsidemes nimetatakse auguks. Auku võib vaadelda laengukandjana, millel on elektroni laenguga võrdne, kuid märgilt, vastupidine positiivne laeng. Elektroni laeng on –1,6•10‒19 C ja augu laeng on +1,6•10‒19 C (kulonit).

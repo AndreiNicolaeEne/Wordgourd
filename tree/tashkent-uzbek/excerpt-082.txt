@@ -1,0 +1,17 @@
+Harorat (temperatura) (lotincha temperatura – kerakli aralashma, oʻrtacha holat) – moddaning holatini issiq-sovuqligini tavsiflaydigan fizik kattalik.
+
+Harorat – bu jismni tashkil qiluvchi elementar zarralar (atom va molekulalar)ning harakati kinetik energiyasining oʻrta statistik intensivligini ifodalovchi fizik kattalik. Xarorat birligi sifatida Kelvin gradusi qabul qilingan. SI birliklar tizimida 1K suvning uchlanma nuqtasi termodinamik xaroratining 1/273.16 qismiga teng deb qabul qilingan. Shuningdek Kelvin gradusini mutloq nol xarorat xam deb yuritiladi. Chunki 0 K da xar qanday moddada molekulyar harakat toʻxtaydi.
+
+Texnikada esa kelvin shkalasidan tashqari Tselsiy shkalasi xam keng qoʻllanadi. Tselsiy shkalasi suvning qaynash va muzlash xaroratlariga asoslangan va kelvin bilan quyidagi bogʻliqlikka ega: 1K =273,15 S.
+
+Farengeyt shkalasiga koʻra esa 0S = 32F va 100S = 212F. Farengeyt shkalasi nochiziqli shkala boʻlib, tS = 5/9 (tF-32) va aksincha tF=9/5 (tS +32) tarzida nisbatda boʻladi.
+
+Reomyur shkalasiga koʻra esa suvning muzlash xarorati 0R va qaynash xarorati 80R etib belgilangan. 1R=1.25 S
+
+Harorat umumiy qilib aytganda, predmet va atrof muhitning shunaqa xususiyatiki, qaysiki inson sezgi organlariga sovuq, issiq va xok. sifatida taʼsir etadi. Harorat, modda zarralarining kinetik energiyasi bilan oʻzaro bogʻliqdir.
+
+Harorat SI da kelvinlarda (K) oʻlchanadi. Yordamchi oʻlchov birligi sifatida esa Tselsiy darajasidan (°C) keng foydalaniladi.
+
+Haroratni oʻlchashda termometr, termal tomoshabin, termopara, optik pirometr va xok. ishlatiladi.
+
+Qadimda „harorat“, tanasi issiqroq odamlarda boshqa odamlarga nisbatan, koʻproq oʻziga xos xususiyatga – teplorodga ega deb tushunilgan. Shuning uchun harorat deganda kuchli tananing oʻziga xos xususiyati va teplorod tushunilgan. Shundan kelib chiqib spirtli ichimliklarning quvvati va harorat, bir xil – graduslarda oʻlchanadi.

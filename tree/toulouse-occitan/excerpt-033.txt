@@ -1,0 +1,11 @@
+Un sistèma de coordenadas (var. sistema de cordonaas) es un sistèma que permet, en matematicas, de determinar la posicion d'un punt dens un espaci definit. N'existeish un nombre gran qui son adaptats a situacions diferentas. Son elements importants de las sciéncias e de l'engenheria modèrnas pr'amor que los sistèmas de coordenadas an aplicacions importantas en matematicas, en fisica, en astronomia, en geografia, en medecina... etc.
+
+Ua dreta numerica es, en matematicas elementàrias, l'imatge d'ua linha dreta graduada qui sèrv de representacion visuau deus nombres reaus. Los nombres entièrs i son sovent representats com punts regularament espaciats sus la linha. La dreta numerica es un sistèma de coordenadas simple utile entà comparar dus nombres. Pòt tanben servir de supòrt a construccions matematicas complèxas com la dreta deus nombres reaus.
+
+Un sistèma de coordenadas cartesianas permet de determinar la posicion d'un punt dens un espaci afina (dreta, plan, espaci de dimension 3, etc.) dotat d'ua mèrca cartesiana. Lo mot « cartesian » vien deu matematician e filosòfe francés René Descartes (1596-1650). Ua mèrca cartesiana es compausada :
+
+d'ua basa, es a díser ua familha de vectors particulars permetent de designar de faiçon unica un aute vector per combinason lineara.
+
+d'un punt de referéncia generaument notat O.
+
+Adaptadas aus espacis de dimension 2 e 3 de la vita correnta, las coordenadas cartesianas son probablament las mei conegudas e las mei utilizadas. Utilizan normaument las letras x, y e z entà notar l'abscissa, l'ordonada e la hautor.

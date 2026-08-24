@@ -1,0 +1,27 @@
+Gravitaci nejlépe popisuje od svého vzniku v roce 1915 obecná teorie relativity coby zakřivení časoprostoru. Pro dostatečně slabá gravitační pole však vystačíme s aproximací Newtonovým gravitačním zákonem. Protože obecná teorie relativity neobsahuje jakékoli kvantování, očekává se, že její nástupce – teorie, která sjednotí gravitaci s ostatními silami – bude muset mít kvantový charakter.
+
+Newtonův gravitační zákon je nejstarší vědecká teorie popisující gravitační působení mezi tělesy.
+
+Každá dvě tělesa, která lze považovat za hmotné body nebo homogenní koule (jak vyplývá z Gaussovy věty), na sebe působí gravitační silou
+
+kde Fg je síla působící mezi dvěma hmotnými tělesy
+
+m1 je hmotnost prvního tělesa m2 je hmotnost druhého tělesa
+
+r je vzdálenost mezi tělesy G je gravitační konstanta, která se rovná přibližně: G = 6,67×10−11 N m2 kg−2 (v některých publikacích značená místo G řeckým písmenem ϰ)
+
+Newtonova teorie vycházela nejen z Newtonových pozorování, ale také ze znalosti Keplerových zákonů.
+
+Schopnost gravitačního působení lze v Newtonově gravitační teorii určovat nejen gravitační silou.
+
+Intenzita gravitačního pole – gravitační síla, působící na těleso jednotkové hmotnosti
+
+Gravitační zrychlení – zrychlení, které tělesům uděluje gravitační síla
+
+Pokud se těleso nachází v gravitačním poli jiného tělesa, pak mu klasická mechanika přiřazuje určitou potenciální energii, která se označuje jako gravitační potenciální energie.
+
+V obecné teorii relativity (OTR) je gravitace vysvětlena zakřivením časoprostoru. Toto zakřivení vzniká přítomností hmoty a energie a projevuje se např. tím, že součet úhlů v trojúhelníku nemusí být 180°, nebo tím, že lokálně nejrovnější čáry – geodetiky nejsou na rozdíl od přímek vždy „rovné“. Pohyb těles v gravitačním poli probíhá po geodetikách tak, že jejich sklon k časové ose udává rychlost tělesa. Geodetiky bývají často v populární literatuře označovány za nejkratší spojnice, což však není pravda vždy. Pro slabá gravitační pole dává OTR stejné předpovědi jako Newtonova teorie gravitace.
+
+Země má 61 milionů obyvatel (odhad z roku 2021). Obyvatelstvo se skládá z přibližně 120 etnických, jazykových a náboženských skupin a Tanzanie je tak nejrozmanitější zemí ve východní Africe. Úřední jazyk není určen, v praxi tuto funkci má svahilština, kterou se učí na základních školách. Přibližně 10 procent Tanzanců má svahilštinu jako první jazyk, 90 procent jako druhý. Na univerzitách se vyučuje v angličtině, byť tanzanská vláda hodlá tuto praxi ukončit. Od roku 1996 je hlavním městem Dodoma, kde se nachází sídlo prezidenta, parlament a všechna ministerstva. Bývalé hlavní město Dar es Salaam je největším městem v zemi, hlavním přístavem a předním obchodním centrem. Nejrozšířenějším náboženstvím je křesťanství, existuje ale také početná muslimská a animistická menšina.
+
+Tanzanie vznikla v roce 1964 sloučením dvou původně nezávislých států: Tanganiky, ležící u stejnojmenného jezera, a ostrovního Zanzibaru. Název Tanzanie je odvozen z názvů obou zakladatelských států. Území má však mnohem delší historii, bylo zde nalezeno mnoho důležitých fosilií, podle nichž odborníci rekonstruují nejstarší vývoj lidského druhu a lidských předchůdců. Město Kilwa Kisiwani (dnes na seznamu Světového dědictví) bylo perlou středověké východní Afriky a významným centrem obchodu. V letech 1885–1919 bylo území německou kolonií pod názvem Německá východní Afrika. Poté se dostalo pod kontrolu Británie. Tanganika získala nezávislost na Británii roku 1961, Zanzibar o dva roky později.

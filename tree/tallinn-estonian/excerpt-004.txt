@@ -1,0 +1,17 @@
+Lantanoidid ja aktinoidid paigutatakse enamasti eraldi peatabeli alla.
+
+Iga keemilise elemendi lahtris on tavaliselt vähemalt elemendi tähis, aatomnumber ja aatommass, aga sinna võidakse märkida ka nimetus, elektronegatiivsus, väliselektronkihi konfiguratsioon jms.
+
+Süsteemi kuulub 118 elementi, mille olemasolu on tõestatud. Neist 98 on leitud loodusest, ülejäänud on saadud tehislikult. Elemendid 93–98, mida leidub looduses väga vähesel määral, avastati esmalt laboratoorsel teel ja alles siis looduslikul kujul. Esimesed 83 elementi on stabiilsed, sealt edasi radioaktiivsed.
+
+Elementide järjekorra tabelis määrab aatomnumber. Elemendi kuuluvuse perioodi määrab elektronkihtide arv ja kuuluvuse rühma elektronide arv väliselektronkihis (õieti valentselektronide arv).
+
+Keemiliste omaduste alusel rühmitatakse elemente metallideks, poolmetallideks, mittemetallideks, leelismetallideks, leelismuldmetallideks, halogeenideks, väärisgaasideks, lantanoidideks, aktinoidideks.
+
+Elektronkonfiguratsiooni alusel jagatakse tabel s- p-, d- ja f-plokiks vastavalt sellele, millisel orbitaalil paikneb suurima energiaga elektron.
+
+Tabeli veerud moodustavad 18 rühma. Rahvusvaheline Puhta Keemia ja Rakenduskeemia Liit soovitab rühmade tähistamiseks kasutada numeratsiooni 1–18. Varem on olnud rohkem levinud tähistamine Rooma numbritega I kuni VIII ning jagamine pea- ja kõrvalalarühmadeks.
+
+Samasse rühma kuuluvatel elementidel on ühesugune elektronkonfiguratsioon ja seega ka sarnased keemilised omadused.
+
+Kõik esimese rühma elemendid peale vesiniku on leelismetallid. Nad on kõige aktiivsemad (kõige elektropositiivsemad) metallid. Nende väliselektronkihil on üks elektron; kuuluvad s-plokki. Nende oksüdatsiooniaste ühendites on I. Frantsium on neist ainuke, millel puuduvad stabiilsed isotoobid.

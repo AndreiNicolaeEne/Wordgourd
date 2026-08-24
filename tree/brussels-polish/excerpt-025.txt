@@ -1,0 +1,15 @@
+SEKCJA 5 Informacje praktyczne i odniesienia
+
+Artykuł 20 Treść sekcji „Informacje praktyczne”
+
+1. Sekcja dokumentu informacyjnego zawierającego kluczowe informacje dla inwestorów zatytułowana „Informacje praktyczne” zawiera następujące informacje istotne dla inwestorów w każdym państwie członkowskim, w którym jednostki uczestnictwa UCITS są wprowadzane do obrotu:
+
+a) nazwa depozytariusza; b) gdzie i w jaki sposób można uzyskać dalsze informacje o UCITS, kopie prospektu emisyjnego i ostatniego sprawozdania rocznego oraz późniejszych sprawozdań półrocznych, z oznaczeniem języków (języka), w których (którym) te dokumenty są dostępne, oraz informację, że są dostępne bezpłatnie;
+
+c) gdzie i w jaki sposób można uzyskać inne praktyczne informacje, w tym gdzie można znaleźć najnowsze ceny jednostek;
+
+d) oświadczenie stwierdzające, że przepisy podatkowe w państwie członkowskim UCITS mogą mieć wpływ na osobistą sytuację podatkową inwestora;
+
+e) następujące oświadczenie: „[Wstawić nazwę spółki inwestycyjnej lub zarządzającej] może zostać pociągnięta do odpowiedzialności za każde oświadczenie zawarte w niniejszym dokumencie, które wprowadza w błąd, jest niezgodne ze stanem faktycznym lub niespójne z odpowiednimi częściami prospektu emisyjnego UCITS.”.
+
+2. Jeżeli dokument zawierający kluczowe informacje dla inwestorów jest sporządzany dla subfunduszu UCITS, sekcja „Informacje praktyczne” zawiera informacje określone w art. 25 ust. 2, w tym informacje o prawach inwestorów do przenoszenia się między subfunduszami.

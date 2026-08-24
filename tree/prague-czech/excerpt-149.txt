@@ -1,0 +1,23 @@
+Úhel (přesněji rovinný úhel) může být definován jako:
+
+(jakožto rovinný útvar) část roviny, která je ohraničena dvěma polopřímkami se společným počátkem,
+
+(jakožto obecná geometrická struktura v rovině nebo v prostoru) dvojice polopřímek se společným počátkem nebo dvojice přímek se společným bodem,
+
+(ve smyslu orientovaný úhel) uspořádaná dvojice dvou orientovaných přímek se společným bodem nebo dvou polopřímek se společným počátkem nebo veličina charakterizující polohový vztah mezi nimi.
+
+V prostoru se kromě rovinného úhlu definuje prostorový úhel (jako útvar a jemu odpovídající veličina).
+
+Polopřímky, které vymezují úhel v rovině, se nazývají ramena úhlu, společný počáteční bod polopřímek se nazývá vrchol úhlu.
+
+Do úhlu zahrnujeme i body ležící na polopřímkách ramen úhlu.
+
+Množina všech bodů úhlu, které neleží na žádné z polopřímek, se nazývá vnitřek úhlu. Množina všech bodů roviny, které nepatří do úhlu, se nazývá vnějšek úhlu.
+
+Úhel se znázorňuje pomocí jeho ramen, mezi kterými se vyznačí oblouček kolem vrcholu úhlu. Zápis úhlu se provádí pomocí řeckého písmene, např. (alfa), nebo pomocí symbolu úhlu a tří bodů v pořadí: pomocný bod na prvním rameně – vrchol – pomocný bod na druhém rameně, např. (vrchol úhlu leží na středním bodu).
+
+výškový úhel – úhel, který svírá směr, kterým pozorujeme předmět ve výšce s vodorovnou rovinou
+
+hloubkový úhel – úhel, který svírá směr, kterým pozorujeme předmět v hloubce s vodorovnou rovinou
+
+zorný úhel – úhel, který spolu svírají směry, kterými pozorujeme dvě nejodlehlejší místa předmětu (nebo také úhel pod kterým vidíme předmět)

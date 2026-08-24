@@ -1,0 +1,11 @@
+Masa unui corp sau a unei particule este una din cele 7 mărimi fizice fundamentale. Masa se definește ca o mărime ce determină măsura inerției unui corp sau particulă, determinabilă la nivel macroscopic și măsurată, de asemenea, macroscopic. Totodată, masa, prin intermediul masei atomice este legată de cantitatea de substanță conținută într-un corp sau sistem fizic închis. Masa este o mărime fundamentală, scalară și extensivă; pentru sistemele fizice macroscopice are caracter de mărime globală. A nu se confunda cu greutatea unui corp, care este o forță.
+
+Simbolul masei este litera minusculă „m”, iar unitatea sa de măsură, în Sistemul Internațional (SI) este „kilogram”, sau exprimat simbolic și comun, „1 kg”. Formula corespunzătoare celor de mai sus este:
+
+Alături de lungime și timp, masa reprezintă una din cele trei măsuri fundamentale sau esențiale din mecanică.
+
+A nu se confunda kilogramul cu kilogramul-forță, utilizat în sistemul MKfS.
+
+Masa grea (masa gravifică sau gravitațională) este o mărime fizică ce apare ca factor de proporționalitate în legea atracției universale a lui Newton.
+
+Masa grea este masa măsurată pe baza acțiunii câmpului gravitațional. Să presupunem că două corpuri punctiforme (puncte materiale) A și B se află la o distanță „rAB”. Conform legii atracției universale, dacă masele gravifice (masele grele) ale celor două corpuri sunt „MA” și respectiv „MB”, atunci ambele corpuri acționează reciproc unul asupra celuilalt cu o forță gravitațională „F” care scade proporțional cu patratul distanței dintre acestea. Expresia matematică scalară a acestei forțe a fost stabilită de Newton:

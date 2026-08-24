@@ -1,0 +1,3 @@
+Szintén fonetikai szempontból, de a hallás oldaláról, arra alapozzák a szótag meghatározását, hogy beszédhangok sorozatában egyesek nagyobb hangzósságúak, mint mások. Az előbbiek hangzóssági maximumokat („csúcsokat”) képeznek, az utóbbiak pedig hangzóssági minimumokat („völgyeket”), és mindegyik csúcs egy szótagnak felel meg. Mint az előbbi megközelítés, ez sem ad világos választ arra, hogyan lehet azonosítani a szótagok közötti határt.
+
+Fonológiai szempontból is próbálják meghatározni a szótagot, arra öszpontosítva, hogy egy adott nyelvben hogyan kombinálódnak a beszédhangok ahhoz, hogy tipikus szegmenseket alkossanak.

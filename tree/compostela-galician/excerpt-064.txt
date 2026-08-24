@@ -1,0 +1,11 @@
+Unha corrente eléctrica é un movemento dun conxunto de portadores de carga eléctrica, xeralmente electróns, dentro dun material condutor. Estes movementos veñen impostos pola acción da forza electromagnética, cuxa interacción coa materia é a base da electricidade. A corrente eléctrica ou intensidade eléctrica é o fluxo de carga eléctrica por unidade de tempo que percorre un material condutor de corrente.
+
+Na física, a corrente eléctrica é o fluxo líquido de calquera carga eléctrica. As cargas eléctricas poden ser negativas (electróns) ou positivas (buracos), aínda que a corrente convencional foi definida, por razóns históricas, como un fluxo de cargas positivas. Hoxe, con todo, coñecemos que en materiais como os metais a circulación é de cargas negativas e en dirección oposta; aínda así, a definición da corrente convencional segue sendo válida. Os raios son exemplos de corrente eléctrica, ben como o vento solar, porén o máis coñecido, probabelmente, é o fluxo de electróns a través dun condutor eléctrico, xeralmente metálico.
+
+Ao falarmos de corrente eléctrica, desde un punto de vista xeométrico, podemos considerar tipicamente tres situacións:
+
+que a corrente circule por unha liña (i.e. unha corrente unidimensional), caso no que se falará de intensidade de corrente eléctrica.
+
+que a corrente circule sobre unha superficie (i.e. unha corrente bidimensional), caso no que se fala de densidade superficial de corrente.
+
+que a corrente circule a través dun volume (corrente en tres dimensións), caso no que se fala de densidade volúmica ou volumétrica de corrente.

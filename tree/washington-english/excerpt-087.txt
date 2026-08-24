@@ -1,0 +1,28 @@
+FOR FURTHER INFORMATION CONTACT: Aziz Ahmed, Aerospace Safety Engineer,
+FAA, New York Aircraft Certification Office (ACO), 1600 Steward Avenue,
+suite 410, Westbury, New York 11590; telephone: (516) 228-7329; fax:
+(516) 794-5531; email: [email protected] .
+
+SUPPLEMENTARY INFORMATION: Discussion We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR
+part 39 to add an AD that would apply to Viking Air Limited Model DHC-3
+airplane. The NPRM was published in the Federal Register on July 28,
+2015 (80 FR 44892). The NPRM proposed to correct an unsafe condition
+for the specified products and was based on mandatory continuing
+airworthiness information (MCAI) originated by an aviation authority of
+another country. The MCAI states:
+
+An operator found cracks on the upper inner wing skin
+corrugations emanating from the rib attachment points. As a result,
+Viking Air Limited released Service Bulletin (SB) V3/0002, Revision
+NC to inspect for possible corrugation cracking between wing
+stations 34 and 110. Subsequently, operators discovered additional
+corrugation cracking at multiple wing stations and on the main spar
+lower cap.
+These cracks, if not detected and rectified, may compromise the
+structural integrity of the wing. In order to address this
+potentially unsafe condition, Viking Air Limited has issued SB V3/
+0002, Revision C, specifying repetitive internal borescope and
+visual inspections. This AD is issued to mandate compliance with
+that SB.
+
+The MCAI can be found in the AD docket on the Internet at: http://www.regulations.gov/#!documentDetail ;D=FAA-2015-3073-0002.

@@ -1,0 +1,17 @@
+Sjaj je optičko svojstvo koje pokazuje koliko dobro površina odbija svetlost u spekularnom (ogledalu sličnom) smeru. To je jedan od važnih parametara koji se koriste za opisivanje vizuelnog izgleda predmeta. Faktori koji utiču na sjaj su indeks prelamanja materijala, ugao upadne svetlosti i topografija površine.
+
+Prividni sjaj zavisi od količine spekularne refleksije - svetlosti koja se od površine odbija u jednakoj količini i pod simetričnim uglom prema onom upadne svetlosti - u poređenju sa difuznim refleksijom - količinom svetlosti rasejane u drugim pravcima.
+
+Kada svetlost osvetli objekat, ona sa njim stupa u interakciju na više načina:
+
+Apsorbuje se (to je u velikoj meri odgovorno za boju)
+
+Prenosi se kroz njega (u zavisnosti od površinske prozirnosti i neprozirnosti)
+
+Rasipa se od ili unutar njega (difuzna reflekcija, sumaglica i transmisija)
+
+Spektakularno se reflektuje od njega (sjaj)
+
+Varijacije u teksturi površine direktno utiču na nivo spekularne refleksije. Predmeti glatke površine, odnosno visoko polirani ili koji sadrže premaze sa fino dispergovanim pigmentima, izgledaju sjajno za oči zbog velike količine svetlosti koja se odbija u spekularnom smeru, dok hrapave površine ne odbijaju spekularnu svetlost, jer se svetlost rasipa u drugim pravcima i zbog toga izgledaju bezizražajno. Kvaliteti formiranja slike na ovim površinama su mnogo niži zbog čega se svi odsjaji čine zamućenim i iskrivljenim.
+
+Tip materijala podloge takođe utiče na sjaj površine. Nemetalni materijali, i.e. plastika etc, proizvode viši nivo reflektovane svetlosti kada su osvetljeni pod većim uglom osvetljenja usled upijanja svetlosti u materijal ili difuznog rasipanja u zavisnosti od boje materijala. Metali ne trpe zbog ovog efekta proizvodeći veće količine refleksije pod bilo kojim uglom.

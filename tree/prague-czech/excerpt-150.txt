@@ -1,0 +1,23 @@
+V matematice jsou zvláštní dvojice úhlů pojmenované jako: vrcholové, vedlejší, souhlasné a střídavé.
+
+Vrcholové úhly – dva úhly, jejichž ramena jsou opačné polopřímky. Vrcholové úhly jsou shodné. Vrcholové úhly mají společný vrchol.
+
+Vedlejší úhly – dva úhly, jejichž jedno rameno je společné a druhá ramena jsou opačné polopřímky. Součet vedlejších úhlů je přímý úhel.
+
+Souhlasné úhly – dva úhly, jejichž první ramena leží na jedné přímce a druhá ramena jsou rovnoběžná, přitom směr příslušných ramen je stejný (souhlasný). Souhlasné úhly jsou shodné.
+
+Střídavé úhly – dva úhly, jejichž první ramena leží na jedné přímce a druhá ramena jsou rovnoběžná, přitom směr příslušných ramen je opačný (střídavý). Střídavé úhly jsou shodné.
+
+Středový úhel – úhel, jehož vrcholem je střed , kružnice a ramena procházejí krajními body oblouku kružnice (, – středové úhly).
+
+Obvodový úhel – každý úhel, jehož vrchol leží na kružnici a ramena procházejí krajními body oblouku kružnice (, ).
+
+Úsekový úhel – úhel, jenž svírá tětiva kružnice s tečnou kružnice v bodě (popř. bodě ).
+
+Vztahy mezi velikostmi těchto úhlů popisuje následující obrázek:
+
+Všechny úhly jsou osově souměrné, osa úhlu prochází vrcholem a rozděluje úhel na dvě shodné části (poloviny úhlu).
+
+Orientovaným úhlem se nazývá uspořádaná dvojice polopřímek , se společným bodem , přičemž polopřímka se nazvývá počáteční rameno úhlu a polopřímka koncové rameno úhlu. Bod je vrcholem orientovaného úhlu.
+
+Velikost úhlu je nezáporné číslo, které lze přiřadit každému úhlu. Platí přitom, že shodné úhly mají stejnou velikost a také, že součet velikostí úhlů a je roven velikosti úhlu .

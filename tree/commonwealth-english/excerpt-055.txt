@@ -1,0 +1,17 @@
+Electronic Communications The Wireless Telegraphy (Exemption) (Amendment) (No.2) Regulations 2016
+
+Made Coming into force The Office of Communications (“ OFCOM ”), in exercise of the powers conferred by section 8(3) of the Wireless Telegraphy Act 2006 (“the Act”) , makes the following Regulations.
+
+Before making these Regulations OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in that notice in accordance with section 122(4)(c) of the Act.
+
+Citation and commencement 1 The Regulations may be cited as the Wireless Telegraphy (Exemption) (Amendment) (No.2) Regulations 2016 and shall come into force on 29th November 2016.
+
+Amendment of the Wireless Telegraphy (Exemption) Regulations 2003
+
+1 The Wireless Telegraphy (Exemption) Regulations 2003 are amended in accordance with the following paragraphs of this regulation.
+
+2 In Schedule 3, Part III, paragraph 3— a in sub-paragraph (d) (Long term evolution radiotelephones (LTE)) and after the entry “2500—2690 MHz ” in the list of frequency bands, insert the following entry—
+
+—2350–2390 MHz —3400–3800 MHz b in sub-paragraph (e) (Worldwide interoperability for microwave access radiotelephones (WiMax) after the entry “2500—2690 MHz” in the list of frequency bands, insert the following entry—
+
+3 In Schedule 3, Part IV (Interface requirement), after the entry “IR 2072— UK Interface Requirement 2072 Terrestrial systems capable of providing electronic communications services in the band 2500 to 2690 MHz”, published by the Office of Communications in March 2013” insert the following entries—

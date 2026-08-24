@@ -1,0 +1,5 @@
+Wänn sich d Beschlünigung während de betrachtäte Ziitspanni änderet, so chunt mer mit de obigä Rächnig di mittleri Beschlünigung über, au Durchschnittsgschwindigkeit gnännt.
+
+Zum d Beschlünigung für en beschtimmtä Ziitpunkt (Momentanbeschlünigung) statt für es Ziitintervall z'berächnä, so muess dä Übergang vom Differänzquotiänt zum Differentialquotiänt vollzogä wärde. D Beschlünigung isch dänn di erschti ziitlichi Ableitig vo dä Gschwindigkeit nach dä Ziit:
+
+Will d Gschwindigkeit d Ableitig vom Ort nach dä Ziit isch, cha mer d Beschlünigung au als zweiti Ableitig vom Ortsvektor darschtellä:

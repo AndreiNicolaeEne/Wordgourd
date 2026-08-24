@@ -1,0 +1,11 @@
+Một định nghĩa không chính thức có thể là "một tập hợp các quy tắc xác định chính xác một chuỗi hoạt động", mà sẽ bao gồm tất cả các chương trình máy tính (bao gồm cả các chương trình không thực hiện phép tính số) và (ví dụ) bất kỳ thủ tục hành chính quy định nào hoặc công thức nấu ăn.
+
+Nói chung, một chương trình chỉ là một thuật toán nếu cuối cùng nó dừng lại - mặc dù các vòng lặp vô hạn đôi khi có thể chấp nhận được.
+
+Một ví dụ nguyên mẫu của một thuật toán là thuật toán Euclid, được sử dụng để xác định ước chung lớn nhất của hai số nguyên; một ví dụ được mô tả bằng lưu đồ ở trên và là ví dụ trong phần sau.
+
+Boolos, Jeffrey & 1974, 1999 đưa ra một định nghĩa không chính thức cho thuật toán như sau:
+
+Không một con người nào có thể viết đủ nhanh, đủ dài, hoặc đủ nhỏ † († "nhỏ hơn và nhỏ hơn mà không có giới hạn... bạn đang cố viết trên phân tử, trên nguyên tử, trên electron") để liệt kê tất cả các thành viên của vô số thiết lập bằng cách viết ra tên của họ, cái khác, trong một số ký hiệu. Nhưng con người có thể làm điều gì đó hữu ích không kém, trong trường hợp có nhiều tập hợp vô hạn nhất định: Họ có thể đưa ra các chỉ dẫn rõ ràng để xác định phần tử thứ n của tập hợp, cho n hữu hạn tùy ý. Những hướng dẫn như vậy phải được đưa ra khá rõ ràng, dưới hình thức mà chúng có thể được tuân theo bởi một máy tính toán hoặc bởi một con người chỉ có khả năng thực hiện các thao tác rất cơ bản trên các ký hiệu.
+
+"Tập hợp vô hạn liệt kê được" là tập hợp mà các phần tử của nó có thể được song ánh tương ứng 1-1 với các số nguyên. Vì vậy, Boolos và Jeffrey đang nói rằng một thuật toán ngụ ý hướng dẫn cho một quá trình "tạo" các số nguyên đầu ra từ một số nguyên "đầu vào" tùy ý hoặc các số nguyên, theo lý thuyết, có thể lớn tùy ý. Ví dụ: một thuật toán có thể là một phương trình đại số chẳng hạn như y = m + n (tức là hai "biến đầu vào" tùy ý m và n tạo ra đầu ra y), nhưng các nỗ lực của các tác giả khác nhau để xác định khái niệm cho thấy rằng từ đó ngụ ý nhiều hơn thế này, một cái gì đó theo thứ tự của (cho ví dụ bổ sung):

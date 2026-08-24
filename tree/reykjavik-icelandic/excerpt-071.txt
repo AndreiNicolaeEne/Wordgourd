@@ -1,0 +1,19 @@
+Tíðni, stundum sveiflutíðni ef um reglulega sveiflu er að ræða, er mælikvarði á hversu oft tiltekinn atburður verður á ákveðinni tímaeiningu. SI-mælieining tíðni er hertz, sem einnig nefnist rið á íslensku. Táknið fyrir tíðni er f og á það rætur sínar að rekja í enska heitið á tíðni, frequency. Tíðni er formlega skilgreind sem
+
+þar sem T er sveiflutími. Horntíðni, táknuð með f, á við hringhreyfingu og telur hve mörgum hringjum (2π rad) er lokið á hverri tímaeiningu, þ.e.
+
+f := ω/2π, þar sem ω er hornhraði. Fourier-vörpun er fall sem breytir tíma formengi merki í tíðnisvið merka.
+
+Bylgjur hafa tíðni og þá er talað um fjölda bylgjuumferða á tímaeiningu (sekúndu ef mæla á bylgjuna í Hz, sem er yfirleitt gert). Hægt er að reikna tíðni bylgju með eftirfarandi jöfnu
+
+þar sem v táknar hraða bylgjunnar og táknar bylgjulengd bylgjunnar.
+
+Sem dæmi má nefna hljóð, en hljóð hefur ákveðna tíðni sem segir til um tónhæð hljóðsins. Tíðni hljóðsins ákvarðast af því hversu oft hljóðbylgjurnar sveiflast á sekúndu. Mannseyrað (á heilbrigðum ungum einstakling) getur numið hljóð frá 20 Hz (20 sveiflur á sekúndu, mjög djúpt hljóð) að 20.000 Hz (20.000 sveiflur á sekúndu, mjög bjart hljóð).
+
+Körfuknattleikur var upphaflega leikinn með fótbolta. Þegar sérstakir boltar voru útbúnir fyrir íþróttina voru þeir upphaflega „náttúrulega“ brúnir á litinn. Það var ekki fyrr en á öndverðum sjötta áratug 20. aldar að Tony Hinkle - sem sóttist eftir bolta sem leikmenn og áhorfendur ættu auðveldara með að sjá - kynnti til sögunnar appelsínugula boltann sem nú er algengastur.
+
+Naismith átti sjálfur mikinn þátt í að festa háskólaleikinn í sessi, en hann var þjálfari hjá Kansas háskóla í sex ár áður en hinn nafntogaði þjálfari Phog Allen tók við af honum. Amos Alonzo Stagg, lærisveinn Naismiths, kynnti körfuboltann til sögunnar hjá Chicago háskóla, og Adolph Rupp, fyrrum nemandi Naismiths í Kansas, náðum miklum árangri sem þjálfari Kentucky háskóla. Fyrstu háskóladeildirnar voru stofnaðar upp úr 1920 og fyrsta landsmótið, National Invitation Tournament í New York, fór af stað 1938. Háskólaboltinn riðaði næstum til falls í kjölfar veðmálahneykslis á árunum 1948-1951, þegar tugir leikmanna úr bestu liðunum voru bendlaðir við að hagræða úrslitum leikja.
+
+Upp úr 1920 voru hundruð atvinnuliða í borgum og bæjum Bandaríkjanna. Það var lítið sem ekkert skipulag á atvinnumannaleiknum. Leikmenn stukku óheft á milli liða, og lið léku í vöruskemmum og reykmettuðum danssölum. Deildir byrjuðu og hættu, og lið eins og New York Rens og Original Celtics léku upp undir tvöhundruð leiki á ári á ferðalögum sínum.
+
+Körfuknattleikssamband Íslands, KKÍ, var stofnað þann 29. janúar 1961, þrátt fyrir mikla andstöðu annarra sérsambanda. Í fyrstu stjórn KKÍ voru Bogi Þorsteinsson, sem var kjörinn formaður, Benedikt Jakobsson, Matthías Matthíasson, Magnús Björnsson, Kristinn V. Jóhannsson, Ásgeir Guðmundsson og Helgi V. Jónsson. Bogi var formaður KKÍ í tæp níu ár samfleytt; frá stofnfundinum fram að aðalfundi 1. nóvember 1969, þegar hann gaf ekki kost á sér til endurkjörs.

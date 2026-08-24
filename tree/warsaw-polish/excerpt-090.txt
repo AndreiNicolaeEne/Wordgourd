@@ -1,0 +1,23 @@
+informację związaną, kiedy możliwości (stany, zdarzenia) mogą być interpretowane jako mikrostany (lub zbiory mikrostanów) pewnego układu fizycznego.
+
+Informacja zawarta w stanach układu kwantowego to informacja kwantowa.
+
+Bardziej szczegółowo można rozpatrywać informację:
+
+w odniesieniu do procesu komunikowania się (systemu przekazywania informacji, toru sterowniczego),
+
+w odniesieniu do budowy układu. Informacja jest to wyróżnienie przez pewien układ informacyjny (odbiorcę), ze swojego repertuaru, pewnego stanu wyróżnionego (przez odróżnienie go od innego stanu wyróżnionego), odbijające wyróżnienie stanu wyróżnionego układu informacyjnego będącego nadawcą (Definicja 1).
+
+O informacji można tu mówić jedynie w odniesieniu do układu, który jest zdolny ją odebrać (odbić wyróżnienie stanu wyróżnionego nadawcy), i tylko w takim zakresie, w jakim jest zdolny. Różne układy informacyjne mogą odbijać (rozpoznawać) różne stany wyróżnione z różnych repertuarów.
+
+W tym znaczeniu informacja ma charakter relatywny i jest nazywana informacją względną.
+
+Informacja przekazywana w postaci komunikatu nie jest wewnętrzną własnością tego komunikatu, lecz zależy od zbioru (repertuaru), z którego ten komunikat pochodzi. Można mówić o różnorodności takiego zbioru, której miarą jest entropia informacyjna. Przekazanie komunikatu, czyli wyróżnienie z repertuaru pewnego stanu wyróżnionego lub zbioru stanów wyróżnionych stanowi ograniczenie różnorodności – relację między zbiorem-repertuarem a zbiorem stanów wyróżnionych przez komunikat (informację).
+
+„...informacja (...) jest różnorodnością, jaką jeden obiekt zawiera o innym obiekcie, jest wzajemną i względną różnorodnością. (...) informację można określić jako odbitą różnorodność, jako różnorodność, którą obiekt odbijający zawiera o obiekcie odbijanym...”.
+
+Wedle legendy wkrótce po założeniu miasta Rzymianie z powodu braku kobiet w mieście postanowili je zdobyć, napadając osadę sąsiednich Sabinów, położoną na wzgórzu Kwirynale. Zuchwały plan porwania Sabinek powiódł się. Gdy Sabinowie próbowali odbić kobiety, te namówiły ich do zawarcia rozejmu, a potem sojuszu z Rzymianami (zobacz: porwanie Sabinek). W rzeczywistości między Rzymianami i Sabinami faktycznie musiało dojść do unii około połowy VIII w. p.n.e.
+
+Po śmierci Romulusa w Rzymie panowało kolejno sześciu królów. Tradycja podaje, że byli to: Numa Pompiliusz, Tullus Hostiliusz, Ankus Marcjusz, Tarkwiniusz Stary, Serwiusz Tuliusz i Tarkwiniusz Pyszny.
+
+Numa Pompiliusz (około 715–673 p.n.e.) w czasie swego panowania miał wprowadzić m.in. kult Westy, a Ankus Marcjusz (642–617 p.n.e.) rozszerzył terytorium Rzymu aż do wybrzeży Morza Tyrreńskiego. Tradycja wydaje się jednak nieprawdziwa, gdyż siedmiu królów stanowiących w rzeczywistości sześć pokoleń (Tarkwiniusz Pyszny był synem Tarkwiniusza Starego) panowało przez ok. 225 lat. Społeczeństwo w tym czasie dzieliło się na dwie podstawowe grupy: patrycjuszy, należących do arystokracji i plebejuszy, którzy byli wolnymi obywatelami, ale nie mieli prawa do współudziału w administrowaniu miastem.

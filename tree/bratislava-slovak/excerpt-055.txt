@@ -1,0 +1,9 @@
+V roku 1824 bol zvolený za člena britskej Akadémie vied a o rok neskôr bol menovaný riaditeľom jej laboratórií. V tej dobe bol už dobre finančne zaistený, mal útulný byt priamo v budove Kráľovského inštitútu a mohol sa oženiť.
+
+Počas svojich pokusov v roku 1821 zistil, že elektrický prúd prechádzajúci vodičom môže vyvolať magnetickú silu. Celých desať rokov strávil snahou dokázať, že existuje aj opačná možnosť – aby pôsobenie magnetu vyvolalo elektrický prúd. V roku 1831 sa konečne dostavil úspech: Faraday objavil elektromagnetickú indukciu a dokázal, že elektrina a magnetizmus sú iba dva rôzne prejavy jediného javu – elektromagnetizmu. To bol kľúčový objav, ktorý mal už čoskoro ďalekosiahle následky. Koncom roka 1831 demonštroval Faraday na schôdzi Kráľovskej londýnskej spoločnosti svoj stroj na výrobu elektrickej energie. Faradayov magnetoelektrický stroj predstavoval medený kotúč o polomere 15 cm, ktorý sa otáčal medzi dvomi pólmi trvalého magnetu. Elektrický prúd bol z kotúča odvádzaný dvoma kefkami. V 40. rokoch 19. storočia vytvoril teóriu elektromagnetických polí založenú na celkom novom pojme elektrických a magnetických siločiar. O dvadsať rokov neskôr myšlienku upresnil iný Angličan James Maxwell a vytvoril rovnice na popis elektromagnetického poľa.
+
+Chemical Manipulation, being Instructions to Students in Chemistry (1 zv., John Murray, 1. vyd. 1827, 2. 1830, 3. 1842);
+
+Experimental Researches in Electricity, vols. i. and ii., Richard and John Edward Taylor, zv. i. a ii. (1844 a 1847); zv. iii. (1844); zv. iii. Richard Taylor and William Francis (1855);
+
+? („O fyzikálnom charaktere magnetických siločiar“), 1852

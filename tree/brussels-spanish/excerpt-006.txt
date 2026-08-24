@@ -1,0 +1,11 @@
+1. Antes de la apertura del período de subasta de contratos de contado a dos días o futuros a cinco días, únicamente se exigirá al subastador que entregue como garantía los derechos de emisión, que serán mantenidos en depósito por el sistema de compensación o de liquidación, actuando como depositario, a la espera de su entrega.
+
+2. Cuando se hayan establecido las medidas legales y los medios técnicos necesarios para la entrega de derechos de emisión, toda garantía otorgada por los Estados miembros en relación con la subasta de futuros o contratos a plazo, podrá, a elección del Estado miembro subastador y con el acuerdo de la plataforma de subastas, liberarse y sustituirse por derechos de emisión, que serán mantenidos en depósito por el sistema de compensación o de liquidación, actuando como depositario, a la espera de su entrega.
+
+3. Cuando no se utilicen derechos de emisión otorgados como garantía con arreglo a los apartados 1 o 2, el sistema de compensación o de liquidación, actuando como depositario, podrá mantenerlos en depósito a la espera de su entrega.
+
+CAPÍTULO XIV TARIFAS Y COSTES Artículo 51
+
+Estructura y nivel de las tarifas 1. La estructura y nivel de las tarifas, así como todas las condiciones relacionadas aplicadas por cualquier plataforma de subastas y sus sistemas de compensación y de liquidación, no deberán ser menos favorables que las tarifas y condiciones normales comparables que se apliquen en el mercado secundario.
+
+2. Toda plataforma de subastas y sus sistemas de compensación y de liquidación podrán aplicar únicamente tarifas, deducciones o condiciones explícitamente establecidas en su contrato de designación.

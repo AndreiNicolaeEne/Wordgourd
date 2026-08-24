@@ -1,0 +1,15 @@
+(b) informacije navedene u tablici 2. Priloga koja obuhvaća detalje koji se odnose na ugovor o izvedenici sklopljen između dvije druge ugovorne stranke.
+
+2. Za potrebe stavka 1. sklapanje ugovora znači „izvršavanje transakcije” iz članka 25. stavka 3. Direktive 2004/39/EZ Europskog parlamenta i Vijeća (4).
+
+3. Ako se jedno izvješće dostavlja u ime obje druge ugovorne stranke, ono sadržava informacije navedene u tablici 1. Priloga za obje druge ugovorne stranke. Informacije navedene u tablici 2. Priloga dostavljaju se samo jednom.
+
+4. Ako se jedno izvješće dostavlja u ime obje druge ugovorne stranke to se u njemu navodi kako je navedeno u polju 9 tablice 1. Priloga.
+
+5. Ako jedna druga ugovorna stranka dostavlja detalje o ugovoru trgovinskom repozitoriju u ime druge ugovorne stranke ili treća osoba dostavlja izvješće o ugovoru trgovinskom repozitoriju u ime jedne ili obje druge ugovorne stranke, detalji koji se dostavljaju uključuju sve detalje koji bi bili dostavljeni da je svaka druga ugovorna stranka trgovinskom repozitoriju izvješće o ugovoru dostavila zasebno.
+
+6. Ako ugovor o izvedenici uključuje značajke tipične za više od jedne odnosne imovine kako je navedena u tablici 2. Priloga, u izvješću se navodi razred imovine za koji su se druge ugovorne stranke prije slanja izvješća trgovinskom repozitoriju sporazumjele da je razred kojem ugovor najbolje odgovara.
+
+Članak 2. Poslovi trgovanja za koje je obavljeno poravnanje
+
+1. Kada središnja druga ugovorna stranka naknadno izvrši poravnanje postojećeg ugovora, podaci o poravnanju iskazuju se kao promjena postojećeg ugovora.

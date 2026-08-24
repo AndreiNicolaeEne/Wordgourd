@@ -1,0 +1,13 @@
+Es git Aaordnige, wo die kapazitivi Kopplig vo zwäi Elektrode unerwünscht isch. Sonige Kapazitääte säit mä parasitär oder begläitend und si ghööre nid zu de Kondensatore, zum Bischbil Aktore wie piezoelektrischi Wandler, elektrostatischi Lutsprächer, Ablänkblatte und Bauelimänt vo dr Elektrooptik. Dr Ufbau von ene isch zwar äänlig, aber mä will ummiddelbar von ene nume ass es elektrischs Fäld erzügt wird. Sonigi Aktore chönne Äigekapazitääte im Nanofarad-Beriich ham wo mäistens nid erwünscht si.
+
+Wenn en elektrische Stroom dur e Kondänser duurefliesst, denn laadet sich äini vo de Elektroode positiv, die anderi negativ uf.
+
+Eso wird d Laadig gspiicheret. Zwüsche de bäide Elektroode vom Kondänser fliesst dr Stroom as Verschiebigsstroom, und mit em änderet sich die elektrischi Fäldsterki. E witere Stroomfluss entgege dr Spannig, wo sich ufbaut, vergröösseret die inneri Energii vom Kondänser. Wird dr Kondänser vo dr Stromkwelle drennt und es git käi läitendi Verbindig zwüsche de bäide Elektroode, so bliibe d Energii und d Laadige erhalte und d Spannig konstant. Wird d Richdig vom Stroom umkeert, denn fliesst d Energii ab und d Spannig sinkt wider.
+
+D Beziejige zwüsche de verschiidene Mässwärt si in dene zwäi Formle usdruckt:
+
+und Q isch drbii d Laadig (in Coulomb, C, oder Amperesekunde, As), C d Kapazitäät (in Farad, F) und U d Spannig (in Volt, V); d Energii isch mit Arbet W (in Joule, J) bezäichnet zum sä vo dr Fäldsterki E z underschäide.
+
+Wikibooks: Bauelemente: Band 1: Kondensatoren — Lern- und Lehrmaterialie
+
+Grundlaage und Funkzionswiis S elektrische Fäld im Blattekondensator (Animazion)

@@ -1,0 +1,21 @@
+Ebreju praviešu radītos kristietības pamatus, kā arī daudzus vēlākos reliģiskās mācības papildinājumus un pilnveidojumus pilnīgi noteikti var uzskatīt par tā laika inovatīvas domāšanas rezultātu un paraugu tādā nozīmē, ka tika izveidota zināma sabiedrības uzskatu sistēma par apkārtējo pasauli un pašu sabiedrību. Iepriekšējie ticējumi, dažādie dievi, arī baltu pagānu laiku dievības un gari, atspoguļoja fragmentārus cilvēku priekšstatus par tām vai citām parādībām, par kurām nekādas citas informācijas nebija. Reliģija izdarīja apvērsumu cilvēku domāšanā, izskaidrojot un sakārtojot dabas un sabiedrības notikumus, parādības un procesus vienotā, daudz plašākā, vairāk vai mazāk integrētā sistēmā. Bez šīs uzskatu sistēmas tālākais civilizācijas progress nebūtu iespējams. Līdz ar to vēlāko laiku strīdiem par Dieva esamību ir tāds pat pamats, kā, piemēram, seno astrologu un astronomu diskusijām par to, vai Saule riņķo ap Zemi, vai otrādi — Zeme riņķo ap Sauli un vēl griežas ap savu asi. Ēģiptiešu un citu Tuvo Austrumu seno tautu dzīvē un saimniecībā, piemēram, Nīlas vai Divupes ieleju irigācijas sistēmas attīstībai un regulēšanai tam nebija nekādas nozīmes. Toreiz bija svarīgi, ka šie procesi notiek ar zināmu regularitāti un iepriekš prognozējamu cikliskumu, kas bija pietiekams „zinātnisks” pamatojums nozīmīgu saimniecisku lēmumu pieņemšanai.
+
+DNS serveris ns.b.org atrod b.org domēnu un atbild ar MX ierakstu, ka mx.b.org ir Boba e-pasta serveris.
+
+smtp.a.org nosūta vēstuli uz mx.b.org, izmantojot SMTP, kurš to nogādā lietotāja boba vēstuļu kastē.
+
+Kad Bobs palaiž komandu "saņemt vēstuli", MUA no servera saņem vēstuli, izmantojot POP3 protokolu.
+
+Šādā darbību secībā notiek e-pasta sūtīšana vairumā gadījumu, tomēr ir vairākas alternatīvas iespējas:
+
+Anna un Jānis var izmantot klientu, kas pievienojas korporatīvai e-pasta sistēmai, piemēram, IBM Lotus Notes vai Microsoft Exchange Server. Šādām sistēmām bieži ir pašām savs iekšējais vēstuļu formāts un sūtīšanas protokols.
+
+Annai var nebūt savs MUA viņas datorā, tā vietā viņa var izmantot tīmekļa e-pasta pakalpojumus.
+
+Annas datorā var būt savs MTA, tādā veidā atkrīt 1. solis.
+
+Jānis var saņemt vēstuli vairākos veidos, piemēram, izmantojot IMAP protokolu vai izmantojot tīmekļa e-pasta pakalpojumus, ieejot mx.b.org un lasot vēstules tieši uz servera
+
+Domēniem parasti ir vairāki e-pasta serveri, tādā veidā tie turpina saņemt vēstules pat tad, ja galvenais serveris nav sasniedzams.
+
+Sistēmas, kas līdzīgas elektroniskajam pastam, tika radītas jau 1960. gados, kas ļāva lietotājiem lieldatoros nodot ziņojumus citiem lietotajiem. Sākotnēji ziņu teksta formātā varēja nodot tikai tiešsaistes režīmā — tā uzreiz parādījās uz termināļa ekrāna attiecīgajam lietotājam. Vēlāk tika izstrādātas programmas, kas ļāva nodot ziņojumus arī lietotājiem, kuri tajā brīdī nebija iegājuši sistēmā, ziņojumi tika uzglabāti failā. Sākumā šādas iespējas bija tikai viena lieldatora ietvaros, pēc tam tika radīta programmatūra, kas ļāva ziņojumus nosūtīt arī uz citiem datoriem viena tīkla ietvaros, vēlāk arī starp tīkliem.

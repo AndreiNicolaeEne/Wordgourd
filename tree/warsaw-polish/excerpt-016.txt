@@ -1,0 +1,25 @@
+Funkcja (łac. functio, -onis „odbywanie, wykonywanie, czynność”), odwzorowanie, przekształcenie, transformacja ze zbioru do zbioru która każdemu elementowi zbioru przypisuje (odwzorowuje) dokładnie jeden element zbioru .
+
+Funkcje stały się jednym z podstawowych i najważniejszych pojęć całej nowożytnej matematyki i innych nauk ścisłych oraz stosowanych, o szerokich zastosowaniach w działalności człowieka na wielu polach.
+
+Funkcja to trójka uporządkowana składająca się z poniższych elementów:
+
+dziedziny będącej dowolnym zbiorem (którego elementy nazywamy argumentami funkcji),
+
+przeciwdziedziny również będącej dowolnym zbiorem (którego elementy nazywamy wartościami funkcji),
+
+wykresu będącym zbiorem par, takim że Wykres to zbiór tylko takich par, że dla każdego elementu z istnieje dokładnie jeden z taki że para znajduje się w zbiorze (czyli każdemu jest przyporządkowany dokładnie jeden a razem stanowią parę która jest „punktem” z wykresu funkcji).
+
+Zauważmy że dla teoriomnogościowej definicji trójki jako pewnego zbioru (co zwykle się przyjmuje), funkcja staje się zbiorem.
+
+Powyższa definicja nazywana jest definicją Bourbakiego (wprowadzoną w 1954 r.), a jej odmianą zredukowaną tylko do wykresu (tj. ), również powszechnie używaną jest definicja Peana.
+
+Funkcje oznacza się na ogół literami (małymi lub dużymi) itd., ale stosuje się również litery greckie np. funkcja dzeta , oznaczenia wieloliterowe np. sin, czy symbole np. iloczyn wektorowy . Dziedzinę i przeciwdziedzinę funkcji przyporządkowującej elementom zbioru elementy zbioru , tradycyjnie zapisuje się w poniższy sposób:
+
+Światowy Dzień Gorzkiej Czekolady (Goryczki) obchodzony jest 7 lipca. W Polsce świętowany jest Dzień Czekolady wypadający 12 kwietnia.
+
+Nasiona kakaowca właściwego początkowo były wykorzystywane przez Majów do produkcji napoju dla najbogatszych o nazwie Xococalit (z nahuatl xocolatl IPA [ʃoˈkola:t͡ɬ] – gorzka woda). Napój ten był również wykorzystywany podczas modłów i odpraw rytualnych. Xococalit był przyrządzany z roztartych ziaren kakaowca z miodem, chili bądź z kukurydzą. W celu uzyskania pianki przelewali napój z naczynia do naczynia.
+
+Aztekowie rozdrabniali nasiona kakaowca, by produkować zimny napój z kukurydzą, chili, miodem, wanilią oraz z suszonymi płatkami kwiatów nadających różną barwę napojom.
+
+Dzięki odkryciu Ameryki przez Krzysztofa Kolumba nasiona kakaowca mogły zostać przewiezione do Europy. Nie zachwyciły jednak dworu hiszpańskiego, ponieważ Europejczycy nie wiedzieli, jak je wykorzystać. Uwagę na nasiona kakaowca zwrócił Hernán Cortés, gdy w 1518 roku odkrył silos zawierający 100 milionów ziaren kakaowca, posortowanych w 40 tys. składowanych ładunków. Jednak dopiero w XVII wieku popularne stały się roztarte ziarna kakaowca, które zostały zalane ciepłą wodą z dodatkiem cukru.

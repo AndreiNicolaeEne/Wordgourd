@@ -1,0 +1,9 @@
+Gellir dweud fod rhif cymhlyg y mae ei ran real yn sero yn rhif dychmygol llwyr; mae'r pwyntiau ar gyfer y rhifau hyn yn gorwedd ar echelin fertigol y plân gymhlyg. Mae rhif cymhlyg y mae ei ran ddychmygol yn sero yn gallu cael ei ystyried yn rhif go iawn; mae ei bwynt yn gorwedd ar echel lorweddol y plân gymhlyg. Gellir hefyd gynrychioli rhifau cymhlyg mewn ffurf pegynnol, sy'n cysylltu pob rhif cymhlyg gyda'i bellter o'r tarddiad (ei faint) a chydag ongl benodol a elwir yn "argiau (neu 'ymresymiad') y rhif cymhlyg" hwn.
+
+Fel hyn, diffinnir rhif cymhlyg fel polynomial gyda chyfernodau go-iawn yn yr un amhenodol i, lle mae ei berthynas i2 + 1 = 0 ar ei gyfer. Yn seiliedig ar y diffiniad hwn, gellir adio a lluosi rhifau cymhlyg, gan ddefnyddio'r adio a'r lluosi ar gyfer polynomialiaid. Mae'r berthynas i2 + 1 = 0 yn cymell y cydraddoldebau i i4k = 1, i4k+1 = i, i4k+2 = −1, aci4k+3 = −i, sy'n dal yr holl gyfanrifau k; mae'r rhain yn caniatáu lleihau unrhyw polynomial sy'n deillio o adio a lluosi rhifau cymhlyg i bolynomial llinol yn i, ac eto o'r ffurf a + bi gyda chyfernodau go-iawn a, b.
+
+Ceir atebion i rai hafaliadau sy'n ymwneud â rhifau cymhlyg, ond ni cheir atebion i hafaliadau sy'n ymwneud â rhifau real. Er enghraifft, nid oes i'r hafaliad:
+
+ateb real, gan na all sgwâr rhif real fod yn negatif.
+
+Mae gan rhifau cymhlyg ateb i'r broblem hon. Gellir ymestyn y rhifau real gydag "i" amhenderfynedig (indeterminate), a elwir, weithiau, yn "uned amhenderfynedig" ac a ddefnyddir i fodloni'r berthynas i2 = −1, fel bod atebion i broblemau fel hyn yn bosibl. Yn yr achos yma, yr ateb yw: −1 + 3i and −1 − 3i. Gellir dilysu hyn gan ddefnyddio'r ffaith fod i2 = −1:

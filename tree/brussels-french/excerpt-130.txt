@@ -1,0 +1,17 @@
+(3) La directive 2007/46/CE du Parlement européen et du Conseil du 5 septembre 2007 établissant un cadre pour la réception des véhicules à moteur, de leurs remorques et des systèmes, des composants et des entités techniques destinés à ces véhicules (directive-cadre) (3) doit donc être modifiée en conséquence.
+
+(4) Les mesures prévues dans le présent règlement sont conformes à l’avis du comité technique pour les véhicules à moteur,
+
+A ADOPTÉ LE PRÉSENT RÈGLEMENT: Article premier
+
+Champ d’application Le présent règlement s’applique aux véhicules de la catégorie M1 répondant aux conditions suivantes:
+
+- ils sont équipés d’une boîte de vitesse manuelle,
+
+- ils ont une masse de référence ne dépassant pas 2 610 kg ou la réception par type leur est étendue conformément à l’article 2, paragraphe 2, du règlement (CE) no 715/2007.
+
+Le présent règlement ne s’applique pas aux «véhicules conçus pour satisfaire des besoins sociaux spécifiques» tels que définis à l’article 3, paragraphe 2, point c), du règlement (CE) no 715/2007.
+
+Article 2 Définitions Aux fins du présent règlement, outre les définitions figurant dans le règlement (CE) no 661/2009, on entend par:
+
+1) «type de véhicule en ce qui concerne le GSI»: un groupe de véhicules qui ne diffèrent pas entre eux du point de vue des caractéristiques de fonctionnement du GSI et de la logique du GSI pour déterminer le moment auquel il y a lieu d’indiquer un point de changement de vitesse. On peut citer comme exemples de logiques différentes:

@@ -1,0 +1,9 @@
+Šviesa − regimojo spektro elektromagnetinis spinduliavimas − 380−750 nm elektromagnetinių bangų spektro dalis; elektromagnetinių bangų spektras nuo infraraudonųjų iki ultravioletinių spindulių.
+
+Elektromagnetinių bangų spektrui nuo 400 nm iki 700 nm yra jautri žmogaus akies tinklainė. Jos nerviniu impulsu perduodamą informaciją smegenys interpretuoja kaip šviesą, spalvas, o atspindžių nuo objektų visumą − kaip regimąjį pasaulį.
+
+Šviesa turi dvilypę prigimtį: Elektromagnetinės bangos
+
+Šviesos dalelių – fotonų (kvantų) – srautas 1845 m. Maiklas Faradėjus atrado, kad šviesai sklindant poliarizuojančia medžiaga, poliarizacijos kampas gali būti keičiamas išoriniu magnetiniu lauku. Tai buvo pirmasis atrastas efektas, įrodantis, kad šviesa yra susijusi su elektromagnetizmu. Remdamasis šio eksperimento rezultatais Faradėjus 1847 m. pasiūlė teiginį, kad šviesa yra aukšto dažnio elektromagnetinės bangos.
+
+Faradėjaus eksperimentai buvo vienas svarbiausių veiksnių, leidusių Džeimsui Klarkui Maksvelui sukurti elektromagnetinio lauko teoriją. Iš šios teorijos išplaukė, kad elektromagnetinės bangos tuščioje erdvėje turi sklisti pastoviu greičiu, kurio skaitinė vertė yra lygi šviesos greičiui. Tuo remdamasis Maksvelas padarė išvadą, kad šviesa yra ne kas kita, kaip tam tikro dažnio elektromagnetinės bangos. Pirmą kartą ši išvada buvo paskelbta 1862 m., veikale Apie fizines jėgos linijas (On Physical Lines of Force). 1873 m. Maksvelas paskelbė matematinę savo teorijos formuluotę, kurios pagrindinis rezultatas buvo Maksvelo lygtys, aprašančios elektromagnetinio lauko savybes bei elgesį.

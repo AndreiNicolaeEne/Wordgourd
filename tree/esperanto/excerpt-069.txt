@@ -1,0 +1,11 @@
+Eksplodmotoro estas brulmotoro, kiu funkcias per interna brulado. La plej ofta eksplodmotoro estas tiu, kiu bruligas benzinon. Aliaj eksplodmotoroj uzas dizelbrulaĵon, hidrogenon, metanon, propanon, k.a. Motoroj tipe uzas nur unu specon de brulaĵo, kaj bezonas adaptiĝon por alĝustigi la miksaĵon aero-brulaĵan por uzi aliajn brulaĵojn.
+
+En benzina motoro, miksaĵo benzin-aera disĵetiĝas en cilindron. Piŝto premas la miksaĵon kaj elektra fajrero bruligas ĝin. La eksplodo kreas varmegon, kaj la varmegaj gasoj repuŝas la piŝton. La eksplodgasoj forventumiĝas, kaj la ciklo rekomenciĝas. La movado de la piŝto kreas rondmovadon. Valvoj regas la ĵetadon de la benzinaera miksaĵo kaj ellasas gasojn kiam taŭgas.
+
+Piŝtaj motoroj — kiel brulujo estas uzata cilindro, kie varma energio transformiĝas en la meĥanikan, kiu el alterndirekta movado de la piŝto transformiĝas al la rotacia helpe de krank-biela meĥanismo. Laŭ speco de uzata brulaĵo ekzistas:
+
+otto-motoro, aŭ benzinmotoro — miksaĵo de brulaĵo kaj aero estas preparata en karburilo kaj poste en eniga kolektujo, aŭ en eniga kolektujo pere de dispersiloj (meĥanikaj aŭ elektraj), aŭ senpere en cilindroj pere de dispersiloj, poste la miksaĵo estas enigata en cilindron, premata, kaj poste ekbruligata helpe de sparko, aperanta inter elektrodoj de sparkilo.
+
+dizel-motoro — speciala dizela brulaĵo estas ŝprucata en cilindron kun granda premo. Ekbrulo efektiviĝas pro efiko de alta premo kaj, sekve de temperaturo en la kamero.
+
+gasa motoro — motoro bruliganta hidrokarbonidojn, estantajn en gasa formo en normalaj kondiĉoj.

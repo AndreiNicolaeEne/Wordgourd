@@ -1,0 +1,15 @@
+b) de oplysninger, der er fastsat i tabel 2 i bilaget, vedrørende den derivataftale, der er indgået mellem de to modparter.
+
+2. I stk. 1 forstås ved »indgå en aftale« at »foretage transaktioner«, jf. artikel 25, stk. 3, i Europa-Parlamentets og Rådets direktiv 2004/39/EF (4).
+
+3. Hvis der foretages en samlet indberetning på vegne af begge modparter, skal den indeholde de oplysninger, der er fastsat i tabel 1 i bilaget vedrørende begge modparter. De i tabel 2 i bilaget fastsatte oplysninger skal kun indberettes én gang.
+
+4. Hvis der foretages en samlet indberetning på vegne af begge modparter, skal dette anføres i indberetningen, jf. felt 9 i tabel 1 i bilaget.
+
+5. Hvis en modpart indberetter oplysninger om en aftale til et transaktionsregister på vegne af den anden modpart, eller hvis en tredjepartsenhed indberetter en aftale til et transaktionsregister på vegne af en eller begge modparter, skal de indberettede oplysninger være lige så fuldstændige, som hvis aftalerne var blevet indberettet til transaktionsregistret af hver modpart særskilt.
+
+6. Hvis en derivataftale har kendetegn, der er karakteristiske for mere end ét underliggende aktiv, jf. tabel 2 i bilaget, skal det i indberetningen angives, hvilken aktivklasse modparterne er enige om ligner aftalen mest, før der foretages indberetning til et transaktionsregister.
+
+Artikel 2 Clearede handler 1. Hvis en indgået aftale efterfølgende cleares af en CCP, skal clearingen indberettes som en ændring af den indgåede aftale.
+
+2. Hvis en aftale indgås på en markedsplads og cleares af en CCP, således at en modpart ikke er klar over den anden modparts identitet, skal den indberettende modpart angive den pågældende CCP som sin modpart.

@@ -1,0 +1,15 @@
+(1) Rapoartele către un registru central de tranzacții includ:
+
+(a) detaliile prezentate în tabelul 1 din anexă, care conține informații referitoare la contrapărțile la un contract;
+
+(b) informațiile prezentate în tabelul 2 din anexă, care conține detalii referitoare la contractul derivat încheiat între două contrapărți;
+
+(2) În sensul alineatului (1), încheierea unui contract înseamnă „efectuarea unei tranzacții” în sensul de la articolul 25 alineatul (3) din Directiva 2004/39/CE a Parlamentului European și a Consiliului (4).
+
+(3) În cazul în care se efectuează un raport în numele ambelor contrapărți, acesta conține informațiile prezentate în tabelul 1 din anexă referitor la fiecare dintre contrapărți. Informațiile prezentate în tabelul 2 din anexă se transmit o singură dată.
+
+(4) În cazul în care se efectuează un raport în numele ambelor contrapărți, raportul indică acest fapt, conform câmpului 9 din tabelul 1 din anexă.
+
+(5) În cazul în care o contraparte raportează detaliile unui contract către un registru central de tranzacții în numele celeilalte contrapărți sau în cazul în care o entitate terță raportează un contract unui registru central de tranzacții în numele uneia sau al ambelor contrapărți, informațiile raportate includ toate detaliile care ar fi fost raportate în cazul raportării contractului către registrul central de tranzacții separat de către fiecare contraparte.
+
+(6) În cazul în care un contract derivat include caracteristici tipice pentru mai mult de un activ suport menționat în tabelul 2 din anexă, raportul indică clasa cu care contrapărțile convin că seamănă cel mai mult contractul înainte de transmiterea acestuia din urmă către registrul central de tranzacții.

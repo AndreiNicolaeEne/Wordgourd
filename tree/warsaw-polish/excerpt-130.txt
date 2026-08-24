@@ -1,0 +1,35 @@
+Web design – projektowanie interfejsu użytkownika strony internetowej oraz jego szaty graficznej. Czynność polegająca na zaprojektowaniu, rozplanowaniu takich elementów strony jak nawigacja, interaktywność, użyteczność, architektura informacji oraz współdziałanie elementów audio, tekstu, hiperlinków, obrazków oraz filmów.
+
+Połączenie dobrego projektu z dobrze opracowaną hierarchią treści zwiększa skuteczność strony jako kanału komunikacyjnego i źródła wymiany danych. Podnosi to możliwości kontaktu pomiędzy dostawcą i odbiorcą treści.
+
+Strony internetowe mogą powstawać: przez tworzenie plików tekstowych w HTML, PHP, ASP, Aspx, JavaScripcie, JSP, Pythonie, Ruby.
+
+przez użycie programu WYSIWYG do tworzenia stron (np. Dreamweaver).
+
+określenie wymagań dotyczących funkcjonalności
+
+określenie wymagań dotyczących formy graficznej
+
+określenie wymagań dotyczących elementów animacji
+
+wyznaczenie ram czasowych w oparciu o analizę wymagań
+
+wycena projektu, potwierdzenie specyfikacji przedstawionej klientowi
+
+akceptacja specyfikacji oraz wyceny przez klienta
+
+przygotowanie wstępnej wersji graficznej projektu w oparciu o wytyczne/materiały klienta
+
+naniesienie poprawek zgłoszonych przez klienta
+
+przygotowanie ostatecznej wersji graficznej projektu
+
+akceptacja ostatecznej wersji graficznej projektu
+
+rozpoczęcie pracy nad stroną programistyczną projektu.
+
+przedstawienie wersji testowej aplikacji.
+
+naniesienie ewentualnych poprawek dotyczących funkcjonalności projektu.
+
+integracja z zewnętrznymi systemami. akceptacja ostatecznej formy projektu przez klienta

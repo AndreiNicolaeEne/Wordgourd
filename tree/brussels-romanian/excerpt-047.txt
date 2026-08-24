@@ -1,0 +1,15 @@
+Articolul 2 Tranzacții compensate (1) În cazul în care un contract existent este compensat ulterior printr-o CPC, compensarea ar trebui raportată ca modificare a contractului existent.
+
+(2) În cazul în care un contract este încheiat într-un loc de tranzacționare și compensat printr-o CPC, astfel încât una dintre contrapărți nu cunoaște identitatea celeilalte contrapărți, contrapartea raportoare menționează CPC în cauză drept contraparte a sa.
+
+Articolul 3 Raportarea expunerilor (1) Datele privind garanțiile care trebuie incluse în tabelul 1 din anexă includ toate garanțiile constituite.
+
+(2) În cazul în care o contraparte nu constituie garanții la nivel de tranzacție, contrapărțile raportează unui registru central de tranzacții garanțiile constituite la nivel de portofoliu.
+
+(3) În cazul în care garanțiile referitoare la un contract sunt raportate la nivel de portofoliu, contrapartea care efectuează raportarea raportează registrului central de tranzacții un cod de identificare a portofoliului garanțiilor constituite pentru cealaltă contraparte în ceea ce privește contractul raportat.
+
+(4) Contrapărțile nefinanciare diferite de cele menționate la articolul 10 din Regulamentul (UE) nr. 648/2012 nu au obligația de a raporta garanții sau evaluări la prețul de piață ori în funcție de un model ale contractelor menționate în tabelul 1 din anexă.
+
+(5) Pentru contractele compensate printr-o CPC, evaluările la prețul de piață se furnizează doar de către CPC.
+
+Articolul 4 Jurnalul de raportare Modificările datelor înregistrate în registrele centrale de tranzacții sunt păstrate într-un jurnal în care se consemnează persoana sau persoanele care au solicitat modificarea, inclusiv registrul central de tranzacții, dacă este cazul, motivul sau motivele modificării, data și ora, precum și o descriere clară a modificărilor, inclusiv a conținutului vechi și nou al datelor relevante, conform descrierilor din câmpurile 58 și 59 din tabelul 2 din anexă.

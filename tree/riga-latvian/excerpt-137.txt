@@ -1,0 +1,21 @@
+Saskaņā ar Eiropas standartu EN 10027-1 tēraudus apzīmē divos veidos:
+
+pēc to mehāniskajām vai fizikālajām un lietošanas īpašībām;
+
+pēc to ķīmiskā sastāva. Mašīnbūvē plaši lieto vispārējās nozīmes konstrukciju tēraudus (LVS EN 10027-2:2001). Izplatītas ir LVS EN un GOST marku sistēmas. EN markās skaitlis norāda mazāko elastības robežu Re (MPa) Tēraudu markas un pielietojuma piemēri ir šādi:
+
+Ст 0, Ст 1un Ст 2 piemīt arī laba metināmība. Piemēri nosacītajam apzīmējumam:
+
+S185 LVS EN 10025:2001; Ст 3 GOST 380-71. Ст — "сталь" ('tērauds'). Bez tam lieto kvalitātes oglekļa konstrukciju tēraudus. To markās C norāda tipu (oglekļa (latīņu carbonium) tērauds), skaitlis aiz tā ir oglekļa saturs tēraudā procentu simtdaļās (vidējais). Lieto šādas markas.
+
+Rasējuma dokumentācijā GOST markai priekšā jāpieraksta vārds "Tērauds".
+
+Ja detaļai nepieciešama augstāka nodilumizturība, stiprība vai citas īpašības, to izgatavošanai izmantojams kāds no leģētajiem konstrukciju tēraudiem (LVS EN 10250:2001). Tos iedala divās grupās un atbilstoši apzīmē.
+
+Itālija (itāļu: Italia, izrunā [iˈtaːlja]), oficiāli Itālijas Republika (Repubblica italiana), ir valsts Dienvideiropas centrālajā daļā. Kopš 1946. gada konstitucionālā referenduma Itālija ir republika. Lielākā daļa no valsts atrodas Apenīnu pussalā, kas tālu iestiepjas Vidusjūrā. Pēc kontūras šī pussala atgādina zābaku. Itālijai pieder arī divas lielas salas: Sardīnija un Sicīlija, un vairākas mazākas salas. Itālija robežojas ar Šveici, Austriju, Franciju, Slovēniju un divām anklāva pundurvalstīm — Vatikānu un Sanmarīno, savukārt Šveicē Itālijai pieder eksklāvs Campione d'Italia.
+
+Aptuveni trīs ceturtdaļas no valsts teritorijas klāj kalnienes un kalni. Itālijas ziemeļos dabīgā robeža ar citām valstīm ir Alpu kalni, savukārt tālu pussalā iestiepjas Apenīnu kalni. Lielākā daļa no valsts zemienēm atrodas lielo upju ielejās, piemēram, Po ielejā. Itālijas dienvidos un Sicīlijā atrodas trīs tektonisko plātņu krustpunkts, tādēļ šeit ir intensīva ģeoloģiskā aktivitāte. Itālijas teritorijā atrodas četri aktīvi vulkāni, no kuriem pazīstamākie ir Vezuvs un Etna.
+
+Itālijas galvaspilsēta ir Roma. Vairums iedzīvotāji ir itāļi. Oficiālā valoda ir itāļu valoda. Dominējošā reliģija ir kristietība, konkrēti, Romas Katoļu baznīca. Itālijā izmantotā valūta ir eiro.
+
+Ap 8.-7. gadsimtu p.m.ē. Itālijas pussalas austrumu un dienvidu daļā, kā arī Sicīlijā lielā skaitā sāka parādīties grieķu apmetnes. Šīs grieķu apdzīvotās vietas dēvēja par Lielo Grieķiju (Magna Graecia). Pēc Romas impērijas sabrukuma Itālijas pussalā viena pēc otras iebruka dažādas klejotāju ciltis - pārsvarā ģermāņi. Līdz 19. gadsimtam Itālija bija sadalīta nelielās valstīs, no kurām lielākās bija Pāvesta valsts, Sardīnijas Karaliste, Abu Sicīliju karaliste, Venēcijas Republika un Toskānas hercogiste.

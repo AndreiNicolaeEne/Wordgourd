@@ -1,0 +1,3 @@
+Tabula summas numerorum usque ad 9 monstrat. Quid si debes duo numeros addere qui maiores quam 9 sunt? Adde figuras quae unitates repraesentant (in dextra parte numerorum), tunc figuras quae denos repraesentant, tunc centenos, et caetera usque ad sinistra parte.
+
+Hoc est exemplum. 25 + 31 = ? Unitates: 5 + 1 = 6; pone ergo 6 in dextram summae partem. Deni: 2 + 3 = 5; pone 5 in proximam partem. Hae figurae denos numeros repraesentant: re vera, est 20 + 30, hoc est 50. Summa est ergo 56. Facilius est visu si numeros addendos in columnam scribes:

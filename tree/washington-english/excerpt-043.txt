@@ -1,0 +1,50 @@
+0
+4. Add subpart 245.5, consisting of section 245.570, to read as
+follows:
+
+Subpart 245.5--Support Government Property Administration
+
+245.570 Storage at the Government's expense.
+
+All storage contracts or agreements shall be separately priced and
+shall include all costs associated with the storage.
+0
+5. Revise subpart 245.6 to read as follows:
+
+Subpart 245.6--Reporting, Reutilization, and Disposal
+
+Sec.
+245.602 Reutilization of Government property.
+245.602-1 Inventory disposal schedules.
+245.602-3 Screening.
+245.602-70 Plant clearance procedures.
+245.604 Disposal of surplus property.
+245.604-3 Sale of surplus property.
+
+Subpart 245.6--Reporting, Reutilization, and Disposal
+
+245.602 Reutilization of Government property.
+
+245.602-1 Inventory disposal schedules. For termination inventory, plant clearance officers shall verify
+inventory schedules, either directly or through appropriate technical
+personnel, to determine the following:
+(a) Allocability.
+(1) Review contract requirements, delivery schedules, bills of
+material, and other pertinent documents to determine whether schedules
+include property that--
+(i) Is appropriate for use on the contract; or
+(ii) Exceeds the quantity required for completion of the contract,
+but could be diverted to other commercial work or Government use.
+(2) Review the contractor's--
+(i) Recent purchases of similar material;
+(ii) Plans for current and scheduled production;
+(iii) Stock record entries; and
+(iv) Bills of material for similar items.
+(b) Quantity. Take measures to provide assurance that available
+inventory is in accordance with quantities listed on the inventory
+schedules. Quantities may be verified by actual item count, acceptance
+of labeled quantities in unopened/sealed packages, scale counts, or
+other appropriate methods.
+(c) Condition. Ensure that the physical condition of the property
+is reasonably consistent with the Federal Condition Code supplied by
+the contractor.

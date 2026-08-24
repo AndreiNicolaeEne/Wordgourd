@@ -1,0 +1,17 @@
+Masse er en av fysikkens grunnenheter. Masse betyr materie- eller stoffmengde og er en grunnleggende egenskap ved et legeme eller en gjenstand. Stoffmengden er gitt av antall protoner, nøytroner og elektroner som det inneholder (med et lite relativistisk avvik). SI-enheten for masse er kilogram. Et kilogram er 1000 gram og forkortes kg.
+
+Bak begrepet masse ligger to helt forskjellige fysikalske prinsipper:
+
+et legemes motstand mot å forandre hastighet – dets treghet.
+
+et legemes tyngde-akselerasjon – gravitasjon som i nærheten av et annet legeme oppviser en gjensidig tiltrekningskraft.
+
+Selv nøyaktige målinger har ikke kunnet påvise noen forskjell. Dette ekvivalensprinsippet var et grunnlag for Einsteins generelle relativitetsteori.
+
+Et legemes masse kan måles ved veiing eller ved å utsette det for en kraft F og måle akselerasjonen a. Massen m kan da bestemmes etter treghetsloven F = m a. I et nøytralt gravitasjonsfelt (vektløs tilstand) er dette den eneste måten å bestemme massen på.
+
+I dagligdagse omgivelser er det riktig å betrakte massen til et legeme som helt konstant. Formelt sett kan det likevel oppstå et avvik som følge av Einsteins relativitetsteori, hvor masse og energi er to sider av samme sak. Ifølge relativitetsteorien er
+
+der E er energi, m er et legemes hvilemasse og c er lysets hastighet i tomt rom. Hvis legemet blir tilført energi for eksempel ved oppvarming, vil derfor dets masse formelt forandres litt. Under normale forhold er denne forandringen så liten at den ikke kan påvises.
+
+Med veiing menes i det følgende en kraftmåling som ved en fjærvekt, og uttrykkelig ikke en sammenligningsmåling som ved en skålvekt eller bismer.

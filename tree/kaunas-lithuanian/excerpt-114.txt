@@ -1,0 +1,13 @@
+Kampas – geometrijoje ir trigonometrijoje figūra, kurią sudaro dvi tiesės, turinčios bendrą susikirtimo tašką, jos dar yra vadinamos kampo kraštinėmis. Plokštuma taip pat gali sudaryti kampą, kai ji susikerta su kita plokštuma.
+
+Kampai yra žymimi graikiškomis raidėmis, pvz (alfa), (beta), (gama) ir (teta). Kampas apibūdina tarpą tarp jo kraštų arba sukimosi dydį, kurio reikia, kad viena jo pusė sutaptų su kita.
+
+Kampo dydžiui matuoti naudojamas matavimo vienetas – laipsnis. Laipsnis yra standartinis vienetas ir užrašant konkretų jo dydį šalia skaičiaus naudojamas simbolį °, kad parodyti, jog tai yra laipsnių skaičius. Laipsnio daliai užrašyti yra naudojamas dešimtainis skaičius arba trupmena, laipsnį taip pat galima padalyti į 60 minučių (1° = 60'), o minutę – į 60 sekundžių (1' = 60"). Taigi 22,5°, 22½°° 22°30' yra vienodo dydžio kampai.
+
+Matematikoje kampai dažniausiai yra matuojami radianais, o ne laipsniais, naudojant perskaičiavimo koeficientą (pavyzdžiui, ). Dar vienas kampo vienetas yra gradas, kur .
+
+Kampas, kuriame susikerta geometrinės figūros tiesės (briaunos), dažnai vadinamas viršūne. Pavyzdžiui, trys trikampio kraštinės yra jo briaunos, o dvi briaunos susitinka kiekvienoje viršūnėje. Analogiškai, dvi iš šešių kubo sienų (arba paviršių) susijungia su kiekviena iš savo dvylikos briaunų, o trys briaunos susijungia kiekviename iš aštuonių kampų (arba viršūnių). Spindulys, kuris nubrėžtas iš kampo viršūnės ir dalija tą kampą pusiau, yra vadinamas kampo pusiaukampine.
+
+Kampams matuoti ir brėžti naudojamas matlankis, navigacijoje ir astronomijoje naudojamas sekstantas.
+
+Kampus astronomijos ir inžinerijos srityse jau tyrinėjo babiloniečiai (4000–300 m. pr. m. e.), kurie naudojo šešiasdešimtainę skaičių sistemą. To meto matematikai tris lygiakraščio trikampio kampus dalino į 60 vienetų, kurie atitinka į šiandien naudojamus laipsnius. Laipsnis dar buvo padalintas į 60 minučių, o minutės – į 60 sekundžių.

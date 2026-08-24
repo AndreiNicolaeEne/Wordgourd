@@ -1,0 +1,31 @@
+Kinshasa a Kongói Demokratikus Köztársaság fővárosa és egyben legnépesebb városa is. A Kongó folyó déli partján terül el, vele szemben északra fekszik a Kongói Köztársaság fővárosa, Brazzaville. A várost 24 önkormányzat (franciául: communes) alkotja.
+
+Iparilag nem kiemelkedő, viszont fontos közlekedési csomópont főleg a vasúti és a folyami szállítás szempontjából. A város ad otthont az államvezetés legfontosabb épületeinek.
+
+2016-ban a város népessége 11,8 millió fő volt. A város népességének változása:
+
+A nagyváros a Kongó-medence nyugati szélén fekszik. A Kongó folyó itt 4–5 km széles folyammá, folyami tóvá (Malebo-tó) öblösödik, majd pár száz km után eléri az Atlanti-óceánt.
+
+A város a Malebo-tó déli partján, 300 méteres tengerszint feletti magasságban épült. Itt van a Kongó hajózható szakaszának végpontja.
+
+Az éghajlatot állandó meleg, párás, egyenletesen csapadékos trópusi klíma jellemzi. A középhőmérséklet 25 °C körül mozog, az évi átlagos csapadék 1400 mm.
+
+A város alapítása Henry Morton Stanley felfedező és gyarmatosító Afrikautazó nevéhez kötődik. Ő építtetett itt 1881-ben telepet, hogy a teherhordó karavánokkal ide, Kitambo falucska mellé érkező árut itt hajóra rakva fuvarozzák tovább, a Kongó-medence belseje felé.
+
+A várost II. Lipót belga királyról nevezték el Leopoldville-nek. Mai nevét 1966 óta viseli.
+
+Az alapítása utáni években gyors fejlődésnek indult a település. 1898-ban elkészült a Matadi tengeri kikötőjébe vezető vasútvonal is. 1926-ban Belga Kongó gyarmati közigazgatási székhelyét Bomából Leopoldville-be helyezték át.
+
+1945-ben, a második világháború után a szépen fejlődő iparosodó városban nagyszabású építkezések kezdődtek. A lakosság száma 1945 és 1960 között megnégyszereződött. 1960-ban vívta ki Zaire a függetlenségét, melyet hosszan tartó polgárháború követett.
+
+A logaritmus két szám között értelmezett matematikai művelet, amely közeli kapcsolatban van a hatványozással. A pozitív b szám a alapú logaritmusán (ahol a egytől különböző pozitív szám) azt a kitevőt értjük, melyre a-t emelve b-t kapjuk.
+
+Például 1000-nek 10-es alapú logaritmusa 3, mert 10 harmadik hatványa 1000.
+
+A b szám a alapú logaritmusát jelöli, amely tehát az egyetlen valós szám, amelyre
+
+Például , ugyanis, ha a 81-et a logaritmus alapjának, azaz a 3-nak hatványaként írjuk fel, akkor a kitevő 4 lesz:
+
+A logaritmus képzése a gyökvonáshoz hasonlóan egy bizonyos értelemben a hatványozás megfordítása, de amíg a gyökvonás az összefüggés alapján az eredmény és a kitevő ismeretében keresi az alapot, addig a logaritmus az eredmény és az alap ismeretében a kitevőt határozza meg.
+
+A logaritmust John Napier vezette be a 16. század végén, hogy megkönnyítse a szorzást, hatványozást tartalmazó számolásokat. Az elnevezés a görög „λόγος” (logosz, arány) és „ἀριθμός” (arithmosz, szám) szavak összetételéből származik. A számítások megkönnyítésére logarléceket és logaritmustáblázatokat készítettek, amelyek hamarosan elterjedtek a tengerészetben, a tudományokban és a mérnökök között. Ezek az eszközök a logaritmus azonosságait használják fel. A logaritmus mai jelölése Leonhard Eulertől származik, aki elsőként kapcsolta össze az exponenciális függvénnyel.

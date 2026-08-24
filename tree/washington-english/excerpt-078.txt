@@ -1,0 +1,47 @@
+``Section 226.1 Authority, Purpose, Coverage, Organization, Enforcement
+and Liability
+
+Section 226.1(d) Organization Section 226.1(d) describes how Regulation Z is organized. Section
+226.1(d)(5) describes Subpart E of Regulation Z, which this interim
+final rule amends by adding new Sec. 226.42, ``Valuation
+Independence.'' The interim final rule also revises comment 1(d)(5)-1
+to add a new subpart 1(d)(5)-1.ii, stating that compliance with the
+interim final rule is mandatory on April 1, 2011, for open- and closed-
+end extensions of consumer credit secured by the consumer's principal
+dwelling. The revised comment also states that Sec. 226.36(b), which
+is substantially similar to Sec. 226.42(c) and (e), is removed
+effective April 1, 2011. The comment explains that applications for
+closed-end extensions of credit secured by the consumer's principal
+dwelling that are received by creditors before April 1, 2011, are
+subject to Sec. 226.36(b) regardless of the date on which the
+transaction is consummated. However, parties subject to Sec. 226.36(b)
+may, at their option, choose to comply with Sec. 226.42 instead of
+Sec. 226.36(b), for applications received before April 1, 2011. To
+illustrate, the comment explains that an application for a closed-end
+extension of credit secured by the consumer's principal dwelling
+received by a creditor on March 20, 2011, and consummated on May 1,
+2011, is subject to Sec. 226.36(b), but the creditor may choose to
+comply with Sec. 226.42 instead. The comment further explains that,
+for an application for open- or closed-end credit secured by the
+consumer's principal dwelling that is received on or after April 1,
+2011, the creditor must comply with Sec. 226.42.''
+3. On page 66558, in the first column, line 50, correct ``Section
+226.42(b)(5)'' to read ``Section 226.42(b)(3)''.
+3a. On page 66558, in the second column, line 4, correct ``Sec.
+226.42(b)(5)'' to read ``Sec. 226.42(b)(3)''.
+4. On page 66559, in the third column, line 41, correct ``comment
+42(c)(1)(1)-3'' to read ``comment 42(c)(1)-3''.
+5. On page 66570, in the first column, lines 1-3, remove
+``companies that publicly hold themselves out as''.
+6. On page 66574, in the second column, lines 1-2, correct ``on
+rates'' to read ``on information about rates''.
+7. On page 66575, in the third column, line 39, correct ``comment
+42(g)-6'' to read ``comment 42(g)(1)-6.''
+8. On page 66576, in the second column, line 34, correct ``Sec.
+226.42(b)(2)'' to read ``Sec. 226.42(b)(1)''.
+9. On page 66578, in the second column, line 23, correct
+``18,749,687'' to read ``75,894''.
+10. On page 66580, in the second column, revise the List of
+Subjects under 12 CFR Part 226 to read as follows: ``Advertising,
+Consumer protection, Federal Reserve System, Mortgages, Reporting and
+recordkeeping, Truth in Lending''.

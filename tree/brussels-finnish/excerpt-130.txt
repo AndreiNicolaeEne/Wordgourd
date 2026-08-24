@@ -1,0 +1,19 @@
+(3) Sen vuoksi direktiiviä 2007/46/EY (3), annettu 5 päivänä syyskuuta 2007, puitteiden luomisesta moottoriajoneuvojen ja niiden perävaunujen sekä tällaisiin ajoneuvoihin tarkoitettujen järjestelmien, osien ja erillisten teknisten yksiköiden hyväksymiselle (puitedirektiivi), olisi muutettava.
+
+(4) Tässä asetuksessa säädetyt toimenpiteet ovat moottoriajoneuvoja käsittelevän teknisen komitean lausunnon mukaiset,
+
+ON HYVÄKSYNYT TÄMÄN ASETUKSEN: 1 artikla
+
+Soveltamisala Tätä asetusta sovelletaan luokan M1 ajoneuvoihin, jotka täyttävät seuraavat vaatimukset:
+
+- niissä on käsivalintainen vaihteisto, -
+
+niiden vertailumassa on enintään 2 610 kg tai tyyppihyväksyntä ulotetaan koskemaan niitä asetuksen (EY) N:o 715/2007 2 artiklan 2 kohdan mukaisesti.
+
+Tätä asetusta ei sovelleta asetuksen (EY) N:o 715/2007 3 artiklan 2 kohdan c alakohdassa määriteltyihin ’erityisiin sosiaalisiin tarpeisiin suunniteltuihin ajoneuvoihin’.
+
+2 artikla Määritelmät Tässä asetuksessa sovelletaan asetuksessa (EY) N:o 661/2009 vahvistettujen määritelmien lisäksi seuraavia määritelmiä:
+
+1. ’Ajoneuvotyypillä vaihtamisopastimen osalta’ tarkoitetaan sellaisten ajoneuvojen ryhmää, jotka eivät eroa toisistaan vaihtamisopastimen toiminnallisten ominaisuuksien ja sen toimintalogiikan suhteen, jolla vaihtamisopastin määrittää hetken, jolloin se suosittelee vaihteen vaihtamista. Eri toimintalogiikkoja ovat muiden muassa seuraavat:
+
+i) suositus vaihtaa suuremmalle vaihteelle määritetyillä moottorin pyörimisnopeuksilla,

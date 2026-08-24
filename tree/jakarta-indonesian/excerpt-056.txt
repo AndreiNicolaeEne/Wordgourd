@@ -1,0 +1,15 @@
+Peluruhan radioaktif (disebut juga peluruhan nuklir atau radioaktivitas) adalah kemampuan inti atom yang tidak stabil menjadi stabil melalui pemancaran radiasi. Kemampuan ini melibatkan proses pemecahan inti atom yang tidak stabil sehingga terjadi kehilangan energi (berupa massa dalam diam) dengan memancarkan radiasi, seperti partikel alfa (inti helium), partikel beta (elektron atau positron) dengan neutrino dan sinar gamma. Material yang mengandung inti tak stabil ini dianggap radioaktif.
+
+Peluruhan terjadi pada sebuah nukleus induk dan menghasilkan sebuah nukleus anak. Peluruhan radioaktif adalah sebuah proses "acak" (stochastic) dimana menurut teori kuantum, tidak mungkin untuk memprediksi kapan sebuah sebuah atom akan meluruh, tidak peduli seberapa lama atom tersebut telah eksis. Namun, untuk sekumpulan atom, kecepatan peluruhan yang diperkirakan dapat dikarakterisasi melalui konstanta peluruhan atau waktu-paruh. Hal ini menjadi dasar bagi pengukuran radiometrik. Waktu paruh atom radioaktif tidak memiliki batas, terbentang sepanjang 55 tingkat besaran, dari mulai hampir spontan sampai jauh melebihi usia alam semesta.
+
+Arus searah adalah arus listrik yang nilainya tidak berubah yaitu positif atau hanya negatif saja. Arus searah didefinisikan sebagai arus yang mempunyai nilai tetap atau konstan terhadap satuan waktu. Peninjauan arus listrik pada waktu berbeda, tetap akan mendapatkan nilai yang sama. Sumber arus searah diperoleh dari elemen-elemen yang memberikan energi listrik yang mengalir secara merata setiap saat, seperti elemen volta, baterai, akumulator.
+
+Arus bolak-balik adalah arus listrik yang memiliki arah arus yang berubah-ubah secara bolak-balik. Sifat arus bolak-balik berbeda dengan arus searah yang arah arusnya tidak berubah-ubah terhadap waktu. Bentuk gelombang dari arus bolak-balik biasanya berbentuk gelombang sinusoida sehingga memungkinkan pengaliran energi secara efisien. Arus bolak-balik juga dapat mengalir dalam bentuk gelombang segitiga atau bentuk gelombang segi empat. Secara umum, penyaluran listrik arus bolak-balik dari sumber listrik menuju ke kantor-kantor atau rumah-rumah penduduk. Arus bolak-balik juga dialirkan sebagai sinyal-sinyal radio atau audio yang disalurkan melalui kabel. Di dalam aplikasi-aplikasi ini, tujuan utama yang paling penting adalah pengambilan informasi yang termodulasi atau terkode di dalam sinyal arus bolak-balik tersebut.
+
+Untuk arus yang konstan, besar arus dalam Ampere dapat diperoleh dengan persamaan:
+
+di mana adalah arus listrik, adalah muatan listrik, dan adalah waktu.
+
+Sedangkan secara umum, arus listrik yang mengalir pada suatu waktu tertentu adalah:
+
+Dengan demikian dapat ditentukan jumlah total muatan yang dipindahkan pada rentang waktu 0 hingga melalui integrasi:

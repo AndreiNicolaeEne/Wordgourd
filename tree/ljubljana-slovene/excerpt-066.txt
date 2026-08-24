@@ -1,0 +1,23 @@
+Tiskovna forma za globoki tisk ima tiskovne površine vbočene, proste pa so izbočene. Tiskarsko barvo najprej nanesemo po celotni površini tiskovne forme, nato pa se s pomočjo rakla odstrani z vseh prostih površin. Debelina nanosa tiskarske barve na odtisu je odvisna od globine tiskovnih površin (nekje je več nanosa in nekje manj - različni toni - svetleje, temneje). Prenese okrog 70 % tiskarske barve.
+
+Na tiskovni formi za ploski tisk ležijo tiskovne in proste površine v isti ravnini (razlika je le nekaj ~m). Tiskovne in proste površine morajo imeti različne fizikalno-kemijske lastnosti, da lahko nanesemo tiskarsko barvo samo na tiskovne površine. Ploski tisk delimo v mokri (deluje z vlaženjem tiskovne forme) in suhi ploski tisk (brez vlaženja). Nanos tiskarske barve je povsod enako debel. Prenesena količina tiskarske barve je od 50- 70 %; pri mokrem ploskem tisku se prenese še 5-20 % vode.
+
+Tiskovne površine so oleofilne, proste površine pa že olefobne, zato navlaženje ni potrebno. Oleofobnost prostih površin se doseže s posebno silikonsko prevleko, ki je nanešena na proste površine.
+
+Najprej se izvede navlaženje. Voda se prime na vse proste površine - so hidrofilne (rade vežejo vodo). Tiskovne površine so hidrofobne (ne marajo vode), zato se voda na njih ne prime. Sledi nabarvanje. Navlažene proste površine se z barvo ne morejo omočiti, ker so oleofobne (ne marajo olja oz. tiskarske barve). Suhe tiskovne površine pa so oleofilne (imajo rade olje oz. tiskarsko barvo) in se dobro omočijo s tiskarsko barvo. Ta tisk se danes največ uporablja in ga poznamo kot ofset tisk.
+
+Sanskŕt (devanāgarī/nāgarī saṃskṛta) je klasični jezik Indijske podceline ter klasični jezik hinduizma in drugih indijskih religij. Spada v skupino indoevropskih jezikov in je eden od uradnih jezikov v Indiji.
+
+Vedski sanskrt Sanskrt brahman, aranjak in upanišad
+
+Sanskrt epov in puran Klasični sanskrt
+
+Hibridni (budistični) sanskrt Jezik je nastal okoli leta 1500 pr. n. št. Včasih je igral podobno vlogo kot latinščina v Evropi zaradi mnogih ohranjenih verskih in zgodovinskih zapisov v Indiji. Odkritje Paninijeve slovnice sanskrta iz 4. stoletja pr. n. št., ki so jo odkrili v 18. stoletju, ima velik vpliv na razvoj primerjalne filologije v Evropi.
+
+vedske šole (pratišakhje) paninijeva strokovna šola (vjakarana)
+
+šikša in nirukta (fonetika in etimologija)
+
+filozofija jezika Pisava je imela v indijski kulturi v glavnem drugotno vlogo, najpomembnejša pa je bila ustna predaja. Prvenstveno so se brahmani (brahman - pripadnik razreda ljudi, ki se je ukvarjal s prenosom znanja; svečenik) učili dela na pamet skupaj s komentarji in jih predajali od učitelja na učenca. Najstarejša vedska književnost se imenuje šruti (śruti - poslušanje), poznejša književnost iz hindujske tradicije pa se imenuje smrti (smṛti - pomnjenje). Prav tako budistična književnost svoje učenjake imenuje naslušane, ne pa načitane.
+
+Kljub temu pa je pisava že dolgo prisotna v indijski kulturi. Delo Vasišthadharmasutra

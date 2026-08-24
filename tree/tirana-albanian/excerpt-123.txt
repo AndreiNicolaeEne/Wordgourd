@@ -1,0 +1,9 @@
+Përemri është klasë e ndryshueshme i cili zëvendëson emrin dhe e shmang përsëritjen e emrit në fjali. Gjithsej kemi shtatë lloje përemrash dhe ato janë:përemrat pronor,përemrat vetorë, përemrat dëftorë, përemrat pyetës, përemrat lidhorë, përemra të pacaktuar dhe përemra vetvetor .
+
+Përemër quhet ajo pjesë e ligjëratës që tregon në mënyrë të përgjithshme, pa i emërtuar emra frymorë, sende, tipare ose sasi të pacaktuara. Kuptim konkret përemri merr në kontekst, në kushtet e ligjërimit të lidhur. Përemrat përbëjnë kështu një klasë korrelative me emrat dhe mbiemrat, në ndonjë rast edhe me numërorët. Përemrat ndonjëherë merren me një kuptim më të gjerë duke u përfshirë në to dhe ndajfoljet përemërore. Karakteristikë për përemrat është funksioni tregues e jo emërtues. Ndryshe nga pjesët e tjera emërtuese, përemrat nuk kanë një kuptim të qëndrueshëm, të përcaktuar qartë. Përemrat janë kategori mjaft heterogjene, si nga ana morfologjike, ashtu edhe nga ana sintaksore. Ato zakonisht kanë po ato funksione sintaksore si edhe disa pjesë të tjera të ligjëratës, madje shpesh dhe po ato kategori gramatikore si ato. Në përgjithësi është e vështirë që t'u gjendet një veçori e përbashkët gramatikore. Ata i bashkon në një pjesë më vete të ligjëratës kryesisht kuptimi i përgjithshëm kategorial i të treguarit.
+
+Përemra quhen fjalët që përdorim në vend të emrave, mbiemrave ose numërorëve.
+
+Kemi shtatë lloje të përemrave: Përemrat pronorë: im, e, tu, i, saj, etj
+
+Përemrat pyetës: kush, cili, cila, etj Përemrat dëftorë: ky, kjo, ai, ajo, kur shoqërohen me emër ose ndajfolje

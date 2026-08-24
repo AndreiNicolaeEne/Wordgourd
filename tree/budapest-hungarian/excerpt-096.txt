@@ -1,0 +1,15 @@
+A gyenge kölcsönhatás a részecskefizika négy alapvető kölcsönhatásának egyike. Ez okozza a radioaktív bomlások közül a béta-bomlást: a szabad neutron bomlását, valamint egyes atomokban a proton illetve neutron bomlását. Az összes leptonra és kvarkra hat. Ez az egyedüli kölcsönhatás, amelyben a neutrínó részt vesz. Közvetítő részecskéi a W- és Z-bozonok. A W+, W− elektromosan töltött bozonok tömege hozzávetőlegesen 80 GeV/c², a Z0 semleges bozon, tömege nagyjából 91 GeV/c².
+
+1968-ban Sheldon Lee Glashownak, Abdus Salamnak és Steven Weinbergnek sikerült egyesíteni az elektromágneses kölcsönhatással elektrogyenge kölcsönhatás néven (fizikai Nobel-díj, 1979).
+
+Története a radioaktivitás Becquerel általi felfedezésével kezdődött 1896-ban. 1911-ben Lise Meitner és Otto Hahn kísérletei kimutatták, hogy a β-bomlásban keletkező elektronok spektruma folytonos és nem éles, mint mondjuk az α-bomlásé, amit ekkor még nem tudtak megmagyarázni. Wolfgang Pauli feltételezte, hogy egy semleges, közel nulla tömegű részecske, a neutrínó (ő először neutronnak hívta) keletkezik az elektron mellett, s ezért láthatatlanul elviszi az energia kisebb-nagyobb részét. Az első részletes elméletet azután 1934-ben Enrico Fermi szolgáltatta négy-fermion kölcsönhatásával. Ez a perturbációszámítás első rendjében kielégítően jól leírta a gyenge kölcsönhatás hatáskeresztmetszeteit, azután a második rendben eltávolíthatatlan végtelen nagy járulékok léptek fel a kisebb korrekciók helyett. Az elmélet nem bizonyult renormálhatónak.
+
+A megoldást a kvantumtérelmélet mértékelméletei hozták el a sikeres kvantum-elektrodinamika mintájára, az elektrogyenge kölcsönhatás egyesített elméletével. Ez 1968-ra öltött testet Sheldon Glashow, Steven Weinberg és Abdus Salam munkájának gyümölcseként, amiért 1979-ben fizikai Nobel-díjat kaptak.
+
+A fejlett tölcséres fúvókájú hangszerek csőrezonátora az alábbi négy részre osztható:
+
+a fúvóka a maga üregével a fúvóka után következő táguló csőszakasz
+
+állandó keresztmetszetű, hengeres csőszakasz
+
+a tölcsérszerűen kitáguló rész. Ezeknek a részeknek az aránya a különböző fajtájú hangszerekben jelentősen eltér. A trombita jellegzetesen fényes, érces hangját hagyományosan szűk keresztmetszetű, nagyrészt hengerszerű csövének köszönheti. A harsona tolócsövének teleszkópszerű működése mechanikailag megköveteli, hogy a csőrezonátor javarésze szintén cilindrikus, állandó keresztmetszetű legyen. De minden szelepekkel ellátott hangszernél, még ha amúgy kónikus, kúpszerű furattal rendelkezik is, a szelepek által beiktatott csőszakaszoknak szükségszerűen állandó keresztmetszetűeknek kell lenniük. Ebből az a kellemetlen tény következne, hogy e hangszerek rezonanciái nem felelnek meg a természetes felhangsornak, ahogy az zenei szempontból kívánatos lenne, hiszen az egyik végén zárt hengeres cső csak alaphangjának minden második felhangjára rezonál. Szerencsére nem ez a helyzet.

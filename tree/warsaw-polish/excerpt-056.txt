@@ -1,0 +1,19 @@
+subiektywny – informacja istnieje jedynie względem pewnego podmiotu, najczęściej rozumianego jako umysł, gdyż jedynie umysł jest w stanie nadać elementom rzeczywistości znaczenie (sens) i wykorzystać je do własnych celów.
+
+Wyróżnia się trzy, powiązane ze sobą, koncepcje (teorie) informacji, związane z jej aspektami semiotycznymi:
+
+statystyczno-syntaktyczną z probabilistycznym i składniowym;
+
+semantyczną ze znaczeniowym; pragmatyczną z wartościowym (cennościowym) – w odniesieniu do problemu podejmowania przez jej odbiorcę decyzji związanych z jego celem.
+
+W cybernetyce i teorii informacji najbardziej ogólnie: każde rozpoznanie stanu układu, odróżnialnego od innego stanu tego układu (stanu wyróżnionego); wyróżnienie pewnego stanu wyróżnionego (odróżnialnego) z repertuaru (zbioru stanów wyróżnionych). „...w pojęciu informacji istotne jest nie samo zaistniałe zjawisko, lecz jego stosunek do zbioru zdarzeń, które mogły były zaistnieć”.
+
+Można odróżnić: informację swobodną, kiedy możliwości (stany, zdarzenia) uważamy za abstrakcyjne i nie przypisujemy im żadnego znaczenia fizycznego,
+
+Radio (od łac. radius – promień) – środek masowego komunikowania, służący do rozpowszechniania audycji dźwiękowych.
+
+Wynalazcą radia jest Nikola Tesla. W 1943 Sąd Najwyższy Stanów Zjednoczonych przyznał prawa patentowe Tesli. Rozprawa rozstrzygnęła się po śmierci wynalazcy, przez co powszechnie za twórcę radia uznaje się Guglielmo Marconiego, mimo iż przyznał się on do wykorzystania wcześniejszych prac Tesli w zbudowaniu radia.
+
+Tesla opracował konstrukcję cewki wysokonapięciowej, wysyłającej silne fale elektromagnetyczne i zaczął pracować nad urządzeniem, które mogłoby te fale odbierać. Jego patent na urządzenie do przesyłania i odbioru fal elektromagnetycznych był gotowy w 1900 roku, jednak ubiegł go w tym o kilka dni Marconi. Tesla walczył z Marconim o patent na radio, dowodząc, że jego wynalazek stosuje bez jego zgody wcześniej opatentowaną przez siebie cewkę, ale długie procesowanie się doprowadziło Teslę do bankructwa. Dobił go fakt przyznania Marconiemu nagrody Nobla za skonstruowanie radia, mimo iż korzystał on przy tym z teorii stworzonych przez Teslę. Ostatecznie odwołanie Nikoli Tesli w sprawie patentu na radio do sądu najwyższego USA zostało wygrane już po jego śmierci w 1943 roku.
+
+Guglielmo Marconi, syn włoskiego kupca z Lombardii, rozpoczął doświadczenia z przesyłaniem i odbiorem fal radiowych w roku 1894. Pracując w amatorskich warunkach – i częściowo w tajemnicy przed ojcem – uzyskał we wrześniu 1895 roku łączność radiową na odległość 1 kilometra. Nie widząc zainteresowania swoim wynalazkiem we Włoszech, wyjechał w lutym 1896 do Anglii. Z pomocą krewnych (matka Guglielma, Annie była Irlandką) trafił do naczelnego inżyniera Poczty Brytyjskiej. 27 lipca 1896 roku zainstalowano sprzęt nadawczy na dachu Poczty Głównej w Londynie. Odbiornik z drukarką Morse’a umieszczono na dachu odległego o kilometr budynku. Sam Guglielmo operował kluczem telegraficznym, a widzowie przy drukarce mogli odczytać przekazywany tekst. Zdarzenie to uznane zostało za pierwszą publiczną próbę radia. Następnie, w roku 1899 odbyła się próba przekazu sygnału przez kanał La Manche. Jeszcze później, w roku 1901 przekazano wiadomość przez Ocean Atlantycki z Kanady do Anglii. Pierwszym sygnałem, który przesłano przez Atlantyk była litera „S” alfabetu Morse’a.

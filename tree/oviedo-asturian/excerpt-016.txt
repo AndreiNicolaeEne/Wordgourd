@@ -1,0 +1,33 @@
+La bioteunoloxía ye la teunoloxía basada na bioloxía, especialmente emplegada n'agricultura, farmacia, ciencia de los alimentos, ciencies forestales y medicina. Desendólcase nun enfoque multidisciplinariu qu'involucra delles disciplines y ciencies como bioloxía, bioquímica, xenética, viroloxía, agronomía, inxeniería, física, química, medicina y veterinaria ente otres. Tien gran repercusión na farmacia, la medicina, la microbioloxía, la ciencia de los alimentos, la minería y l'agricultura ente otres estayes.
+
+Ye probable que'l primeru qu'emplegare esti términu fuera l'inxenieru húngaru Karl Ereki, en 1919, quien la introduxo nel so llibru Bioteunoloxía na producción cárnica y lláctea d'una gran esplotación agropecuaria.
+
+Según el Conveniu sobre Diversidá Biolóxica de 1992, la bioteunoloxía podría definise como "toa aplicación teunolóxica qu'emplegue sistemes biolóxicos y organismos vivos o los sos derivaos pa la creación o modificación de productos o procesos pa usos específicos".
+
+El Protocolu de Cartagena sobre Xuridá de la Bioteunoloxía del Conveniu sobre la Diversidá Biolóxica define la bioteunoloxía moderna como l'aplicación de:
+
+Téuniques in vitro d'ácidu nucleico, incluyíos l'ácidu desoxirribonucleico (ADN) recombinante y la inyeición direuta d'ácidu nucleico en célules o orgánulos, o
+
+La fusión de célules más allá de la familia taxonómica que superen les barreres fisiolóxiques naturales de la reproducción o de la recombinación y que nun son téuniques emplegaes na reproducción y seleición tradicional.
+
+La bioteunoloxía tien aplicaciones n'importantes áreas industriales, como l'atención de la salú, col desarrollu de nuevos enfoques pal tratamientu de enfermedaes; l'agricultura col desarrollu de cultivos y alimentos ameyoraos; usos non alimenticios de los cultivos, por exemplu plásticos biodegradables, aceites vexetales y biocombustibles; y cuidu medioambiental a través de la biorremediación, como'l reciclaxe, el tratamientu de residuos y la llimpieza de sitios contaminaos por actividaes industriales. Pa esti usu específicu de plantes na bioteunoloxía llamase-y bioteunoloxía vexetal. Amás s'aplica na xenética pa modificar ciertos organismos.
+
+o Pa definir la velocidá d'un oxetu hai d'atolenar non namái la distancia que recuerre por unidá de tiempu, sinón tamién la direición y el sen del desplazamientu, colo que la velocidá esprésase como una magnitú veutorial.
+
+La velocidá media o velocidá permediu informa sobro la velocidá nun intervalu dau. Calcúlase dixebrando el desplazamientu (Δx) (Δ=delta) pel tiempu trescurríu (Δt):
+
+Por exemplu, si un oxetu tien recorrío una distancia de 1 metru nun lapsu de 31,63 segundos, el módulu de la so velocidá media ye:
+
+Al módulu de la velocidá denómase-y rapidez.
+
+Permite conocer la velocidá d'un móvil que se desplaza sobro una trayeutoria, cuando'l lapsu de tiempu ye infinitamente pequeñu, siendo entós l'espaciu recorríu tamién enforma pequeñu, representando un puntu de la trayeutoria.
+
+En mena vectorial, la velocidá ye la derivada del vector posición respeutu del tiempu:
+
+au ye un versor (vector de módulu unidá) de direición tanxente a la trayeutoria de cuerpu en cuestión y ye'l vector posición, darréu que nel llímite, los diferenciales d'espaciu recorríu y posición coinciden.
+
+Metru por segundu (m/s), unidá de velocidá del SI
+
+Quilómetru por hora (km/h) (usu coloquial)
+
+Quilómetru por segundu (km/s) (usu coloquial)

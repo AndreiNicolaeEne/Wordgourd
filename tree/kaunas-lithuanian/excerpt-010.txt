@@ -1,0 +1,3 @@
+Pirminių skaičių seka yra begalinė. Šią teoremą įrodė Euklidas IX-ojoje veikalo „Pradmenys“ knygoje, 20-ajame teiginyje.
+
+Tačiau nėra žinoma, kiek yra pirminių skaičių mažesnių už duotą skaičių. 1896 m. buvo įrodyta pirminio skaičiaus teorema, kuri teigia, kad pirminiai skaičiai nėra tolygiai pasiskirstę skaičių tiesėje. Patvirtinus Rymano hipotezę būtų galima geriau įvertinti pirminių skaičių pasiskirstymą. Analizinė skaičių teorija nagrinėja panašius klausimus ir naudoja analitinius metodus bei tolydžias funkcijas.

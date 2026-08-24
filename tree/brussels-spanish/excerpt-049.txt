@@ -1,0 +1,11 @@
+cuando un OICVM subordinado muestre la rentabilidad histórica de su OICVM principal a título de referencia, o
+
+b) si el OICVM subordinado comenzó a funcionar como tal en una fecha posterior al OICVM principal, si se satisfacen las condiciones establecidas en el artículo 19, y si además se presenta una simulación de la rentabilidad correspondiente a los años anteriores a la existencia del OICVM subordinado basada en la rentabilidad histórica del OICVM principal, o
+
+c) si el OICVM subordinado cuenta con un historial de rentabilidad anterior a la fecha en la que comenzó a funcionar como OICVM subordinado y muestra en el diagrama de barras su propio historial correspondiente a los años considerados, indicando la modificación significativa que ha tenido lugar, conforme a lo dispuesto en el artículo 17, apartado 2.
+
+SECCIÓN 5 OICVM estructurados Artículo 36
+
+Escenarios de rentabilidad 1. El documento de datos fundamentales para el inversor de los OICVM estructurados no contendrá la sección «Rentabilidad histórica».
+
+A efectos de la presente sección, por OICVM estructurados se entenderán aquellos que proporcionen a los inversores, en fechas predeterminadas, remuneraciones calculadas con arreglo a un algoritmo y vinculadas a la evolución de activos financieros, índices, carteras de referencia u OICVM de características similares, o a la materialización, en relación con dichos activos, índices, carteras de referencia u OICVM de características similares, de variaciones de precios o de otras condiciones.

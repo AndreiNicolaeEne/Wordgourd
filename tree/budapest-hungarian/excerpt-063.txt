@@ -1,0 +1,3 @@
+A test belső hőmérséklete normál esetben este 9 óra körül a legmagasabb (elérheti a 37 °C-ot), alvás alatt fokozatosan kb. 1 °C-ot csökken, míg hajnali 5 órakor eléri mélypontját. Ezután hirtelen emelkedik a megszokott értékre (ami 36 °C körül van). Ha a test nem képes a belső hőmérséklet csökkentésére, elalvási nehézség lép fel.
+
+A National Sleep Foundation közleménye szerint a tizenévesek alvásigénye napi 9 óra, a felnőtteké 7-9 óra. Az alvásigény az életkor előrehaladtával csökken. A „Whitehall II” kutatás eredményei szerint a 35 és 55 év közöttiek számára az ideális alvásidő 7 óra (a hat óránál kevesebbet és a 8 óránál többet alvók rosszabbul teljesítettek a szellemi feladatok megoldásában).

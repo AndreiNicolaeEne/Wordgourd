@@ -1,0 +1,19 @@
+Lei logaritmes son un ensemble de foncions matematicas, descubèrtas au començament dau sègle XVII, que tènon un ròtle fondamentau dins mai d'una branca dei sciéncias modèrnas. Lo logaritme de basa b d'un nombre reau estrictament positiu es la poissança p a la quala fau montar la basa b per obtenir aqueu nombre. Una escala logaritmica permet de representar sus un meteis grafics de nombres aguent d'òrdres de grandor fòrça diferents. Ansin, lei logaritmes son frequents dins lei formulas utilizadas en sciéncia. Totei lei logaritmes transforman :
+
+un produch en soma : un quocient en diferéncia :
+
+una poissança en produch : Pasmens, tres logaritmes son considerats coma pus importants :
+
+lo logaritme neperian, sovent notat ln, qu'es la foncion recipròca de la foncion exponenciala. Ocupa una plaça majora en analisi matematica. Es lo logaritme de basa e.
+
+lo logaritme decimau qu'es lo logaritme de basa 10. Intra dins fòrça relacions utilizadas dins lei domenis tecnics.
+
+lo logaritme binari qu'es lo logaritme de basa 2. Es fòrça important en informatica.
+
+Lo logaritme complèx generaliza la nocion de logaritme ai nombre complèxs.
+
+Tre la premiera mitat dau milleni II avC, de nocions pròchas dau logaritme èran conegudas per lei Babilonians. Per exemple, es possible de citar leis algoritmes de multiplicacion d'entiers. Aqueu metòde permet de multiplicar dos nombres en utilizant solament d'addicions, de sostraccions e una taula de quarts de carrat. Foguèt utilizat fins au sègle XX. En Grècia, lei matematicians antics, eiretiers dei sabers mesopotamians, estudièron de nocions pròchas dau logaritme decimau. En particular, dins son tractat intitulat l'Arenaire, Arquimèdes (287-212 avC) utilizèt un sistèma de « miriadas » per comptar lo nombre de grans d'arena permetent d'emplir totalament l'Univèrs. Per aquò, adoptèt de tecnicas per manipular de chifras importantas que prefiguran en partida lo logaritme. En Asia, se tròban tanben de traças vièlhas de concèptes matematicas liats a de logaritmes de basa 10 000.
+
+Lo Projècte Manhattan, iniciat tre 1939, venguèt pauc a pauc un programa centrau de l'esfòrç de guèrra estatsunidenc. En 1945, emplegava 130 000 personas despartits sus un vintenau de sites. Son pretzfach principau foguèt la concepcion e la fabricacion dei premiereis armas nuclearas. Dins aquò, lo projècte descurbiguèt lei possibilitats d'utilizacion dins lei domenis de la radiologia e de la propulsion de naviris.
+
+Après la Segonda Guèrra Mondiala, plusors país s'interessèron a la fission nucleara per desvolopar d'aplicacions militaras e civilas a l'energia nucleara. Dins lo premier domeni, plusors país an desvolopat d'arsenaus nuclears amb l'invencion de la bomba A (1945) e de la bomba H (1949). Dins lo domeni civiu, leis aplicacions principalas regardèron l'energia e la medecina. En particular, lo mestritge de la fission foguèt a l'origina de l'aparicion dei centralas nuclearas. L'interès d'aquelei centralas foguèt demostrat per lei crisis petrolieras deis ans 1970 mai l'utilizacion de l'energia nucleara es contestada dempuei leis accidents de Chernobil e de Fukushima.

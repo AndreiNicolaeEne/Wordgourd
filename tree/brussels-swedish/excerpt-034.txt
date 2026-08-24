@@ -1,0 +1,15 @@
+4. Om en rapport har sammanställts för bägge motparter, ska detta anges i fält 9 i tabell 1 i bilagan.
+
+5. Om en motpart rapporterar kontraktsuppgifter till ett transaktionsregister för den andra motpartens räkning, eller en tredje enhet rapporterar ett kontrakt till ett transaktionsregister för en eller båda motparters räkning, ska de inrapporterade uppgifterna innehålla alla uppgifter som skulle ha rapporterats, om motparterna var för sig hade rapporterat kontrakten till transaktionsregistret.
+
+6. Om ett derivatkontrakt inbegriper särdrag som är typiska för mer än en underliggande tillgång som anges i tabell 2 i bilagan, ska det i en rapport anges vilken tillgångsklass som motparterna anser kontraktet mest liknar, innan rapporten skickas till ett transaktionsregister.
+
+Artikel 2 Clearade transaktioner 1. Om ett befintligt kontrakt sedan clearas via en central motpart, ska clearingen rapporteras som en ändring av det befintliga kontraktet.
+
+2. Om ett kontrakts ingås på en handelsplats och clearas via en central motpart, så att en motpart inte känner till den andra motparten, ska den rapporterande motparten uppge den centrala motparten som sin motpart.
+
+Artikel 3 Rapportering av exponeringar 1. Uppgifter om säkerheter som krävs enligt tabell 1 i bilagan ska omfatta alla ställda säkerheter.
+
+2. Om en motpart inte ställer säkerheter på transaktionsnivå, ska motparterna till ett transaktionsregister rapportera säkerheter som ställts på portföljbasis.
+
+3. Om säkerheten för ett kontrakt redovisas på portföljbasis, ska den rapporterande motparten till transaktionsregistret rapportera in en kod som identifierar portföljen i den säkerhet som ställts till den andra motpart som är knuten till det rapporterade kontraktet.

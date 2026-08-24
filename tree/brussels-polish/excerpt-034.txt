@@ -1,0 +1,13 @@
+a) określone w tabeli 1 w załączniku szczegółowe informacje dotyczące kontrahentów kontraktu;
+
+b) określone w tabeli 2 w załączniku szczegółowe informacje dotyczące kontraktu pochodnego zawartego przez obu kontrahentów.
+
+2. Do celów ust. 1 zawarcie kontraktu oznacza „realizację transakcji”, o której mowa w art. 25 ust. 3 dyrektywy 2004/39/WE Parlamentu Europejskiego i Rady (4).
+
+3. Jeżeli przekazywane jest jedno zgłoszenie w imieniu obu kontrahentów, zawiera ono informacje określone w tabeli 1 w załączniku w odniesieniu do każdego z kontrahentów. Informacje określone w tabeli 2 w załączniku przekazuje się tylko raz.
+
+4. Jeżeli przekazywane jest jedno zgłoszenie w imieniu obu kontrahentów, fakt ten wskazuje się w polu 9 tabeli 1 w załączniku.
+
+5. Jeżeli jeden z kontrahentów dokonuje w imieniu drugiego kontrahenta zgłoszenia do repozytorium transakcji szczegółowych informacji dotyczących kontraktu lub jeżeli osoba trzecia dokonuje zgłoszenia kontraktu do repozytorium transakcji w imieniu jednego kontrahenta lub obu kontrahentów, takie zgłoszenie zawiera pełny zbiór szczegółowych informacji, które zostałyby przekazane do repozytorium transakcji w przypadku dokonywania przez każdego z kontrahentów odrębnego zgłoszenia kontraktu.
+
+6. Jeżeli kontrakt pochodny wykazuje cechy typowe dla więcej niż jednego z aktywów bazowych określonych w tabeli 2 w załączniku, w zgłoszeniu wskazuje się klasę aktywów, którą przed przekazaniem zgłoszenia do repozytorium transakcji kontrahenci uzgodnili jako tę, do której należy przyporządkować dany kontrakt.

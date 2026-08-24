@@ -1,0 +1,9 @@
+Addimus primam ad secundam: Multiplicamus secundam per numerum 1/5:
+
+Nunc scimus x = 2 in solutione; si x = 2 in quemlibet aequationem mittimus, inveniemus y:
+
+h.e., et y = 3 Si alia aequatione utimur, eandem solutionem inveniemus:
+
+h.e., , et y = 3 Punctum (2, 3) est intersectio linearum.
+
+Systema duarum aequationum perfacilis est solvere; quid si plures sunt aequationes et plures variabiles? Eaedem calculationes ad solutionem ducunt.

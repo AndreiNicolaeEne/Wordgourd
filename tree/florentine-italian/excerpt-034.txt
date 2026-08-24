@@ -1,0 +1,29 @@
+bacteria, batteri; alcuni gruppi sono i micoplasmi, le rickettsie, gli attinomiceti, le spirochete, le pseudomonas e gli azotofissatori.
+
+Fra loro si distinguono per forma nei seguenti:
+
+bacilli: a forma di bastoncino; si dividono in Clostridia (anaerobi) e Bacilli (anaerobi e/o aerobi);
+
+cocchi: sferici; se si dispongono a coppia si chiamano diplococchi, a catena si chiamano streptococchi, a grappolo si chiamano stafilococchi, a forma di cubo si chiamano sarcine;
+
+vibrioni: a virgola; spirilli: a spirale; spirochete: con più curve.
+
+Un'altra importante suddivisione è quella che li raggruppa secondo l'optimum di temperatura alla quale possono crescere; per questa suddivisione si hanno tre sottoclassi:
+
+batteri criofili o psicrofili; batteri mesofili;
+
+batteri termofili. Una classificazione è basata sulla loro relazione rispetto ad un organismo:
+
+batteri commensali (o simbionti): normalmente presenti sulla superficie di un determinato tessuto, senza causare malattia e/o possono svolgere funzioni che possono essere utili all'organo stesso;
+
+batteri patogeni: la cui presenza indica patologia e infezione; nel dettaglio si ha:
+
+patogeni facoltativi: non causano sempre malattia ma dipende dall'individuo e dalla loro concentrazione;
+
+patogeni obbligati: causano in modo indipendente un processo morboso.
+
+Per procedere all'identificazione di un batterio, si usano le seguenti metodologie:
+
+riconoscimento a microscopio ottico o elettronico
+
+colorazione di Gram, analisi della morfologia della colonia, mobilità, capacità di produrre spore, acido-resistenza e esigenza di condizioni aerobiche o anaerobiche per la crescita

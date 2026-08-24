@@ -1,0 +1,35 @@
+Consociatio ex pacto Atlantico Septentrionali, sive Civitates Foederis Atlantici Septentrionalis, litteris compendiariis NATO et OTAN sive Latine CPAS, hodierna consociatio militaris est, quam anno 1949 Vasingtoniae plurimae civitates Americae Septentrionali et Europae Occidentalis sitae adversus Unionem Sovieticam, terras, civitatesque ei subiectas condiderunt. Quoniam belli nimis studiosa esset, civitates Europae Orientalis anno 1955 Pactum Varsoviense inierunt. Foedere Varsoviensi abrogato, OTAN autem mansit, immo aucta est. A die 1 Octobris 2024, secretarius generalis consociationis est Marcus Rutte post officium Ioannes Stoltenberg.
+
+Praesidium consociationis Haren in vico Regionis Bruxellanae Belgiae, ac praesidium Effectionum Imperii Sociati prope Montem Belgiae iacet.
+
+Pactum Vasingtoniae mense Aprili anno 1949 sanctum est a praesidibus duodecim civitatum, quae erant Civitates Foederatae Americae, Canada, Britanniarum Regnum, Francia, Lusitania, Belgica, Luxemburgum, Nederlandia, Dania, Norvegia, Italia, Islandia.
+
+Anno 1952 accesserunt Graecia et Turcia. Anno 1955 accessit Germania Foederata
+
+Die 21 Februarii, Carolus de Gaulle praeses Franciae nuntiavit exercitum Francicum sub imperio NATO non iam futurum esse, quod periculum belli minuta esset.
+
+Anno 1982 accessit Hispania. Anno 1999 accesserunt Res publica Bohemica, Hungaria, Polonia.
+
+Anno 2004 7 civitates Europae Orientalis accesserunt: Lithuania, Lettonia, Estonia, Romania, Bulgaria, Slovenia, Slovacia.
+
+Anno 2009 accesserunt Croatia et Albania. Die 27 Martii 2020 Macedonia Septentrionalis membrum est facta colloquiis diurtunis propter litem de nomine cum Graecia finitis.
+
+Coefficientes aequationum in matrice disponimus ut facilius systema solveamus. Exempli gratia,
+
+2a + b + c = 8 3a - 2b - c = 1 4a - 7b + 3c = 10 Possumus tabulam vel matricem facere:
+
+Tunc easdem operationes quas in aequationibus facimus possumus in matricem facere: lineam per numerum multiplicere, lineam ad aliam addere; possumus etiam lineas permutare. Matrix habet formam per gradus si:
+
+omnes lineae quarum elementa sunt zero in infima parte matricis sunt
+
+primum elementum (ad sinistram) quod non est zero est 1
+
+primum elementum 1 in linea inferiore stat dexteriore elementi 1 lineae superiore
+
+Si matricem in formam per gradus reducimus, solutio systematis aequationum facile invenitur.
+
+Si matrix habet formam per gradus, et in omne columna, ubi est elementum 1 primum cuiuslibet lineae, omnia alia elementa 0 sunt, dicimus matricem habere formam reductam per gradus.
+
+Exempla: Matrix in forma per gradus: Matrix in forma reducta per gradus:
+
+Simplicius autem est systema aequationum linearium scribere in forma AX = B, ubi X = (x1, x2...) est vector cuius elementa sunt quantitates variables aequationum, A est matrix coefficientum, B est vector cuius elementa sunt quantitates in dextera parte aequationum. Exempli gratia, harum aequationum

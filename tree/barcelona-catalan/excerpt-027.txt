@@ -1,0 +1,5 @@
+L'harmonia tradicional des del segle xvii considera dissonants els intervals harmònics de primera augmentada -semitò cromàtic-, segona major o menor, quarta augmentada, quinta disminuïda o augmentada, sèptima major o menor i octava disminuïda o augmentada. Una possible consideració més detallada és la següent:
+
+Consonàncies perfectes: els intervals de 4a, 5a i 8a quan són justes.
+
+Consonàncies imperfectes: els intervals de 3a i 6a quan són majors o menors.

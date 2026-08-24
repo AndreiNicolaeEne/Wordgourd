@@ -1,0 +1,9 @@
+bezpieczne – materiały, którym podczas wybuchu nie towarzyszy płomień; są to materiały specjalnego przeznaczenia, np. w kopalniach zagrożonych wybuchem gazów palnych np. metanity specjalne
+
+masy pirotechniczne – materiały o specjalnej charakterystyce wybuchu, służące do wywoływania rozmaitych efektów, takich jak: duży huk, duży błysk, błysk w określonym kolorze, duża ilość dymu, emanacja iskier itp. W technice wojskowej mają zastosowanie do elaboracji pocisków, rakiet, bomb, naboi sygnałowych, środków pozoracyjnych (petardy) i szkoleniowych. W gospodarce mają zastosowanie do spawania termitowego, w wyrobach sygnałowych, do celów widowiskowych.
+
+Te same materiały wybuchowe mogą mieć odmienną charakterystykę wybuchu w zależności od szeregu czynników, takich jak: rodzaj inicjacji, rozległość tej inicjacji, stopień rozproszenia w otoczeniu, stopień koncentracji (np. proszek, sprasowanie), stopień jednolitości (w przypadku mieszanin), grubość materiału w najszerszym miejscu, temperatura materiału wybuchowego, obecność spowalniaczy oraz warunki samej reakcji, czyli sposób opakowania materiału wybuchowego.
+
+Jakkolwiek materiały rozszczepialne, stosowane w bombach atomowych nie są materiałami wybuchowymi w sensie podanej tu definicji, to jednak czasami są do nich zaliczane ze względu na zbliżony, choć znacznie silniejszy efekt, jaki wywołują w momencie rozpoczęcia reakcji łańcuchowej.
+
+W celu użycia materiałów wybuchowych, formuje się z nich ładunki wybuchowe, składające się z trzech podstawowych elementów: właściwego materiału wybuchowego i elementu inicjującego wybuch, umieszczonych w łączącej je w jedną całość obudowie. Jedną z form ładunków wybuchowych jest różnego typu amunicja np. amunicja strzelecka, w której ładunek miotającego materiału wybuchowego (np. prochu bezdymnego) zamknięty jest w obudowie w postaci łuska i inicjowany spłonką. Wybuch materiału służy w tym przypadku do wyrzucenia pocisku i rozpędzenia go do odpowiedniej prędkości.

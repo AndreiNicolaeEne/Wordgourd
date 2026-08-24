@@ -1,0 +1,13 @@
+Sur pianoklavaro la blankaj klavoj, komencantaj per C, rezultigas C maĵorgamon:
+
+Aŭdekzemplo: C maĵora gamo Kun ĉiu maĵortonalo ekzistas paraleltonalo en minoro, ankaŭ nomita minorparalelo aŭ relativa tonalo, kiu enhavas la samajn tonojn (kaj per tio ankaŭ la samajn antaŭsignojn). La minorparalelo tamen komencas etan tercion pli malalte (ekz. C maĵora – a minora). Per tio ekestas la sinsekvo de ŝtupoj tipa por minoro.
+
+Krom la minorparalelo de maĵortonalo ankaŭ ĉiu maĵorakordo havas minorparalelon, la paralelakordon, same preskaŭ ĉiu improvizadogamo (komp. Kvintonismo). Jen ankaŭ ĉiu minorparalelo estas eta tercio pli malalta ol sia maĵorparalelo.
+
+La variantotonalo de maĵortonalo male komencas per la sama toniko (ekz. C maĵora – c minora), havas tamen pro la sinsekvo de ŝtupoj, diferenca en minoro, aliajn antaŭsignojn. La minorvarianto do situas en la kvintociklo tri ŝtupojn pli malalte ol la baza maĵortonalo: tiel ekzemple E maĵoro havas kvar diesojn, e minoro tamen nur unu.
+
+Vidu ankaŭ: Kvintociklo La tonoj de maĵorakordo (vd. ankaŭ akordo) estas la toniko, la granda tercio kaj la kvinto. Tiuj tonoj egalas la unuan ŝtupon (= unua tono, do la primo), la trian ŝtupon (granda tercio) kaj la kvinan ŝtupon (kvinto) de la samnoma maĵortonalo.
+
+Por la muzika praktika gravas scii, ke oni povas formi per la tonprovizo de maĵortonalo tri maĵorajn trisonojn, nome sur la unua, kvara kaj kvina ŝtupo de maĵortonalo.
+
+Ekzemplo por la C maĵora tonalo Se oni en la supra tabelo konsideras ankaŭ la duontonajn paŝojn inter la plentonaj paŝoj, oni povas relative facile dedukti, kial la sep tonoj de maĵortonalo ebligas la formadon de nur tri maĵoraj trisonoj. (Ĉiun linion de la sekva tabelo oni povas bildigi al si kiel eltranĉaĵo de pianklavaro kun nigraj klavoj. La trisonaj tonoj tie estas nigre markitaj.) Ĉiu linio komencas per la toniko de la respektiva trisono.

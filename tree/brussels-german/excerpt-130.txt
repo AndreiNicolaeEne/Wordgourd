@@ -1,0 +1,19 @@
+(3) Die Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom 5. September 2007 zur Schaffung eines Rahmens für die Genehmigung von Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge (Rahmenrichtlinie) (3) sollte daher entsprechend geändert werden.
+
+(4) Die in dieser Verordnung vorgesehenen Maßnahmen entsprechen der Stellungnahme des Technischen Ausschusses „Kraftfahrzeuge“ -
+
+HAT FOLGENDE VERORDNUNG ERLASSEN: Artikel 1
+
+Geltungsbereich Diese Verordnung gilt für Fahrzeuge der Klasse M1, die folgende Voraussetzungen erfüllen:
+
+- Sie sind mit einem Handschaltgetriebe ausgerüstet.
+
+- Sie verfügen über eine Bezugsmasse von bis zu 2 610 kg oder ihre Typgenehmigung wird nach Artikel 2 Absatz 2 der Verordnung (EG) Nr. 715/2007 erweitert.
+
+Diese Verordnung gilt nicht für „Fahrzeuge für besondere soziale Erfordernisse“ nach Artikel 3 Absatz 2 Buchstabe c der Verordnung (EG) Nr. 715/2007.
+
+Artikel 2 Begriffsbestimmungen Für die Zwecke dieser Verordnung gelten die folgenden Begriffsbestimmungen zusätzlich zu denen der Verordnung (EG) Nr. 661/2009:
+
+1. „Fahrzeugtyp hinsichtlich GSI“ bezeichnet eine Gruppe von Fahrzeugen, die sich im Hinblick auf die funktionalen GSI-Merkmale und die Logik, nach der von der GSI angezeigt wird, dass der Gang zu wechseln ist, nicht unterscheiden. Möglich sind dabei unter anderem folgende Arten der Logik:
+
+i) Hochschalten wird bei bestimmten Drehzahlen angezeigt;

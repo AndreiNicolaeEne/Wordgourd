@@ -1,0 +1,23 @@
+A logaritmikus skálák kis tartományon széles tartományú mennyiségeket képesek ábrázolni. Így működik például a látás és a hallás. A decibel egy olyan viszonylagos egység, ami teljesítmények, vagy amplitúdók arányainak logaritmusát méri. A kémiában a pH a vizes oldatok kémhatását méri. A földrengések nagyságát is logaritmikus skálában mérik. A bonyolultságelméletben is megjelennek, például az összehasonlításos rendezések bonyolultsága legalább .
+
+Az általánosan használt logaritmusfogalom tehát a pozitív valós számok körében érvényes, de kiterjeszthető a negatív és a komplex számokra is. A valós számokon a logaritmus – rögzített alap esetén – a hatványozás inverz művelete. Ez megmarad a komplex számok fölött is. Egy másik változat a diszkrét logaritmus, amit a kriptográfiában is használnak.
+
+Ahogy a logaritmus definíciója is mutatja, a pozitív számokon értelmezett (egytől különböző, pozitív alapú)
+
+függvény az a alapú exponenciális függvény inverze (egészen pontosan a képlet szerint a jobbinverze), vagyis az jelölést alkalmazva minden pozitív x számra
+
+. Emellett a logaritmusfüggvény balinverze is az a alapú exponenciális függvénynek:
+
+. Eszerint a logaritmus művelete a következő eljárással állítja elő a kimenetét. A az az utasítás, mely az x pozitív számot felírja az a alap valahányadik hatványaként, majd ennek a hatványnak a kitevőjét leolvassa és ezt adja értékül a kifejezésnek:
+
+Például log101000 = 3, log10100000 = 5, log101 000 000 000 = 9, illetve log1010n = n. A tízes alapú logaritmus tehát „a 0-kat számolja meg”. Így az A szám számjegyeinek száma 10-es számrendszerben az szám egészrésze. Általában c-es számrendszerben felírt A szám számjegyeinek száma: egészrésze.
+
+A curling a téli olimpia programjában szereplő csapatjáték, a téli sportok egyike.
+
+A játékot két csapat játssza, mindkét csapat nyolc-nyolc követ csúsztathat a jégpályán egy kijelölt kör alakú mezőbe. Az a csapat nyer, amelynek kövei a játékrészek végén a legközelebb esnek a kijelölt kör középpontjához.
+
+A játékosok egy része a követ csúsztatja, míg mások seprűvel irányítják annak sebességét és haladási irányát, befolyásolva ezzel a kő mozgását. A seprés csökkenti a jég felületének ellenállását, így a kő messzebbre és pontosabban haladhat.A curling csapatmunkára épülő sport, ahol a kommunikáció és az együttműködés kulcsfontosságú. A mérkőzések nyugodt, sportszerű légkörben zajlanak, és a játékosok nagy hangsúlyt fektetnek a szabályok betartására és az ellenfél tiszteletére.
+
+Bár a curling elsősorban Kanadában, Skóciában és a skandináv országokban népszerű, az utóbbi években egyre több országban, köztük Magyarországon is egyre nagyobb figyelmet kap. A sport minden korosztály számára elérhető, akár hobbi, akár versenyszinten.
+
+A sportág magyar elnevezésére több kísérlet is történt már, de a felmerült elnevezések (pl. csúszókorong, jégteke) egyike sem tűnik megfelelőnek, a játéknak ugyanis elég kevés köze van a tekéhez, a csúszókorong pedig más, bár némileg hasonló, általában nem jégen űzött sportágat jelöl. Egyelőre marad a curling elnevezés, hazai sportszövetsége az 1989-ben megalakult Magyar Curling Szövetség, nemzetközi szövetsége a World Curling Federation (WCF).

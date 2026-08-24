@@ -1,0 +1,5 @@
+Man begynder ved "START" og flytter brikkerne med uret ifølge terningkast. Når en spillerbrik lander på et felt, der ikke allerede ejes af nogen anden deltager, kan spilleren købe det af banken og indkassere leje af modspillerne, når de lander på det pågældene felt. Ønsker spilleren ikke at købe grunden, sætter banken det straks på auktion.
+
+Lejesummen forøges betydeligt ved opførelse af huse og hoteller.
+
+For at skaffe flere penge kan man pantsætte grunde til banken.

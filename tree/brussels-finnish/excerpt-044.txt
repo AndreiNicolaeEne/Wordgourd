@@ -1,0 +1,15 @@
+h) mitä seurauksia on siitä, jos tietyllä verkkosivustolla tai internetissä yleensä on tilapäisiä käyttökatkoksia tai jos niiden käyttö terveydenhuoltolaitoksessa on tilapäisesti estynyt, sekä näissä tilanteissa käytettävissä olevat turvatoimet;
+
+i) kuinka kauan aikaa arvioidaan kuluvan käyttöohjeiden toimitukseen paperiversiota pyytäneelle käyttäjälle.
+
+2. Sähköisesti toimitettavia käyttöohjeita koskeva riskinarviointi on ajantasaistettava markkinoille saattamisen jälkeen saadun kokemuksen perusteella.
+
+5 artikla Edellä 3 artiklassa tarkoitettujen laitteiden valmistajat voivat toimittaa paperiversion sijasta sähköiset käyttöohjeet seuraavin edellytyksin:
+
+1) Tämän asetuksen 4 artiklassa tarkoitetusta riskinarvioinnista on ilmettävä, että sähköisten käyttöohjeiden ansiosta turvallisuustaso säilyy tai paranee verrattuna paperiversiona toimitettaviin käyttöohjeisiin.
+
+2) Valmistajien on toimitettava sähköiset käyttöohjeet kaikkiin jäsenvaltioihin, joissa tuote on saatavilla tai käytössä, ellei 4 artiklassa tarkoitetun riskinarvioinnin perustella ole oikeutettua toimia toisin.
+
+3) Valmistajilla on oltava käytössä järjestelmä, jonka avulla käyttöohjeet voidaan toimittaa käyttäjälle tulostettuna paperiversiona ilman lisäkustannuksia 4 artiklassa tarkoitetussa riskinarvioinnissa asetetun ajan kuluessa ja viimeistään seitsemäntenä kalenteripäivänä käyttäjän pyynnön vastaanottamisesta tai laitteen toimittamisesta, jos paperiversio on pyydetty laitetta tilattaessa.
+
+4) Valmistajien on toimitettava laitteessa tai erillisessä lehtisessä tiedot ennakoitavista lääkinnällisistä hätätilanteista ja laitteen käynnistämistä koskevat tiedot niiden laitteiden osalta, joissa on sisäänrakennettu järjestelmä käyttöohjeiden esittämiseen laitteen näytössä.

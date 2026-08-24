@@ -1,0 +1,13 @@
+DNA er kodet med fire utbyttbare «byggestener», kalt «baser», og kan forkortes A, T, C eller G, etter deres kjemiske betegnelser: Adenin, Tymin, Guanin og Cytosin. Hver base danner par med kun en av de andre basene: A til T, T til A, C til G og G til C. Dette skyldes at adenin og tymin bindes sammen med to hydrogenbindinger, mens guanin og cytosin bindes sammen med tre hydrogenbindinger. Dersom vi har basen «A» på en streng på en dobbelttrådet DNA, vil den bare kunne kople seg sammen med en «T» på den andre, komplementære strengen.
+
+Rekkefølgen er viktig: A+T er ikke det samme som T+A, likeledes som C+G ikke er det samme som G+C.
+
+For øvrig, siden det bare er fire ulike kombinasjoner, er det vanlig å bare navngi basen på «hovedstrengen» for å beskrive sekvensen (rekkefølgen av basepar).
+
+Rekkefølgen av baser langs DNA-et er hva alt handler om. DNA-sekvensen er i seg selv det som beskriver genene.
+
+Lite er kjent om Freuds barndom, siden han ødela personlige papirer i 1885 og igjen i 1907. Senere ble papirene hans oppbevart i Sigmund Freud Archives, og bare tilgjengeliggjort for hans offisielle biograf Ernest Jones og noen andre medlemmer av den indre sirkelen av psykoanalyse-tilhengere.[trenger referanse] I 1929, da han var over 70 år, begynte han ta daglige notater som en slags dagbok på løse ark på skrivebordet. Han fortsatte med dette til han døde. Notatene er tilgjengelig for ettertiden. Freud ønsket å bli husket for sitt faglige arbeid og mente hans privatliv skulle forbli hans eget. Etter Anna Freuds død i 1982 ble Freuds etterlatte eiendeler katalogisert med sikte på Freud-museum og det ble lettere å få mening av ut av Freuds personlige notater. I 1992 ga Michael Molnar ut redigert og kommentert utgave av dagboken fra årene 1929-1939.
+
+I førtiårsalderen ble Freud rammet av flere psykosomatiske forstyrrelser i tillegg til dødsangst og andre fobier. I denne perioden utforsket han sine egne drømmer, minner og sin egen personlighetsutvikling. Gjennom denne selvanalysen erkjente han sin fiendtlighet mot sin far, og seksuelle følelser fra barndommen rettet mot sin mor. Denne livsfasen, med de tilhørende følelsesmessige vanskelighetene, blir ansett som den mest kreative perioden i Freuds liv. Dette var også hans første møte med ødipuskomplekset.
+
+Etter å ha publisert bøker om menneskets underbevissthet i 1900 og 1901 med stor suksess, ble Freud oppnevnt til professor ved universitetet i Wien, der han opparbeidet seg en lojal krets av tilhengere.

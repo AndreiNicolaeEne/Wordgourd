@@ -1,0 +1,11 @@
+b) lorsque l’OPCVM nourricier a été lancé en tant qu’OPCVM nourricier à une date ultérieure à l’OPCVM maître, que les conditions de l’article 19 sont remplies et que, pour les années antérieures à l’existence de l’OPCVM nourricier, une simulation fondée sur les performances passées de l’OPCVM maître est fournie; ou
+
+c) lorsque l’OPCVM nourricier dispose d’un historique de performances passées antérieures à la date à laquelle il a commencé à opérer en tant qu’OPCVM nourricier, ces performances continuant à figurer, pour les années concernées, dans le diagramme en bâtons, où est signalé le changement important survenu entre-temps, conformément à l’article 17, paragraphe 2.
+
+SECTION 5 OPCVM structurés Article 36 Scénarios de performance
+
+1. Dans le cas des OPCVM structurés, le document d’information clé pour l’investisseur ne contient pas de section «Performances passées».
+
+Aux fins de la présente section, on entend par «OPCVM structurés» les OPCVM qui fournissent aux investisseurs, à certaines dates prédéterminées, des rémunérations dont le calcul est fondé sur un algorithme et qui sont liées à la performance ou à l’évolution du prix d’actifs financiers, d’indices ou de portefeuilles de référence ou à la réalisation d’autres conditions concernant ces actifs financiers, indices ou portefeuilles de référence, ou des OPCVM ayant des caractéristiques similaires.
+
+2. Dans le cas des OPCVM structurés, la section «Objectifs et politique d'investissement» du document d’information clé pour l’investisseur contient une explication de la formule ou du mode de calcul de la rémunération.

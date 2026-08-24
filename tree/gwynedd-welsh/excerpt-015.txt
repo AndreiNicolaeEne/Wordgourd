@@ -1,0 +1,17 @@
+Rhif cymhlyg yw'r rhif y gellir ei fynegi fel a + bi, lle mae a a b yn rhifau real, ac mae i yn ateb i'r hafaliad x2 = −1. Gan nad oes unrhyw rif real yn bodloni'r hafaliad hwn, gelwir i yn "rhif dychmygol". Ar gyfer y rhif cymhlyg a + bi, gelwir a yn "rhan real", a gelwir b yn "rhan ddychmygol". Er gwaethaf yr ystyr arferol i'r gair "dychmygol", ystyrir rhifau cymhlyg yn y gwyddorau mathemategol yn "gwbwl real", fel rhifau real, ac maent yn sylfaenol mewn sawl agwedd o'r disgrifiad gwyddonol o'r byd naturiol.
+
+Gellir diffinio'r system rhif cymhlyg fel estyniad algebraidd o'r rhifau real cyffredin trwy rif dychmygol i. Mae hyn yn golygu y gellir ychwanegu, tynnu a lluosi rhifau cymhlyg, fel polynomialau yn y newidyn i, gyda'r rheol i2 = −1 wedi'i osod. At hynny, gellir rhannu rhifau cymhlyg hefyd gyda rhifau cymhlyg di-sero. Ar y cyfan, mae'r system rhif cymhlyg yn faes o fewn mathemateg.
+
+Mae rhifau cymhlyg yn arwain at theorem sylfaenol algebra: mae gan bob hafaliad polynomial nad yw'n gyson â chyfernodau (neu 'gyd-berthynas'; coefficients) ateb cymhleth. Mae'r nodwedd hon yn wir am y rhifau cymhlyg, ond nid y rhifau real. Credir bod y mathemategydd Eidalaidd o'r 16g, Gerolamo Cardano, wedi cyflwyno rhifau cymhlyg yn ei ymdrechion i ddod o hyd i atebion i hafaliadau ciwbig.
+
+Mewn geometreg, mae rhifau cymhlyg yn ymestyn y cysyniad o'r linell-rif un dimensiwn i'r plân gymhlyg dau ddimensiwn, trwy ddefnyddio'r echel lorweddol ar gyfer y rhan real a'r echelin fertigol ar gyfer y rhan ddychmygol. Gellir adnabod y rhif cymhlyg a + bi gyda'r pwynt (a, b) yn y plân gymhlyg.
+
+Disgrifir y rhanbarth gan y gair "Argentina" ar fap Fenisaidd a wnaed yn 536.
+
+Daw'r gair "Ariannin" o'r Eidaleg "Argentina" sy'n golygu "wedi'i wneud o arian, lliw arian", sy'n deillio o'r Lladin "argentum" am arian. Yn Eidaleg, defnyddir yr ansoddair neu'r enw cywir yn aml mewn ffordd ymreolaethol fel sylwedd ac mae'n ei ddisodli a dywedir l'Argentina.
+
+Mae'n debyg i'r enw l'Argentina gael ei roi gyntaf gan y fforwyr Fenisaidd a Genoese, fel Giovanni Caboto. Yn Sbaeneg a Phortiwgaleg, y geiriau am "arian" yn y drefn honno yw plata a prata a "(wedi'i wneud) o arian" yw llwyfandir a prateado. Cysylltwyd yr Ariannin gyntaf â chwedl y mynyddoedd arian, yn eang ymhlith archwilwyr Ewropeaidd cyntaf Basn La Plata.
+
+Gellir olrhain y defnydd ysgrifenedig cyntaf o'r enw yn Sbaeneg i La Argentina, cerdd yn 1602 gan Martín del Barco Centenera sy'n disgrifio'r ardal. Er bod "yr Ariannin" eisoes yn cael ei ddefnyddio'n gyffredin erbyn y 18g, enwyd y wlad yn ffurfiol yn "Virreinato del Río de la Plata" gan Ymerodraeth Sbaen, a "Thaleithiau Unedig y Río de la Plata " ar ôl ei hannibyniaeth.
+
+Prif: Hanes yr Ariannin Ceir olion y trigolion cyntaf yn y tiroedd sy'n awr yn ffurfio yr Ariannin yn rhan ddeheuol Patagonia tua 13,000 o flynyddoedd yn ôl. Daeth gogledd-orllewin o wlad yn rhan o ymerodraeth yr Inca yn ail hanner y 15g, a ceir y cofnodion cynharaf yn ffurf quipu yn y cyfnod hwnnw.

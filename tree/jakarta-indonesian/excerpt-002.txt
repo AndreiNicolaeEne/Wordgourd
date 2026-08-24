@@ -1,0 +1,3 @@
+Lilitan induktor pada inti feromagnetik mungkin jenuh pada arus tinggi, menyebabkan pengurangan induktansi dan faktor Q yang sangat signifikan. Hal ini dapat dihindari dengan menggunakan induktor inti udara. Sebuah induktor inti udara yang didesain dengan baik dapat memiliki faktor Q hingga beberapa ratus.
+
+Sebuah kondensator nyaris ideal (faktor Q mendekati tak terhingga) dapat dibuat dengan membuat lilitan dari kawat superkonduktor pada helium atau nitrogen cair. Ini membuat resistansi kawat menjadi nol. Karena induktor superkonduktor hampir tanpa kerugian, ini dapat menyimpan sejumlah besar energi listrik dalam lilitannya.

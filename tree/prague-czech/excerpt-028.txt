@@ -1,0 +1,11 @@
+Umělá inteligence (UI, anglicky artificial intelligence – zkráceně AI) je inteligence projevovaná stroji, zejména počítači s vhodným programovým vybavením, a zároveň je to obor informatiky zabývající se tvorbou takových počítačových systémů. Ty řeší komplexní úlohy jako je rozpoznávání či klasifikace, např. v oblastech zpracování obrazu (ve formě pixelů) či zpracování psaného textu či mluveného jazyka (ve formě počítačového kódu), nebo plánování či řízení na základě zpracování velkých objemů dat.
+
+Úzká umělá inteligence (anglicky narrow artificial intelligence – zkráceně NAI) či „slabá AI“ odkazuje na systémy zaměřené na řešení jediné úzce vymezené úlohy. Mezi příklady NAI patří internetoví boti nebo virtuální asistenti jako např. Google Assistant nebo Siri.
+
+Obecná umělá inteligence (anglicky artificial general intelligence – zkráceně AGI) či „silná AI“ odkazuje na systémy řešící úlohy stejně dobře nebo dokonce lépe než člověk a řeší je bez nutnosti předchozího učení jednotlivých úzce vymezených úloh. AGI spojující „lidské“ flexibilní myšlení a uvažování se super rychlým zpracováním dat by se mohla stát realitou podmíněnou úspěšným vývojem kvantových počítačů.
+
+Superinteligence (anglicky artificial superinteligence – zkráceně ASI)
+
+Legislativně definovat umělou inteligenci je obtížné a i jemné rozdíly v definici mohou mít zásadní dopady. Termín umělá inteligence se také často nadužívá jako buzzword.
+
+Strojové učení je podoblastí umělé inteligence, zabývající se algoritmy, které umožňují počítačovému systému „učit se“. Učením v daném kontextu rozumíme takovou změnu vnitřního stavu systému, která zefektivní schopnost přizpůsobení se změnám okolního prostředí. Strojové učení má široké uplatnění. Jeho techniky se využívají pro rozpoznávání a kompresi obrazů či akustických (např. rozpoznávání řeči) nebo elektrických (např. EKG, EEG) signálů, klasifikaci či segmentaci dat, předvídání vývoje časových řad (např. burzovních indexů), k rozpoznávání psaného textu či k filtrování spamu. V lékařství slouží k diagnostice onemocnění a v řízení pro podporu rozhodování.

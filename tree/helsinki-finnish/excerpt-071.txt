@@ -1,0 +1,9 @@
+Barokin aikana cembaloa käytettiin yleisesti soitinyhtyeissä, oopperassa resitatiiveissa ja kamarimusiikissa. Italialaiset olivat 1500-luvulla maineikkaimpia cembaloiden valmistajia, ja heiltä hankkivat taitonsa 1600-luvun kuuluisat alankomaalaiset soittimenrakentajat. 1900-luvulla cembalon rakennetta pyrittiin modernisoimaan muokkaamalla sitä raskasrakenteisemmaksi ja enemmän pianoa muistuttavaksi. Nämä kokeilut eivät kuitenkaan olleet soinnillisesti onnistuneita, ja 1900-luvun loppupuolella alettiin uudelleen noudattaa 1600- ja 1700-luvun soitinten rakennusperiaatteita.
+
+Cembalo täytyy virittää säännöllisesti (viikoittain). Cembalistit opettelevatkin virittämään soittimensa itse. Harjaantunut virittäjä selviytyy urakasta pelkän ääniraudan ja viritysavaimen avulla, mutta hyvästä virityskoneesta on apua ns. jaon tekemisessä.
+
+Cembaloa ei yleensä viritetä tasavireiseksi, sillä tasavireisessä virityksessä suurin osa intervalleista jää epäpuhtaiksi, eikä soitin resonoi kauniisti. Yleisiä viritysjärjestelmiä ovat "keskisävelinen" sekä ns. "hyvävireiset" ("Well Tempered", "Wohltemperierte"): esimerkiksi Valotti, Werckmeister ja Kirnberger, jotka on nimetty kehittäjiensä mukaan.
+
+Yksinkertaistettuna virittäminen tapahtuu seuraavasti: viritetään ääniraudasta a1 (joko 440 Hz tai 415 Hz {myös 392 Hz jne.}) ja sen mukaan pieni a. Tämän jälkeen "tehdään jako" eli viritetään pieni oktaavi (eli keski-c:n alapuolinen oktaaviala) halutun viritysjärjestelmän mukaisesti, ts. jaetaan oktaavi 12:een halutun kokoiseen sävelaskeleeseen.
+
+Jaon tekeminen onnistuu korvakuulolta mutta vaatii kärsivällisyyttä ja harjoitusta. Epäpuhtaita intervalleja korvakuulolta viritettäessä apuna voi käyttää myös metronomia, jolloin intervallin sävelten synnyttämä huojuntataajuus voidaan säätää tavoitellun viritysjärjestelmän mukaiseksi. Jaon voi tehdä myös virityskoneen avulla, jos virityskone tuntee muitakin kuin tasavireisen järjestelmän.

@@ -1,0 +1,17 @@
+9) Relativamente aos dispositivos com uma data de validade definida, exceto os dispositivos implantáveis, devem manter as instruções de utilização disponíveis para os utilizadores, em formato eletrónico, por um período mínimo de dois anos a contar do termo da data de expiração do último dispositivo produzido;
+
+10) Relativamente aos dispositivos sem uma data de expiração definida e aos dispositivos implantáveis, devem manter as instruções de utilização disponíveis para os utilizadores, em suporte eletrónico, por um período de quinze anos, a contar da última data de fabrico do dispositivo.
+
+Artigo 6.o 1. Os fabricantes devem indicar claramente que as instruções de utilização do dispositivo são fornecidas em formato eletrónico e não em papel.
+
+Essas informações devem ser apostas na embalagem individual, ou, eventualmente, na embalagem comercial. No caso dos dispositivos médicos instalados fixos, essas informações devem igualmente ser fornecidas no próprio dispositivo.
+
+2. Os fabricantes devem facultar informações sobre o modo de aceder às instruções de utilização em formato eletrónico.
+
+Essas informações devem ser fornecidas como definido no segundo parágrafo do n.o 1, ou, se tal não for praticável, num documento em papel fornecido com cada dispositivo.
+
+3. As informações sobre o modo de acesso às instruções de utilização em formato eletrónico devem incluir o seguinte:
+
+a) Todas as informações necessárias à visualização das instruções de utilização;
+
+b) Uma referência única, para acesso direto, bem como quaisquer outras informações necessárias ao utilizador para identificar e aceder às instruções de utilização adequadas;

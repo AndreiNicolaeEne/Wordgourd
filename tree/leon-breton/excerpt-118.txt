@@ -1,0 +1,9 @@
+Ar Genrouedad, pe Internet, zo ur rouedad urzhiataerel bedel. Diazezet eo war daou gomenad kehentiñ, TCP (Transmission Control Protocol) hag IP (Internet Protocol) lakaet asambles dindan an anv TCP/IP. Implijet e vez evit dispakañ meur a servij war skramm evel al lizheroù elektronek ("posteloù" e brezhoneg) hag ar World Wide Web.
+
+Evit ma vo luget an holl ardivinkoù a zo war ar rouedad ez eus bet savet ur reizhiad chomlec'hioù gant sifroù arabek, a anver "chomlec'h IP". Pep ardivink e vez roet dezhañ ur chomlec'h IP neuze, a zo un heuliad sifroù ; padus pe war ar prim e vez ar chomlec'hioù IP, hervez an doare ardivink. Posupl eo ivez reiñ ur chomlec'h da neb en deus ezhomm. Ar chomlec'hioù o deus daou stumm, unan sifraouet a vez komprenet gant an ardivinkoù o-unan, hag unan all e gerioù lizherennet ha komprenapl d'an holl : 192.168.1.1 pe br.wikipedia.org , da skouer.
+
+Krediñ a ra da veur a zen n'eo ar Genrouedad nemet ar reizhiad gourskridoù (saozneg : hypertext) anvet World Wide Web pe "ar Web", abalamour ma oa hennezh ar servij brudetañ e kreiz ar bloavezhioù 1990.
+
+Ar Web (ar Gwiad e brezhoneg) zo ur reizhiad dispakañ testennoù, skeudennoù ha sonioù a vez kinniget dindan stumm pajennoù e liv. Kavet e vez servijoù all c'hoazh, evel an anvonerezh war ar prim, an Internet relay chat, hag an eskemmoù restroù stlennegel dre ar c'hehentiñ peer-to-peer.
+
+E miz Here 1972 e voe meneget an termen Internet gant Robert Elliot "Bob" Kahn (* 1938) e-kerzh ur c'hendiviz e Washington D.C.. Ar c'haoz oa war an internetting, da lavaret eo sevel liammoù etre ar rouedadoù (net = rouedad).

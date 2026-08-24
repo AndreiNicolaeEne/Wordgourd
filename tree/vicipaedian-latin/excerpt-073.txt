@@ -1,0 +1,25 @@
+Mathematici, ut bonae mathematicae exemplar, geometriam classicam a Euclide formulatam diu habent. Euclides enim demonstravit quinque axiomata satis esse de quibus omnia argumenta geometrica per deductionem logicam derivari possunt. De arithmetica quoque Euclides theoremata demonstravit, exempli gratia quot sint numeri primi.
+
+A mathematicis Arabicis Indicisque saecula primum ad septimum decimum, multae contributiones amplae, sicut systema numericum decimale, functiones sinusoidales, et algebra, ad Europam transmissae sunt. Ibi Europae saeculo XVII Renatus Cartesius, cum puncta in spatio a tribus numeris expressit, geometriam et algebram iunxit, geometriam analyticam comperiens, ut hodie omnes agnoscant aequationem
+
+ut circuli aequatio ubi x et y sunt coordinatae planae et R est circuli radius, et similiter alias huius modi aequationes.
+
+Isaacus Newtonus libro Philosophiae naturalis principia mathematica anni 1687 magnopere mathematicam protulit, monstrando sola tria axiomata (et tantas virum leges) in aequationum mathematicalum forma satis esse ut omnia phenomena physica demonstrentur. Ambo Newtonus et Leibnitius item analysim magnopere protulerunt cum calculus deinde comminiscuntur. Subsequenter Gauss, Eulerus, Lagrange, Hamilton et alii calculum et analysim novis methodis, functionibus, theorematisque etiam protulerunt, functiones exponentiales logarithmicasque, calculum vectoralem, et methodos aequationes differentiales solvendi invenientes.
+
+Algebra incepit in amplificatione quadam de arithmetica, qua symbola loco numerorum substituta sunt, ut plures aequationes vel sententias per unam sententiam repraesentiuntur. Haec methodus reperta est ut perutilis ad problemata solvenda quibus sunt relationes inter ignotas quantitates quasdam in aequationum forma. Ad tales aequationes solvendas, mathematicis deinde mox oportuit novos numeros comperiri, sicut numeros irrationales et numeros complexos; et novas structuras algebraicas quoque e numeris factas sicut vectores, matrices, et tensores. Aequatio celeberrima, quae multos tales numeros simul proponit, est aequatio Euleri
+
+Nomen organica historice a verbo biologico 'organismus' deducitur. Olim omnes chemicae carbonium habentes solum in organismo nasci putabantur, quia eae chemicae fere semper in organismis viventibus inveniebantur. Sed Fridericus Wöhler, chemicus Germanicus, hanc rationem anno 1828 revicit,? demonstrando synthesim ureae in vitro; nomen autem organica postea non mutatum est. Saepe igitur possumus chemicas invenire "organicas" quae non sunt per se ab origine organica.
+
+Chemicae organicae regulis nominandi IUPAC parent.
+
+Carbonium catenas cum ipso saepe format et hydrogenium illis catenis coniunctum est stipes chemicarum organicarum quae hydrocarbura aliphatica appellantur. Inter eas aliphaticas sunt alcini vincula triplicia habentes, alceni vincula duplicia habentes, et alcani qui vinculis triplicibus duplecibusque totaliter carent. Exempla alcani sunt:
+
+Methanum CH4 Ethanum C2H6 Propanum C3H8 Butanum C4H10
+
+Pentanum C5H12 et cetera, usque ad plus quam 30 atomis carbonii in molecula.
+
+Aliae species chemicarum organicarum sunt:
+
+acidum carboxilicum aether alcohol amina
+
+cetona ester hydrocarburum cyclicum sive aromaticum

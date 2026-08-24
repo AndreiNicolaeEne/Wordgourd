@@ -1,0 +1,9 @@
+11. Komitéen for Sikkerhedsgodkendelse opretter under sin myndighed særlige underorganer, som handler i overensstemmelse med dens instrukser, til varetagelse af specifikke opgaver. Under hensyntagen til den nødvendige kontinuitet i arbejdet opretter den navnlig et panel til at foretage sikkerhedsanalysevurderinger og -test med henblik på udarbejdelse af de risikorapporter, der er relevante for, at komitéen kan træffe sine beslutninger. Komitéen for Sikkerhedsgodkendelse kan nedsætte og nedlægge ekspertgrupper til at bidrage til arbejdet i panelet.
+
+12. Uden at dette berører medlemsstaternes kompetence og agenturets opgaver, som omhandlet i artikel 14, stk. 1, litra a), nr. i), i forordning (EU) nr. 1285/2013, nedsættes der i Galileoprogrammets etablerings- og ibrugtagningsfase under tilsyn af Komitéen for Sikkerhedsgodkendelse en gruppe af eksperter fra medlemsstaterne til at udføre de af kryptodistributionsmyndighedens (CDA'ens) opgaver, der er forbundet med forvaltningen af EU-kryptomateriale, navnlig med henblik på:
+
+i) forvaltningen af flynøgler og andre nøgler, der er nødvendige for, at systemet etableret under Galileoprogrammet kan fungere
+
+ii) kontrollen med fastlæggelsen og håndhævelsen af procedurer med henblik på at kunne stå til regnskab for PRS-nøgler og sikre deres håndtering, opbevaring og distribution.
+
+13. Kan der ikke opnås konsensus i Komitéen for Sikkerhedsgodkendelse i overensstemmelse med de almindelige principper, der er omhandlet i artikel 10 i denne forordning, træffer Komitéen for Sikkerhedsgodkendelse sine beslutninger med det flertal, der er fastsat i artikel 16 i traktaten om Den Europæiske Union og med forbehold af artikel 9 i denne forordning. Repræsentanten for Kommissionen og repræsentanten for den højtstående repræsentant stemmer ikke. Formanden for Komitéen for Sikkerhedsgodkendelse undertegner på komitéens vegne de beslutninger, som komitéen har truffet.

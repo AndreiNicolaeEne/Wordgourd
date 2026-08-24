@@ -1,0 +1,3 @@
+Interval medzi prvým/tretím a tretím/piatym tónom stupnice je tercia, interval medzi prvým a piatym stupňom stupnice je kvinta.
+
+V prípade durových akordov je vzdialenosť prvej tercie 4 poltóny (veľká tercia), kým vzdialenosť druhej tercie sú len 3 poltóny (malá tercia). V prípade molových akordov je to opačne (prvá tercia je malá a druhá je veľká). Ak sú obe tercie akordu veľké, ide o zväčšený kvintakord, ak sú obe malé ide o zmenšený kvintakord.

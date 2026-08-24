@@ -1,0 +1,15 @@
+Ööpäevade, nädalate, kuude ja aastate möödumise jälgimiseks on leiutatud kalendrid.
+
+Pikemalt artiklis Füüsikaline aeg Enne Albert Einsteini relatiivsusteooriat käsitati aega ja ruumi eraldi mõõtmetena. Einsteini erirelatiivsusteooria sidus aja ja ruumi ühtseks aegruumiks: aega saab mõista üksnes aegruumi osana, aegruumi neljanda mõõtmena, millel on mitmeid ruumimõõtmetega ühiseid omadusi. Tänapäeva füüsika seisukohalt ei ole absoluutset aega olemas, küll aga kasutas seda njuutonlik klassikaline mehaanika, mida rakendatakse tänapäevalgi sageli igapäevaste ülesannete lahendamisel.
+
+Relativistlikus füüsikas defineeritakse aeg kui sündmustevaheline kaugus piki aegruumimuutkonna neljandat telge. Sündmustevaheline kaugus sõltub sündmuste vaatlejate suhtelisest kiirusest. Eri kiirusega liikuvate objektide jaoks on aeg erisugune: igal objektil on omaaeg. Eri kiirusega liikuvad inimesed mõõdavad sündmuste toimumise aega ja objektidevahelisi kaugusi erinevate tulemustega. Tõsi küll, need erinevused on väikesed, kui liikumine ei toimu valguse kiirusele lähedasel kiirusel. Iga vaatleja jaoks käiks mööda lendava kosmoselaeva kell aeglasemalt kui oma kell (ja mööda lendavas kosmoselaevas asuva vaatleja jaoks käiks tema kell kiiremini). Paljud elementaarosakesed eksisteerivad laboris väikese kiirusega liikudes murdosa sekundist, kuid mõned osakesed, mis liiguvad valguse kiiruse lähedase kiirusega, jõuavad küllaltki kaugele ja nende eluiga on küllaltki suur. Erirelatiivsusteooria järgi eksisteerib osake kiiresti liikuva osakese inertsiaalsüsteemis tavalise aja ning läbib selles kiirusele vastava aja. Ent paigalseisva taustsüsteemi seisukohast paistab aeg osakese jaoks aeglustuvat.
+
+Arhede ja üldiselt prokarüootide klassifitseerimine on kiiresti arenev ning vastuoluline valdkond. Süstemaatikud üritavad rühmitada arhesid, millel on sarnane struktuur ja ühised eellased. Selline süstematiseerimine põhineb suurel osal ribosomaalse RNA järjestustel. Enamik arhesid, mida on võimalik kultuuris kasvatada ning mis on hästi uuritud, kuuluvad ühte kahest peamisest hõimkonnast: Euryarchaeota ja Crenarchaeota. Teiste hõimkondade osas ei ole seni konsensust.
+
+Crenarchaeota Euryarchaeota Korarchaeota
+
+Nanoarchaeota Thaumarchaeota Esimesed leitud arvatavasti prokarüootsete rakkude fossiilid on peaaegu 3,5 miljardit aastat vanad. Kuna enamikul prokarüootidel pole eristuvat morfoloogiat, ei ole võimalik määrata, kas need rakud kuulusid arhedele. Selgemaid tõendeid on andnud keemilised fossiilid lipiididest, mis on iseloomulikud ainult arhedele.
+
+Woese väitis, et bakterid, arhed ja eukarüoodid esindavad erinevaid sugupuid, mis lahknesid varakult ühisest eellasorganismide kolooniast.
+
+Järgnev tabel võrdleb kolme domeeni tähtsamaid omadusi.

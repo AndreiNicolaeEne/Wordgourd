@@ -1,0 +1,13 @@
+b) jei finansuojantysis subjektas pradėjo veikti kaip finansuojantysis KIPVPS vėliau nei finansuojamasis KIPVPS, jei tenkinamos 19 straipsnio sąlygos ir jei remiantis finansuojamojo KIPVPS ankstesnės veiklos rezultatais pateikiami tų metų, kai finansuojantysis subjektas dar neegzistavo, rezultatų modeliavimo duomenys; arba
+
+c) jei finansuojantysis KIPVPS turi ankstesnės veiklos rezultatų duomenų iš laikotarpio iki datos, kurią jis pradėjo veikti kaip finansuojantysis subjektas, ir atitinkamų metų jo paties duomenys paliekami juostinėje diagramoje, reikšmingą pokytį aiškiai pažymint, kaip reikalaujama 17 straipsnio 2 dalyje.
+
+5 SKIRSNIS Struktūrizuotieji KIPVPS 36 straipsnis
+
+Veiklos rezultatų scenarijai 1. Struktūrizuotojo KIPVPS pagrindinės informacijos investuotojams dokumente „Ankstesnės veiklos rezultatų“ skirsnis nepateikiamas.
+
+Šiame skirsnyje struktūrizuotasis KIPVPS suprantamas kaip KIPVPS, kuris tam tikromis iš anksto nustatytomis datomis investuotojams suteikia pagal algoritmą apskaičiuotą atlygį, susijusį su finansinio turto, indeksų ar orientacinių portfelių arba panašių požymių turinčių KIPVPS rezultatais ar kainų pokyčiais arba kitomis sąlygomis.
+
+2. Struktūrizuotųjų KIPVPS pagrindinės informacijos investuotojams dokumento „Tikslų ir investavimo politikos“ skirsnyje pateikiamas paaiškinimas, kaip naudojama formulė arba kaip apskaičiuojamas atlygis.
+
+3. Kartu su 2 dalyje nurodytu paaiškinimu pateikiamas pavyzdys, kuriuo parodomi bent trys galimų KIPVPS veiklos rezultatų scenarijai. Tinkami scenarijai pasirenkami taip, kad būtų parodytos aplinkybės, kuriomis naudojant formulę grąža investuotojui gali būti maža, vidutinė arba didelė, o tam tikrais atvejais neigiama.

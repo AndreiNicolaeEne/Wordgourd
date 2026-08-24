@@ -1,0 +1,21 @@
+Roomajate luustik on veel üsna varieeruv, jäsemete skelett võtab lõpliku kuju (varvaste luud ja pöialuud, sääreluud ja reieluu, puusaliigesed ning põlveliigesed), seoses rinnaluu tekkega tekib rinnakorv. Roomajatest põlvnevad linnud, kelle luustikku iseloomustab kohastumine lendamiseks – esijäsemete skelett redutseerub tiibade tekke tõttu, luud on kerged, sisaldavad õhku.
+
+Imetajate luustik on juba üsna vähevarieeruv. See koosneb koljust, mis täiskasvanueas on täielikult liitunud ja mis on liigeste abil ühendatud alalõualuu ja kaelaga ning keeleluuga. Kaelalülisid on 7 (v.a laisikutel) ja neil puuduvad roided (erinevalt roomajatest). Rinnalülisid on 12–15, nende külge kinnituvad roided. Järgnevad 5–7 nimmelüli ja 4–5 ristluuks liitunud lüli. Sabalülide arv varieerub suuresti, teatud nahkhiirtel on neid vaid kolm, soomusloomadel kuni 49.
+
+Inimese skeleti eripärad võrreldes muude imetajatega tulenevad eelkõige inimese püstisest kõnnakust.
+
+Inimese skelett koosneb 29 koljuluust, 33 selgroolülist (7 kaelalüli, 12 rinnalüli, 5 nimmelüli, 5 ristluulülist (kokkukasvanud), 4 õndralüli), 20 roidest, 4 ebaroidest, kahest abaluust, kahest rangluust, neljast vaagnaluust (kokkukasvanud), (ühe jala kohta) 30 jala- ja (ühe käe kohta) 31 käeluust ja seesamluudest, mille arv on indiviiditi erinev. Seesamluid arvestamata on inimesel kokku 206 luud.
+
+Ajaks nimetatakse nii sündmuste järgnevuslikku korrastatust kui ka sündmuste omavahelist kaugust selles korrastatuses.
+
+Sündmused leiavad aset üksteise järel ehk varem ja hiljem. On ka võimalik mõõta, kui palju varem või hiljem teisest sündmusest mingi sündmus aset leiab. Sel juhul mõõdetakse, kui palju aega on möödunud ühest sündmusest teiseni. Üks võimalus määratleda mõisteid "varem" ja "hiljem" põhineb põhjuslikkusel: kui mingi sündmus põhjustab teise sündmuse, siis ta leiab aset teisest sündmusest varem. Püüd aega filosoofiliselt lahti mõtestada tekitab palju raskusi ja lahkarvamusi
+
+Aja mõõtmise täiustamine kalendrite ja kellade väljatöötamise teel on edendanud teaduse arengut. See oli algselt üks astronoomia põhiülesandeid.
+
+Ajal on ka suur ühiskondlik tähtsus: tal on majanduslik väärtus ("aeg on raha") ning inimesed tajuvad aega kui piiratud ressurssi.
+
+Sündmuste kestuse ja nendevaheliste ajavahemike mõõtmiseks on kasutusele võetud ajaühikud. Aluseks on võetud perioodilised protsessid, nagu päikese näiv liikumine taevas, kuu faasid ja pendli võnkumine. SI-süsteemis on aja mõõtühikuks sekund, mille kaudu defineeritakse suuremad ühikud minut, tund, ööpäev, nädal, kuu, aasta, aastakümme, sajand ja aastatuhat.
+
+Aja mõõtmise vahendid on kellad. Väga täpseid kelli nimetatakse sageli kronomeetriteks. Tänapäeval on kõige täpsemateks kelladeks aatomkellad.
+
+Käibel on mitmed järjepidevad ajaskaalad: maailmaaeg, rahvusvaheline aatomiaeg, millel põhinevad teised ajaskaalad, koordineeritud maailmaaeg, mis on tsiviilaja standard, Maa-aeg jne.

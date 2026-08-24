@@ -1,0 +1,11 @@
+Artikel 3 Indberetning af eksponeringer 1. Oplysningerne om sikkerhedsstillelse i tabel 1 i bilaget skal omfatte al sikkerhedsstillelse, der er stillet.
+
+2. Hvis en modpart ikke stiller sikkerhed på transaktionsbasis, skal modparterne til et transaktionsregister indberette sikkerhedsstillelse, der er stillet, på porteføljebasis.
+
+3. Hvis sikkerhedsstillelsen i tilknytning til en aftale indberettes på porteføljebasis, skal den indberettende modpart til transaktionsregistret indberette en identifikationskode for den portefølje af sikkerhedsstillelse, der er stillet til den anden modpart i tilknytning til den indberettede aftale.
+
+4. Ikke-finansielle modparter, undtagen dem, der er omhandlet i artikel 10 i forordning (EU) nr. 648/2012, skal ikke indberette sikkerhedsstillelse og værdiansættelse efter marking-to-market-princippet eller efter marking-to-model-princippet vedrørende de aftaler, der er omhandlet i tabel 1 i bilaget.
+
+5. For aftaler, der cleares af en CCP, skal værdiansættelser efter marking-to-market-princippet kun indgives af CCP'en.
+
+Artikel 4 Indberetningslog Ændringer til de oplysninger, der er registreret i transaktionsregistre, skal gemmes i en log, der identificerer den eller de personer, der anmodede om ændringen, herunder i givet fald transaktionsregistret selv, årsagen eller årsagerne til ændringerne, en dato og et tidsstempel samt en klar beskrivelse af ændringerne, herunder det gamle og nye indhold af de relevante oplysninger, jf. felt 58 og 59 i tabel 2 i bilaget.

@@ -1,0 +1,15 @@
+Ambdues obres, com era habitual a l'època, estan escrites en vers de mètrica arya i no contenen demostracions. Malgrat això, es poden enumerar un bon nombre d'aportacions originals de Brahmagupta a les ciències matemàtiques i astronòmiques.
+
+Brahmagupta va donar la solució general de l'equació lineal dins el capítol divuit de Brahma Sphuta Siddhanta:
+
+La diferència entre rupas, quan s'inverteix i es divideix per la diferència de les incògnites, és la incògnita en l'equació. El rupas és [restats a banda] menor que el d'aquell del qual el quadrat i la incògnita es van restar.
+
+Aquest és una solució per a l'equació equivalent a , en què rupas es refereix a les constants c i e. Posteriorment, va donar dues solucions equivalents generals a l'equació de segon grau:
+
+18.44. Disminuir per la meitat [nombre] l'arrel quadrada del rupas multiplicat per quatre el quadrat i incrementat pel quadrat de la meitat [nombre]; dividir la resta per dues vegades l'arrel. [El resultat és] el [nombre] mitjà.
+
+18.45. Qualsevol que sigui l'arrel quadrada del rupas multiplicat pel quadrat [i] incrementat pel quadrat de la meitat de la incògnita, disminuir a la meitat de la incògnita [i] divideix [la resta] pel seu quadrat. [El resultat és] la incògnita.
+
+Aquestes són, respectivament, solucions per l'equació equivalent a:
+
+i Va poder solucionar sistemes d'equacions indeterminades simultànies declarant que la variable desitjada, primer ha de ser aïllada, i llavors l'equació ha de ser dividida per la variable desitjada del coeficient. En particular, va recomanar utilitzar "el polvoritzador" per a solucionar equacions amb múltiples incògnites.

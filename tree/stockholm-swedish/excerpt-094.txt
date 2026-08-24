@@ -1,0 +1,19 @@
+Ett par vanliga musikaliska former som bygger på kontrapunktik är kanon och fuga.
+
+Kontrapunkttekniken, som började utvecklas under medeltiden, blomstrade särskilt under renässansen och barocken. Därför brukar det ingå i kompositörers utbildning att studera dessa stilar. Renässansens polyfoni representeras då ofta av Palestrina och barockens av Bach.
+
+Aldous Huxley anammade tekniken i sin roman Kontrapunkt från 1928.
+
+Stämmorna är härledda ur samma melodiska motiv (imiterar varandra) eller komponerade i direkt relation till varandra.
+
+Förlängda notvärden eller augmentation: man tar melodin långsammare. Över detta kan så andra stämmor göra snabbare rörelser. En vanlig användning är när en fuga ska planas ut mot en ståtlig avslutning. En sats med augmenterad fras och motstämmor kan ofta också ses som ett fall av cantus firmus-teknik och tvärtom.
+
+Förkortade notvärden eller diminution: man tar melodin snabbare (varvid andra stämmor kanske bör balansera med längre toner).
+
+Omvändning eller inversion: man tar melodin uppochner - går alltså två tonsteg uppåt när man egentligen skulle ha gått två tonsteg neråt, och så vidare.
+
+Kräftgång eller retrograd rörelse: man tar melodin baklänges.
+
+Omvänd kräftgång eller retrograd inversion: man tar melodin både baklänges och uppochner.
+
+Kanon: en välbekant form av kontrapunkt. En stämma börjar på melodin; när första frasen är slut börjar nästa, och så vidare. (Och melodin är så konstruerad att det låter bra enligt den stil den är gjord i). En vanlig viskanon kan på sätt och vis också ses som en quodlibet med sig själv.

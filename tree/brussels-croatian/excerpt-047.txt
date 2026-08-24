@@ -1,0 +1,13 @@
+2. Kada je ugovor sklopljen na mjestu trgovanja te je poravnanje izvršila središnja druga ugovorna stranka tako da druga ugovorna strana nije upoznata s identitetom druge ugovorne stranke, izvještajna druga ugovorna stranka određuje tu središnju drugu ugovornu stranku kao svoju drugu ugovornu stranku.
+
+Članak 3. Izvješćivanje o izloženostima 1. Podaci o kolateralu koje je potrebno navesti u skladu s tablicom 1. Priloga uključuju sav dani kolateral.
+
+2. Kada druga ugovorna stranka ne izvršava osiguranje kolateralom na razini transakcije, druge ugovorne stranke trgovinskom repozitoriju dostavljaju podatke o kolateralu danom na razini portfelja.
+
+3. Kada se podaci o kolateralu povezanom s ugovorom dostavljaju na razini portfelja, izvještajna druga ugovorna stranka trgovinskom repozitoriju dostavlja oznaku kojom se identificira portfelj kolaterala koji je dan drugoj ugovornoj stranci povezanoj s ugovorom o kojem se dostavljaju podaci.
+
+4. Nefinancijske druge ugovorne stranke osim onih iz članka 10. Uredbe (EU) br. 648/2012 nisu obvezne dostavljati podatke o kolateralu, vrednovanjima ugovora zasnovanim na tržišnoj vrijednosti ili vrednovanjima ugovora zasnovanim na modelu za ugovore iz tablice 1. Priloga.
+
+5. Za ugovore čije poravnanje obavlja središnja druga ugovorna stranka, vrednovanja zasnovana na tržišnoj vrijednosti obavlja jedino središnja druga ugovorna stranka.
+
+Članak 4. Dnevnik izvješćivanja Izmjene podataka registriranih kod trgovinskih repozitorija čuvaju se u dnevniku u kojem se utvrđuje identitet osobe ili osoba koje su zatražile izmjenu, uključujući sam trgovinski repozitorij ako je to primjenljivo, razlog ili razloge za tu izmjenu, datumski i vremenski žig i jasan opis promjena, uključujući stari i novi sadržaj dotičnih podataka kako je navedeno u poljima 58 i 59 u tablici 2. Priloga.

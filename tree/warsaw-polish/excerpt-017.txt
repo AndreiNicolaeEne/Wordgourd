@@ -1,0 +1,33 @@
+. Wartość funkcji dla argumentu zapisujemy zwykle w formie formuły , która jednocześnie definije caly wykres funkcji . Ale stosuje się również indywidualne notacje dla niektórych funkcji np. wartość bezwzględna , silnia , dodawanie (i inne działania), i tym podobne.
+
+Pełny tradycyjny zapis funkcji (zawierający informację o dziedzinie, przeciwdziedzinie i wykresie) jest zgodny z szablonem:
+
+, Zapiszmy wykres funkcji w formie formuły . Zmienną , oznaczającą dowolny argument funkcji, nazywamy zmienną niezależną. Zmienną nazywamy zmienną zależną gdyż jej konkretna wartość zależy od i wybranego .
+
+Zbiór wszystkich funkcji ze zbioru do zbioru oznacza się .
+
+Zgodnie z definicja formalną, każda funkcja może przyjmować dokładnie jeden argument (który jest elementem dziedziny). Jednak dziedzina w szczególności może być zbiorem par albo trójek albo w ogólności n-tek . Funkcje o takiej dziedzinie nazywamy funkcjami wielu zmiennych. Do ich zapisu stosujemy skrót notacyjny polegający na omijaniu nawiasów funkcji, podczas podstawiania do niej danej pary/trójki/n-tki . Przykładowo dla funkcji która dla danego punktu płaszczyzny euklidesowej wyznacza jego wysokość tj. , gdy postawimy punkt , czyli argument który jest parą liczb, to zamiast pisać
+
+zapisujemy skrótowo: Warto wspomanieć, że wynikiem funkcji również jest dokładnie jedna wartość ale może ona być n-tką zawierająca wiele elementów (np. przyjmuje parę a zwraca trójkę liczb).
+
+Jak wspomniano powyżej, stosuje się indywitualną notacje dla niektórych funkcji jednej zmiennej np. wartość bezwzględna , silnia , Potęgowanie itp.
+
+Pisma posiadające odrębne znaki dla każdej sylaby to sylabariusze (zobacz kana).
+
+Dwie najczęściej spotykane klasyfikacje sylab to podział na sylaby otwarte i zamknięte oraz podział na sylaby lekkie i ciężkie.
+
+Sylaba otwarta to sylaba zakończona samogłoską (czyli pozbawiona wygłosu), np. każda sylaba w wyrazie ma·te·ma·ty·ka.
+
+Sylaba zamknięta to sylaba zakończona spółgłoską (czyli taka, która ma wygłos), np. każda sylaba w wyrazie trój·kąt.
+
+Sylaba lekka (słaba) to taka, która ma prosty ośrodek (a więc nie jest to dyftong ani samogłoska długa) i albo nie ma wygłosu, albo ma tylko jedną spółgłoskę w wygłosie.
+
+Przykład: ma w wyrazie ma·te·ma·ty·ka, rat w wyrazie a·pa·rat
+
+Sylaby ciężkie (mocne) to wszystkie inne sylaby.
+
+Przykład: port w wyrazie trans·port W języku polskim dyftong zazwyczaj reprezentowany jest przez sekwencję liter au lub eu, a jego pojawienie wiąże się z tym, że u nie jest w nich sylabiczne, np. w au·tor głoskę u wymawiamy jak ł (IPA:w).
+
+auto → au-to nauka → na-u-ka wanna → wan-na zassać → zas-sać
+
+radosny → ra-dos-ny zwierzę → zwie-rzę sarna → sar-na

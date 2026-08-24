@@ -1,0 +1,25 @@
+j information provided by the manufacturers of artificial optical radiation sources and associated work equipment in accordance with the relevant European Union Directives as they had effect immediately before IP completion day .
+
+6 The risk assessment must be reviewed regularly if—
+
+a there is reason to suspect that it is no longer valid; or
+
+b there has been a significant change in the work to which the assessment relates.
+
+7 The employer must record— a the significant findings of the risk assessment as soon as is practicable after it is made or changed; and
+
+b the measures which have been taken and which the employer intends to take to meet the requirements of regulation 4 and 5.
+
+8 In paragraphs (3) and (4)— a a reference to standards or recommendations is a reference to standards or recommendations as revised or re-issued from time to time;
+
+b “ CEN ” means the European Committee for Standardisation;
+
+c “ CIE ” means the International Commission for Illumination; and
+
+d “ IEC ” means the International Electrotechnical Commission.
+
+9 In paragraph (5)(a) “ level ” means the combination of irradiance, radiant exposure and radiance to which an employee is exposed.
+
+Obligations to eliminate or reduce risks
+
+1 An employer must ensure that any risk of adverse health effects to the eyes or skin of employees as a result of exposure to artificial optical radiation which is identified in the risk assessment is eliminated or, where this is not reasonably practicable, reduced to as low a level as is reasonably practicable.

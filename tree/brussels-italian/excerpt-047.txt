@@ -1,0 +1,5 @@
+Articolo 4 Log relativo ai dati Le modifiche dei dati registrati nei repertori di dati sulle negoziazioni sono conservate in un log che identifica la persona o le persone che hanno chiesto la modifica, ivi compreso il repertorio di dati sulle negoziazioni, se applicabile, le ragioni della modifica, la data e l’ora e una descrizione chiara delle modifiche, tra cui i dati originari e i nuovi dati pertinenti di cui ai campi 58 e 59 della tabella 2 dell’allegato.
+
+Articolo 5 Entrata in vigore Il presente regolamento entra in vigore il ventesimo giorno successivo alla pubblicazione nella Gazzetta ufficiale dell’Unione europea.
+
+Il presente regolamento è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno degli Stati membri. Fatto a Bruxelles, il 19 dicembre 2012

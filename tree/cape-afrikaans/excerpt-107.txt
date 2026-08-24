@@ -1,0 +1,25 @@
+Die kapasitansie van 'n parallel kapasitor word gegee deur die vergelyking:
+
+waar C die kapasitansie is, e die permitiwiteit van die diëlektrikum is,
+
+A die oppervlak van die plate is, en d die afstand tussen die plate is.
+
+Die teenoorgestelde lading akkumuleer op die plate van die kapasitor as gevolg van die skeiding van lading. 'n Spanning word geïnduseer oor die kapasitor as gevolg van die elektriese veld van die ladings. Al hoe meer werk moet verrig word teen die elektriese veld wat groter word namate meer ladingskeiding plaasvind. Die energie, gemeet in joule in die SI-eenheidstelsel, wat in die kapasitor gestoor word is gelyk aan die hoeveelheid werk wat verrig word om 'n spanningsval oor die kapasitor te induseer. Dus is die energie ook eweredig aan die elektriese veld oor die plate van die kapasitor.
+
+Die energie wat gestoor word in 'n kapasitor word deur die volgende vergelyking bereken:
+
+waar die energie wat gestoor word is, C die kapasitansie van die kapasitor is,
+
+V die spanningsval oor die kapasitor is,
+
+Q die lading is wat op elke plaat akkumuleer.
+
+Die geografiese koördinate is nominaal 65°00′S 0°00′O / 65.000°S 0.000°O, maar die Suidelike Oseaan het die unieke onderskeiding dat dit 'n grootsirkumpolêre watermassa is wat die Antarktika kontinent geheel en al omring in plaas van die normale definisie van 'n oseaan of see – 'n watermassa wat meestal deur land omring word; die waterring lê tussen 60 grade suid en die kus van Antarktika, en sluit 360 grade van lengtegrade in.
+
+Die definisie is egter nie universeel nie. In Australië word die Suidelike Oseaan op die selfde wyse as deur die IHO gedefinieer, maar sluit dit ook die hele waterliggaam tussen Antarktika en die suidkus van Australië en Nieu-Seeland in, en word dit so op kaarte aangedui. Kuskaarte van Tasmanië en Suid-Australië in besonder dui die gebiede altyd as die Suidelike Oseaan en nooit as die Indiese Oseaan nie.
+
+Kaart wat Australiese definisie van die Suidelike Oseaan Geargiveer 7 September 2008 op Wayback Machine (PDF)
+
+Die Suidelike Oseaan is oseanografies gevorm toe Antarktika en Suid-Amerika uitmekaar beweeg het en die Drakedeurgang oopgemaak is en die Antarktiese Sirkumpolêre Stroom rofweg 30 miljoen jaar gelede gevorm is, wat beteken dat die oseaan baie jonger is as die ander oseane is.
+
+Die hoof smoorpunt is die Drakedeurgang. Die Polêre Front (Antarktiese Konvergensie) is die beste natuurlike definisie van die noordelike uithoek van die Suidelike Oseaan; dit is 'n bepaalde gebied by die middel van die Antarktiese Sirkumpolêre Stroom wat die baie koue oppervlak water in die suide van die warmer water noord daarvan skei; die front en die stroom strek reg rondom Antarktika en bereik suid van 60 grade suid naby Nieu-Seeland en byna 48 grade suid in die verre suidelike Atlantiese Oseaan waar dit saamval met die roete van die maksimum westelike winde.

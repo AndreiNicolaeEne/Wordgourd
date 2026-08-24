@@ -1,0 +1,13 @@
+2. Kai sutartis sudaroma prekybos vietoje ir jos tarpuskaitą atlieka pagrindinė sandorio šalis tokiu būdu, kad sandorio šalis nežino kitos sandorio šalies tapatybės, pranešimą teikianti sandorio šalis kaip kitą sandorio šalį nurodo pagrindinę sandorio šalį.
+
+3 straipsnis Pozicijų duomenų teikimas 1. Duomenys apie įkaitą, kurių reikalaujama pagal priedo 1 lentelę, apima duomenis apie visus pateiktus įkaitus.
+
+2. Jei sandorio šalis netaiko užtikrinimo kiekvieno sandorio lygmeniu, sandorio šalys pateikia sandorių duomenų saugyklai informaciją apie portfelio lygmeniu pateiktą įkaitą.
+
+3. Kai informacija apie įkaitą, susijusį su sutartimi, pateikiama portfelio lygmeniu, pranešimą teikianti sandorio šalis nurodo sandorių duomenų saugyklai kodą, pagal kurį identifikuojamas kitai sandorio šaliai pateikto įkaito, susijusio su sutartimi, apie kurią teikiama informacija, portfelis.
+
+4. Ne finansų sandorio šalys, išskyrus nurodytąsias Reglamento (ES) Nr. 648/2012 10 straipsnyje, neprivalo pateikti informacijos apie sutarčių, nurodytų priedo 1 lentelėje, įkaitą, vertinimą pagal rinkos kainą ar vertinimą pagal modelį.
+
+5. Informaciją apie sutarčių, kurių tarpuskaitą atlieka pagrindinė sandorio šalis, vertinimą pagal rinkos kainą pateikia tik pagrindinė sandorio šalis.
+
+4 straipsnis Pranešimų žurnalas Sandorių duomenų saugyklose registruojamų duomenų pakeitimai saugomi žurnale, kuriame nurodomas pakeitimo paprašęs asmuo ar asmenys, įskaitant pačią sandorių duomenų saugyklą, jei taikoma, taip pat nurodoma tokio pakeitimo priežastis arba priežastys, data ir laiko žyma, pateikiamas aiškus pakeitimų aprašymas, įskaitant seną ir naują atitinkamų duomenų turinį, kaip išdėstyta priedo 2 lentelės 58 ir 59 duomenų laukuose.

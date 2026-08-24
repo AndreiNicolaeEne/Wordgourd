@@ -1,0 +1,5 @@
+Ostali intervali, koji se nazivaju složenim, se mogu formirati po principu „jedna oktava + seksta“, „dve oktave + kvinta“ itd. Imena ovim intervalima se daju po rednim brojevima: oktava + sekunda = nona, oktava + terca = decima, oktava + kvarta = undecima, oktava + kvinta = duodecima itd.
+
+Osim ove podele, postoji i podela intervala po vrsti, jer harmonski svaki od ovih intervala može da bude ostvaren u više varijacija. Sledi lista vrsta intervala:
+
+Čisti, koji mogu biti prima, kvarta, kvinta i oktava

@@ -1,0 +1,13 @@
+2. Il paragrafo 1 non si applica: a) qualora l’OICVM feeder riporti i risultati passati del suo OICVM master a titolo di parametro di riferimento; oppure
+
+b) qualora l’OICVM feeder sia stato lanciato come OICVM feeder ad una data successiva rispetto all’OICVM master, le condizioni di cui all’articolo 19 siano soddisfatte, e per gli anni precedenti l’esistenza dell’OICVM feeder sia riportata una simulazione basata sui risultati passati dell’OICVM master; oppure
+
+c) qualora per l’OICVM feeder siano disponibili risultati passati precedenti la data alla quale esso ha cominciato ad operare come OICVM feeder e i risultati per gli anni interessati siano stati conservati nel diagramma a barre, con l’indicazione del cambiamento sostanziale intervenuto, conformemente all’articolo 17, paragrafo 2.
+
+SEZIONE 5 OICVM strutturati Articolo 36 Scenari di performance
+
+1. Nel documento contenente le informazioni chiave per gli investitori degli OICVM strutturati non figura la sezione «Risultati ottenuti nel passato».
+
+Ai fini della presente sezione, per OICVM strutturati si intendono gli OICVM che forniscono agli investitori, a certe date prestabilite, rendimenti (pay-off) basati su un algoritmo e legati al rendimento, all’evoluzione del prezzo o ad altre condizioni di attività finanziarie, indici o portafogli di riferimento, o OICVM con caratteristiche simili.
+
+2. Per gli OICVM strutturati, la sezione «Obiettivi e politica d'investimento» del documento contenente le informazioni chiave per gli investitori include una spiegazione di come funziona la formula o di come è calcolato il rendimento (pay-off).

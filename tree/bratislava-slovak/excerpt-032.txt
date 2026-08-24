@@ -1,0 +1,15 @@
+Kartová hra je hra, ktorá sa hrá s hracími kartami.
+
+Kartové hry možno rozdeliť do nasledujúcich kategórií:
+
+vynášacie kartové hry: bridž, taroky, whist, ...
+
+zdvihové kartové hry: bridž, whist, mariáš, preferans, spades (piky), sedma, faraón...
+
+vymieňacie kartové hry: kanasta, žolíky, kvarteto, ...
+
+porovnávacie kartové hry: poker, blackjack, oko ...
+
+pasiansy: Klondike, Bakerov solitér, ... iné druhy kartových hier
+
+Kartová hra môže byť aj kombináciou týchto kategórií.

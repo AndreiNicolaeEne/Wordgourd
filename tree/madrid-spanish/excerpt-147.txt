@@ -1,0 +1,19 @@
+La radiación infrarroja, o radiación IR es un tipo de radiación electromagnética, de mayor longitud de onda que la luz visible, pero menor que la de los microondas. Su rango de longitudes de onda va desde unos 0,7 hasta los 1000 μm. La radiación infrarroja es emitida por cualquier cuerpo cuya temperatura sea mayor que 0 K, es decir, −273,15 °C (cero absoluto) .
+
+Por tanto, es invisible para el ojo humano. Por lo general, se entiende que el IR abarca longitudes de onda desde el borde nominal del rojo del espectro visible, alrededor de 700 nm (frecuencia 430 THz), hasta 1 mm (300 GHz) (aunque las longitudes de onda IR más largas suelen designarse más bien como radiación de terahercios). La radiación del cuerpo negro de los objetos cercanos a la temperatura ambiente es casi toda de longitud de onda infrarroja. Como forma de radiación electromagnética, la radiación infrarroja propaga energía y momento, con propiedades que corresponden a la dualidad onda-partícula de una onda y de una partícula, el fotón.
+
+La radiación infrarroja fue descubierta en 1800 por el astrónomo Sir William Herschel, quien descubrió un tipo de radiación invisible en el espectro de menor energía que la luz roja, mediante su efecto en un termómetro. Finalmente se comprobó que algo más de la mitad de la energía total del Sol llega a la Tierra en forma de infrarrojos. El equilibrio entre la radiación infrarroja absorbida y emitida tiene un efecto crítico en el clima de la Tierra.
+
+Intervalo es la distancia, en términos de altura, entre dos notas musicales o sonidos cualesquiera. En general suelen medirse según las notas de una escala incluyendo los extremos. Por ejemplo, entre re y fa, hay una tercera si se cuenta de manera ascendente, o bien por la diferencia de tonos y semitonos. Una quinta justa es un intervalo de siete semitonos que se miden en un teclado.
+
+Los primeros trabajos teóricos conocidos son los de Aristóxeno de Tarento, quien se basó en un método tanto empírico como matemático, a diferencia de las especulaciones filosóficas y matemáticas de Pitágoras.
+
+Antiguamente se empleaba para su enseñanza un instrumento llamado monocordio. El cálculo matemático de las frecuencias de los sonidos e intervalos musicales fue estudiado en el siglo XVI por Simon Stevin mediante funciones exponenciales. Durante el siglo XVII, los investigadores Francesco Cavalieri y Juan Caramuel aplicaron el cálculo logarítmico.
+
+En el siglo XIX, Hermann Helmholtz construyó los resonadores que hoy llevan su nombre, posteriormente utilizados para demostrar que todos los sonidos son por naturaleza complejos y consisten en una serie de sonidos concomitantes o armónicos naturales en intervalos que son iguales a los demostrados por el monocordio.
+
+Los intervalos pueden describirse, clasificarse o compararse entre sí según diversos criterios.
+
+Un intervalo puede describirse como: Simple: si no abarca más de una octava.
+
+Compuesto: si abarca más de una octava. Los intervalos compuestos son análogos a los intervalos simples correspondientes, ya que pueden obtenerse añadiendo una o más octavas a un intervalo simple. Así, una novena es una segunda a la octava y puede ser mayor o menor; una duodécima es análoga a una quinta y puede ser justa, aumentada o disminuida.

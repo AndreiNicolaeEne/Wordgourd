@@ -1,0 +1,3 @@
+Cele 12 Zhōngqì împart orbita eliptică a pământului în 12 părți, fiecare parte având 30°, unde cele 2 solstiții și cele 2 echinocții sunt 4 Zhōngqì din cele 12 Zhōngqì. Perioada medie de timp dintre două Zhōngqì corespunde cu 1/12 dintr-un an tropical, respectiv 30,43685 zile și este ceva mai lung ca luna sinodică mijlocie de 29,53059 zile.
+
+Dificultatea calculării calendarului chinez se datorează faptului că acesta nu ia în considerare valorile medii, ci se bazează pe datele astronomice exacte ale poziției lunii și soarelui.

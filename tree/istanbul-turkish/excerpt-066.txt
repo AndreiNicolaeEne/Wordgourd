@@ -1,0 +1,9 @@
+Bu papirüs MÖ 1580 tarihinden önce yazılmıştır, b tabanlı ve h yükseklikli ikiz kenar üçgenin alanının bh/2 olduğu verilmiştir.
+
+Yine aynı papirüste d çaplı bir dairenin alanının (d-d/9)2yazımına eş değer olduğu yazılmıştır. Bu yazımlara göre pi sayısı yaklaşık olarak 3,1605 dolaylarındadır. Bu formül geometrik şekilden yaklaşık olarak elde edilmiştir.
+
+Bu formülün tabletlerde de olduğu söylenmektedir. Çin'in yerli geometrisi de gelişkin örnekler içerir. MÖ 1100 yıllarında yazıldığı sanılan Çinlilerin ünlü Nine Sections (Dokuz Bölüm) kitabında dik açılı üçgen ve ispatsız olarak Pisagor teoremi vardır. Daha sonraki Çin geometrilerinde ölçümleri içeren çok zeki buluşlar vardır. Yine geometrik görünümle Pisagor teoreminin ispatı yapılmıştır. Bu geometrik şekille verilen kitabın MÖ 2000 yıllarında yazıldığı sanılıyor.
+
+Hintlerin yerli geometrilerinde de matematiksel bir ispat yoktur. Daha çok görsel ve deneysel ölçülere dayanan kuralları vardır. Bunlar da o kadar ileri bir geometri oluşturmaz. Bin yıllık bir süre boyunca kullanılan Yunan geometrisi ise daha çok görseldir. Eski Roma geometrisi daha çok kullanım alanlarına yöneliktir.
+
+Arazi ölçümleri, şehir yerleşimleri, su kanalları ve savaş sanatında geometriyi Romalılar iyi kullanmışlardır. Fakat bunlar görsel geometriyi fazla kullanmamışlardır. Zaten görsel geometrinin kökeni Yunanistan'da başlamıştır. Bu çalışmalar ilk kez Thales'in (MÖ 600) yapıtlarında görülür. Thales bu teoremleri Mezopotamya'da ve Mısır'da kullandıklarını görür. Altı teoremle önderlik eder ve bu teoremlerin ispatını yapar. Matematikte ispat yapma Thales'le başlamıştır. Thales'in bu ispatları zamanla kaybolmuş ama ondan sonra bunları öğrenenler gelecek kuşaklara aktarmıştır. Bin yıl süren bu görsel Yunan geometrisi zamanla gerilemiş ve yeni bir çalışma getirilmemiştir.

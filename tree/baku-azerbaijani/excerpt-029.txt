@@ -1,0 +1,27 @@
+İnformasiya və yaxud məlumat (ing. information, rus. информация, türk. bilgi) — verilənlərdə insanların gördüyü mahiyyət, qiymət. Adətən, verilənlər faktlardan ibarət olur ki, onlar da müəyyən konteksdə informasiyaya çevrilir və insanlara aydın olur. Kompüterlər verilənlərin mahiyyətini anlamadan onları emal edir.
+
+Çox zaman "verilən" və "informasiya" terminləri sinonim kimi işlənsə də, onlar arasında müəyyən fərq var. Verilənlər (data) hər hansı məlumatlardır və onların mənasının olub-olmamasının elə bir önəmi yoxdur. Məsələn, kompüterdə '19091985' və ya 'VD51FGD' simvollar sətri verilənlərdir. İnformasiya isə mənası olan verilənlərdir. Siz simvollar yığınının nə ifadə etdiyini bilirsinizsə, o, informasiya olur. Məsələn, '19091985' hər hansı malın kodu, yaxud kiminsə doğum tarixi (19 sentyabr 1985) ola bilər. Onun mənasını bildikdə o, sizin üçün informasiyaya çevrilir.
+
+Təbiətdə və cəmiyyətdə bizi əhatə edən obyektlər, hadisələr, onların xassələri, qarşılıqlı münasibətləri haqqında məlumatlar yığımı olub, onlara dair bilikləri çoxaltmaq məqsədi daşıyır.
+
+Aşağıdakı növlərə malikdir: Məntiqi Ədədi
+
+Mətn Audio Qrafiki Video Multimedia Göstərici
+
+İnformasiya təbiətde siqnallar şəklində ötürülür və iki tipə ayrılır: analoq və rəqəmli. 465 hissiyyat üzvlərinə görə analoq, kompüterlər isə rəqəmli informasiyaların köməyilə fəaliyyət göstərir.
+
+Informasiyanın istifadəyə yararlı olması üçün aşağıdakı şərtlər ödənilməlidir (informasiyanın xüsusiyyətləri):
+
+tam (tam şəkildə təsvir olunmalıdır); düzgün (həqiqi situasiyanı əks etdirməlidir);
+
+qiymətli (maksimum az məsrəflə əldə edilməlidir)
+
+Üzvi kimya — tərkibində karbon atomu olan kimyəvi birləşmələri öyrənən bir elmdir. Üzvi kimya canlı aləmdə (bitki, heyvan, insan) yayılmış karbon atomunun digər 2 elementlərlə əmələ gətirdiyi birləşmələri öyrənən bir elimdir. Üzvi birləşmələri əmələ gətirən əsas dörd elementdir (O, H, N, C).
+
+Üzvi kimya karbohidrogenləri və onların törəmələrini, yəni karbon əsaslı birləşmələri öyrənən kimya sahəsidir. Üzvi kimya maddələrin quruluşunu, xüsusiyyətlərini, reaksiyalarını və sintez yollarını araşdırır. Aşağıda üzvi kimyanın əsas aspektləri və sahələri haqqında məlumat verilmişdir:
+
+Üzvi kimyanın əsas xüsusiyyətləri Karbonun unikal rolu: Üzvi kimyada əsas element karbon atomudur. Karbon atomları öz aralarında və digər elementlərlə (hidrogen, oksigen, azot, kükürd, halogenlər və s.) sabit kovalent əlaqələr yarada bilir. Bu xüsusiyyət karbon birləşmələrinin müxtəlifliyini və mürəkkəbliyini təmin edir.
+
+Karbohidrogenlər: Üzvi kimyanın təməlini təşkil edən ən sadə karbon birləşmələri karbohidrogenlərdir. Karbohidrogenlər yalnız karbon və hidrogen atomlarından ibarətdir. Karbohidrogenlər iki əsas kateqoriyaya bölünür:
+
+Alkanlar: Sadə düzülüşlü karbohidrogenlər (doymuş).

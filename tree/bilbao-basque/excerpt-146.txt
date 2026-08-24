@@ -1,0 +1,19 @@
+Beranduago, Alexander Calderek haizearen bidez mugitzen ziren eskulturak sorrarazi zituen, metalezko pieza txikiak alanbre baten bidez elkar loturik daudelarik. Izan ere, 1954an arte zinetikoa adierazpena modu ohikoago batean erabitzeari ekin zioten horrelako eskulturak izendatzeko, haizearen, gizakien edo bestelako mugimenduaren biden eraginez mugitzen direnak, hain zuzen ere. Hala ere, terminoa 1920an sortu eta lehenengo aldiz erabili zen Naum Gaboren Manifestu Errealistan, bere lehen obra zinetikoa sorrarazi zuen garaian, hain zuzen ere.
+
+Arte zinetikoa oso erabilia izan zen 1960ko hamarkadaren erdialdetik, 1970eko hamarkadaren erdialdera arte. Bauhaus Eskolaren bitartez ezarri zen guztiz arte plastikoen ikaskuntzan eta panoraman, diseinu modernoaren hezkuntzan ezinbestekoa bilakatuz.
+
+Haren sorreraren oinarriak teknologiaren eta zientzia optiko zein matematikoen garaiko hobekuntza dago. Hortaz erlazio zuzena du hauen hobekuntza eta erabilpenarekin.
+
+Hortaz, gaur egun, arte zinetikotzat hartzen da ikuslearen mugimendua eskatzen dituzten obrak. Mugimendua modu desberdinen bidez sor daiteke: efektu optikoen bidez, ikuspuntuaren arabera, argiak eraginda, etab.
+
+Obrek eragiten duten mugimenduaren arabera arte zinetiko mota desberdinak desberdindu daitezke:
+
+Egonkorrak: obra hauek elementu finkoak dituzte, horregatik ikusleak honen inguruan mugitu behar dira mugimendua ikusteko
+
+Higikorrak: mugimendu erreala adierazten duten faktore desberdinek eraginda, egitrua denbora guztian aldatuz
+
+Barneragarriak: espazio erreal batean dagoen egitura da, zeinetan ikusleak sartu behar diren mugimendua ikusteko bera mugitzen den bitartean
+
+Simetria forma geometrikoen, sistemen, ekuazioen eta beste objektu materialen edo entitate abstraktuen ezaugarri bat da, eraldaketa, mugimendu edo truke jakin batzuen azpian duten aldaezintasunari lotuta dagoena. Termino formaletan, objektu bat eragiketa matematiko jakin baten aldean, simetrikoa dela esaten dugu, baldin eta objektuari aplikatzen zaionean eragiketa horrek objektua edo itxura aldatzen ez duen. Eragiketa-multzo jakin bati dagokionez, bi objektu elkarren simetrikoak dira beste batetik lortzen badira eragiketa batzuen bidez (eta alderantziz). 2D geometrian, interesgarri diren simetria-klase nagusiak espazio euklidear baten isometriei dagozkienak dira: translazioak, biraketak, islapenak eta irristatze islapenak.
+
+Operazio matematikoan oinarritzen bagara, objektu bat simetrikoa da operazioa aplikatu ondoren objektuak eta bere itxurak aldaketarik gabe jarraitzen dutenean.

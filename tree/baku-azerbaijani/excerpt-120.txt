@@ -1,0 +1,13 @@
+Qar — çox kiçik buz kristallarından ibarət atmosfer yağıntısı. Qar havanın temperaturu buludda 0 °C-dən aşağı olduqda yaranır. Yerə enməsi 4 °C tempuraturdan aşağı olduqda baş verir.
+
+Lopa qar: Durğun havada, çox soyuq olmayan mühitdə birləşən qar dənələrinin diametri 1 cm-ə yaxınlaşar. İri dənələr halında yağır.
+
+Sulu qar: Atmosferin üst qisimlərində çox soyuq olmayan havada su və buzdan ibarət olan qar dənələri, yerə yaxın sahələrdə artan istilikdən ötəri əriyirlər. Ərimə ilə yağış və ya qarla qarışıq yağış meydana gələr.
+
+Düyü qar: Normal qar dənələrindən kiçik, yumru, sərt dənəciklərdir. Üzəri incə bir buz təbəqəsi ilə örtülü olan dənələr yerə sürətli düşüb sıçrayır.
+
+Quru qar: Həddindən artıq soyuq və nəm nisbətinin aşağı olduğu hava şəraitində, diametri 1 mm-dən kiçik qar kristalları əmələ gəlir. Yerdə incə bir qar təbəqəsi meydana gətirən qar dərhal əriməz və ətrafı islatmaz.
+
+Boran: Qar yağıntısının, 56 km/s sürətə çatan küləklə birlikdə meydana gəldiyi vəziyyətdir. Görüntü məsafəsi azalar , gediş çətinləşər.
+
+Qar, havanın soyuq olduğunu göstərir. Ancaq qar yağdığı üçün hava soyuq olmur, əksinə qar soyuğu azaldır. Bunu belə izah etmək olar: Bir qram maddənin əriməsi üçün lazım olan istiyə o maddənin "ərimə istiliyi" deyilir. Buz, su halına gələnə kimi qram başına 80 kalori isti qəbul edir. Bu, buzun ərimə istiliyidir. Su buz halına gəlmək üçün ərimə istiliyini verir və hər bir qram suyun donub qar kristalı halına gəlməsi əsnasında atmosferə 80 kalori verilir. Bu hesaba görə, 10 ton qarla atmosferə verilən istilik, 100 kilo yaxşı növ mədən kömürünün yanması ilə verdiyi istiliyə bərabərdir. Bunun hesablaması sadədir: 10 ton = 10.000.000 qram. Bu qədər suyun qar halına çevrilərkən atmosferə verdiyi istilik = 10.000.000 x 80 kalori = 800.000.000 kalori. Bir qram yaxşı növ mədən kömürünün yanması ilə verdiyi istiliyin 8.000 kalori olduğu nəzərə alınarsa, on ton suyun qar halına gələrkən verdiyi istilik, 800.000.000 / 8.000 = 100.000 qram = 100 kiloqram yaxşı növ mədən kömürünün verdiyi istiliyə bərabər olur.

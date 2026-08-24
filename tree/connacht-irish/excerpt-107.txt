@@ -1,0 +1,23 @@
+Tá cuma héilics dhúbailte ar an ADN. Péire núicléitídí is ea gach céim den dréimire.
+
+Tá na núicléitídí déanta de na heilimintí a leanas:
+
+dí-ocsairiobós, saghas siúcra le cúig adamh carbóin,
+
+grúpa fosfáite agus é déanta d’fhosfar agus d’ocsaigin, agus
+
+bun nítrigineach Ceithre chineál núicléitídí atá i nADN:
+
+adainín (A) tímín (T) cíotóisín (C) guainín (G)
+
+Adainín (A) Guainín (G) Cíotóisín (C) Tímín (T)
+
+Bíonn na tointí seo leagtha amach taobh le chéile mar a bheadh dréimire ann, ach an dréimire casta ina héilics, an déhéilics mar a thugtar uirthi, agus naisc idir fo-aonaid cheimiceacha ar leith ar na tointí, ar a dtugtar bun-núicléitídí, ag feidhmiú mar na rungaí ar an dréimire casta. Níl ach ceithre cinn de na núicléitídí seo sa DNA: na púiríní, adainín (A) is timín (T), agus na pirimidíní, cíotóisín (c) is guainín (G).
+
+Ní féidir ach na naisc A-T is C-G (bunphéirí a thugtar orthu seo) a bheith idir na tointí, agus mar sin bíonn an dá thointe ina gcóipeanna scáthánacha nó inbhéartaithe dá chéile, an A i gceann amháin os comhair T sa cheann eile, is C i dtointe amháin i gcónaí os comhair G sa tointe eile.
+
+Is é ord na núicléitídí a litríonn na géinte agus a chinneann na treoracha i gcill ar bith chun feidhmeanna na cille a rialú is atáirgeadh na cille a chur chun tosaigh.
+
+Tá rungaí an dréimire déanta de dhá bhun agus bun amháin ceangailte de gach cos. Tagann na bunanna le chéile sa lár: péireáiltear A agus T agus péireáiltear C agus G. Tá na bunanna ceangailte dá chéile ag naisc hidrigine.
+
+Déanann adainín agus tímín dhá nasc hidrigine, agus déanann cíotóisín agus guainín trí nasc hidrigine. Tá na bunanna ina bpéirí buana ach tig leis na péirí a bheith ann in ord ar bith (A-T nó T-A, C-G nó G-C). Is féidir leis an ADN, mar sin, cóid a dhéanamh de na litreacha sna bunanna chun treoir a thabhairt don chill.

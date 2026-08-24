@@ -1,0 +1,13 @@
+5. pants Savlaicīgums Saskaņā ar 3. panta 1. un 2. punktu sniegto statistisko informāciju NCB nosūta ECB tās 15. darbdienas darba laika beigās, kas seko mēnesim, uz kuru šī informācija attiecas. NCB lemj par to, kad tām nepieciešams saņemt informāciju no pārskatu sniedzējiem, lai ievērotu šo termiņu.
+
+6. pants Grāmatvedības noteikumi statistikas pārskatu sniegšanas mērķiem
+
+1. Ņemot vērā 2. un 3. punktu, sniedzot pārskatus saskaņā ar šo regulu, PŽI ievēro Padomes 1986. gada 8. decembra Direktīvas 86/635/EEK par banku un citu finanšu iestāžu gada pārskatiem un konsolidētajiem pārskatiem (5) nacionālajā transpozīcijā, kā arī citos piemērojamos starptautiskos standartos noteiktos grāmatvedības noteikumus.
+
+2. Par noguldījumu saistībām un kredītiem sniedz datus par mēneša beigās neatmaksāto nominālvērtību. Noguldījumu saistību un kredītu neto norēķinu pret jebkuriem citiem aktīviem vai pasīviem neveic.
+
+3. Neskarot euro zonas dalībvalstīs dominējošo grāmatvedības praksi un neto atlikumu aprēķināšanas kārtību, statistikā par visiem finanšu aktīviem un pasīviem datus sniedz, ievērojot bruto principu.
+
+4. Par kredītiem, attiecībā uz kuriem veikti uzkrājumi, NCB var ļaut sniegt datus, atskaitot uzkrājumus, bet par nopirktajiem kredītiem NCB var ļaut sniegt datus to iegādes laika cenās ar nosacījumu, ka šādu pārskatu sniegšanas praksi piemēro visiem rezidentu pārskatu sniedzējiem.
+
+7. pants Pārbaude un piespiedu vākšana NCB realizē tiesības pārbaudīt vai vākt piespiedu kārtā informāciju, kas pārskatu sniedzējiem jāsniedz saskaņā ar šo regulu, neierobežojot ECB tiesības pašai īstenot šādas tiesības. Šīs tiesības NCB jo īpaši īsteno, ja faktiskie pārskatu sniedzēji neievēro šīs regulas III pielikumā noteiktos datu nosūtīšanas, precizitātes, konceptuālās atbilstības un labojumu obligātos standartus.

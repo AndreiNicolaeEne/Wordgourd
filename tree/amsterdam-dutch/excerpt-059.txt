@@ -1,0 +1,3 @@
+De fysische chemie is in verschillende deelgebieden onderverdeeld. De belangrijkste zijn theoretische chemie, thermodynamica, kinetiek, spectroscopie en elektrochemie.
+
+In de theoretische chemie tracht men met behulp van wiskunde of computersimulaties en -berekeningen de eigenschappen van afzonderlijke moleculen of macroscopische hoeveelheden van stoffen te voorspellen. De kwantummechanica levert de basisbeginselen voor het begrip van de opbouw van de materie en van de chemische binding, terwijl de statistische thermodynamica geen verband met de macroscopische thermodynamica levert.

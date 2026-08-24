@@ -1,0 +1,15 @@
+Artikolu 2 Tranżazzjonijiet ikklerjati 1. Meta kuntratt eżistenti jiġi sussegwentement ikklerjat minn CCP, l-ikklerjar għandu jiġu rrapportat bħala modifika tal-kuntratt eżistenti.
+
+2. Meta kuntratt jiġi konkluż f’ċentru tan-negozjar u jiġi kklerjat minn CCP b’mod li kontroparti ma tkunx konxja mill-identità tal-kontroparti l-oħra, il-kontroparti li tirrapporta għandha tidentifika lis-CCP bħala l-kontroparti tagħha.
+
+Artikolu 3 Rapportar tal-iskoperturi 1. Id-dejta dwar il-kollateral meħtieġ skont it-Tabella 1 tal-Anness għandha tinkludi kull kollateral depożitat.
+
+2. Meta kontroparti ma tikkollateralizzax fuq bażi ta’ livell ta’ tranżazzjoni, il-kontropartijiet għandhom jirrapportaw lil repożitorju tat-tranżazzjonijiet il-kollateral depożitat fuq bażi ta’ portafoll.
+
+3. Meta l-kollateral relatat ma’ kuntratt jiġi rrappurtat fuq bażi ta’ portafoll, il-kontroparti li tirrapporta għandha tirrapporta lir-repożitorju tat-tranżazzjonijiet kodiċi li jidentifika l-portafoll tal-kollateral depożitat lill-kontroparti l-oħra relatata mal-kuntratt rapportat.
+
+4. Kontropartijiet nonfinanzjarji minbarra dawk imsemmija fl-Artikolu 10 tar-Regolament (UE) Nru 648/2012 mhumiex meħtieġa jirrapportaw il-kollateral, il-valwazzjoni skont is-suq, jew il-valwazzjoni skont mudell tal-kuntratti msemmija fit-Tabella 1 tal-Anness.
+
+5. Għal kuntratti kklerjati minn CCP, valwazzjoni skont is-suq għandha tingħata biss mis-CCP.
+
+Artikolu 4 Reġistru tar-rapportar Modifiki għad-dejta reġistrata fir-repożitorji tat-tranżazzjonijiet għandhom jinżammu f’reġistru li jidentifika l-persuna jew persuni li talbu l-modifika, inkluż ir-repożitorju tat-tranżazzjonijiet innifisu jekk applikabbli, ir-raġuni jew ir-raġunijiet għal tali modifika, data u kronogramma u deskrizzjoni ċara tal-bidliet, inkluż il-kontenut l-antik u l-ġdid tad-dejta rilevanti kif stabbilit fil-kaxxi 58 u 59 tat-Tabella 2 tal-Anness.

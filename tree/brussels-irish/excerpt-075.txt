@@ -1,0 +1,9 @@
+“3. Féadfaidh na húdaráis inniúla nósanna imeachta simplithe maidir le fógraí réamh-onnmhairiúcháin a chur i bhfeidhm i gcás ina bhfuil siad sásta nach mbeidh aon bhaol ann mar thoradh air sin maidir le hatreorú substaintí sceidealaithe. Tabharfar de chumhacht don Choimisiún gníomhartha tarmligthe a ghlacadh i gcomhréir le hAirteagal 30b chun nósanna imeachta den sórt sin a chinneadh agus chun na comhchritéir atá le cur i bhfeidhm ag na húdaráis inniúla a bhunú.”;
+
+“Ní bheidh onnmhairithe substaintí sceidealaithe a liostaítear i gCatagóir 3 den Iarscríbhinn faoi réir údarú onnmhairiúcháin, áfach, ach amháin i gcás inar gá fógraí réamh-onnmhairiúcháin.”;
+
+“In iarratas ar údarú onnmhairiúcháin i dtaca le honnmhairithe substaintí sceidealaithe a liostaítear i gCatagóir 4 den Iarscríbhinn, beidh an fhaisnéis a leagtar amach i bpointe (a) go pointe (e) den chéad fhomhír ann.”;
+
+Féadfaidh na húdaráis inniúla nósanna imeachta simplithe a chur i bhfeidhm chun údarú onnmhairiúcháin a dheonú i gcás ina bhfuil siad sásta nach mbeidh aon bhaol ann maidir le hatreorú substaintí sceidealaithe dá thoradh sin. Tabharfar de chumhacht don Choimisiún gníomhartha tarmligthe a ghlacadh i gcomhréir le hAirteagal 30b chun nósanna imeachta den sórt sin a chinneadh agus chun na comhchritéir atá le cur i bhfeidhm ag na húdaráis inniúla a bhunú.”;
+
+“Os a choinne sin thall, i gcás ina ndéantar na substaintí dá dtagraítear sa chéad mhír a dhíluchtú nó a thrasloingsiú, faoi stóráil shealadach, a stóráil i saorchrios de chineál rialaithe I nó a stóráil i saorstóras, nó a chur faoi nós imeachta idirthurais eachtrach an Aontais, ní éileofar údarú allmhairiúcháin den sórt sin.”;

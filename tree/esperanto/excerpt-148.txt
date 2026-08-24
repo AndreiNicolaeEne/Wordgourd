@@ -1,0 +1,13 @@
+La likvoj montras surfacan tension kaj kapilarecon, ĝenerale dilatiĝas kiam oni plialtigas ties temperaturon kaj perdas volumenon kiam ili malvarmiĝas, kvankam submetitaj al kunpremado ties volumeno estas tre malmulte variebla diference disde tio kio okazas ĉe aliaj fluidaĵoj kiel la gasoj. La objektoj enmetitaj en iu likvo estas submetitaj al fenomeno konata kiel floseblo.
+
+Se likvo restas en unuforma gravito, la premo je iu ajn punkto estas:
+
+kie estas la denso de la likvo (supoze konstanta) kaj estas la profundo de la punkto sub la supraĵo. Temas pri la hidrostatika premo. En senmova likvo submetita al la gravito, en ajna punkto de ties interno ekzistas premo samvalora al ĉiuj flankoj, tiel kiel estas establita en la principo de Pascal. En dummova likvo la premo ne necese estas izotropa, ĉar la hidrostatika premo aldoniĝas al la hidrodinamika premo kiu dependas de la rapideco de la fluidaĵo en ĉiu punkto.
+
+En sengravita medio (en kosmoesploroj) likvo formas globon, nome guton, pro sia surfaca tensio, se ne ekzistas alia kontraŭa ekstera forto. Por ekzemplo, guto da akvo en libera falo prenas sferan formon. Tiu fenomeno estas uzata ankaŭ surtere, ekzemple por produkti plumban grajnaĵon per faligo de fandita plumbo.
+
+Sub influo de gravito aŭ alia premo, likvo prenas la formon de sia ujo:
+
+Faruno en akvo Blanka vino Lakto Eroj de likvaĵo nomiĝas gutoj.
+
+En taŭgaj kondiĉoj de temperaturo kaj premo, la majoritato de la substancoj povas ekzisti en likva stato. Kiam iu likvo surpasas sian bolpunkton, ĝi ŝanĝas sian staton al gasa, kaj kiam ĝi atingas sian frostopunkton, ĝi ŝanĝas al solido. Kvankam je atmosfera premo, tamen, kelkaj solidoj sublimiĝas kiam ili plivarmiĝas; tio estas, ili pasas rekte de la solida stato al la gasa stato (vidu vaporadon). La denseco de la likvoj kutime estas iom pli malgranda ol la denseco de la sama substanco en solida stato. Kelkaj substancoj, kiel akvo ekzemple, estas pli densaj en likva stato.

@@ -1,0 +1,11 @@
+Simetría reflectiva o simetría especular que se caracteriza pola esistencia d'un únicu planu, matemáticamente ta acomuñáu al grupu O(1) o la so representación equivalente . En dos dimensiones tien una exa de simetría y en tres dimensiones tien un planu. La exa de simetría d'una figura bidimensional ye una llinia, si constrúi una perpendicular, cualquier puntu que reposee nesta perpendicular a la mesma distancia de la exa de simetría son idénticos. Otra manera de velo ye que si la forma doblar pola metá sobre la exa, los dos metaes seríen iguales. Por casu, un cuadráu tien cuatro eje de simetría, yá que hai cuatro formes distintes de doblar faciendo que los sos cantos coincidan. Un círculu tendría infinites exes de simetría pola mesma razón.
+
+Simetría traslacional dase cuando'l tresformamientu dexa invariable a un oxetu so un grupu de traslaciones discretes o continues. El grupu ye discretu si la invariancia namái se da pa un númberu numerable de valores de a y continuu si la invariancia presentar pa un conxuntu infinitu non numerable de valores de a en casu contrariu.
+
+Dellos tipos de simetría que combinen dos o más de los anteriores tipos son:
+
+Simetría antitraslacional qu'implica una reflexón nuna llinia o planu combináu con una traslación a lo llargo d'esi mesma exa. El grupu de simetría ye isomorfu a .
+
+Simetría de rotorreflexión o simetría de rotación impropia, implica rotación al rededor d'una exa combinada con reflexón nuna exa perpendicular al de rotación.
+
+Simetría helicoidal implica un movimientu de rotación en redol a una exa dada con un movimientu de traslación a lo llargo d'esi mesma exa. Puede ser de tres clases:

@@ -1,0 +1,19 @@
+Pep moneiz en devez ur moneiz-rannañ, a dalv 1/100 ar moneiz-pennañ : 100 cent = 1 dollar, 100 cent pe santim = 1 euro, 100 penny = 1 lur sterling. Unanennoù a 1/10 pe a 1/1000 a zo anezho ivez. Nebeud broioù evel Maoritania, Madagaskar ha Ginea a chom en diavaez diouzh ar sistem a-zegoù.
+
+Kodet eo bep moneiz gant tri lizher, ar reolad ISO 4217 an hini eo : an daou gentañ a zaved d'e stad hag an hini diwezhañ d'e lizherenn-dal. Gant se eo an dollar amerikan hag an dollar c'hanadian kodet USD (US=United States, D=dollar) ha CAD (CA=Canada), al lur breizhveurat GBP (GB=Great Britain, P=pound). Un direolder eo an euro kodet EUR peogwir ez eus meur a stad ennañ.
+
+Diamrezet int aet da vezañ ablamour d'ar reolad ISO 4217. Un nebeud arouezioù a vezer graet ganto koulskoude :
+
+$ - an Dollar ¥ - ar Yen e Japan € - an Euro, moneiz Unaniezh armerzhel Europa
+
+£ - al Lur sterling (pound), moneiz ar Rouantelezh Unanet
+
+An trokerezh a oa ur seurt eskemm hep moneiz, pe gant ar madoù o-unan e plas ar moneiz. Simplik a-walc'h e oa ar seurt kenwerzh. Da luziata an eskemmoù hag an talvoudegezhioù e voe implijet ur moneiz, pe stumm bennak e vefe, evit dont a-benn da gerwerzhañ muioc'h ha gwelloc'h.
+
+Forzh petra a c'hall bezañ ur moneiz evit gwir. Estreget ar metal prizius (aour, arc'hant, kouevr...) e voe implijet kalz dafarennoù all evel moneiz en istor :
+
+troc'hadoù maen toullet, en inizi Yap, c'hoazh implijet hiziv an deiz
+
+en uheldirioù Ginea-Nevez e veze implijet istr : ar re "gKina", hanterloar o stumm, livet a-wechoù. Tennañ a ra ar vro he anv deuzhouto. Skeudennet int war bilhedoù bank ar vro.
+
+dilhadoù mouchoueroù gwalennoù dent loened : dent chas, dent koleoù-mor, dent c'hwezhered braz, dent delfined, dent moc'h, dent wapitied

@@ -1,0 +1,3 @@
+Résistor inggih punika komponèn èlèktronik kalih saluran ingkang dipundesain kanggé nahan arus listrik, kanthi mrodhuksi mandhapipun tegangan listrik ing antawisipun kalih saluran, miturut kaliyan arus ingkang mili ing résistor, manut kaliyan hukum Ohm:
+
+Résistor dipun-ginakaken minangka pérangan saking jejaring èlèktronik lan sirkuit èlèktronik, lan kalebet salah satunggalipun komponèn ingkang asring dipun-ginakaken. Résistor saged dipundamél saking manéka warni komponèn lan filem, ngantos kawat résistansi (kawat ingkang dipundamel saking paduan résistivitas ingkang inggil kados nikel-kromium).

@@ -1,0 +1,19 @@
+(3) A gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkatrészeinek és önálló műszaki egységeinek jóváhagyásáról (keretirányelv) szóló, 2007. szeptember 5-i 2007/46/EK európai parlamenti és tanácsi irányelvet (3) ezért ennek megfelelően módosítani kell.
+
+(4) Az e rendeletben előírt intézkedések összhangban vannak a „Műszaki Bizottság - Gépjárművek” elnevezésű bizottság véleményével,
+
+ELFOGADTA EZT A RENDELETET: 1. cikk Alkalmazási kör
+
+Ez a rendelet azon M1 kategóriájú járművekre vonatkozik, amelyek megfelelnek az alábbi követelményeknek:
+
+- kézi sebességváltóval vannak ellátva, és
+
+- referenciatömegük nem haladja meg a 2 610 kg-ot, vagy a típusjóváhagyást a 715/2007/EK rendelet 2. cikkének (2) bekezdése szerint kiterjesztették rájuk.
+
+Ez a rendelet nem vonatkozik a 715/2007/EK rendelet 3. cikke (2) bekezdésének c) pontjában meghatározott „különös szociális igények teljesítésére tervezett járművekre”.
+
+2. cikk Fogalommeghatározások E rendelet alkalmazásában a következő fogalommeghatározásokat kell alkalmazni a 661/2009/EK rendeletben megadott fogalommeghatározások mellett:
+
+1. „járműtípus a sebességváltás-jelző tekintetében”: olyan járművek csoportja, amelyek a sebességváltás-jelzők funkcionális jellemzői és a sebességváltás-jelzőknek a sebességváltási pont kijelzésének meghatározására szolgáló logikája tekintetében nem különböznek egymástól. Példák a különböző működési logikákra (nem kimerítő felsorolás):
+
+2. „a sebességváltás-jelző funkcionális jellemzői”: egy sor bemeneti paraméter, mint például a sebességváltás-jelző által jelzett sebességfokozatot meghatározó motorfordulatszám, energiaigény, nyomaték és ezek időbeli változása, valamint az, hogy a sebességváltás-jelző által adott jelzések funkcionálisan hogyan függenek ezektől a paraméterektől;

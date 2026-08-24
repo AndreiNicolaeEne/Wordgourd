@@ -1,0 +1,13 @@
+a) de gegevens beschreven in tabel 1 van de bijlage, die informatie over de tegenpartijen bij een contract bevat;
+
+b) de informatie beschreven in tabel 2 van de bijlage, die gegevens over het tussen de beide tegenpartijen gesloten derivatencontract bevat.
+
+2. Voor de toepassing van lid 1 wordt onder sluiting van een contract „verrichten van een transactie” verstaan als bedoeld in artikel 25, lid 3, van Richtlijn 2004/39/EG van het Europees Parlement en de Raad (4).
+
+3. Wanneer namens beide tegenpartijen één rapport wordt ingediend, bevat het de in tabel 1 van de bijlage beschreven informatie over elk van de tegenpartijen. De in tabel 2 van de bijlage beschreven informatie wordt slechts eenmaal ingediend.
+
+4. Wanneer namens beide tegenpartijen één rapport wordt ingediend, wordt dat feit in het rapport vermeld zoals aangegeven in veld 9 van tabel 1 van de bijlage.
+
+5. Wanneer de ene tegenpartij namens de andere tegenpartij de gegevens over een contract aan een transactieregister rapporteert of wanneer een derde entiteit namens één of beide tegenpartijen een contract aan een transactieregister rapporteert, bevat de gerapporteerde informatie de volledige reeks gegevens die zouden zijn gerapporteerd indien elke tegenpartij het contract afzonderlijk aan het transactieregister had gerapporteerd.
+
+6. Wanneer een derivatencontract kenmerken vertoont die typisch zijn voor meer dan één van de in tabel 2 van de bijlage vermelde klassen van onderliggende activa, wordt in het rapport de activaklasse aangegeven waarover beide tegenpartijen het eens zijn dat het contract het meest daarop lijkt voordat het rapport aan een transactieregister wordt toegezonden.

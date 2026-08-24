@@ -1,0 +1,13 @@
+Rozdanie Každý hráč dostane dve karty, ktoré vidí iba on. Cieľom hry je skombinovať tieto karty s ďalšími piatimi postupne vykladanými kartami, ktoré sú spoločné pre všetkých hráčov pri stole. Hráč s najlepšou kombináciou kariet vyhráva bank.
+
+Prvé kolo stávok Prebieha ihneď po rozdaní. Malý a veľký blind sú povinné stávky, po nich nasledujú dobrovoľné stávky ostatných hráčov. Začína ten, kto sedí ako prvý za veľkým blindom na pozícii UTG. Má na výber 3 možnosti:
+
+Dorovnať (call) – dorovná veľký blind Zvýšiť (raise) – zvýši pôvodnú stávku (veľký blind)
+
+Zložiť (fold) – zahodí svoje karty a ďalej v hre už vystupovať nebude
+
+Ďalší hráč má rovnaké možnosti, ako predchádzajúci. V prípade, že hráč zvýšil, má tento možnosť znovu zvýšiť (re-raise). Takto to pokračuje až dovtedy, kým nie sú všetky stávky od hráčov v hre dorovnané.
+
+Druhé kolo stávok Po prvom stávkovom kole sa na stôl vyložia tri karty, ktoré sú pre všetkých hráčov v hre spoločné a nazývajú sa flop. Stávkové kolo začína prvým hráčom naľavo od dílera, čiže hráčom na pozícii malý blind (ak nezložil karty ešte v prvom stávkovom kole – ak zložil, pokračuje najbližší hráč naľavo od neho). Tento má nasledujúce možnosti: staviť (bet) alebo zdržať sa akcie (check) a teda nestaviť, ale ani nezložiť karty. Ďalší hráči môžu taktiež staviť a zdržať sa akcie. Ak niektorý z hráčov stavil, ďalší hráči môžu dorovnať, zvýšiť jeho stavenie alebo svoje karty zložiť. Takto sa pokračuje až dovtedy, kým nie sú všetky stávky od hráčov v hre dorovnané.
+
+Tretie kolo stávok Po ukončení druhého kola stávok sa na stôl vyloží štvrtá karta nazývaná turn. Tretie kolo stávok sa uskutočňuje v takom istom poradí rovnakým spôsobom, ako kolo predchádzajúce.

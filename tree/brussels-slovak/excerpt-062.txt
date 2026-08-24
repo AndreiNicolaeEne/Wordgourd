@@ -1,0 +1,15 @@
+5. výrobcovia zabezpečia vhodnú podobu a fungovanie pokynov na používanie v elektronickej podobe a na tento účel poskytnú podklady pre verifikáciu a validáciu;
+
+6 v prípade zdravotníckych pomôcok opatrených zabudovaným systémom, ktorý vizuálne zobrazuje pokyny na používanie, výrobcovia zabezpečia, že zobrazenie pokynov na používanie nezabraňuje bezpečnému použitiu pomôcky, predovšetkým funkciám monitorovania a podpory životných funkcií;
+
+7. výrobcovia poskytnú vo svojom katalógu alebo v inom vhodnom informačnom materiáli o pomôcke informácie o softvérových a hardvérových požiadavkách nevyhnutných na zobrazenie pokynov na používanie;
+
+8. výrobcovia disponujú systémom, ktorý im umožňuje informovať o akejkoľvek revízii pokynov na používanie, a to každého používateľa pomôcky v prípade, že revízia bola nevyhnutná z bezpečnostných dôvodov;
+
+9. v prípade pomôcok s určeným dátumom použiteľnosti s výnimkou implantovateľných pomôcok výrobcovia zabezpečia dostupnosť pokynov na používanie pre používateľov v elektronickej podobe najmenej počas dvoch rokov od uplynutia dátumu použiteľnosti poslednej vyrobenej pomôcky;
+
+10. v prípade pomôcok bez určeného dátumu použiteľnosti a implantovateľných pomôcok výrobcovia zabezpečia dostupnosť pokynov na používanie pre používateľov v elektronickej podobe počas obdobia pätnástich rokov po vyrobení poslednej pomôcky.
+
+Článok 6 1. Výrobcovia zreteľne uvedú, že pokyny na používanie pomôcky sú dodané v elektronickej podobe namiesto papierovej.
+
+Uvedené informácie sa uvádzajú na skupinovom, príp. na spotrebiteľskom obale. V prípade pevných inštalovaných zdravotníckych pomôcok sa uvedené informácie uvádzajú aj na samotnej pomôcke.

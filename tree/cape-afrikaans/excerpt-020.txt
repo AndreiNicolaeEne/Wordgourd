@@ -1,0 +1,9 @@
+Vir n=2 gee dit 'n tweetallige as C2z en die operasie kan geskryf word as:
+
+Hier het ons die z-as as draaiingsas gekies, maar ook andere asse kan gekies word
+
+'n Viertallige as (n=4) draai 'n punt met 90 grade. Dié operasie moet vier maal uitgevoer word om terug te keer tot die oorsponklike punt
+
+Die operasie van 'n rotasiespieëlas kan gesien word as 'n rotasie gevolg deur 'n spieëling.
+
+Die element S4z is 'n voorbeeld: rotasie oor 90 grade om die z-as gevolg deur spieëling om die (x,y) vlak. Die kombinasie gee die operasie:

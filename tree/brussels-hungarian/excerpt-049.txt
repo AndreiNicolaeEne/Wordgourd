@@ -1,0 +1,11 @@
+(2) A strukturált ÁÉKBV-k esetében a kiemelt befektetői információkat tartalmazó dokumentum „Célkitűzések és befektetési politika” szakasza magyarázatot tartalmaz a képlet működéséről és a kifizetések kiszámítási módjáról.
+
+(3) A (2) bekezdésben említett magyarázatot illusztráció kíséri, amely az ÁÉKBV potenciális teljesítményének legalább három forgatókönyvét bemutatja. Megfelelő forgatókönyveket kell kiválasztani azon körülmények bemutatására, amelyek között a képlet a befektető számára alacsony, közepes vagy magas hozamot termel, beleértve adott esetben a negatív hozamot.
+
+(4) A (3) bekezdésben említett forgatókönyveknek lehetővé kell tenniük a befektető számára, hogy teljes mértékben megértse a képletben rejlő számítási mechanizmus minden hatását.
+
+A forgatókönyveket oly módon kell bemutatni, amely tisztességes, egyértelmű és nem félvezető, és amelyet valószínűsíthetően az átlagos lakossági befektető is megért. Különösen fontos, hogy a forgatókönyvek nem nagyíthatják fel mesterségesen az ÁÉKBV végső teljesítményének jelentőségét.
+
+(5) A (3) bekezdésben említett forgatókönyveket a jövőbeli piaci feltételek és ármozgások vonatkozásában ésszerű és konzervatív feltételezésekre kell alapozni.
+
+Mindazonáltal, ha a képlet jelentős veszteség lehetőségének teszi ki a befektetőt, mint például a csak bizonyos körülmények között működő tőkegarancia esetében, ezeket a veszteségeket megfelelően illusztrálni kell még akkor is, ha a vonatkozó piaci feltételek bekövetkezésének valószínűsége alacsony.

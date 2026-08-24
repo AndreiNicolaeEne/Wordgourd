@@ -1,0 +1,33 @@
+Il-fenomenu tal-hekk imsejħa bloggs (blogs bl-Ingliż) huwa pjuttost riċenti, fejn dan il-mezz ta' komunikazzjoni qed jiġi kkunsidrat minn ħafna bħala s-soluzzjoni għall-vojt li tħalli l-medja tradizzjonali. Il-blogg innifsu m'huwa xejn ħlief tip ta' sit f'format ta' ġurnal/djarju, fejn l-aħħar kitbiet jidhru fil-quċċata filwaqt li dawk iktar antiki jiġu arkivjati. Il-fenomenu tal-bloggs jaf l-għeruq tiegħu l-Amerika, fejn ħa spinta partikolari fl-aħħar elezzjonijiet presidenzjali Amerikani meta delegazzjoni ta' bloggers kienet mistiedna ssegwi mill-viċin l-andament tal-kampanja elettorali.
+
+Il-blogg jikkonsisti f'serje ta' kitbiet, magħrufa ahjar bħala posts, li jikteb perjodikament l-awtur. Ħafna mill-bloggs jippermettu li l-qarrejja jħallu l-kummenti tagħhom u jirreaġixxu għal dak li ntqal fil-kitba oriġinali. Hija użanza popolari ħafna wkoll li diversi kitbiet jiġu kkwotati fil-bloggs tal-qarrejja nnifishom, biex b'hekk jagħmlu l-kummentarju fil-bloggs rispettivi tagħhom minflok ma jħallu l-kumment fil-blogg fejn ġiet diskussa t-tema partikolari l-ewwel darba.
+
+Blogg ħafna drabi jinkludi wkoll lista ta' bloggs oħrajn li l-awtur iħobb jaqra (magħrufa bħala blogroll) u wkoll, generalment, xi informazzjoni dwar l-awtur nnifsu li tinstab fil-profil tiegħu.
+
+Jeżistu primarjament żewġ tipi ta' bloggs: dawk b'kontenut simili għal djarju fejn l-awtur (magħruf aħjar bħala "il-blogger") jikteb dwar ħajtu, kif ukoll dawk il-bloggs fejn l-awtur jikteb dwar temi u suġġetti partikolari, fosthom il-politika.
+
+Fil-matematika, funzjoni minn għal hi magħmula minn:
+
+sett imsejjaħ id-dominju ta' sett imsejjaħ il-kodominju ta’
+
+liġi li ma' kull element f' tassoċja element wieħed u wieħed biss f' .
+
+jissejjaħ l-argument tal-funzjoni, jew inkella il-varjabbli indipendenti, waqt li huwa l-valur tal-funzjoni, jew inkella l-varjabbli dipendenti.
+
+Dawn li ġejjin huma kliem sinonimi ma' "funzjoni":
+
+"applikazzjoni", "operatur", "mappa", "relazzjoni binarja univoka", "trasformazzjoni".
+
+Dan il-kunċett hu fundamentali fil-friegħi kollha tal-matematika.
+
+L-iżjed eżempji sempliċi ta’ funzjonijiet huma dawk li bħala d-dominju u l-kodominju għandhom settijiet numeriċi. Pereżempju, jekk ma’ kull numru nassoċjaw id-doppju ta’ dak in-numru, ikollna funzjoni.
+
+Ma dan kollu nitkellmu fuq funzjoni anki meta d-dominju u l-kodominju jew it-tnejn ma jkunux settijiet ta’ numri.
+
+Pereżempju, jekk ma’ kull trianglu nassoċjaw iċ-ċirku inskritt fih, ikollna funzjoni għaliex għal kull trianglu jeżisti ċirku wieħed u wieħed biss li hu inskritt fih.
+
+Sikwit nitkellmu fuq funzjonijet b’iżjed argumenti, jew b’iżjed valuri, pereżempju, funzjoni li l-koordinati ta’ punt fl-ispazju torbothom mat-temperatura u l-pressjoni ta’ l-arja.
+
+F’dan il-każ , il-funzjoni fir-realtà xorta għandha argument wieħed biss, li hu t-terna , u xorta għandha valur wieħed biss, li hu l-koppja .
+
+Mogħtija s-settijiet u , sottosett tal-prodott Carteżjan insejħulu funzjoni minn għal , jekk għal kull , jeżisti element wieħed u wieħed biss tali . Dan l-element tradizzjonalment niddenotawh b’ : fi kliem ieħor, minflok niktbu nistgħu nużaw il-kitba tradizzjonali .

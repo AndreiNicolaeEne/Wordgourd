@@ -1,0 +1,31 @@
+Crëir cerrynt trydanol pan symuda gwefr. Pan mae 1 coulomb o drydan yn pasio pwynt mewn 1 eiliad, fe'i gelwir yn 1 amper neu amp.
+
+Y foltedd yw'r gwthiad y tu ôl y cerrynt. Dyma faint o waith sydd tu ôl pob gwefriad trydanol. Mae un joule o waith ar 1 coulomb efo un folt o drydan potensial.
+
+Gwrthiant yw'r gallu i wrthrych wrthod cerrynt trydanol. Mae gan gopr sydd â thymheredd isel wrthiant isel ac mae gan blastig wrthiant uchel. Os rhoddir 1 folt ar draws wifren â cherrynt o 1 amper, fe fydd y gwrthiant yn 1 ohm. Pan mae llif y cerrynt yn cael ei wrthod, collir yr egni drwy ffurfiau eraill megis gwres.
+
+Egni neu ynni trydanol yw'r gallu i wneud gwaith drwy ddefnyddio dyfeisiau trydanol. Gellir cadw trydan sy'n golygu y gall symud o un lle i'r llall. Mesurir trydan mewn jouleau neu gilowatt-oriau (kW h). Dyma faint o drydan y gellir ei ddefnyddio mewn hyd penodol o amser.
+
+Pŵer yw'r gyfradd y mae trydan yn cael ei ddefnyddio, storio neu ei drawsyrru. Mesurir y llif drydanol mewn wattiau (W), dyma faint o ynni a newidir o un ffurf i'r llall.
+
+Pan geir foltedd ar draws gwrthydd (neu gydran arall) fe gynhyrchir cerrynt sy'n llifo drwy'r gwrthydd. Yn ôl Deddf Ohm, cysylltir y mesurau hyn gan y fformiwla:
+
+lle: V yw'r foltedd ar draws y gydran, I yw'r cerrynt trwyddi,
+
+R yw ei gwrthiant. Yn ogystal, mae gwrthydd yn troi ynni trydanol yn wres pan fo cerrynt yn llifo trwyddo. Rhoddir y pŵer (P) gan,
+
+neu, gan ddefnyddio Deddf Ohm. Un coulomb yw'r gwefriad trydanol a gludir mewn un eiliad pan fo cerrynt cyson o un Ampere.
+
+Gellir hefyd ddiffinio foltedd gan, lle:
+
+Mewn ffiseg, mae disgyrchiant yn tynnu gwrthrychau o fan uchel i fan isel. Mae dŵr yn llifo o ardal uchel yn y wlad i'r môr sydd yn is. Mae hyn yn wir efo cerrynt trydanol; mae ynni yn symud o rywle uchel i rywle isel. Mae trydan yn fath arall o atyniad, fel disgyrchiant. Ond yn annhebyg i ddisgyrchiant, dim ond ar bethau eraill sydd hefyd â gwefr drydanol mae trydan yn cael effaith. Os yw rhywbeth wedi ei wefru, fe symudith tuag at wrthrych arall sydd â pholaredd i'r gwrthwyneb neu i ffwrdd o rywbeth sydd â'r un polaredd. Mae'r polareddau hyn yn rhai positif (+) a negatif (-).
+
+Prif: Y Grid Trydan Cenedlaethol (gwledydd Prydain)
+
+Dosberthir trydan o orsafoedd pŵer i gwsmeriaid gan rwydwaith o geblau. Yng ngwledydd Prydain, gelwir y rhwydwaith yn Grid Cenedlaethol.
+
+Mae'r diagram isod yn dangos rhwydwaith dosbarthu trydan sy'n debyg i'r grid cenedlaethol.
+
+Egni cinetig sydd ei angen i greu trydan. Y ffordd fwyaf effeithlon o gynhyrchu egni cinetig ar hyn o bryd yw i wresogi dŵr i greu ager sydd wedyn yn gyrru tyrbin. Wrth i dua 25,000 V o drydan adael y pŵerdŷ mae'n troi'r foltedd i tua 400,000 V (400 kV) ar y peilonau uwchben oherwydd mae foltedd uchel yn lleihau'r cerrynt ac felly mae yna lai o wres yn cael ei golli. Mae newidydd gostwng yn newid y foltedd i lawr i 230 V yn nes at gartrefi'r cwsmeriad.
+
+Mae'r folteddau yn amrywio o wlad i wlad.

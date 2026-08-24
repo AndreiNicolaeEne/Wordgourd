@@ -1,0 +1,13 @@
+Senovės Egipte matematiniai veiksmai buvo atliekami su sveikaisiais skaičiais ir egiptietiškomis trupmenomis. Matematiniuose papirusuose rasta uždavinių kartu su sprendiniais ir pagalbinėmis lentelėmis. Lentelės plačiau naudojamos buvo Babilone, kuris paveldėjo šešiasdešimtainę skaičiavimo sistemą iš šumerų. Babiloniečių dantiraščio matematiniuose tekstuose aprašytos daugybos ir atvirkštinių skaičių lentelės, natūraliųjų skaičių kvadratai ir kubai. Babilone jau buvo žinoma daug Pitagoro trejetų, kurių radimui tikriausiai buvo naudojama nežinoma metodika. Seniausiai archeologinis radinys aritmetikos istorijoje yra Plimptono molinės lentelės fragmentas 322, datuojamas 1800 m. pr. m. e. Jame yra Pitagoro trejetų sąrašas, t. y. natūralieji skaičiai , kurie tenkina .
+
+XVII amžius yra šiuolaikinės skaičių teorijos, kaip savarankiško mokslo, pradžia. Jį sukūrė prancūzų matematikas Pjeras Ferma, atlikdamas mažiausiai penkis reikšmingus pasiekimus šioje srityje:
+
+suformulavo mažąją Ferma teoremą; iškėlė hipotezę, pavadintą didžiąja Ferma teorema, kuri vėliau buvo įrodyta XX amžiuje;
+
+pristatė Ferma skaičius ir jiems iškėlė hipotezę, kad visi jie yra pirminiai skaičiai. Vėliau Leonardas Oileris tai paneigė pateikdamas priešingą pavyzdį;
+
+suformulavo Ferma dviejų kvadratų sumos teoremą;
+
+pasiūlė Ferma algoritmą sveikųjų skaičių faktorizavimui.
+
+Tame pačiame amžiuje: Marinas Mersenas studijavo tam tikrą skaičių seką, vėliau pavadintą Merseno skaičiais. Šioje sekoje jis rado naujų pirminių skaičių. Vėlesniais amžiais sekoje buvo rasta dar daugiau tokių skaičių, todėl iškilo klausimas, ar jų yra be galo daug. Taip pat buvo rastas ryšys tarp Merseno pirminių skaičių ir nuo seniausių laikų žinomų tobulųjų skaičių.

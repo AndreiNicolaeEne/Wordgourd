@@ -1,0 +1,5 @@
+Apabila wayar logam disambung merentang dua terminal sumber voltage arus langsung seperti bateri, sumber ini meletakkan medan eltrik menyeberangi pengalir. Pada saat hubugan berlaku, elektron bebas bagi pengalir dipaksa bergerak ke arah terminal positif di bawah pengaruh medan ini. Dengan itu, elektron bebas ini merupakan pembawa elektron dalam pengalir pepejal biasa. Bagi arus elektrik 1 ampere, 1 coulomb caj elektrik (yang terdiri daripada sekitar 6.242 × 1018 caj unsur) hanyut setiap sesaat melalui sebarang satah yang dilalui pengalir.
+
+Bagi aliran tetap, arus I dalam ampere boleh dikira menggunakan persamaan berikut:
+
+di mana Q merupakan caj elektrik dalam coulomb dipindahkan, dan t adalah masa dalam saat

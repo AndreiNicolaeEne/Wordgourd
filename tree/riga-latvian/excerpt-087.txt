@@ -1,0 +1,3 @@
+Alises MUA izmanto SMTP protokolu, lai sūtītu ziņojumu uz lokālo vēstules pārsūtīšanas aģentu (mail transfer agent — MTA), šajā gadījumā smtp.a.org, kas atrodas uz Alises interneta pakalpojumu sniedzēja servera.
+
+MTA skatās mērķa adresi no SMTP protokola (ne no ziņojuma galvenes), šajā gadījumā bob@b.org. Interneta e-pasta adrese ir simbolu virkne formātā localpart@domain.example. Daļa pirms @ zīmes ir adreses "lokālā daļa", visbiežāk — lietotāja vārds; daļa pēc @ ir domēna vārds. MTA meklē šo domēna nosaukumu DNS sistēmā, lai atrastu e-pasta serveri, kurš pieņem šī domēna vēstules.

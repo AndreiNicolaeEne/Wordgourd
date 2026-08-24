@@ -1,0 +1,17 @@
+Em meados da década de 1980 R.C. Plumb propôs que os vidros de antigas catedrais eram mais grossos na base, pois teriam escoado com o tempo. Essa ideia perdura até os dias de hoje, muito embora já tenha sido provada matematicamente falsa.
+
+Edgar D. Zanotto em 1998 publicou artigo na revista American Association of Physics, com um cálculo a partir da seguinte equação:
+
+τ = η / G em que τ é o tempo de relaxação, η é viscosidade (Pa·s) e G o Módulo de cisalhamento (Pa). Em 1999, foi publicada uma revisão do cálculo tomando como base o valor de viscosidade de equilíbrio do vidro na temperatura ambiente.
+
+O novo resultado foi de 10²³ anos, ou seja, mais de 2 nonilhões , sendo assim impossível qualquer escoamento perceptível nos poucos milhares de anos de uma catedral.
+
+Qual é a natureza da transição entre um fluido (ou um sólido regular) e uma fase vítrea? "O problema não resolvido mais profundo e interessante na teoria do estado sólido é provavelmente a teoria da natureza do vidro e da transição vítrea." —P.W. Anderson
+
+Johannes Brahms (pronúncia em alemão: [joˈhanəs ˈbʁaːms]; Hamburgo, 7 de maio de 1833 – Viena, 3 de abril de 1897) foi um compositor, pianista e maestro alemão do período médio-romântico. Nascido no seio de uma família luterana, passou grande parte de sua vida profissional em Viena. É considerado um dos "Três B" da música com Johann Sebastian Bach e Ludwig van Beethoven, um comentário originalmente feito pelo maestro do século XIX Hans von Bülow, que apelidou a primeira sinfonia de Brahms de "décima de Beethoven".
+
+Brahms compôs para orquestra sinfónica, conjuntos de câmara, piano, órgão, voz e coro. Pianista virtuoso, estreou muitas das suas próprias obras. Trabalhou com os principais intérpretes de sua época, incluindo a pianista Clara Schumann e o violinista Joseph Joachim (os três eram amigos íntimos). Muitas das suas obras tornaram-se parte integrante do repertório de concertos modernos.
+
+Brahms foi considerado tradicionalista e inovador pelos seus contemporâneos e por escritores posteriores. A sua música está enraizada nas estruturas e técnicas composicionais dos mestres clássicos. Incorporados nessas estruturas estão motivos profundamente românticos. Embora alguns contemporâneos considerassem a sua música excessivamente académica, a sua contribuição e habilidade foram admiradas por figuras subsequentes tão diversas como Arnold Schönberg e Edward Elgar. A construção detalhada das obras de Brahms foi ponto de partida e inspiração para uma geração de compositores.
+
+No dia 7 de maio de 1833, em Hamburgo, nasceu Johannes Brahms. Seu pai, Johann Jacob, era contrabaixista e ganhava a vida tocando em bares e tavernas da cidade portuária. Logo ele percebeu os dotes pouco comuns do filho e, quando este completou sete anos, contratou o excelente professor Otto Cossel para dar-lhe aulas de piano. Aos 10 anos, o menino fez seu primeiro concerto público, interpretando Mozart e Beethoven. Também aos 10 anos, ele já frequentava as tabernas com seu pai e tocava lá durante parte da noite.

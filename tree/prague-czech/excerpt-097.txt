@@ -1,0 +1,31 @@
+Druh (species, zkratka sp.) je základní kategorie biologické nomenklatury. Z taxonomického hlediska je druh jeden z taxonů: je nejnižší základní kategorií hierarchické klasifikace organismů (viz obr.).
+
+Právě z binominálního (latinské binomen = dvě jména) pojmenování druhů vychází biologická nomenklatura, která stanoví zásady pro pojmenování ostatních nižších i vyšších taxonů. Označuje organismy dvouslovným vědeckým názvem, ke kterému je v případě potřeby připojeno jméno autora názvu (tzn. jméno taxonoma čili toho, kdo organismus jako první platně popsal a pojmenoval), případně zkrácená forma jména, a rok popisu, přičemž rokem popisu se myslí rok, kdy byl popis publikován. Příklady:
+
+Elephas maximus Linné, 1758 (tzn. slon indický popsaný Linnéem v roce 1758).
+
+Capparis spinosa L., 1753 (tzn. kapara trnitá popsaná Linnéem v roce 1753).
+
+Coccinella novemnotata Herbst, 1793 (tzn. slunéčko devítiskvrnné popsané Herbstem v roce 1793).
+
+Siven americký se jmenuje podle Ameriky nikoli podle křestního jména jejího objevitele Ameriga Vespucciho. Druhové rozdíly musí zůstat obecné (X siven Bertíkův, Petříkův apod.). Pouze jména jednotlivin se mohou měnit a sdílet tyto obecné druhové rozdíly.
+
+Jména kompilátorů se píší do závorky. Z hlediska taxonomie se druhy seskupují do rodů (genus). Některé druhy (species) se člení na poddruhy (subspecies, zkratka subsp., ssp.).
+
+Neexistuje jednotná definice, která by jednoznačně určila, co je druh. Definic druhu existuje mnoho, protože závisejí na koncepci, kterou se autor definice řídí.
+
+Základní dělení definic druhu lze provést podle toho, jestli definice předpokládá nezávislost na taxonomovi (realistická definice), nebo naopak předpokládá závislost na taxonomovu rozhodnutí (nominalistická definice). Obě pojetí mají své výhody i nevýhody. Realistická definice lépe vystihuje stav v jednom čase. Nominalistická definice umožňuje rozhodnout ve sporných případech (kruhový druh) a v případech, když je zahrnut faktor času a postupného vývoje.
+
+Mikrometr Mikrometr (značka µm), také mikron, je délková jednotka, 10−6 neboli 1 miliontina metru.
+
+Užívá se v přesném strojírenství, optoelektronice, v klasické mikroskopii apod. Například kapka mlhy má cca 10 µm, nebo jádro jednovidového optického vlákna má průměr 9 µm.
+
+Milimetr Milimetr (značka mm) je délková jednotka, 10−3 neboli 1 tisícina metru.
+
+Milimetr je nejmenší obecně použitelná délková jednotka. Udávání rozměrů v milimetrech je běžné ve strojnictví, stavebnictví a téměř všech výrobních oborech. V milimetrech se vyjadřuje šířka filmového pásu (16 mm, 35 mm atd.) a rozchodu kolejnic (760 mm, 1435 mm apod.).
+
+V milimetrech za určitou dobu se také udává množství srážek v meteorologii; jeden milimetr srážek znamená, že na každý metr čtvereční napršel jeden litr srážek (neboť 1 mm × 1 m² = 1 dm³ = 1 l).
+
+Centimetr Centimetr (značka cm) je délková jednotka, 10−2 neboli 1 setina metru. Hovorově se mu někdy říká „číslo“.
+
+Jedná se o nejběžněji používanou malou délkovou jednotku. Udávají se v něm např. výšky hladin vodních toků, rozměry člověka, oděvů, nábytku a dalších předmětů denní potřeby. Dříve se užíval i ve stavebnictví, než se během 20. století díky zdokonalení technologie přešlo na přesnější milimetry.

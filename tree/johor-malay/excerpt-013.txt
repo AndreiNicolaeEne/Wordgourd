@@ -1,0 +1,29 @@
+Liberty Enlightening the World (Perancis: La Liberté éclairant le monde, "Kebebasan Menyinari Dunia") lebih dikenali dengan nama Statue of Liberty ("Patung Kebebasan") adalah satu patung berukuran raksasa yang terletak di Pulau Ellis, di muara Sungai Hudson di New York, Amerika Syarikat. Patung ini diberikan secara rasmi pada 28 Oktober 1886 sebagai hadiah Perancis kepada negara tersebut sempena seratus tahun kemerdekaan Amerika Syarikat diisytiharkan serta merupakan simbol persahabatan antara kedua-dua negara ini.
+
+Rupa patung ini dipahat Frederic Auguste Bartholdi sambil Gustave Eiffel (pereka Menara Eiffel) merancang struktur dalamannya - di mana patung tersebut menggambarkan Libertas, dewi kebebasan Romawi memegang suatu obor di tangan kanannya dan suatu papan bertulis tarikh merdekanya Amerika Syarikat dalam angka Rumi - JULY IV MDCCLXXVI (4 Julai 1776); kakinya pula ada dicekak rantai belenggu yang tercabut melambangkan terhapusnya perhambaan yang baru sahaja dilaksanakan pemerintah Amerika Syarikat pada ketika itu.
+
+Ini serupa dengan teorem Pythagoras. Dalam beberapa konteks, mungkin diwakili dengan huruf .
+
+Bentuk polar (atau bentuk kutub) adalah bentuk nombor kompleks yang ditulis dalam argumen dan nilai mutlak manakala bentuk bagi suatu nombor kompleks dikenali sebagai bentuk segi empat tepat. Ini adalah bentuk polar nombor kompleks ;
+
+Di mana adalah argumen, adalah nilai mutlak dan dan adalah fungsi trigonometrik. Dalam konteks analisis kompleks, argumen adalah sudut antara paksi nyata dan garisan daripada nombor kompleks, ia diwaklili dalam unit radian. Argumen bagi suatu nombor kompleks boleh ditulis dengan fungsi atau .
+
+Ingat, bagi suatu nombor kompleks, terdapat infiniti argumen yang boleh didapati. Ia diwakili dalam bentuk di mana adalah suatu integer. Oleh sebab itu, untuk fungsi menjadi fungsi, ia ditakrifkan untuk mengoutputkan nilai antara . Ini dipanggil argumen principal.
+
+Juga, bentuk polar bagi nombor kompleks boleh ditulis seperti ini;
+
+Di mana adalah pemalar Euler, pemalar yang hampiri 2.718281828.
+
+Bentuk polar boleh dibuktikan dengan kaedah yang mudah.
+
+Pertama, bermula dengan Siri Taylor bagi fungsi sinus dan kosinus;
+
+Sekarang, gantikan dengan ; Gantikan terbitan tersebut dalam ;
+
+Sambil ini, sediakan Siri Taylor bagi ; Gantikan dengan dan menyusunkan terma tersebut;
+
+Perhatikan bahawa dan bersamaan dengan .
+
+Maka; Beberapa domain bagi beberapa fungsi asas boleh diperpanjangkan untuk menerima nombor kompleks.
+
+Logaritma asli ialah logaritma yang mempunyai sebagai asasnya. Rumus logaritma asli yang mempunyai domain yang boleh menerima nombor kompleks adalah;

@@ -1,0 +1,9 @@
+Angulo esas nociono di geometrio qua permisas prizentar la diverge inter du direti. Ito povas esar la direti di facii di objekto (konio), la direto vizita per raporta pri nord (angulo produktas per busolo)..
+
+Kande ula rekto intersektas altra, li dividas la plano en quar porcioni : ito es l' angula sektori. Kande la rekti koincidas, li ne definas du angulala sektori. Un angula sektori esas interseko di du mi-plani limitizita per di sekta od intermixesita rekti.
+
+L'angulo di angula sektoro esas la reala nombro ke mezuras la proporciono di angula sektoro per raporto a totala plano. Ito es la aperto di angula sektoro, la « rapideso » a qua foriras la rekti la un ek la altro kande on forizas di punto di interseko ; ito esas la inklineso di rekta per raporto al altra. L'anguli esas ordinare notida per Greka minuskula litero, exemple a, b, q, r... Kande l'angulo esas a somito poligono e ke ne havas plur-senco (note ke kande l'anguli ne esas orientizita), on uzas lore la nomo di somito vinkita di chapelo, exemple Â.
+
+Per evaluar ita angulo, ito « proporciono di surfaco », on prenas centra disko a punto di interseko, ed on facas la raporto inter la areo di disko compresas en l'angula sektoro e la totala areo di disko. On povas pri montrar ke ito es kom igar la raporto inter la longo di delimita arko per la rekti e la cirklo-kurvo ; ita valoro esas nomas nombro di jiro.
+
+L'internationala uneso di mezuro di anguli esas la radiano, definas kom la raporto inter la delimita cirklo-kurvo e la radio di cirklo. On uzas ofte la grado nam la nombri uzita manipulas su plu facile.

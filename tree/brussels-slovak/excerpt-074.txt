@@ -1,0 +1,11 @@
+4. Národné centrálne banky vymedzujú a implementujú režim vykazovania, ktorý má aktuálna spravodajská skupina dodržiavať v súlade s vnútroštátnymi požiadavkami. Národné centrálne banky zabezpečia, aby tento režim vykazovania poskytoval štatistické informácie požadované na základe tohto nariadenia a umožňoval dôslednú kontrolu dodržiavania minimálnych noriem pre prenos, presnosť, súlad s pojmami a revízie, ktoré sú uvedené v prílohe III.
+
+Článok 4 Zlúčenia alebo splynutia, rozdelenia a reorganizácie
+
+V prípade zlúčenia alebo splynutia, rozdelenia alebo inej reorganizácie, ktorá by mohla mať vplyv na plnenie štatistických povinností, dotknutá spravodajská jednotka informuje príslušnú NCB, len čo sa úmysel realizovať takúto operáciu stane verejne známym a s dostatočným časovým predstihom predtým, ako sa takáto operácia stane účinná, o postupoch, ktoré sa plánujú použiť na splnenie požiadaviek na štatistické vykazovanie ustanovených v tomto nariadení.
+
+Článok 5 Včasnosť Národné centrálne banky posielajú ECB štatistické informácie vykazované podľa článku 3 ods. 1 a 2 do konca pracovného času 15. pracovného dňa nasledujúceho po skončení mesiaca, ktorého sa údaje týkajú. Národné centrálne banky rozhodujú o tom, kedy potrebujú mať k dispozícii údaje od spravodajských jednotiek, aby splnili tento termín.
+
+Článok 6 Účtovné predpisy na účely štatistického vykazovania
+
+1. S výhradou odsekov 2 a 3 účtovnými predpismi, ktoré sú na účely vykazovania podľa tohto nariadenia povinné dodržiavať poštové žírové inštitúcie, sú pravidlá ustanovené vo vnútroštátnych predpisoch, ktorými sa transponuje smernica Rady 86/635/EHS z 8. decembra 1986 o ročnej účtovnej závierke a konsolidovaných účtoch bánk a iných finančných inštitúcií (5), ako aj v ďalších aplikovateľných medzinárodných účtovných normách.

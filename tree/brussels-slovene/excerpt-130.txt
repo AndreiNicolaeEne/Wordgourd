@@ -1,0 +1,21 @@
+(4) Ukrepi, predvideni s to uredbo, so v skladu z mnenjem Tehničnega odbora za motorna vozila -
+
+SPREJELA NASLEDNJO UREDBO: Člen 1 Področje uporabe
+
+Ta uredba se uporablja za vozila kategorije M1, ki izpolnjujejo naslednji zahtevi:
+
+- imajo ročni menjalnik, - njihova referenčna masa ne presega 2 610 kg ali njihova homologacija je razširjena v skladu s členom 2(2) Uredbe (ES) št. 715/2007.
+
+Ta uredba se ne uporablja za „vozila za izpolnjevanje posebnih družbenih potreb“, kot so opredeljena v členu 3(2)(c) Uredbe (ES) št. 715/2007.
+
+Člen 2 Opredelitev pojmov V tej uredbi se poleg opredelitev pojmov iz Uredbe (ES) št. 661/2009 uporabljajo naslednje opredelitve pojmov:
+
+1. „tip vozila glede na kazalnik menjanja prestav“ pomeni skupino vozil, ki se ne razlikujejo glede na funkcionalne značilnosti kazalnika menjanja prestav in glede na logiko, ki jo uporablja kazalnik menjanja prestav pri določanju točke menjave prestave. Med drugim so možne naslednje vrste logike:
+
+(i) menjanje prestav navzgor se nakaže pri določenih vrtilnih frekvencah motorj;
+
+(ii) menjanje prestav navzgor se nakaže, kadar diagrami motorja o porabi goriva kažejo, da bo v višji prestavi doseženo določeno minimalno izboljšanje porabe goriva;
+
+(iii) menjanje prestav navzgor se nakaže, kadar je potreben navor mogoče doseči v višji prestavi;
+
+2. „funkcionalne značilnosti kazalnika menjanja prestav“ pomenijo vhodne parametre, kot so vrtilna frekvenca motorja, pogonska moč, navor in njihove spremembe s časom, ki določajo signal kazalnika menjanja prestav ter funkcionalno odvisnost signalov kazalnika menjanja prestav od teh parametrov;

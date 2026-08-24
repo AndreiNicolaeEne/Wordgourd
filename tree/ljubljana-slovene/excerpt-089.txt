@@ -1,0 +1,17 @@
+Znak @ (v žargonu afna) je obvezno ločilo, ki pomeni »pri« (angleško at). Primer je joza.gulikoza pri ponudnik.si.
+
+Ime internetskega kraja je ime strežnika, ki za uporabnika posreduje in tudi hrani e-pošto, denimo siol.net ali yahoo.com.
+
+Predmet sporočila je kratek povzetek vsebine, ki prejemniku hitro pove, kaj je namen sporočila.
+
+Oblika internetnega e-poštnega sporočila je opredeljena z RFC 5322, pri čemer je kodiranje ne-ASCII podatkov in prilog večpredstavnostnih vsebin opredeljeno v RFC 2045 do RFC 2049. Skupaj jih imenujejo večnamenska razširitev internetne pošte ali MIME (Multipurpose Internet Mail Extensions). RFC 5322 je leta 2008 nadomestil prejšnji RFC 2822, nato pa je RFC 2822 v letu 2001 nadomestil RFC 822 - ki je bil skoraj 20 let standard za internetno elektronsko pošto. RFC 822, ki je bil objavljen leta 1982, je temeljil na prejšnjem RFC 733 za Arpanet.
+
+Internetno e-poštno sporočilo je v osnovi sestavljeno iz dveh glavnih sklopov, glave sporočila in telesa sporočila. Glava je strukturirana: Od (From), Za (To), Kp (CC), Zadeva (Subject), Datum (Date) in še druge informacije o e-poštnem sporočilu. Telo vsebuje sporočilo, kot nestrukturirano besedilo, ki včasih na koncu telesa sporočila vsebuje tudi podpisni blok.
+
+E-mail poteka po protokolu SMTP (SMTP - an. simple mail transfer protocol). Za branje, odpošiljanje in vnos besedila se imenuje t. i.: MUA (mail user agent), program ki nam omogoča delo z elektronsko pošto. Skupaj za besedilom e-pošte lahko pošljete tudi datoteko, ki je e-pismu »priključena«.
+
+Vsako sporočilo ima lahko le eno glavo, ki je sestavljena iz več polj. Vsako polje ima ime in vrednost. Natančno sintakso opredeljuje RFC 5322.
+
+V srednjem veku je bilo mesto bodoče palače del dvorca Ebury (imenovanega tudi Eia). Močvirna tla je namakala reka Tyburn, ki še vedno teče pod dvoriščem in južnim krilom palače. Tam, kjer je bilo reko mogoče prebroditi (pri Cow Fordu), je zrasla vas Eye Cross. Mesto je večkrat zamenjalo lastnika; med lastniki sta bila Edvard Spoznavalec in Edith iz Wessexa v poznih saških časih, po normanski osvojitvi pa Viljem Osvajalec. Viljem je dal lokacijo Geoffreyju de Mandevillu, ki jo je zapustil menihom Westminstrske opatije.
+
+Leta 1531 je Henrik VIII. pridobil bolnišnico St James, ki je postala palača St James, od Eton College, leta 1536 pa je prevzel dvorec Ebury iz Westminstrske opatije. Ti prenosi so prinesli Buckinghamsko palačo nazaj v kraljeve roke prvič, odkar jo je Viljem Osvajalec predal skoraj 500 let prej. Različni lastniki so jo najemali od kraljevih veleposestnikov, o lastništvu pa so se v 17. stoletju vrtele špekulacije. Do takrat je stara vas Eye Cross že zdavnaj propadla in območje je bilo večinoma zapuščeno. Ker je potreboval denar, je Jakob VI. in I. prodal del lastništva krone, obdržal pa del zemljišča, na katerem je postavil 1,6 ha velik vrt murv za proizvodnjo svile. (To je v severozahodnem vogalu današnje palače.) Clement Walker v Anarchia Anglicana (1649) omenja »novo postavljene sodome in vrtilnice v vrtu Mulberry pri S. Jamesu«; to nakazuje, da je bil morda kraj razuzdanosti. Sčasoma, v poznem 17. stoletju, je lastništvo od nepremičninskega tajkuna Hugha Audleyja podedovala velika dedinja Mary Davies.

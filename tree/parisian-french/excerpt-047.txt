@@ -1,0 +1,15 @@
+Les Negritos, les premiers habitants de l'archipel, sont suivis par des vagues de migration de peuples austronésiens. Entre le Xe siècle et le XVIe siècle, différents États musulmans, hindouistes, et animistes s'y établissent. L'arrivée de l'explorateur Ferdinand de Magellan en 1521 marque le début de la colonisation de l'archipel par l'Empire espagnol. À partir de 1565, l'archipel est gouverné comme la Capitainerie générale des Philippines des Indes orientales espagnoles, sous laquelle le catholicisme devient la religion dominante. La révolution philippine éclate en 1896, et s'achève en 1898 avec le traité de Paris par lequel l'Espagne cède l'archipel aux États-Unis à la suite de la guerre hispano-américaine. L'année suivante, la guerre américano-philippine éclate entre les révolutionnaires et les États-Unis. Elle s'achève en 1902 sur la victoire américaine et la dissolution de la Première République philippine. Cependant, la guérilla continue jusqu'en 1913 contre le nouveau protectorat américain. Après l'occupation par l'empire du Japon pendant la Seconde Guerre mondiale, le pays accède à l'indépendance en 1946. Depuis lors, le pays subit notamment une période de loi martiale entre 1972 et 1981 sous la dictature de Ferdinand Marcos et le renversement de ce dernier par la révolution populaire de 1986. À la suite du retour à la démocratie, la constitution de la Cinquième République est promulguée en 1987, et le pays est depuis gouverné comme une république unitaire présidentielle.
+
+L'étape la plus ancienne dans la facture instrumentale se caractérise par la recherche de procédés qui utilisent les vibrations physiques de corps solides. Des dizaines de générations d'artisans chercheront d'une manière empirique les moyens d'améliorer la qualité et la puissance de leurs instruments.
+
+Tous les instruments acoustiques se composent de trois éléments :
+
+Un corps matériel pouvant vibrer dans les fréquences audibles par l'oreille humaine (corde, colonne d'air, lame de bois, de métal, membrane) ;
+
+Un système quelconque qui permet au musicien de le mettre en vibration (doigt, bouche, anche, clavier, archet, plectre, etc.) ;
+
+Un matériau mécaniquement lié à l'élément vibrant, et qui, en entrant en résonance avec lui, amplifie la vibration (caisse de résonance, pavillon, tuyau, etc.).
+
+La maîtrise de l'électricité a permis de concevoir de nouveaux instruments utilisant en partie ou totalement des circuits électriques pour générer leurs sonorités. Ces instruments seront, suivant le cas, de type électro-mécanique ou électronique (analogique, numérique ou hybride).
+
+En remplaçant le résonateur par un amplificateur et un haut-parleur, l'oscillateur restant mécanique, on crée l'instrument électromécanique. On parle aussi d'instruments de musique électriques. Dans ce type de système un capteur électromagnétique (microphone ou autre type de capteur) transforme les oscillations périodiques du vibreur matériel en un courant électrique oscillant, traité ensuite par un amplificateur et éventuellement des filtres pour aboutir à un haut-parleur.

@@ -1,0 +1,19 @@
+6 artikla 1. Valmistajien on ilmoitettava selkeästi, että laitteen käyttöohje toimitetaan paperiversion sijasta sähköisessä muodossa.
+
+Tämä tieto on oltava jokaisen laitteen pakkauksessa tai tarvittaessa myyntipakkauksessa. Kiinteästi asennettavissa lääkinnällisissä laitteissa tämä tieto on merkittävä myös laitteeseen.
+
+2. Valmistajien on annettava tiedot siitä, miten käyttäjät voivat tutustua sähköisiin käyttöohjeisiin.
+
+Kyseiset tiedot on ilmoitettava 1 kohdan toisessa alakohdassa määritetyn mukaisesti, tai jos se ei ole helposti toteutettavissa, tieto on esitettävä jokaisen laitteen mukana toimitettavassa paperiasiakirjassa.
+
+3. Sähköisten käyttöohjeiden käyttämistä koskevissa tiedoissa on ilmoitettava
+
+a) tiedot, jotka tarvitaan käyttöohjeiden saamiseksi esiin;
+
+b) yksilöllinen viite, jonka avulla pääsee suoraan käyttöohjeisiin, sekä kaikki muut tiedot, joiden avulla käyttäjät voivat tunnistaa oikeat käyttöohjeet ja tutustua niihin;
+
+c) valmistajan yhteystiedot; d) tieto siitä, mistä ja miten käyttöohjeiden paperiversion voi pyytää ja mikä on sen toimitusaika ja että siitä ei 5 artiklan mukaisesti veloiteta erikseen.
+
+4. Jos osa käyttöohjeista on tarkoitettu annettavaksi potilaalle, kyseistä osaa ei saa toimittaa sähköisenä.
+
+5. Sähköisten käyttöohjeiden on oltava saatavilla kokonaisuudessaan tekstinä, joka voi sisältää kuvia ja grafiikkaa, ja niissä on oltava vähintään samat tiedot kuin paperiversiona toimitettavissa käyttöohjeissa. Tekstin lisäksi voidaan toimittaa myös video- ja äänitiedostoja.

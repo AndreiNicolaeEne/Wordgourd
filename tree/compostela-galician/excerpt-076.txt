@@ -1,0 +1,21 @@
+Unha proba ou demostración matemática é un razoamento convincente dentro dos estándares vixentes conducente a que algunha proposición é necesariamente certa. Realízase cunha lóxica válida que progresa a partir de ideas que se dan por certas, chamadas hipóteses, ata a afirmación formulada, chamada tese, da que se quere obter a veracidade. Estes pasos deben estar fundamentados na aplicación de regras de dedución, fundadas xa sexa en enuciados xeralmente aceptados coñecidos como axiomas, ou en teoremas anteriormente demostrados, ou en regras básicas de dedución do sistema en cuestión.
+
+As probas obtéñense mediante o razoamento dedutivo máis que por argumentos indutivos ou empíricos. Ou sexa, unha proba debe demostrar que unha proposición é certa en tódolos casos, sen excepción (ocasionalmente enumerando todos os casos posíbeis e mostrando que se sostén en todos eles), máis ca enumerando moitos casos confirmatorios. Unha proposición non demostrada que se considera certa coñécese como conxectura.
+
+Unha proposición probada adoita denominarse teorema. Unha vez que se proba unha proposición, pódese empregar coma base para probar outras proposicións. A un teorema pódeselle chamar tamén lema, especialmente se se pretende usar como paso na proba doutro teorema.
+
+As probas empregan a lóxica mais adoitan incluír unha parte de linguaxe natural que polo xeral admite certa ambigüidade. De feito, a maior parte das probas das matemáticas escritas pódense considerar aplicacións da lóxica informal rigorosa. As probas formais, escritas en linguaxe simbólica e non en natural, trátanse na teoría da proba.
+
+O papel (do latín papyrus) é un material constituído por unha delgada lámina elaborada a partir de polpa de celulosa, elaborada cunha pasta de fibras vexetais moídas suspendidas en auga, xeralmente branqueada, e posteriormente secada e endurecida, á que normalmente se lle engaden substancias como polipropileno ou polietileno co fin de proporcionarlle características especiais. As fibras que o compoñen están aglutinadas mediante ligazóns por ponte de hidróxeno.
+
+As fibras para a súa fabricación requiren algunhas propiedades especiais, como alto contido de celulosa, baixo custo e fácil obtención: razóns polas cales as máis comunmente usadas son as vexetais. O material máis comunmente usado é a polpa de madeira de árbores, principalmente piñeiros (polo prezo e pola calidade da fibra, moi longa) e eucaliptos (moi barata e resistente). Outros materiais como o algodón e o cánabo tamén poden ser utilizados na confección do papel.
+
+En resumo, o proceso de fabricación consta de varias etapas que levan á formación do papel a partir da madeira. As principais etapas son:
+
+Preparación das fibras: polpa Branqueamento
+
+Formación e prensado de follas Varios tratamentos superficiais
+
+Secado. A madeira está composta por: Celulosa (aproximadamente o 45%)
+
+Hemicelulosa (aproximadamente o 30%) Lignina (aproximadamente o 20%)

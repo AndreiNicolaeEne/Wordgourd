@@ -1,0 +1,15 @@
+AVSNITT 5 Strukturerade fondföretag Artikel 36
+
+Resultatscenarier 1. Strukturerade fondföretags faktablad ska inte innehålla något avsnitt med rubriken ”Tidigare resultat”.
+
+Vid tillämpningen av detta avsnitt ska med strukturerade fondföretag förstås fondföretag som, vid vissa förutbestämda tidpunkter, ger investerare algoritmbaserade vinster som är relaterade till resultat, eller till realiserade prisförändringar eller andra villkor, med avseende på finansiella tillgångar, index eller referensportföljer eller fondföretag med liknande egenskaper.
+
+2. Avsnittet ”Mål och placeringsinriktning” i strukturerade fondföretags faktablad ska innehålla en förklaring av hur formeln (algoritmen) fungerar eller hur vinsten beräknas.
+
+3. Förklaringen enligt punkt 2 ska åtföljas av en illustration som visar minst tre möjliga resultatscenarier för fondföretaget. Lämpliga scenarier ska väljas som visar under vilka omständigheter formeln kan ge investeraren låg, medelstor eller hög avkastning, inklusive eventuell negativ avkastning.
+
+4. Scenarierna enligt punkt 3 ska göra det möjligt för investeraren att förstå alla effekter av formelns beräkningsmekanism.
+
+De ska presenteras på ett rättvisande, tydligt och inte vilseledande sätt som bör kunna förstås av en genomsnittlig icke-professionell investerare. De ska särskilt inte överdriva vikten av fondföretagets slutliga resultat.
+
+5. Scenarierna enligt punkt 3 ska baseras på rimliga och försiktiga antaganden om framtida marknadssituationer och prisrörelser.

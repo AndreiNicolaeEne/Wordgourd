@@ -1,0 +1,25 @@
+12-tahtista kaavaa on käytetty vuosisatoja, mutta bluesin tuoma uusi piirre oli yleinen alennetun terssin, alennetun septimin ja alennetun kvintin käyttö melodiassa yhdessä soittamalla vierekkäiset nuotit samaan aikaan (ts. pientä sekuntia) ja liukumalla käyttämällä hyvin lyhyitä nuotteja (jotka kirjoitetaan nuottiviivastolle etuheleinä). Siinä missä klassisessa musiikissa etuheleinä kirjoitetut nuotit ja niiden jälkeiset pidemmät nuotit soitetaan erikseen, bluesia soitettaessa yleensä hutaistaan nuotit samalla kosketuksella, niin että lyhyt nuotti päästetään soimasta.
+
+Blues-soitto perustuu yleensä improvisaatioon. Improvisaatio tyypillisesti nojaa artistin omaksumiin nuottien pätkiin, joita yhdistelemällä soolot muotoutuvat. Tällaisia lyhyitä pätkiä kutsutaan englanniksi nimityksellä ”lick”. Bluesissa improvisaatio on esimerkiksi jazziin verrattuna siinä mielessä yksinkertaista, että se perustuu pääasiassa yhteen skaalaan, jota kutsutaan blues-skaalaksi (lähes sama kuin mollipentatoninen skaala). Blues-skaalan hienous piilee siinä, että kappaleen sävellajin pääsävelessä soitettuna sitä voi käyttää samasta asemasta koko bluesin sointukulun läpi. Näin ollen skaalaa ei tarvitse lainkaan vaihtaa sointujen vaihtuessa tai ylipäänsä koko kappaleen aikana.
+
+Sen lisäksi, että soittimilla on bluesissa yleensä soolo-osuuksia, myös laulusäkeistöjen keskelle laulunpätkien väliin soitetaan lickejä. Soolon ei tarvitse olla varsinainen soolo eli yhden soittajan osuus, vaan on tavallista, että sekä säkeistöjen aikana että varsinaisessa soolossa useammat soittajat heittelevät harkitusti lickejä samaan aikaan tai perä perää. Usein tähän kuuluu, että yksi soittaja ”vastaa” toiselle. Soittaminen on monissa blues-tyyleissä katkonaista siten, että yksittäisien lickien väliin jätetään pitkiä taukoja. Katkonaisen melodian vastapainoksi bassokulut ovat usein hyvin yhtenäisiä.
+
+Elinkeinoelämän sovellutuksia dominoi tällä hetkellä kaksi tärkeää tekijää: integroidut ohjausjärjestelmät ja Internet.
+
+Yritykset, suuret ensin ja pienemmät myöhemmin, ovat ottaneet 1990-luvun aikana ja jälkeen käyttöön laajoja integroituja ohjelmistoja jotka kattavat liiketoiminnan kaikki alueet asiakashallinnasta tuotannonohjaukseen. Tällaisia järjestelmiä ovat
+
+toiminnanohjausjärjestelmät (Enterprise Resouce Planning, ERP)
+
+tuotteen elinkaaren hallintajärjestelmät (Product Lifecycle Management, PLM)
+
+tuotetiedon hallintajärjestelmät (Product Data Management, PDM)
+
+toimitusketjujen ja logistiikan hallintajärjestelmät (Supply Chain Management, SCM)
+
+asiakastiedon hallintajärjestelmät (Customer Relationship Management, CRM)
+
+henkilöstön hallintajärjestelmät (Human Resource Management, HRM)
+
+tietokoneavusteinen suunnittelu (Computer Aided Design, CAD).
+
+Vaikka näiden järjestelmien hyödyntäminen ei olekaan aivan yksinkertaista – ja monet järjestelmäinvestoinnit ovat myös epäonnistuneet tai viivästyneet – niiden yhteisvaikutus on kuitenkin olennaisen merkittävä. Yritykset ovat voineet oikoa toimintatapojaan, nopeuttaa reagointikykyään markkinoiden muutoksiin ja lisätä toimintansa tarkkuutta ja taloudellisuutta.

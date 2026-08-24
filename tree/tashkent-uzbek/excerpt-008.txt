@@ -1,0 +1,11 @@
+Doimiy magnit - uzoq vaqt davomida magnitlanish holatini saqlaydigan yuqori qoldiq magnit induksiyaga ega boʻlgan qattiq magnit materialdan tayyorlangan mahsulot. Doimiy magnitlar turli shakllarda ishlab chiqariladi va magnit maydonning avtonom (energiya iste'mol qilmaydigan) manbalari sifatida ishlatiladi (2-rasm).
+
+Asosan mexanik kuch yaratish uchun mo'ljallangan elektromagnitlarda kuchni uzatuvchi armatura (magnit zanjirning harakatlanuvchi qismi) ham mavjud.
+
+Magnititdan yasalgan doimiy magnitlar tibbiyotda qadim zamonlardan beri qo'llanilgan. Misr qirolichasi Kleopatra magnit tumor kiygan.
+
+Qadimgi Xitoyda "Imperatorlik ichki kasalliklar kitobi" tanadagi Qi energiyasini - "tirik kuch" ni tuzatish uchun magnit toshlardan foydalanishga to'xtaldi.
+
+Magnitlanish nazariyasi birinchi marta fransuz fizigi Andre Mari Amper tomonidan ishlab chiqilgan. Uning nazariyasiga ko'ra, temirning magnitlanishi moddaning ichida aylanadigan elektr toklarining mavjudligi bilan izohlanadi. Amper 1820 yil kuzida Parij Fanlar akademiyasining yig'ilishida tajribalar natijalari to'g'risida birinchi ma'ruza qildi. "Magnit maydon" tushunchasi fizikaga ingliz fizigi Maykl Faraday tomonidan kiritilgan. Magnitlar magnit maydon orqali o'zaro ta'sir qiladi, u magnit kuch chiziqlari tushunchasini ham kiritdi.
+
+Vektor magnit maydoni Vektor maydoni - bu ko'rib chiqilayotgan fazoning har bir nuqtasini shu nuqtadagi boshlanishi bilan vektor bilan bog'laydigan xaritalash. Masalan, ma'lum bir vaqtda shamol tezligi vektori nuqtadan nuqtaga o'zgaradi va vektor maydoni bilan tasvirlanishi mumkin (3-rasm).

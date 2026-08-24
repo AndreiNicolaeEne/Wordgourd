@@ -1,0 +1,23 @@
+Vsak od teh rekordov je poznan kot flash, kar pomeni, da je vsak rekvizit vržen in ulovljen samo enkrat. Zato nekateri oporekajo, da so to pravi žonglerski rekordi in po njihovih merilih je za pravo žongliranje potrebno imeti vsaj dva ulova. Po teh merilih pa so rekordi naslednji:
+
+Obroči: 10 obročev in 47 ulovov, Anthony Gatto v letu 2005.
+
+Žogice: 11 žogic in 34 ulovov, Tom Whitfield v letu 2022.
+
+Kiji: 8 kijev in 16 ulovov, Anthony Gatto v letu 2006.
+
+Žonglerski triki in vzorci lahko postanejo zelo kompleksni in bi jih bilo težko razložiti naprej brez nekakšnega sistema. Za zapis in odkrivanje novih vzorcev so jih razvili kar nekaj. Diagrami so najpreprostejši način predstavitve na papirju, a uporabljajo slike in njihova uporaba je omejena. Lestvični diagrami sledijo poti propsov skozi čas in vzročni diagrami sledijo kje v zraku so propsi ter predpostavljajo, da ima žongler v rokah vedno en rekvizit.
+
+Naprednejši način zapisa je imenovan siteswap in je tudi daleč najbolj uporabljan. Različne višine metov imajo svoj beat ali tempo kolikor trajajo in zato imajo pripisano relativno število. Iz njih lahko predstavimo vzorec v zaporedju številk kot npr. 3, 744 ali 97531. To so primeri za en par rok, ki izvajajo izmenjujoče oz. asinhrone mete. Za prikaz vzorcev metov z obema rokama naenkrat obstajajo drugačne konvencije zapisa, pa tudi ti. multiplex siteswap za vzorce metov dveh ali več žogic naenkrat iz ene roke. Razvili so še več razširitev tega osnovnega sistema, kot so siteswap za podajanje, večročni-zapis ('Multi-Hand Notation), in splošni siteswap (General Siteswap).
+
+Himna (tudi hvalnica; grško θιμνος himnos - napev) je neke vrsta oda. Lahko je spesnjena v antičnih umetnih kiticah, dostikrat tudi v ambrozijanskih. V novejšem času ima tako kakor oda navadno predpisano vsebino.
+
+Himne so lahko nabožne ali posvetne. Nabožne dajejo duška religioznemu čustvovanju in imajo značaj molitve, posvetne bude narodna in domoljubna čustva. Oboje so napisane za množico, namenjene so zborovskemu petju in od nekdaj so jih peli stoje.
+
+Pri Grkih je himna povzdigovala poganske bogove in junake. Krščanstvo je prevzelo himno kot spev v časti in slave krščanskemu Bogu ali svetnikom. Za očeta latinske cerkvene himne velja škof Ambrozij. Med poznejšimi avtorji himn so znani pri Nemcih Freidrich Gottlieb Klopstock, pri Italijanih Alessandro Francesco Tommaso Manzoni, pri Črnogorcih Petar Petrović Njegoš, pri Hrvatih Petar Preradović.
+
+V novejšem času so se zlasti razširile državne in narodne himne. Vsaka država in vsak narod jo ima. Take himne opevajo domoljubje in vdanost domovini in državi.
+
+Včasih nastane himna kot izraz pripadnosti kakemu skupinskemu gibanju. Tako je leta 1792 nastala francoska pesem revolucije »Marseljeza« (»Allons, enfants de la patrie« - Naprej otroci domovine); njen avtor Rouget de Lisle jo je namenil francoski vojski na nemških mejah. Podobno je nastala »Internacionala«, mednarodna himna delavskega gibanja, ki jo je leta 1871 napisal francoski delavec Eugene Pottier, uglasbil pa 1888 prav tako francoski delavec Pierre Degeyter.
+
+Leta 1834 je Samo Tomašik v Pragi zložil himno »Hej Slováci«, ki se je kmalu spremenila v »Hej Slovani« in postala vseslovanska himna. Na Slovenskem je po spremenjenem besedilu hrvaškega pesnika Vladimirja Nazorja in v prevodu Mileta Klopčiča ponovno zaživela v bivši Socialistična federativna republika Jugoslavija kot državna himna. Prvo slovensko himno Naprej zastava slave pa je na besedilo Simona Jenka uglasbil Davorin Jenko.

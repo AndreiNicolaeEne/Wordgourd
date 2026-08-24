@@ -1,0 +1,17 @@
+Dum l'unesma mondomilito Bruxel okupesis dal Germana trupi, ma li ne domajis multe ol. En 1927 l'urbo gastigis la Kongreso Solvay pri Fiziko e Kemio, ed en 1935 eventis internaciona expozo en l'urbo. Dum la duesma mondomilito, Bruxel itere okupesis dal Germani, e domajesis plu multe kam dum l'unesma mondomilito. Westala Federiti liberigis ol erste ye la 3ma di septembro 1944. L'aeroportuo di Bruxel, an l'urbo Zaventem, konstruktesis dal Germani en 1940.
+
+Pos la milito, l'urbo modernigesis profunde. En 1952, kompleteskis la ferovoyala konekto Nordo-Sudo, e lua unesma lineo di subtera tramveturo (premetroo*) inauguresis en 1969. Ante, en 1958, l'urbo gastigis l'Expo 58, L'Internaciona ed Universal Expozo di Bruxel. En 1976 inauguresis lua unesma lineo di urbala ferovoyo. Fine, l'urbo divenis fakte "neformale la chef-urbo", unesme dil Europana Ekonomiala Komunitato e pose dil Europana Uniono, de la yari 1960a til nun.
+
+En 1989, pos modifiko en la konstituco di Belgia aprobita en 1988, kreesis la regiono "Bruxel chef-urbo", konsistanta ek 19 komoni, inkluzite Bruxel propre (Bruxelles-Ville). Ol havas bilinguala stando ed esas un ek la tri federala regioni de Belgia, esante l'altra du Flandria e Walonia. Ol indikesis Chef-urbo Europana di la Kulturo en 2000. En 2014 ol gastigis la 40ma renkontro dil G7.
+
+La paralelogrami havanta mem bazo, e inter mem paraleli, es egala inter li.
+
+Konsideras li du paralelogrami ABCD e BCFE, la du pri la mem bazo, BC, e inter la mem paraleli, BC et AF. Observez ke AD egalesas a BC (nam to esas la du bazi di paralelogramo ABCD), e BC egalesas a EF (nam to es la bazi di paralegramo BCFE), lore AD egalesas a EF.
+
+Or, ol havas sole tri posibliti per la poziciono di punto E relata a D ; E forsan ala sinistra de D, a punto D, od ala dextre di D. Examinas omna kazo:
+
+Se E jacas adsinistre de D, ED esas la komuna parto di AD e EF, lore ol esas posibla di verifikar ke AD e EF egalesas. Ma notez ke la lateri AB e DC egalesas, nam ol es di opoza lateri di paralelogramo ABCD. Anke, pro ke li punti A, E, D e F esas coline-ala, la anguli BAE e CDF egalesas. Konseque, la trianguli BAE e CDF egalesas, pro ke du lateri di la un egalesas a du lateri di l'altra, e angulo esas komuna. Do la paralelogrami ABCD e CDFE ne es ke di altra ordini di trapezo BEDC e la triangulo BAE (o CDF).
+
+Se E falas a punto D, on trovas simila fasono a 1 ke la trianguli BAE e CDF es egala, e lore ke ol es posibla obtenar kam la paralelogrami ABCD e BCFE en ad-juntanta ala komuna parto BCD la triangulo BAE (o bono CDF).
+
+Se E jacas addextre de D, notez ke, pro ke la linei AD e EF egalesas, en ad-juntanta a omna la lineo DE, ni trovas ke AE e DF egalesas. Per simila argumento a to uzita en la kazo 1 e 2, ol esas posibla di pruvar ke la trianguli BAE e CDF, e konseque la trapezi BADG e CGEF, egalesas. Lore, ol esas evidenta ke la paralelogrami ABCD e CDFE esas obtenita en ad-juntanta a komuna triangulo BCG la trapezo BADG (o CGEF).

@@ -1,0 +1,17 @@
+De Web baséiert op dräi Haaptkomponenten:
+
+dem Hypertext Transfer Protocol (HTTP), mat dem de Browser Informatioune vum Webserver ufroe kann,
+
+der Hypertext Markup Language (HTML), enger Dokumentebeschreiwungssprooch, déi d'Struktur an d'Verlinkung vum Dokument festleet an
+
+den Uniform Resource Locators (URL) als eendeiteg Bezeechner fir d'Ressourcen.
+
+D'Kommunikatioun am WWW baséiert um Client-Server-Prinzip. De Browser start als Client Kommunikatioun a fuerdert ee bestëmmtent Dokument, wat iwwer eng eendeiteg Adress (URL) gekennzeechent ass, beim Server un. Dofir gëtt den einfachen HTTP-Protokoll benotzt. Ass dat Dokument verfügbar, an de Benotzer autoriséiert op dës Informatioun zouzegräifen, da liwwert de Server d'Dokument aus. Am anere Fall liwwert een eng Feelermeldung. A béide Fäll ass Kommunikatioun domat eriwwer.
+
+Elo muss d'Dokument vum Browser interpretéiert an duergestallt ginn. Wéi dës Duerstellung ausgesäit ass iwwer HTML definéiert. HTML ass eng Beschreiwungssprooch an där Websäite verfaasst ginn. Sou een Dokument beinhalt souwuel déi eigentlech Informatioun als och d'Informatioun iwwer d'Dokumentestruktur a Form vun Tags.
+
+Zu den dräi Haaptkomponente si mat der Zäit nach follgend Technike bäikomm:
+
+Cascading Style Sheets (CSS) beschreiwen de Layout vu Websäiten, am Géigendeel zu HTML, wou am strenge Sënn just d'Struktur beschriwwe gëtt. Iwwer CSS gëtt zum Beispill festgeluecht, a wat fir enger Schrëftaart, -gréisst an -faarf eng Iwwerschrëft soll duergestallt ginn.
+
+Extensible Markup Language (XML) erméiglecht eng gréisser Flexibilitéit wéi HTML. Sou kënnen uwändungsspezifesch Markup-Sproochen definéiert ginn, déi fir speziell Asazberäicher bestëmmt sinn. Wireless Markup Language (WML) baséiert zum Beispill op XML.

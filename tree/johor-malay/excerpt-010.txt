@@ -1,0 +1,11 @@
+Kelajuan cahaya (Jawi: كلاجوان چهاي) dalam vakum ialah sama dengan 299,792,458 meter sesaat. Ini lebih kurang 3 × 108 m/s (dalam notasi saintifik) — 300,000 kilometer sesaat, atau 186,000 batu sesaat.
+
+Menurut kepada teori moden teori fizikal, cahaya dan semua sinaran elektromagnetik bergerak pada kelajuan yang malar di dalam vakum, iaitu kelajuan cahaya. Ia merupakan pemalar fizik dan boleh diwakili oleh (dari perkataan Latin celeritas, iaitu "kelajuan"). Tanpa mengira rangka rujukan oleh pemerhati yang membuat ukuran atau kelajuan objek yang memancarkan cahaya tersebut, setiap pemerhati akan mendapat nilai yang sama untuk untuk kelajuan cahaya. Tiada maklumat yang boleh bergerak lebih laju daripada tanpa menyalahi hukum sebab akibat yang tidak pernah diperhatikan lagi.
+
+Menurut kepada takrifan yang paling dominan, yang didefinisikan pada tahun 1983, kelajuan cahaya ialah
+
+c = 299,792,458 meter sesaat, atau lebih kurang 30 sentimeter (12 inci) per nanosaat. Nilai c didefinisikan sebagai ketelapan ruang kosong () dan kebolehaliran ruang kosong () dalam unit (cara efisyen MKSA) ialah
+
+. Pemalar-pemalar ini wujud dalam persamaan Maxwell, yang menerangkan tentang keelektromagnetan.
+
+Oleh kerana kelajuan cahaya di dalam vakum adalah malar, maka sesuai untuk mengira masa dan jarak dalam ungkapan . Kedua-dua unit SI bagi masa dan unit SI bagi jarak telah didefinisikan dalam ungkapan panjang gelombang dan kitaran cahaya. Satu meter telah didefinisikan dalam ungkapan pada tahun 1983. Dalam ungkapan c, satu meter telah didefinisikan sebagai 299792458-1c. Ini bersandarkan kepada nilai malar kelajuan cahaya untuk semua pemerhati.

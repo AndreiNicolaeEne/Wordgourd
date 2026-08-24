@@ -1,0 +1,39 @@
+B. Small Business Regulatory Enforcement Fairness Act
+
+The Small Business Regulatory Enforcement Fairness Act (SBREFA) of
+1996 requires FAA to comply with small entity requests for information
+or advice about compliance with statutes and regulations within its
+jurisdiction. A small entity with questions regarding this document,
+may contact its local FAA official, or the person listed under the FOR
+FURTHER INFORMATION CONTACT heading at the beginning of the preamble.
+To find out more about SBREFA on the Internet, visit http://www.faa.gov/regulations_policies/rulemaking/sbre_act/ .
+
+List of Subjects 14 CFR Part 91 Aircraft, Aviation safety.
+
+14 CFR Part 121 Air carriers, Aircraft, Aviation safety, Safety, Transportation.
+
+14 CFR Part 125 Aircraft, Aviation safety.
+
+The Amendment In consideration of the foregoing, the Federal Aviation
+Administration amends chapter I of title 14, Code of Federal
+Regulations as follows:
+
+PART 91--GENERAL OPERATING AND FLIGHT RULES
+
+0
+1. The authority citation for part 91 continues to read as follows:
+
+Authority: 49 U.S.C. 106(g), 1155, 40103, 40113, 40120, 44101,
+44111, 44701, 44704, 44709, 44711, 44712, 44715, 44716, 44717,
+44722, 46306, 46315, 46316, 46504, 46506-46507, 47122, 47508, 47528-
+47531, articles 12 and 29 of the Convention on International Civil
+Aviation (61 Stat. 1180).
+
+0
+2. In Appendix E to part 91, revise the entry for Altitude under the
+column heading ``Parameters'' to read as follows:
+
+Installed system
+\1\ minimum Sampling Resolution \4\ read
+Parameters Range accuracy (to interval (per out
+recovered data) second)

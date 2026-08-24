@@ -1,0 +1,11 @@
+4. cikk Fúziók, szétválások és szervezeti átalakítások
+
+Az egyesülés, szétválás vagy bármely más olyan szervezeti átalakítás esetén, amely hatással lehet a statisztikai kötelezettségek teljesítésére, az érintett adatszolgáltatónak tájékoztatnia kell az illetékes NKB- t - amint az ilyen művelet végrehajtásának szándéka nyilvánosságra kerül és még kellő időben az egyesülés, szétválás vagy más szervezeti átalakítás hatálybalépését megelőzően - az e rendeletben megfogalmazott statisztikai adatszolgáltatási kötelezettségek teljesítése érdekében tervezett eljárásokról.
+
+5. cikk Az adatszolgáltatás határideje Az NKB-knak a 3. cikk (1) és (2) bekezdése szerint szolgáltatott statisztikai információkat a tárgyhónapot követő hónap végét követő 15. munkanap végéig kell elküldeniük az EKB részére. Az NKB-k döntik el, hogy milyen határidővel kérik az adatokat az adatszolgáltatóktól az említett határidő betartása érdekében.
+
+6. cikk Számviteli szabályok a statisztikai adatszolgáltatás alkalmazásában
+
+(1) A (2) és (3) bekezdésben meghatározott feltételekkel a POGI-knak az e rendelet szerinti beszámolási kötelezettségük teljesítése alkalmazásában az adott ország jogrendszerébe átültetett, a bankok és más pénzügyi intézmények éves beszámolójáról és konszolidált éves beszámolójáról szóló, 1986. december 8-i 86/635/EGK tanácsi irányelvben (5), és bármely más vonatkozó nemzetközi számviteli standardban megállapított nemzetközi számviteli szabályokat kell követniük.
+
+(2) A betéti kötelezettségeket és hitelek összegét névleges hónap végi állományként kell jelenteni. A betéti kötelezettségek és a hitelek más eszközzel és forrással nem nettósíthatók.

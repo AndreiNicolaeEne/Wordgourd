@@ -1,0 +1,29 @@
+Di ziitlichi Ableitig vo dä Beschlünigung (also di dritti Ableitig vom Ortsvektor nach dä Ziit) wird Ruck gnännt:
+
+Es Auto bewegt sich zum Ziitpunkt mit enere Gschwindigkeit vo im Vergliich zu dä Strass (das entspräched 36 km/h). Zäh Sekundä spöter, zum Ziitpunkt bsitzt s e Gschwindigkeit vo (das sind 108 km/h). Di durchschnittlichi Beschlünigung vom Auto isch dänn
+
+Dä Wärt vo de Beschlünigung bedütet, dass d Gschwindigkeit vom Auto pro Sekundä um (also um 7,2 km/h) zuenimmt.
+
+D Masseinheit für d Aagab vonere Gschwindigkeit isch standardgmäss d Einheit Meter pro Quadratsekunde (m/s2), also (m/s)/s. Allgemein chönd Belaschtigä vo technischä Grät oder d Aagab vo Belaschtigsgränzä als g-Chraft, also als "Chraft pro Massä", erfolgä. Das wird als Villfachs vo dä normalä Erdbeschlünigung (Normfallbeschlünigung) g = 9,80665 m/s2 aagä. I dä Geowüssäschaftä isch näbebi au d Einheit Gal = 0,01 m/s2 gebrüüchlich.
+
+Dä Begriff Beschlünigung wird umgangssprachlich au dänn bruucht, wänn sich d "Gschwindigkeitszuenahm" nöd uf e rüümlichi Gschwindigkeit bezieht. Mit Beschlünigung cha debii zum Biispiil di zweiti ziitlichi Ableitig vonere dimensionslosä Grössi oder au di erschti ziitlichi Ableitig vonere Frequänz oder Wachstumsratä gmeint si.
+
+Di geographischi Breiti φ (englisch latitude, au düütsch abgkürzt mit Lat., lat. oder LAT) isch die nördlichi oder südlichi Entfernig vomene Ort (Punkt) vo dr Erdoberflächi vom Äquator und wird im Winkelmass aagee. D Breiti chann Wert vo 0° (am Äquator) bis 90° (am Pol) aaneeh. Nord und Süd sind debii als Vorzeiche aazluege.
+
+Breitechreis sind Chreis, wo parallel zur Äquatorebeni in Ost-West-Richtig uf der (idealisierte) Erdoberflächi mit ere konstante geografische Breiti β verlaufed.
+
+Ort mit dr gliiche Breiti liged uf eim Breitechreis, au Breiteparallel oder Parallelchreis gnännt.
+
+Zur Identifikation vomene Punkt uf dr Erdoberflächi - zur Beschtimmig vo siinere geographische Laag – wird zuesätzlich zur Breiti d Aagaab vo siinere Geographische Längi benötigt.
+
+Di geographischi Breiti wird sexagesimal in Grad, Minute und Sekunde aageeh, wobii ei Minute 60 Sekunde und eis Grad 60 Minute entschpreched (äänlig wie i dr Ziitaagaab). Bi Dezimalgrad/-minute/-sekunde werded Nachkommaschtelle aageeh.
+
+Es git verschiideni Methode vo dr Darschtellig, z. B.:
+
+Grad, Dezimalminute: 66° 43,2'. Dezimalgrad: 66,72° Grad, Minute, Sekunde: 66° 43' 12"
+
+Grad, Minute, Dezimalsekunde: 66° 43' 12,96" Nur di erschti Form isch i dr Flugnavigation und sit langem au i dr Nautik gebrüüchlich.
+
+Dr Abschtand vonere Bogeminute betreit am Äquator und uf eim Meridian ei Seemeile bzw. 1852 Meter, während dr Abschtand (vonere Bogeminute) auf eme Breitekreis φ (nördlich oder südlich vom Äquator) um de Faktor cosφ chliiner isch.
+
+Bi dr Aagaab vo Ortskoordinate isch d Breiti immer zerscht aazgeeh, dänn erscht d Längi: „B vor L, wie im Alphabet“. Ihre Grund hät die Konvention i dr Gschicht: d Breiti hät bereits Jahrhunderti vor dr Längi zimlich exakt beschtimmt werde chönne.

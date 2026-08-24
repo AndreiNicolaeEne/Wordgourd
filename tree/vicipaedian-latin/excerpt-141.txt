@@ -1,0 +1,19 @@
+Semantica: coniunctio signorum et rerum quas attingant; eorum denotata significata, vel significatio
+
+Syntactica: coniunctiones signorum in structuris formalibus
+
+Pragmatica: coniunctio signorum et actorum qui signis utuntur, vel interpretes
+
+Semiotica fines anthropologicos magni momenti habere saepe videtur; exempli gratia, Humbertus Eco proponit omne culturae phaenomenon ut communicatio investigari posse. Nonnulli autem semiotici logicales scientiae dimensiones attendunt, regiones investigantes quae ad scientiam vitae pertinent—sicut quomodo organismi res praedicunt et sese ad eorum locum proprium in mundo accommodant (vide semiosis). Rationes semioticae generatim signa vel rationes signorum pro re studii accipiunt: communicatio rerum ab organismis vivis in biosemiotica tractatur, zoosemiotica non exclusa.
+
+Moles (-is, f.) (symbolum: mol) est quantitatis materiae unitas quae per conventum anni 1969 tantis entitatibus correspondet ut quantae atomorum carboniorum sunt in parte 0.012 chiliogrammatis carbonii. Secundum conventum anni 1980 asciscitur atomos carbonii esse sine vinculi et in statu quantico fundamentali quiescendi.
+
+Candela (symbolum: cd) est intensitatis luminosae unitas quae mensura est sensitivitatis oculi humani et intensitatis lucis physicae coniunctim. Unitas candelae definitur ut una candela communis habeat intensitatem luminosam comparabilem. Per conventum anni 1979 una candela correspondet intensitate luminosa quam fons monochromatica lucis edit si sua frequentia est 540 x 1012 Hertz et sua intensitas physica est 1/683 wattii per steradian.
+
+Omnes mensurae metricae praefixis utuntur ad novas unitates, quae magnitudines communicant, creandas. Si magnitudo maior est quam magnitudo unitatis, praefixum e lingua Graeca provenit, ut hecto- a verbo Graeco ἑκατόν 'centum'; si minor, e lingua Latina, ut centi- a "centum." Quodque praefixum significat potentiam decimorum sic:
+
+Ergo, centimetrum significat spatium centesimae metri; chiliogramma significat massam mille grammatum.
+
+Per compositionem unitatium primariarum, omnes unitates secundarias derivantur, exempli causa, de area metrum quadratum (m2), de volumine metrum cubicum (m3), et de vi newtonium (N = kg m/s2). In Systemate Internationale, variae unitates secundariae physicis praeclaribus nominata sunt:
+
+Nonnullae quantitates definiuntur ut analogia duarum quantitatium unitatibus identicis. Eae quantitates speciales dicuntur habere unitatem unius. Exempla in Systemate Internationale sunt unitates angulorum. Unum radian anguli plani, ut definitur, est circuli absida ab angulo subtenta divisa a radio. Unum steradian est sphaerae area ab angulo solido subtenta divisa a radio quadrato.

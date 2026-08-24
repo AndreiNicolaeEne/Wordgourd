@@ -1,0 +1,13 @@
+a) i dati di cui alla tabella 1 dell’allegato, vale a dire informazioni relative alle controparti di un contratto;
+
+b) i dati di cui alla tabella 2 dell’allegato, vale a dire informazioni relative al contratto derivato concluso tra le due controparti.
+
+2. Ai fini del paragrafo 1, per conclusione di un contratto si intende «l’effettuazione di un’operazione» ai sensi dell’articolo 25, paragrafo 3, della direttiva 2004/39/CE del Parlamento europeo e del Consiglio (4).
+
+3. La segnalazione unica effettuata per conto di entrambe le controparti contiene le informazioni di cui alla tabella 1 dell’allegato relative a ognuna delle controparti. Le informazioni di cui alla tabella 2 dell’allegato sono presentate soltanto una volta.
+
+4. Nel caso in cui venga effettuata una segnalazione unica per conto di entrambe le controparti, se ne fa menzione nel campo 9 della tabella 1 dell’allegato.
+
+5. Quando una controparte trasmette le informazioni relative ad un contratto ad un repertorio di dati sulle negoziazioni per conto della controparte, ovvero un terzo segnala un contratto ad un repertorio di dati sulle negoziazioni per conto di una o di entrambe le controparti, le informazioni trasmesse includono tutti i dati che sarebbero stati trasmessi se i contratti fossero stati segnalati al repertorio di dati sulle negoziazioni separatamente da ogni parte.
+
+6. Se un contratto derivato presenta caratteristiche tipiche di varie attività sottostanti, come indicate nella tabella 2 dell’allegato, nella segnalazione è indicata la categoria di attività a cui il contratto si avvicina maggiormente, secondo quanto concordato dalle controparti prima di trasmettere la segnalazione al repertorio di dati sulle negoziazioni.

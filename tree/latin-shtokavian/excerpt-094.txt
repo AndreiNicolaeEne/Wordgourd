@@ -1,0 +1,19 @@
+Kompleksni brojevi su u prvobitnoj predstavi izrazi oblika , gde su a i realni brojevi, jedan simbol.
+
+Sabiranje, množenje i deljenje kompleksnih brojeva definiše se formulama:
+
+U kompleksnom broju broj se naziva realni deo, piše se , a broj je imaginarni deo, piše se .
+
+Kompleksan broj čiji je realni deo jednak nuli naziva se čisto imaginarni broj.
+
+Realni brojevi predstavljaju poseban slučaj kompleksnih brojeva (kad je koeficijent uz jednak nuli). Iako se kompleksnim brojevima ne izražavaju količine, kao što je to slučaj s realnim brojevima, njihovo uvođenje koristi u rešavanju problema sastavljenih u terminima realnih brojeva, na primer, problema o prolazu struje kroz provodnik, o profilu krila aviona (koristeći funkcije Žukovskog), itd.
+
+Nije manje važna ni primena kompleksnih brojeva na čisto matematičke probleme. Tako na primer, za nalaženje korena kubne jednačine potrebne su operacije s kompleksnim brojevima. Istorijski, kompleksni brojevi su uvedeni radi rešavanja kvadratne jednačine. Činjenica da kompleksni brojevi ne izražavaju veličine dala je povod za idealističko tumačenje kompleksnih brojeva (G. Lajbnic). velika zasluga u smislu materijalističkog tumačenja kompleksnih brojeva pripada L. Ojleru. Kompleksni broj se aksiomatski definiše kao uređen par realnih brojeva . Formule sabiranja, množenja, deljenja se postuliraju ovako:
+
+Par se naziva imaginarna jedinica i označava simbolom . Iz poslednjih formula proizilazi da je . Operacije sa kompleksnim brojevima zadovoljavaju obične zakone komutativnosti, distributivnosti i asocijativnosti (kao i u slučaju realnih brojeva). Međutim, operacije s kompleksnim brojevima pod radikalima (korenima) donekle se razlikuju od analognih operacija s realnim brojevima. Tako je
+
+Otkriće bicikla nije vezano za jedno određeno vrijeme odnosno ime konkretnog inovatora. Kroz historiju je bilo više primjera vozila pokretanog ljudskom snagom, ali su često ona bila bitno drugačija od današnjeg koncepta bicikla. Osoba koja se spominje kao prvi vozač bicikla je njemački baron Karl von Dreis, koji je 1817. godine svojevrsni bicikl na guranje nazvan draisine, a koji još postoji u muzeju Paleis het Loo u Apeldoornu, Holandija. Između 1850. i 1860. godine je Francuz Ernest Michaux sa svojim učenikom Pierre Lallementom razvijao bicikl s pedalama na prednjem velikom točku. Taj bicikl Michaux je kasnije i patentirao. Ovakvi bicikli bili su teško upravljivi i opasni, jer su padovi bili česti. Problemi s upravljanjem su donekle smanjeni uvođenjem upravljača i pomicanja sjedala u bolji položaj, međutim pravi napredak je bio uvođenje lančanog pogona kojeg su osmislili J. K. Starley, J. H. Lawson i Shergold. Starleyev model bicikla iz 1885. godine se najčešće smatra prvim modernim biciklom. Dalje poboljšanje bilo je uvođenje pnemuatskih guma 1888. godine, koje je uveo Škot John Boyd Dunlop.
+
+Osnovni koncept bicikla do današnjih dana nije se bitno mijenjao, osim što je tehnološki napredak donio primjenu kvalitetnijih materijala u izradi, te su današnji bicikli daleko upravljiviji i sigurniji.
+
+U zavisnosti od namjene, bicikli se bitno razlikuju po konstrukciji, veličini točkova i širini guma, obliku kostura i upravljača te drugoj dodatnoj opremi. Sportski bicikli su namijenjeni biciklističkim takmičenjima, tipično su izrađeni od lakših i čvršćih materijala, uz minimum dodatne opreme kao što su blatobrani, svjetla i sl. Bicikli za rekreaciju ili za transport najčešće imaju dodatnu opremu koja čini vožnju udobnijom ili praktičnijom.

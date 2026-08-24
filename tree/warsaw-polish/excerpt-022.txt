@@ -1,0 +1,9 @@
+Sylaba (stgr. συλλαβή syllabḗ), zgłoska – element struktury fonologicznej aktu komunikacyjnego, który pomimo pozornej oczywistości wciąż nie ma ustalonej jednoznacznej definicji. Prób zdefiniowania podejmowało się wielu badaczy.
+
+Zdaniem Leokadii Dukiewicz sylabę można rozumieć jako uwarunkowane fizjologicznie zjawisko segmentacji wiązek głosek, zachodzące podczas artykulacji, wynikające ze zmian stopnia rozwarcia kanału głosowego i natężenia drgań więzadeł głosowych, odbieranych jako zmiany intensywności i donośności głosu.
+
+Sawicka rozumie sylabę jako najmniejszą samodzielną jednostkę fonetyczną, której funkcją jest segmentacja wypowiedzi, mająca na celu ułatwienie artykulacji i percepcji (u nadawcy) oraz recepcji (u odbiorcy) wypowiedzi. Podział na sylaby miałby mieć w tym wypadku charakter skonwencjonalizowany (umowny) i opierać się na tym samym uzusie społecznym, jakim jest język naturalny.
+
+Podstawową różnicą definicji jest przyczyna powstania sylabizacji – czy jest to fizjologiczne uwarunkowanie, wynikające z konstrukcji aparatu artykulacyjnego (jak uważa L. Dukiewicz), czy wynikający z językowej konwencji pragmatyczny mechanizm podnoszący ekonomię języka (jak twierdzi I. Sawicka)
+
+Cechą wspólną dla tych definicji jest uznanie sylabizacji za zjawisko segmentacji, tj. podziału potoku mowy na pewne wyróżnialne artykulacyjnie (ale nie funkcjonalnie) segmenty. Mechanicznie można zatem uznać sylabę, za fragment aktu mowy ograniczony dwoma obserwowalnymi spadkami natężenia głosu z zaznaczeniem miejsca jego szczytowej intensywności. Sylaba musi zawierać co najmniej jeden ośrodek (nucleus), którym jest zazwyczaj samogłoska (w niektórych językach może to być też spółgłoska sylabiczna – sonant). Jeśli ośrodek poprzedzony jest spółgłoskami, nazywamy je nagłosem, jeśli z kolei następują po nim jakieś spółgłoski, tworzą one wygłos.

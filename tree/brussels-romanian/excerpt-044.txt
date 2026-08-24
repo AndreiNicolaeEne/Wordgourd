@@ -1,0 +1,15 @@
+(f) mecanismele de siguranță și de creare a unor copii de rezervă în cazul unor erori ale hardware-ului sau software-ului, mai ales dacă instrucțiunile de utilizare în format electronic sunt integrate în dispozitiv;
+
+(g) situațiile de urgență medicală previzibile care necesită disponibilitatea informațiilor pe suport de hârtie;
+
+(h) impactul întreruperii temporare a accesului la site-ul internet specific sau la internet în general, sau al unei probleme de acces din unitatea medicală, precum și măsurile de siguranță disponibile pentru a face față unei astfel de situații;
+
+(i) evaluarea perioadei de timp în care instrucțiunile de utilizare trebuie să fie furnizate pe suport de hârtie la cererea utilizatorilor.
+
+(2) Evaluarea riscurilor pentru furnizarea instrucțiunilor de utilizare în format electronic se actualizează ținându-se cont de experiența acumulată în etapa ulterioară introducerii pe piață.
+
+Articolul 5 Producătorii dispozitivelor menționate la articolul 3 pot furniza instrucțiuni de utilizare în format electronic în locul celor pe suport de hârtie în următoarele condiții:
+
+1. evaluarea riscurilor menționată la articolul 4 demonstrează că furnizarea de instrucțiuni de utilizare în format electronic menține sau ameliorează nivelul de siguranță obținut prin furnizarea de instrucțiuni de utilizare pe suport de hârtie;
+
+2. producătorii oferă instrucțiuni de utilizare în format electronic în toate statele membre în care produsul este pus la dispoziție sau pus în funcțiune, cu excepția cazului în care lipsa furnizării este justificată în mod corespunzător în evaluarea riscurilor menționată la articolul 4;

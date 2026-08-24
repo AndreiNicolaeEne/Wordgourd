@@ -1,0 +1,23 @@
+Nīderlande (nīderlandiešu: Nederland, izrunā: [ˈneɪdərlɑnt]) ir valsts Rietumeiropā, daļa no Nīderlandes Karalistes. To ziemeļos un rietumos apskalo Ziemeļjūra, austrumos tā robežojas ar Vāciju, bet dienvidos ar Beļģiju. Nīderlandes kopējā platība ir 41 543 km² un to ietekmē mērenās joslas klimats. Ziemeļos atrodas uz ļoti zemi novietotas zemes, bet virzoties uz valsts austrumiem un dienvidiem, reljefs kļūst augstāks, līdz pašos dienvidos sasniedz 150 līdz 320 metru augstumu. Nīderlandi regulāri apdraud plūdi, jo aptuveni puse no valsts teritorijas atrodas zem jūras līmeņa. Nīderlande ar 16 856 620 iedzīvotājiem ir septītā lielākā Eiropas Savienības dalībvalsts.
+
+Nīderlandē ir parlamentāra demokrātija un konstitucionālā monarhija, kas sastāv no 12 provincēm. Galvaspilsēta un lielākā pilsēta ir Amsterdama, bet valsts valdība atrodas Hāgā. Kopā ar Beļģiju un Luksemburgu, Nīderlande veido tā saukto Beniluksa ekonomisko savienību.
+
+Nīderlande 1952. gadā kļuva par Eiropas Kopienas (EC) dibinātājvalsti. Eiropas Kopiena 1993. gadā kļuva par Eiropas Savienību. Nīderlande kopš 1985. gada ir daļa no Šengenas zonas, un 1999. gadā tajā tika ieviesta Eiropas valūta eiro.
+
+Spēks ir fizikāls lielums, kas raksturo ķermeņu un / vai lauku mijiedarbību. Tā kā spēka jēdziens tiek lietots vienlīdz ar mijiedarbības jēdzienu, spēks ir iedalāms tāpat kā fundamentālās mijiedarbības veidi šādi: elektromagnētiskais, stiprais, vājais, gravitācijas. Visbiežāk spēka jēdziens tiek lietots klasiskajā mehānikā, kur ar to nosauc gravitācijas spēku (atbilst gravitācijas fundamentālajai mijiedarbībai), berzes spēku, elastības spēku un vides pretestības spēkus (atbilst elektromagnētiskajai fundamentālajai mijiedarbībai). Tādējādi spēks parasti tiek uzskatīts par paātrinājuma izraisītāju, kā to nosaka Otrais Ņūtona likums.
+
+Spēks ir vektoriāls lielums, kura modulis raksturo mijiedarbības lielumu (intensitāti), bet vērsums — mijiedarbības virzienu telpā. SI spēku mēra ņūtonos. 1 N = (1 kg·1m)/1s2. To apzīmē ar .
+
+Dažādu spēku salīdzināšanai, proti, katra atsevišķa spēka mērīšanai, iespējams pielietot divas metodes: dinamisko un statisko. Dinamiski spēks tiek mērīts pēc tā radītās kāda ķermeņa kustības izmaiņas jeb paātrinājuma spēka darbības virzienā. Statiski spēku mēra pēc tā izraisītās ķermeņa deformācijas.
+
+Ņūtona otrais likums apgalvo, ka spēks ir vienāds ar masas un paātrinājuma reizinājumu, t.i.,
+
+kur ir spēks (N) ir masa (kg) ir paātrinājums (m/s2)
+
+Spēku var izraisīt dažādi procesi, piemēram, berze izraisa berzes spēku. Līdz ar to spēkus iedala pēc to darbības. Spēku veidi ir šādi:
+
+Ampēra spēks Arhimēda spēks Atgrūšanās spēks
+
+Ārējie spēki Berzes spēks Cēlējspēks Centrtieces spēks
+
+Elastības spēks Gravitācijas spēks Iekšējie spēki

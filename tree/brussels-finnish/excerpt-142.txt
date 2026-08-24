@@ -1,0 +1,9 @@
+1. Virasto soveltaa EU:n turvallisuusluokiteltujen tietojen suojaamista koskevia komission turvallisuussääntöjä.
+
+2. Virasto voi omissa menettelysäännöissään vahvistaa säännöksiä arkaluonteisten mutta turvallisuusluokittelemattomien tietojen käsittelemiseksi. Näissä säännöksissä käsitellään muun muassa tällaisten tietojen vaihtoa, käsittelyä ja säilyttämistä.
+
+22 a artikla Eturistiriidat 1. Hallintoneuvoston ja hyväksyntälautakunnan jäsenten, toimitusjohtajan sekä kansallisten asiantuntijoiden ja tarkkailijoiden on tehtävä sitoumuksistaan ja etunäkökohdistaan ilmoitus, jossa he toteavat, onko olemassa heidän riippumattomuuttaan mahdollisesti vaarantavia välittömiä tai välillisiä etunäkökohtia. Ilmoituksen on oltava täsmällinen ja täydellinen. Ilmoitus on tehtävä kirjallisena palvelukseen ottamisen yhteydessä, ja se on uusittava vuosittain. Sen tiedot on päivitettävä aina tarvittaessa ja erityisesti kyseisten henkilöidenhenkilökohtaisen tilanteen muuttuessa merkittävällä tavalla.
+
+2. Hallintoneuvoston ja hyväksyntälautakunnan jäsenten, toimitusjohtajan sekä kansallisten asiantuntijoiden ja tarkkailijoiden ja tilapäisiin työryhmiin osallistuvien ulkopuolisten asiantuntijoiden on ilmoitettava tarkoin ja täydellisesti ennen jokaista kokousta esityslistalla oleviin asioihin liittyvistä etunäkökohdistaan, jotka saattavat vaarantaa heidän riippumattomuutensa, ja pidättäydyttävä osallistumasta näitä kohtia koskevaan keskusteluun tai äänestykseen.
+
+3. Hallintoneuvoston ja hyväksyntälautakunnan on määriteltävä työjärjestyksessään käytännön järjestelyt 1 ja 2 kohdassa tarkoitettua etunäkökohtien ilmoittamista koskevaa sääntöä ja eturistiriitojen hallintaa varten.

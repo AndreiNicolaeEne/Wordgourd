@@ -1,0 +1,3 @@
+Kvar lengdeeining har ein tilsvarande eining for areal, nemleg arealet til eit kvadrat med den lengda ein har nytta. Areal kan derfor målast i kvadratmeter (m2), kvadratcentimeter (cm2), kvadratmillimeter (mm2), kvadratkilometer (km2), kvadratfot (ft2), kvadratyard (yd2), kvadratmile (mi2), og så vidare. Algebraisk kan ein tenkje på desse einingane som kvadrat av dei samsvarande lengdeeiningane.
+
+SI-eininga for areal er kvadratmeter. Omrekninga mellom to arealeiningar er kvadratet av omrekninga mellom dei tilsvarande lengdeeiningane. Til dømes sidan

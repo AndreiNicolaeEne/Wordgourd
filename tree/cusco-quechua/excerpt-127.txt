@@ -1,0 +1,33 @@
+Kumputaq, Kamariq, Yupariq icha Kumputaruraqa (Inlis simipi: computer, Kastilla simipi: computador, computadora, ordenador) willata (inhurmasyun ñisqakunata) wakichisqawan (purukramasqawan) yupana llamk'anawan - wakichi (purukrama ñisqawan) - llamk'apuyta atiq, pinchikillawan llamk'aq llamk'anam.
+
+Kumputaqqa illachinawan llamk'aqkunawan willayta yaykuchinapaq, thatkichinapaq, hallch'anapaq, lluqsichinapaq ima makina.
+
+Willa llamk'apuykuq antachakunaqa yaqa pusaykuqmantam, silisyumanta ruwasqa, ch'iñicha (pisilla milimitrum hatun), Antañiqichaq chhillpa (Inlis simipi computer chip) ñisqam.
+
+Antañiqichaq kapchiytaqa willa kapchiy (inhurmasyun tiknuluhiya) ninchikmi.
+
+Antañiqichaqpa rikuna, imayaymanta ruwasqantaqa sinchi kaq (Inlis simipi: hardware) ninchik. Lliw wakichisqakunataq - manam imayaymantachu ruwasqa - llamp'u kaq (software) ñisqam.
+
+John von Neumannpa 1946 watapi ñisqankamaqa Antañiqichaq kay pichqa uma rakiyuqmi:
+
+Chawpi willa llamk'apuykuq antacha (Central processing unit CPU)
+
+Ñiqiykuq antacha (Arithmetic logic unit ALU)
+
+Umanchaq antacha (Control unit) Pusaykuq antacha (Bus unit)
+
+Yuyaykuq antacha (Memory) Kutiykuq yuyaykuq antacha (Random access memory RAM)
+
+Tiyachkaq yuyaykuq antacha (Read only memory ROM)
+
+Yaykuchiq antacha, Lluqsichiq antacha (Input unit, Output unit)
+
+Qhawana pampa (Monitor), Siq'ina last'a (Graphic card)
+
+Antañiqichaq ch'ipachina (Printer) Yatana llumpa (Keyboard)
+
+Ukucha antacha = Antañiqichaq ukucha (Mouse)
+
+Sinchi phiruru (Hard disk) Ruqyana (Loudspeaker), Uyarina anta (Microphone), Ruqyana last'a (Sound card)
+
+Apana phiruru kuyuchina, Apana phiruru (Floppy disk drive, Floppy disk)

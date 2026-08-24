@@ -1,0 +1,11 @@
+Radio is draadlose telekommunikasie. Dit is 'n tegniek om met radiogolwe draadloos boodskappe vanaf die stuurder na die ontvanger oor te dra.
+
+Die grootste ontwikkeling van radio het egter eers van ongeveer 1920 af plaasgevind, toe elektroniese versterkingstegnieke algemeen begin gebruik is. Sedertdien het radio 'n belangrike plek in die samelewing ingeneem, in sowel die vorm van radio- as televisie-uitsendings (televisie maak in wese ook van radiotegniek gebruik), en ook in die vorm van radiotelekommunikasie.
+
+Hiertoe behoort die stelsels waarin verbinding onderhou word met vliegtuie, skepe, landvoertuie en selfs met ruimtetuie. Telegrafie, teleks en telefoonverbindings word gedeeltelik deur middel van radioverbindings met behulp van straalsenders en satelliete onderhou. Ander belangrike toepassings van radio is onder meer radar, radionavigasie en afstandbeheer.
+
+'n Radiostelsel bestaan uit minstens een sender en een ontvanger waartussen golwe gestuur word. Vir spraak en musiek word hierdie golwe gemoduleer en daarvoor word AM en FM (amplitude- en frekwensiemodulasie) asook die moderne pulsmodulasie (PM) gebruik.
+
+Aanvanklik vind klankoordrag plaas deur die amplitude van die dragolf te varieer. Die variasie is eweredig ten opsigte van die amplitude van die draende klanksien. Hierdie modulasievorm word amplitudemodulasie, of kortweg AM genoem.
+
+Edwin Armstrong ontdek 'n beter metode om die dragolf te moduleer: deur nie die amplitude nie, maar die frekwensie van die dragolf met die amplitude van die sein te varieer, ontstaan frekwensiemodulasie (FM).

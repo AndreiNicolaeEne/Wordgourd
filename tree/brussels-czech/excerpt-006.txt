@@ -1,0 +1,15 @@
+KAPITOLA XIII SPRÁVA ZAJIŠTĚNÍ Článek 49
+
+Zajištění poskytované nabízejícím 1. Před otevřením nabídkového okna pro dražbu dvoudenního spotu nebo pětidenních futures, je po nabízejících nebo zprostředkovatelích jednajících jejich jménem požadováno poskytnutí zajištění.
+
+2. Je-li o to požádáno, nepoužité zajištění složené neúspěšným nabízejícím se spolu s úrokem vzniklým z hotovostního zajištění uvolní co nejdříve po uzavření nabídkového okna.
+
+3. Je-li o to požádáno, zajištění složené úspěšným nabízejícím, které nebylo použito k vypořádání, se spolu s úrokem vzniklým z hotovostního zajištění uvolní co nejdříve po vypořádání.
+
+Článek 50 Zajištění poskytované dražitelem
+
+1. Před otevřením nabídkového okna pro dražbu dvoudenního spotu nebo pětidenních futures je po dražiteli jako zajištění vyžadováno pouze poskytnutí povolenek, jež systém zúčtování nebo systém vypořádání jednající jako depozitář podrží v úschově až do jejich dodání.
+
+2. Jsou-li provedena právní opatření a technické prostředky k dodání povolenek, zajištění poskytnuté členským státem s ohledem na dražbu futures nebo forwardů lze dle uvážení dražícího členského státu a se souhlasem dražební platformy uvolnit a nahradit povolenkami, jež systém zúčtování nebo systém vypořádání jednající jako depozitář podrží v úschově až do jejich dodání.
+
+3. Pokud se povolenky poskytnuté jako zajištění podle odstavce 1 nebo 2 nepoužijí, systém zúčtování nebo systém vypořádání je může dle uvážení dražícího členského státu zadržet v úschově na jmenovaném vkladním účtu, který systém zúčtování nebo systém vypořádání jednající jako depozitář drží, až do jejich dodání.

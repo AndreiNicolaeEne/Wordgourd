@@ -1,0 +1,13 @@
+Malārija (viduslaiku itāļu: mala aria — ‘slikts gaiss’), agrāk zināma kā purva drudzis, ir dzīvībai bīstama infekcijas slimība, ar kuru parasti slimo tropu un subtropu reģionos. Tā ir endēmiska vairāk nekā 100 valstīs. Ar šo slimību saslimst, kad protozoju parazīti plazmodiji (Plasmodium) nokļūst asinīs. Šo protozoju pārnēsātāji ir malārijas odi (Anopheles). Slimībai raksturīgās pazīmes ir periodiskas drudža lēkmes, drebuļi, splenomegālija (liesas palielināšanās), hepatomegālija (aknu palielināšanās) un anēmija. Slimības inkubācijas periods ir septiņas un vairāk dienas.
+
+Ar malāriju ik gadu saslimst no 350 līdz 500 miljoniem cilvēku, no kuriem 1,3–3 miljoni no šīs slimības mirst. 85–90% gadījumu ir reģistrēti Āfrikā uz dienvidiem no Sahāras, un lielākā daļa no inficētajiem ir bērni, kas jaunāki par pieciem gadiem.
+
+Pret malāriju lieto tādus medikamentus kā hlorokvīnu, doksiciklīnu un hinīnu.
+
+Malārijas odi, slimības pārnēsātāji, dzīvo lielākajā daļā pasaules, izņemot arktiskās un subarktiskās zonas, kā arī tuksnešus un augstu kalnu apvidus. Parasti ar malāriju nevar saslimt augstāk par 1500 metriem virs jūras līmeņa, bet labvēlīgos apstākļos šī robeža var sasniegt pat 3000 m virs jūras līmeņa. Taču, lai tie pārnēsātu slimības izraisītājus plazmodijus, ir nepieciešami daži apstākļi, kas nav visā pasaulē vienlīdzīgi. Augsts risks saslimt ar šo slimību ir tropu un subtropu reģionos, kur notiek strauja odu vairošanās un ir pielāgota vide malārijas izraisītāju plazmodiju izplatībai. Šie nosacījumi izpildās purvainās, siltās vietas, kur ir daudz nokrišņu. Malārijas odi aktīvi ir galvenokārt naktīs.
+
+Elektroniskais pasts (saīsinājumā e-pasts) ir ziņojumu sastādīšanas, nosūtīšanas un saņemšanas metode, izmantojot elektroniskās sakaru sistēmas. Terminu "e-pasts" attiecina gan uz Interneta e-pasta sistēmu, kas balstās uz SMTP protokolu, gan arī koplietošanas sistēmām, kas atļauj viena uzņēmuma vai organizācijas dalībniekiem apmainīties ar ziņojumiem savā starpā. Bieži vien koplietošanas sistēmas iekšienē izmanto nestandarta protokolus, taču ar dažādu vārteju palīdzību tās ļauj nosūtīt un saņem Interneta e-pastu. Daudzas organizācijas izmanto Interneta protokolus arī iekšējai e-pasta sarakstei.
+
+Ziņojumi, kas tiek sūtīti ar e-pasta palīdzību, nonāk pie adresāta sekunžu daļu ātrumā, atkarībā no tīkla un aparatūras apstrādes ātruma. Lai gan sākotnēji e-pasts bija paredzēts vienkāršu teksta ziņojumu nosūtīšanai citam lietotājam, mūsdienās ar to ir iespēja nosūtīt arī attēlus, mūzikas un citus failus.
+
+Pieņemsim, ka savā starpā vēlas sazināties Alise un Bobs. Vispirms ar vēstules lietotāja aģenta (mail user agent — MUA) palīdzību tiek sagatavots teksts un saņēmēja adrese e-pasta vēstules formātā. Pēc sūtīšanas komandas palaišanas:

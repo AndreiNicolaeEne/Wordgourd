@@ -1,0 +1,13 @@
+Nervová soustava (latinsky: Systema nervosum) slouží k zachycení a zpracování podnětů působících na organismus a zajištění odpovídající reakce na ně. Zajišťuje nervové řízení, které je rychlejší než hormonální, a tak je vhodnější k přenosu informací, které vyžadují rychlou koordinovanou reakci.
+
+Nervová soustava v pravém slova smyslu je vyvinuta pouze u mnohobuněčných živočichů. Jednobuněčné organismy nemají nervovou soustavu, přestože některé z nich jsou schopny do určité míry reagovat na vnější podněty. Pouze u prvoků se vyskytují tzv. neurofibrila pro pohyb brvami a formování tvaru buňky.
+
+U hub (Porifera) se nachází nervová soustava v podobě myoepithelialní sítě, která přenáší vzruch z buňky na buňku. Tato síť je podle novodobého výzkumu značně podobná kondukující síti Žahavců (Cnidaria). V obou případech se jedná o difůzní systém.
+
+Pravá nervová soustava, přítomna v určité formě u všech ostatních kmenů živočichů, je tvořena sítí specializovaných nervových buněk – neuronů. Podněty jsou přijímány receptory ve smyslových orgánech (exteroreceptory) nebo ve vnitřních orgánech a tkáních (proprioreceptory). Neurony pak zajišťují přenos vzruchu do efektoru - výkonného orgánu, kterým je buď sval nebo žláza.
+
+Průběh vzruchu Receptor ⇒ Neuron ⇒ Efektor se nazývá reflex a je základem všech nervových činností.
+
+V nejjednodušším případě přenosu vzruchu stačí jen jediný neuron. Jeho výběžky přijímají podněty z receptoru a zároveň se jeho jiné výběžky dotýkají efektoru.
+
+Rozptýlená (difúzní) nervová soustava je nejprimitivnější typ nervové soustavy. Typická je např. pro kmen žahavců. Neurony jsou zde víceméně rozptýleny, netvoří shluky a jsou spojeny nepolarizovanými synapsemi, takže vzruchy mohou procházet oběma směry. U žahavců jsou neurony blíže gastrule. Do značné míry je nervová soustava žahavců autonomní: oddělená část těla si zachovává schopnost přijímat podněty a reagovat na ně.

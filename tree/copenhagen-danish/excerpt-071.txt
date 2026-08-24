@@ -1,0 +1,15 @@
+Ikke at forveksle med den finske by Kemi.
+
+Der er for få eller ingen kildehenvisninger i denne artikel, hvilket er et problem. Du kan hjælpe ved at angive troværdige kilder til de påstande, som fremføres i artiklen.
+
+Denne artikel bør gennemlæses af en person med fagkendskab for at sikre den faglige korrekthed.
+
+Kemi (græsk: χημεία, tr. chymeia) er studiet af de basale atomare byggesten i naturen, og hvordan de kan kombineres til at danne stoffer i fast fase, væskefase og gasfase, som former liv og alt andet, vi kender. Kemien undersøger molekyler i alle aspekter fra deres dannelse, til deres vekselvirkninger og helt til den måde, hvorpå de går i stykker.
+
+Atomteorien er en grundlæggende teori indenfor kemien. Teorien siger, at alt stof er dannet af en mængde meget små enheder kaldet atomer.
+
+En af de første love, der blev opdaget, og som ledte til fremkomsten af kemien som en videnskab, er stofbevarelsesloven. Loven siger, at der ikke sker nogen ændring i atomantallet under en almindelig kemisk reaktion. Det betyder, at hvis man starter med 10.001 atomer og lader disse gennemgå en række kemiske reaktioner, så vil man stadig have 10.001 atomer, når reaktionerne er løbet til ende.
+
+Stofmængden – antallet af molekyler angivet i mol – kan imidlertid sagtens være forandret, idet der i kemiske reaktioner brydes kemiske bindinger (og dannes nye). Herved dannes der (som regel) nye molekyler, som hver især kan indeholde flere eller færre atomer, og dermed er stofmængden ændret.
+
+Eksempel: 2 H2 + O2 → 2 H2O Hvis 6 mol dihydrogen (brint) reagerer fuldstændigt med 3 mol dioxygen (ilt), dannes der 6 mol vand. Den samlede stofmængde (antallet af molekyler) er altså gået fra 9 mol til 6 mol. Massen vil ligeledes være den samme, når der er gjort rede for den energi, der er tilført eller fjernet.

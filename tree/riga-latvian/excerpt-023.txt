@@ -1,0 +1,17 @@
+Gāze ir vielas agregātstāvoklis, kam raksturīga molekulu haotiska kustība. Gāzēm ir mazs blīvums, maza viskozitāte, tās pieņem trauka formu, kurā tās atrodas. Gāzes paaugstinātā spiedienā ir viegli sašķidrināmas.
+
+Gāzes bieži uzglabā metāla balonos paaugstinātā spiedienā.
+
+Gāzēs attālumi starp atomiem vai molekulām ir daudz lielāki par pašu molekulu izmēriem. Piemēram, pie atmosfēras spiediena trauka tilpums ir desmitiem tūkstošu reižu lielāks par traukā esošo gāzes molekulu tilpumu.
+
+Gāzes ir viegli saspiežamas, jo, gāzi saspiežot, mainās vidējais attālums starp molekulām.
+
+Telpā molekulas kustas ar milzīgu ātrumu - simtiem metru sekundē. Pēc sadursmes tās, līdzīgi biljarda bumbiņām, atlec katra uz savu pusi.
+
+Gāzes molekulu vājie pievilkšanās spēki nespēj noturēt tās citu pie citas. Tāpēc gāzes var neierobežoti izplesties. Tās nesaglabā ne formu, ne tilpumu.
+
+Molekulu triecieni pret trauka sienām rada spiedienu, kas vērsts vienādi visos virzienos.
+
+Tāpat kā šķidrumus, gāzes raksturo plūstamība. Tā ir vielas spēja plūst pa caurulēm. Gāzēm plūstamība ir ievērojami lielāka nekā šķidrumiem. Ja atver pudelīti ar kādu spēcīgi smaržojošu vielu, tās tvaiki ātri izplūst no pudelītes un jau pēc īsa mirkļa var sajust smaržu. Gāze parasti ir tik retināta viela, ka tās izplūšanu ir grūti pamanīt. Tāpēc gāzēm dažkārt pievieno odorantus — vielas ar stipru smaržu. Ja virtuvē neuzmanības dēļ ir palicis atvērts gāzes krāns, tad par gāzes noplūdi liecina specifiska smaka.
+
+Parasti gāze elektrisko strāvu nevada, jo tās molekulas vai atomi ir neitrāli. Gāzes elektrovadītspēju var palielināt, jonizējot neitrālos atomus, tas ir, sadalot tos pozitīvajos jonos un elektronos. Šādi radušies elektroni var pievienoties neitrālajiem atomiem un pārvērst tos par negatīvajiem joniem. Līdzās jonizācijai norisinās tai pretējs process rekombinācija — neitrālu atomu vai molekulu rašanās, savstarpēji pievelkoties un apvienojoties pretēju zīmju joniem vai pozitīvajiem joniem pievienojot elektronus.

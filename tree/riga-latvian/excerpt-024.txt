@@ -1,0 +1,9 @@
+Lai neitrālu atomu jonizētu, tam jāpievada jonizācijas enerģija, ar kuru tiek pārvarēts atoma kodola un tā elektronu pievilkšanās spēks. Jonizācijas enerģiju atomam var pievadīt mehāniskās enerģijas, siltuma vai elektromagnētiskā starojuma veidā, šīs enerģijas pievadītāju sauc par jonizatoru. Jonizatora darbības laikā gāzē pastāv dinamisks līdzsvars starp laika vienībā jonizēto un rekombinējušos daļiņu pāru skaitu. Jonizatora darbībai beidzoties, turpinās tikai rekombinācija un gāze atkal kļūst par dielektriķi.
+
+Triecienjonizācija ir norise, kurā jonizēto atomu skaits lavīnveidā pieaug, jonizētajai gāzei atrodoties elektriskajā laukā, kurš paātrina brīvās lādētās daļiņas.
+
+Pilnīgi jonizētu gāzi, kurā apmēram vienādās koncentrācijās ir pozitīvie un negatīvie joni, sauc par gāzveida plazmu.
+
+Pamatraksts: Gāzizlāde Fizikālās parādības, kuras novērojamas gāzē, ja tajā plūst strāva, kopumā sauc par izlādi gāzē.
+
+Nepatstāvīgā izlāde pastāv tad, ja gāzi jonizē ārējs jonizators. Ārējā jonizatora darbībai izbeidzoties, izbeidzas nepatstāvīgā izlāde. Tās piemērs ir izlāde stikla caurulē starp diviem plakaniem metāla elektrodiem, kad gāzi jonizē elektromagnētiskais starojums. Pozitīvie joni pārvietojas katoda virzienā, elektroni pārvietojas anoda virzienā. Palielinot starpelektrodu spriegumu, strāvas stiprums pieaug tam proporcionāli. Taču, palielinot spriegumu līdz tam, kad visi jonizācijas procesā radušies elektroni un joni sasniedz elektrodus, nepaspēdami sadurties un rekombinēties, strāvas stiprums vairs nepalielinās. Šādu strāvu, kas nav atkarīga no sprieguma, sauc par sātstrāvu. Spriegumam kļūstot lielākam par aizdedzināšanas spriegumu, sākas gāzes triecienjonizācija, kuras laikā gāzes stabs mirdz; strāvas stiprums lavīnveidā pieaug, un nepatstāvīgā izlāde pārvēršas patstāvīgajā izlādē.

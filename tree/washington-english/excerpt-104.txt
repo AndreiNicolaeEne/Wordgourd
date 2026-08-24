@@ -1,0 +1,72 @@
+Summary Combined estimated increases in health care costs are presented in
+Figure 6.
+
+Figure 6
+Extended annual
+FY costs
+2010.................................................. $236,162,891
+2011.................................................. 165,034,285
+2012.................................................. 170,737,855
+2013.................................................. 190,615,650
+2014.................................................. 213,495,893
+Subtotals......................................... 976,046,575
+2015.................................................. 237,182,919
+2016.................................................. 264,512,205
+2017.................................................. 292,879,791
+2018.................................................. 323,818,692
+2019.................................................. 357,498,068
+Totals............................................ 2,451,938,251
+
+Uncertainties: After the comment period had expired, VA received
+correspondence from the Chairman of the Senate Committee on Veterans
+Affairs which questioned VA's use of the prevalence rate of 5.6 percent
+for IHD in the proposed rule. The Chairman mentioned that the 5.6
+percent prevalence rate was for the general U.S. population, instead of
+a rate more representative of the Vietnam Veteran population, which is
+older. He also asked why the prevalence rate for IHD among Vietnam
+Veterans was not assumed to increase on a yearly basis as they age over
+the next ten years, citing Centers for Disease Control (CDC) findings
+that the prevalence rate for IHD increases as an individual ages.
+For purposes of costing the three new presumptive conditions in the
+proposed rule, VA's assumptions for the prevalence and mortality rates
+were identified based on information obtained from the CDC, the
+National Institutes of Health (NIH), and the Census Bureau. In FY2000,
+15,800,000 people were identified with coronary heart disease. The
+total U.S. population according to the Census Population Survey in the
+same year was 281,421,906, reflecting the 5.6 percent prevalence rate.
+Since veteran-specific prevalence and mortality rates are not commonly
+reported, it is standard practice to use general population prevalence
+and mortality rates for cost estimating purposes.
+After publishing a proposed rule, agencies often receive additional
+information, which in turn improves the analysis of agency action. It
+is not unusual for an agency to receive new data during or after the
+comment period, either submitted by the public with comments or
+collected by the agency in a continuing effort to give the agency's
+regulations a more complete foundation. An agency may use such data to
+address potential deficiencies in the proposed rule's data, so long as
+no prejudice is shown.
+We have, therefore, conducted a separate analysis based on the
+CDC's age-adjusted prevalence rates for coronary heart disease. We
+found that CDC's data uses the age categories of 45-54, 55-64, 65-74,
+75-84, and 85 and older, for both males and females. These age-adjusted
+prevalence rates were applied in a separate analysis, which resulted in
+much higher potential costs.
+Using age-adjusted prevalence rates, shifting initial costs data
+from FY2010 to FY2011, adjusting the assumed degree of disability, and
+updating the assumed caseload, the estimated VBA costs in the first
+year would decrease by nearly $1.5 billion compared to VA's proposed
+rule estimate and the overall ten-year costs would increase by nearly
+$19.8 billion. Similarly, VHA developed a methodology based on the data
+provided by VBA to evaluate VBA projected claims data from a health
+care cost analysis perspective. Making adjustments for priority group
+distributions and shifting the FY2010 cost data to FY2011, the
+associated VHA costs in the first year would increase by nearly $100
+million compared to VA's proposed rule estimate and the overall ten-
+year costs would increase by nearly $5.0 billion. The details of this
+analysis are available on VA's Web site at: http://vaww1.va.gov/ORPM/FY_2010_Published_VA_Regulations.asp , and also may be viewed online
+through the Federal Docket Management System at http://www.regulations.gov .
+We note that many assumptions, which form the foundation for an
+agency's cost forecasts, seldom prove to be completely accurate due to
+variables over which VA has no control, such as application rates,
+better diagnostic techniques in the future, or changes in incidence
+rates. As documented in the Department's analysis, there are various

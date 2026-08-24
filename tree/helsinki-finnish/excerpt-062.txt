@@ -1,0 +1,9 @@
+Tähtijärjestelmä · Eksoplaneetta Luettelot tähdistä
+
+Mustan aukon keskuksen ajatellaan olevan gravitaationaalinen singulariteetti, pistemäinen kohde, jonka tilavuus on lähellä nollaa. Singulariteettiin on keskittynyt kaikki mustan aukon massa, atomin, tähden tai jopa miljoonien tähtien massa. Tämän seurauksena sen äärimmäisen suuri tiheys synnyttää mustan aukon äärimmäisen vetovoiman.
+
+Mustan aukon rajapintaa, jonka takaa mikään hiukkanen tai sähkömagneettinen aalto ei voi enää paeta, kutsutaan tapahtumahorisontiksi. Tapahtumahorisontin sisäpuolella pakonopeus ylittää valonnopeuden.lähde?
+
+Tapahtumahorisontti on alun perin valon pakonopeuden mukaan määräytynyt laskennallinen rajapinta, josta lähtevä fotoni voisi siis vielä paeta mutta sen sisäpuolelta lähtevä fotoni tulisi mahdollisen tilapäisen ulkopuolella käynnin jälkeen palaamaan takaisin. Tapahtumahorisontille on myöhemmin käytetty tätä jyrkempää tulkintaa, jonka mukaan mikään informaatio ei voisi päästä sen ulkopuolelle. Tämä tulkinta on aiheuttanut ristiriitaisuuksia, joista pääsemiseksi Hawking on ehdottanut näennäishorisontin käyttöä. Näennäishorisontti on rajapinta jonka rajaamassa alueessa valo ei voi kulkea lainkaan ulospäin. Mustan aukon tapahtumahorisontti ei syntyhistoriastaan huolimatta ole varsinainen tapahtumahorisontti koska se ei estä sisällä olevan massan määrän tai sen kiihtyvän liikkeen ilmaisevan informaation, gravitaatioaaltojen, leviämistä ulkopuolelle.
+
+Pyörivälle mustalle aukolle määritellään myös ellipsin muotoinen stationaarisuusraja. Sen rajan sisäpuolella mikään kappale ei voi pysyä levossa, vaan musta aukko tempaisee kaiken sinne joutuvan vastustamattomaan pyörimisliikkeeseen. Stationaarisuusrajan ja tapahtumahorisontin välistä aluetta kutsutaan ergosfääriksi. Osa ergosfääriin joutuvasta aineesta sinkoutuu ulos mustan aukon vaikutuspiiristä.lähde?

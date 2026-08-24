@@ -1,0 +1,17 @@
+Systema internationale unitatum, litteris SI imminutum, est mensurae systema quod circum annum 1960 ex mensuris metricis ut unitates magnitudinibus mensura laboratoriali utiliores habeantur creatum est.
+
+Ex anno 2019, totae unitates SI per quantitates constantes physicas describuntur.
+
+Hoc SI systema septem unitates primarias vel axiomaticas habet: metrum (m), chiliogramma (kg), secundum (s), amperium (A), kelvin (K), moles (mol), et candela (cd).
+
+Metrum (symbolum: m) est distantia quam per conventum anni 1983 lumen in vacuo in parte secundi percurrit, ut velocitas lucis subtiliter definita sit sequenti modo
+
+. Chiliogramma (-atis, n.) (symbolum: kg) est massae unitas ab anno 1889 definita ut unum chiliogramma sit quam massam exemplar priscum continet Lutetiae apud Officinam Internationalem Ponderae Mensuraeque situm. Exemplar factum est ex metallis Platino (90 %) atque Iridio (10 %). In forma cylindrica fusum est 39 mm alti, cum radio 19.5 mm.
+
+Secundum (symbolum: s) est temporis spatium quod per conventum anni 1967 correspondet tantis 9 192 631 770 periodorum lucis undarum quam potimur ex transitione inter duos gradus hypersubtiles stati fundamentalis atomi Cs 133.
+
+Amperium (symbolum: A) est fluxionis unitas electricae ab anno 1948 definita postulando constantem magneticum in legem Biot-Savart esse accurate
+
+. Est fluxio electrica constans quae, si contineatur in duobus conductoribus parallelis, longitudinibus infinitis, quorum diametros neglegere possumus, uno metro exactiter inter eos, vim in quoque conductore creet magnitudinis 2×10–7 Newtoni per metrum conductoris.
+
+Kelvin (symbolum: K) est unitas temperaturae thermodynamicae absolutae quae per conventum anni 1968 definita est ut pars 1/273.16 sit temperaturae thermodynamicae status trini aquae in quo simul status liquidi, solidi, et gasii coexistent.

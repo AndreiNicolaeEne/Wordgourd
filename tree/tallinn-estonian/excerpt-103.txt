@@ -1,0 +1,19 @@
+Vesinik (keemiline tähis H, ladina keeles hydrogenium) on keemiline element järjenumbriga 1.
+
+See on lihtsaima aatomiehitusega ning väikseima aatommassiga element. Tüüpiline mittemetall.
+
+Keemiliste elementide perioodilisuse süsteemis kuulub ta 1. perioodi ja S-plokki. Teda paigutatakse mõnikord I rühma, mõnikord VII rühma, mõnikord mitte ühtegi rühma. Elektronkonfiguratsioon on 1s1.
+
+Vesinik on universumis (kuid mitte maakoores) kõige sagedasem element. Ta esineb vees ja peaaegu kõigis orgaanilistes ühendites, seega seotud kujul kõigis organismides.
+
+Vesinik on kõige väiksema aatommassiga element; kõige sagedasema isotoobi prootiumi aatom koosneb ainult ühest prootonist ja ühest elektronist. Vesiniku aatommass on 1,00794 ± 0,00007 g·mol−1.
+
+Maal ei esine tavalistes looduslikes tingimustes üheaatomilise molekuliga monovesinikku ehk atomaarset vesinikku H, küll aga divesinik ehk molekulaarne vesinik H2, mis on normaaltingimustel värvitu ja lõhnatu gaas. Mõne keemilise reaktsiooni ajal esineb atomaarne vesinik siiski väga lühikese aja vältel. Molekulaarne vesinik on kõige väiksema molekulmassiga gaas, mis on Maal looduslikult levinud.
+
+Vesiniku aatommass on 1,00794 aatommassiühikut.
+
+Arvutuslik aatomiraadius on 25 (53) pm. Kovalentne raadius on 120 pm.
+
+Kuigi vesinik paigutatakse tavaliselt I rühma, ei ole tema koht perioodilisussüsteemis üheselt määratav, sest ta on elementide seas erandlikul kohal. Mõnikord paigutatakse ta VII rühma, mõnikord mitte ühessegi rühma.
+
+I rühma arvatakse vesinik sellepärast, et tal on üks valentselektron (nagu leelismetallidel). Tal on leelismetallidega sarnane aatomispekter. Nagu leelismetallid, nii ka vesinik annab vesilahustes hüdrateeritud ühekordse positiivse elektrilaenguga iooni (hüdrooniumiooni H30–). Vesiniku vaba ioon on aga prooton, mis on väga erinev leelismetallide vabadest ioonidest. Kondenseeritud faasides ei esine H+-ioonid üldse kunagi isoleerituna, vaid assotsieerununa teiste molekulide või aatomitega. Ka on vesinikuaatomi ionisatsioonienergia poole suurem kui leelismetallidel ning selle elektronegatiivsus on palju suurem.

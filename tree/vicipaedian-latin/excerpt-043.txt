@@ -1,0 +1,57 @@
+Morbus vel aegritudo vel nosus (Graece νόσος) est inopia sanitatis, status abnormis et, qui corpus organismi adficiat. Morbus saepe habetur condicio medica cum propriis notis et signis coniuncta.
+
+Causae morborum inter se variant. Infectiones bacteriorum (exempli gratia, pestis), protozoorum, virorum (exempli gratia SIDA) sunt causae externae. Mutationes cum auctu sine fine cellularum (cancer) aut degenerationes (exempli gratia, morbus Alzheimerianus, osteoporosis, et sclerosis multiplex (quae encephalomyelitis disseminata accuratius dicitur) causae internae sunt.
+
+Multa indicia morbi symptomata signaque esse possunt: febris, vomitus, diarrhoea, inflammatio, haemorrhagia, etc. Confluens quoque indiciorum, syndroma vocatum, in passiones dignoscendis utilis queat.
+
+Morbi sunt, exempli gratia: Acne Allergia
+
+Albinismus Angina pectoris Autismus Cancer
+
+Angiosarcoma Cancer colorectalis Cancer mammae
+
+Cancer stomachi Cancer pancreaticus Cancer prostatae
+
+Cancer vesicae Carcinoma bronchiale (cancer pulmonum)
+
+Carcinoma cervicis uteri Carcinoma oesophageum
+
+Carcinoma hepatocellulare Glioblastoma multiforme (cancer cerebri)
+
+Leuchaemia Lymphoma Morbus Hodgkin Morbus Waldenstrom
+
+Melanoma malignum Osteosarcoma Retinoblastoma
+
+Sarcoma Kaposianum Cirrhosis Diabetes mellitus
+
+Fibromyalgia Fungi Pityriasis versicolor
+
+Hernia Hypertensio Ictus Infarctus cordis
+
+Infectiones Anthrax Chlamydia Cholera COVID-19
+
+Diphtheria Dysenteria Febres haemorrhagicae
+
+Dengue febris haemorrhagica Ebola febris haemorrhagica
+
+Gonorrhoea Gravedo Influentia Influentia porcina
+
+Haec est de aequationibus mathematicis. Si de chemica quaeres, vide aequationem chemicam.
+
+Aequatio est sententia mathematica quae dicit duas quantitates esse aequas. Omnes aequationes habent symbolum aequalitatis "=", sicut
+
+, quod verbis dicitur "duo et tres sunt/aequant quinque," et
+
+. Si sententia dicit quantitatem aliquem maiorem vel minorem esse alia quantitate, est inaequatio, sicut
+
+(hoc est, "duo et quattuor sunt maiores quam quinque").
+
+Aequationes supra sunt identitates mathematicae, aequationes quae sunt vera valoribus suarum partium neglectis. Aequatio cui non est identitas est:
+
+, quae quippe est falsa infinito numero valoris dato, et vera est solum si . Aequationem solvere significat invenire unicum valorem vel valores quibus aequatio vera est.
+
+Saepius litterae primae abecedarii, ut a, b, c, quantitates constantes nominant, et litterae ultimae, ut x, y, z, nominant quantitates variabiles quarum valores inveniendi. Exempli gratia,
+
+significat , in qua sententia scimus a et b et debemus solvere ut x sciamus.
+
+Si aequatio noscitur vera esse, in eam operationes hae sequentes faciantur et veram etiam habeas:

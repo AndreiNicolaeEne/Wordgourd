@@ -1,0 +1,21 @@
+Schall (von althochdeutsch scal) bezeichnet allgemein mechanische Schwingungen in einem elastischen Medium (Gas, Flüssigkeit, Festkörper). Diese Schwingungen rufen Druck- und Dichteschwankungen hervor, die sich in dem Medium ausbreiten und so die Schallwellen bilden.
+
+Umgangssprachlich bezeichnet Schall vor allem das Geräusch, den Klang, den Ton, den Knall (Schallarten), wie er von Menschen und Tieren mit dem Gehör, also dem Ohr-Gehirn-System auditiv wahrgenommen werden kann. Man unterscheidet dabei den Nutzschall, wie Musik oder die Stimme beim Gespräch, und den Störschall, wie Baustellen- oder Verkehrslärm.
+
+„Schall“ ist ein Kollektivum und wird nur im Singular benutzt.
+
+Physikalisch gesehen ist Schall eine als mechanische Welle fortschreitende Deformation in einem Medium. In ruhenden Gasen und Flüssigkeiten ist Schall immer eine Longitudinalwelle, also näherungsweise auch in Luft. Die allgemeine Wellengleichung für dreidimensionale Schallfelder in fluiden Medien lautet wie folgt:
+
+Darin ist der Laplace-Operator. Schall breitet sich mit einer für das Medium und dessen Zustand (Temperatur, Druck usw.) charakteristischen und konstanten Schallgeschwindigkeit aus. Bei einer Temperatur von 20 °C beträgt diese in Luft 343 m/s und in Wasser 1484 m/s, siehe auch Schallgeschwindigkeit in verschiedenen Medien. Die Wellenlänge der Schallwelle, die Frequenz und die Schallgeschwindigkeit sind über folgende Beziehung verknüpft:
+
+Für den Begriff freier Wille oder Willensfreiheit gibt es keine allgemein anerkannte Definition. Umgangssprachlich versteht man etwas anderes unter dem freien Willen als im juristischen oder psychologischen Sprachgebrauch. In der Philosophie wird der Begriff nicht einheitlich definiert.
+
+In einem fachübergreifenden Sinne gehört zur Willensfreiheit die subjektiv empfundene menschliche Fähigkeit, bei verschiedenen Wahlmöglichkeiten eine bewusste Entscheidung zu treffen.
+
+Die Begriffe von der „Subjekt“-Stellung des Menschen und von dessen „Autonomie“ oder auch dessen „Moralität“ beruhen auf der Annahme von Entscheidungsfreiheit. Auch die politischen Ideen der „Freiheit“ und der „Demokratie“ setzen diese Annahme voraus.
+
+Doch bereits im griechischen Altertum, aber besonders seit Beginn der Aufklärung, sah sich die Vorstellung eines freien Willens zahlreichen Anzweiflungen ausgesetzt (siehe auch: Geschichte des Freien Willens).
+
+Nach dem Konzept der bedingten Willensfreiheit ist ein Wille frei, wenn eine Person ihren Willen nach ihren persönlichen Motiven und Neigungen bildet und dann das tun kann, was sie will (Handlungsfreiheit). Welcher der konkurrierenden Wünsche eines Menschen sich als Wille herausbildet, hängt nach dieser Vorstellung von seiner Persönlichkeit und von Umwelteinflüssen ab.
+
+Aufgrund der Komplexität der Umstände, die zur Willensbildung führen, sind die Ursachen einer Entscheidung nur teilweise einsehbar. Dennoch wird hier von Freiheit gesprochen, weil die getroffene Wahl den Neigungen und Motiven der Person entspricht und somit deren eigenen Willen darstellt und nicht einen aufgezwungenen.

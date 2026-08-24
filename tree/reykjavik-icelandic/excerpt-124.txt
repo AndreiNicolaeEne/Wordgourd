@@ -1,0 +1,21 @@
+Rökfræði er undirgrein heimspekinnar sem fæst við gildi ályktana.
+
+Fræðigreinin var fundin upp af forngríska heimspekingnum Aristótelesi á 4. öld f.Kr. Um miðja 19. öld fóru stærðfræðingar að sýna rökfræðinni aukinn áhuga, en nútímarökfræði er venjulega sögð verða til undir lok 19. aldar og er Gottlob Frege gjarnan talinn faðir nútímarökfræði.
+
+Óformleg rökfræði fæst við röksemdafærslur í náttúrulegum tungumálum. Rökvillur eru mikilvægt viðfangsefni innan óformlegrar rökfræði.
+
+Formleg rökfræði fæst við ályktanir út frá formi þeirra. Innan formlegrar rökfræði eru mörg rökkerfi, svo sem setningarökfræði, umsagnarökfræði og háttarökfræði.
+
+Táknleg rökfræði er formleg rökfræði sett fram með táknmáli rökfræðinnar. Táknleg rökfræði er stundum nefnd stærðfræðileg rökfræði vegna þess að táknmál rökfræðinnar var upphaflega þróað úr táknmáli stærðfræðinnar.
+
+Heimspekileg rökfræði fæst við þau grundvallarhugtök sem rökfræðin gengur út frá, svo sem sannleika, merkingu, tilvísun o.fl. og tengslin á milli rökfræðinnar og náttúrulegra tungumála. Heimspekileg rökfræði er náskyld málspeki.
+
+Stærðfræðileg rökfræði er annars vegar beiting rökfræðinnar á viðfangsefni innan stærðfræði, hins vegar samheiti fyrir táknlega rökfræði.
+
+Erlendur Jónsson gaf árið 1984 út bókina Frumhugtök rökfræðinnar (endurútg. 1992 og 1996) sem er íslensk kennslubók og um leið kynningarrit á formlegri rökfræði. Þar eru kynnt þau grundvallarhugtök er nútíma rökfræði styðst við svo og notkun þeirra bæði í umsagnarrökfræði og setningarrökfræði.
+
+Þrætubók er á íslensku haft um kennslubók um heimspekilega rökræðu. En líka ádeilurit og (fræðilega) deilu. En umfram allt um þráttarhyggju (díalektík). Orðið tölubók var á íslensku áður fyrr haft um ræðufræði en líka almennt um mælskulist.
+
+Lengst af í mannkynssögunni höfðu menn enga hugmynd um sólkerfið sem slíkt. Fram til Endurreisnartímabilsins töldu flestir að jörðin væri stöðug í miðju alheimsins og væri eðlisólík þeim fyrirbærum sem sáust á himni. Gríski heimspekingurinn Aristarkos frá Samos hafði að vísu velt fyrir sér sólmiðjukenningu, en það var ekki fyrr en á 16. öld að Nikulás Kópernikus setti fram sólmiðjukenningu sína.
+
+Á 17. öld uppgötvaði Galileo Galilei sólbletti og að fjögur tungl gengu umhverfis Júpíter. Christiaan Huygens fylgdi þessum rannsóknum eftir og uppgötvaði tungl Satúrnusar, Títan, og komst að lögun hringja Satúrnusar. Um árið 1677 fylgdist Edmond Halley með þvergöngu Merkúríusar fyrir sólina og áttaði sig á því hægt væri að nota hliðrun sólar (enn nákvæmar með þvergöngu Venusar) til að reikna út með hornafræði fjarlægðir milli jarðarinnar, Venusar og sólarinnar. Árið 1705 áttaði Halley sig á að halastjarna sem sést hafði mörgum sinnum væri í raun sama halastjarnan sem færi framhjá á 75 til 76 ára fresti. Þetta var fyrsta vísbendingin um að fleiri hlutir en reikistjörnurnar gengju kringum sólina, en Seneca yngri hafði getið sér þess til með halastjörnur á 1. öld. Árið 1835 birtist íslenska orðið „sólkerfi“ fyrst á prenti í tímaritinu Fjölni. Árið 1838 tókst Friedrich Bessel að mæla stjörnuhliðrun sem stafar af hreyfingu jarðar umhverfis sólina, sem var fyrsta beina athugunin sem sannaði sólmiðjukenninguna. Framfarir í stjörnufræði og könnun geimsins með ómönnuðum geimförum hafa síðan þá aukið miklu við þekkingu okkar á öðrum hlutum á braut um sólina.

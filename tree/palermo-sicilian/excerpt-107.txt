@@ -1,0 +1,7 @@
+Pi mùsica alittrònica si ntenni, 'n ginirali, lu tipu di mùsica ca veni creata utilizzannu strumenti alittrònici anzicchè chiddi clàssici quali ponnu èssiri, pi esempiu, la batterìa, lu pianoforti, la chitarra, eccc.
+
+La mùsica alittrònica, nfatti, canusci atri tipi di strumenti unni sicuramenti lu cchiù mpurtanti è lu computer. Strumenti di mùsica alittrònica ponnu èssiri, pi fari n'esempiu, lu sintetizzaturi, lu sequencer, la drum machine e atri.
+
+Di sti strumenti assai ponnu èssiri sustituiti cu software studiati apposta pi cupiàrini pari pari li carattirìstichi. Na sta manera abbasta aviri un computer cu un prugramma unni si ponnu carricari sti svariati software (chiamati spissu plug-in) p'aviri un veru e propiu studiu di riggistrazzioni 'n casa. Pi sunari sti strumenti si pò utilizzari sia lu computer direttamenti (scrivènnuci na speci di spartitu virtuali) chi na tastiera culligata a lu computer. Sti tastieri, comu anchi àutri strumenti alittrònici, ùsanu spissu na porta di cumunicazzioni particulari ca nascìu versu l'anni '80 pi creari un protocollu standard universali pi fari dialugari strumenti alittrònici cu atri strumenti alittrònici e cu computer: la porta MIDI.
+
+Lu MIDI è un linguaggiu assai cumplessu ca si traduci 'n mpulsi chi ponnu èssiri mannati di lu strumentu musicali alittrònicu a lu computer o anchi a lu cuntrariu. Nta nu mpulsu midi ci ponnu èssiri parecchi nfurmazzioni comu, ad esempiu, la posizzioni di la nota, la ntenzità di la prissioni dû tastu, la durata di la prissioni e tanti àutri nfurmazzioni tradotti alittronicamenti.

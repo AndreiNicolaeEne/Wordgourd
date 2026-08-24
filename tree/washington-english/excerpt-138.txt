@@ -1,0 +1,63 @@
+C. Liability for Discriminatory Housing Practices: Sec. 100.7
+
+a. Direct Liability for One's Own Discriminatory Conduct: Sec.
+100.7(a)(1)(i)
+Issue: A commenter stated that the language in Sec.
+100.7(a)(1)(i), which states that a person is directly liable for the
+person's own conduct that results in a discriminatory housing practice,
+may lead to the liability of innocent actors and third-parties who
+somehow contributed to an illegal discriminatory action. The commenter
+gave as an example a situation in which a person supplied the pen that
+a housing provider used to make notes on an application that the
+housing provider later rejected because of a protected characteristic
+of the applicant.
+HUD Response: The rule creates no new or enhanced forms of
+liability. As discussed in the preamble of the proposed rule, Sec.
+100.7(a)(1)(i) does nothing more than restate the most basic form of
+direct liability, i.e., that a person is directly liable for his or her
+own discriminatory housing practices, as defined by the Act. Whether a
+person's conduct constitutes a discriminatory housing practice under
+sections 804-806 or 818 of the Act depends upon the specific facts.
+b. Direct Liability for Negligent Failure To Correct and End
+Discrimination: Sec. 100.7(a)(1)(ii) and (iii)
+Issue: Several commenters expressed concern about the ``should have
+known'' standard in proposed Sec. 100.7(a)(1)(ii) and (iii), which
+states that a person is directly liable for ``(ii) [f]ailing to take
+prompt action to correct and end a discriminatory housing practice by
+that person's employee or agent, where the person knew or should have
+known of the discriminatory conduct,'' and ``(iii) [f]ailing to fulfill
+a duty to take prompt action to correct and end a discriminatory
+housing practice by a third-party, where the person knew or should have
+known of the discriminatory conduct . . . '' (emphasis added).
+Some commenters stated that this standard creates almost certain
+liability for landlords and that requiring actual knowledge would be
+more fair to property owners because liability would only attach for
+failing to act on known discrimination. A commenter stated that the
+final rule should limit liability where a housing provider has limited
+knowledge of misconduct. In contrast, other commenters stated that the
+``knew or should have known'' standard is reasonable and consistent
+with the Fair Housing Act, legal negligence principles, and business
+practices of housing providers. One commenter complained that the
+proposed rule appears to require actual knowledge, even though the
+standard only requires that a defendant ``should have known'' of the
+harassment.
+Commenters asked HUD to clarify how a housing provider ``should
+have known'' about harassment, especially in the context of tenant-on-
+tenant harassment. A commenter questioned what the housing provider
+needs to know before liability attaches and whether the housing
+provider needs to know that the harasser's actions violate the Fair
+Housing Act or only that the harasser took some action toward the
+victim. Several commenters expressed concern that a PHA might be liable
+when a housing voucher holder is harassed but neither the apartment
+owner nor voucher holder informs the housing agency about the
+harassment. One commenter expressed a similar concern that owners
+living in another city or state may not learn that harassment is taking
+place on their property unless the tenant tells the owner, and another
+commenter asked about a PHA's potential liability when harassment
+occurs over the internet but is unknown to the housing agency.
+HUD Response: The ``knew or should have known'' standard is well
+established in civil rights and tort law.\27\ A housing provider
+``should have known'' of the harassment of one resident by another when
+the housing provider had knowledge from which a reasonable person would
+conclude that the harassment was occurring. Such knowledge can come
+from, for example, the harassed resident, another resident,

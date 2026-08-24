@@ -1,0 +1,25 @@
+Elektriniai prietaisai elektrinėje grandinėje būna pasyvūs arba aktyvūs ir atlieka tam tikrą funkciją, pvz., stiprintuvo, lygintuvo, generatoriaus ir t. t. Elektrinės grandinės naudojamos įvairiuose aparatuose: televizoriuose, skaitmeniniuose matavimo prietaisuose, elektroniniuose kalkuliatoriuose ir pan.
+
+Priklausomai nuo to kur vyksta krūvininkų judėjimas, elektronika skirstoma į vakuuminę, puslaidininkinę, ir kvantinę.
+
+Vakuminė elektronika nagrinėja ir kuria vakuuminius bei dujinius prietaisus (elektronines lempas), taip pat vakuuminius elektroninius prietaisus (elektroninius mikroskopus, elektringųjų dalelių akceleratorius ir kt.).
+
+Puslaidininkinė elektronika nagrinėja ir kuria puslaidininkinius diodus, tranzistorius, integrinius grandynus, tiristorius ir pan.
+
+Kvantinė elektronika tiria medžiagos kvantinių savybių panaudojimą. Svarbiausi šios elektronikos įrenginiai – mazeriai ir lazeriai.
+
+Elektronikos raida (ją sudaro 3 laikotarpiai) prasidėjo XIX a. II pusėje, kuomet buvo padaryta daug išradimų, pritaikytų elektroniniuose prietaisuose. Vakuuminio diodo ir lempinio triodo išradimas – tai vakuuminės elektronikos, I laikotarpio, pradžia.
+
+bangos sklidimo greičiu c, m/s. Elektromagnetinės bangos sklidimo greitis c priklauso nuo sklidimo terpės. Bangai sklindant laisvoje erdvėje (vakuume), jos greitis apytiksliai lygus m/s. Ryšys tarp dažnio ir bangos ilgio atrodo taip:
+
+. Elektromagnetinės spinduliuotės šaltinio aplinkoje skiriamos trys zonos :
+
+indukcinė (artimoji) zona, kuri prasideda nuo šaltinio ir tęsiasi iki λ/2π ir kurioje vyksta energijos apykaita tarp šaltinio, elektrinio lauko ir magnetinio lauko. Ši zona yra erdvė, kurioje elektromagnetinė banga dar nesusiformavo;
+
+interferencijos (tarpinė) zona, kuri tęsiasi nuo λ/2π iki 2πλ;
+
+banginė (tolimoji) zona, kuri prasideda už interferencinės ir kurioje elektromagnetinis laukas yra susiformavęs į bangą sparčiai silpnėja tolstant nuo spinduliuotės šaltinio.
+
+Elektromagnetinio lauko stipris tolstant nuo spinduliavimo šaltinio mažėja atvirkščiai proporcingai atstumo iki šaltinio kvadratui. Tai reiškia, kad jei atstumas nuo spinduliavimo šaltinio padidėja dvigubai, elektromagnetinio lauko stipris sumažės keturis kartus.
+
+Elektromagnetinę spinduliuotę skleidžia natūralūs (gamtiniai) ir žmogaus sukurti šaltiniai. Svarbiausias už Žemės ribų esantis gamtinis šaltinis yra Saulė, kuri skleisdama šviesą bei šilumą, įgalina gyvybės atsiradimą ir egzistavimą mūsų planetoje. Žemėje natūralų (gamtinį) spinduliavimą sukelia atmosferiniai reiškiniai ir pati planeta. Žmogaus pagaminti šaltiniai gali būti specialiai sukurti elektromagnetinių bangų spinduliavimui (rentgeno aparatai, radijo bangų siųstuvai, mobilūs telefonai ir kt.) arba tokie, kuriems veikiant elektromagnetinė spinduliuotė atsiranda kaip jų veikimo šalutinis efektas (šaldytuvai, transporto priemonės, elektros perdavimo linijos ir kt.).

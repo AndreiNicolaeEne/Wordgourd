@@ -1,0 +1,3 @@
+2- Suna post-heĝira jaro, kiun uzas irananoj kaj kelkaj aliaj landoj, baziĝas sur la cirklo de la tero ĉirkaŭ la suno. Ties formulo estas: z = x − 3 * x/100, en kio z = post-heĝira suna jaro kaj x = post-heĝira luna jaro, kondiĉe ke oni rezignu la decimalaĵojn post la x/100.
+
+Kiam oni ne substrekas, ke la jaro estas suna aŭ luna, se temas pri malnovaj islamaj tekstoj, oni celas la lunan.

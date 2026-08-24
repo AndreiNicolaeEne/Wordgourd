@@ -1,0 +1,7 @@
+Riječ al-gabr dolazi iz knjige perzijskog matematičara al-Hvarizmija Kitāb al-ǧabr wa-al-muqābala (Knjiga o uspostavljanju i suprotstavljanju). Postupak se prvo odnosio na uređivanje lijeve i desne strane kod jednadžbi ali je kasnije, razvojem matematike, značajno proširen.
+
+Tradicionalno važne algebarske strukture uključuju polugrupe, monoide, grupe, prstene, neasocijativne algebre, asocijativne algebre, tijela (napose komutativna tijela ili polja), Liejeve algebre, rešetke, Boolove algebre, koalgebre, algebre, bialgebre, Hopfove algebre; danas se tu pridružuju i mnoge druge kao što su koprsteni, operadi, graduirani prsteni, hiperprsteni, dg-algebre (diferencijalne graduirane algebre), dg-koalgebre, A-beskonačno algebre, monoidi u monoidalnoj kategoriji, Leibnizove algebre itd. Male kategorije također su algebarske strukture.
+
+Algebarske strukture opisuju se popisom operacija (tzv. signatura) i aksiomima koji se zahtijevaju za te operacije. Svaki skup s istim popisom operacija i koji zadovoljavaju dane aksiome je „model“ te strukture. Time algebra kao disciplina postaje dio teorije modela, koja može uključivati i složenije aksiomatske sustave od algebarskih.
+
+Jedan tip algebarskih struktura ima izuzetan značaj za matematičku logiku: Booleove ili bulovske algebre, nazvane prema Georgeu Booleu koji je 1847. napisao Mathematical Analysis of Logic. Nicolas Bourbaki zasniva svoj opći pregled matematike na općem pojmu strukture, koji je općenitiji od algebarske strukture. Pored algebarskih struktura, spomenimo strukturu uređaja i topološku strukturu.

@@ -1,0 +1,13 @@
+AFDELING 5 Strukturerede investeringsinstitutter
+
+Artikel 36 Resultatscenarier 1. Strukturerede investeringsinstitutters dokument med central investorinformation indeholder ikke afsnittet »Tidligere resultater«.
+
+Med henblik på denne afdeling forstås ved »struktureret investeringsinstitut« investeringsinstitutter, som på visse forud fastsatte datoer udbetaler et algoritmebaseret afkast til investorer, som er knyttet til de resultater eller prisændringer eller andre forhold, der gør sig gældende for finansielle aktiver, indekser eller referenceporteføljer eller investeringsinstitutter med lignende karakteristika.
+
+2. Afsnittet »Mål og investeringspolitik« i strukturerede investeringsinstitutters dokument med central investorinformation indeholder en beskrivelse af, hvordan formlen fungerer, og hvordan afkastet beregnes.
+
+3. Beskrivelsen i stk. 2 ledsages af en illustration, som viser mindst tre scenarier for investeringsinstituttets potentielle resultater. Passende scenarier udvælges med henblik på at vise, under hvilke omstændigheder formlen kan generere et lavt, mellemstort eller stort afkast, herunder, hvis det er relevant, et negativt afkast for investor.
+
+4. Scenarierne i stk. 3 skal sætte investor i stand til fuldt ud at forstå alle virkningerne af den beregningsmekanisme, der er indbygget i formlen.
+
+De skal præsenteres på en måde, som er redelig, tydelig og ikke-vildledende, og således at de kan forventes at blive forstået af en almindelig detailinvestor. De må navnlig ikke overdrive omfanget af investeringsinstituttets endelige resultater.

@@ -1,0 +1,11 @@
+Differentiaaliyhtälöllä tarkoitetaan matematiikassa yhtälöä, jossa esiintyy tuntematon yhden tai useamman muuttujan funktio sekä sen derivaattoja. Differentiaaliyhtälöillä on runsaasti käyttöä mitä erilaisimmissa käytännön sovelluksissa, erityisesti fysikaalisten ilmiöiden mallintamisessa, mutta sovelluskenttä jatkuu lääkeaineen poistumisesta jyrsijäkantojen vaihteluun.
+
+Differentiaaliyhtälöiden ratkaisemiseen ei ole olemassa mitään yleispätevää menetelmää, vaan ratkaiseminen tapahtuu yleensä tunnistamalla yhtälö tietyn muotoiseksi ja käyttämällä tämän nimenomaisen yhtälötyypin ratkaisumenetelmää. Mikäli yhtälön analyyttinen ratkaiseminen ei ole mahdollista, on tyydyttävä numeeriseen ratkaisuun.
+
+Jos tuntematon funktio on yhden muuttujan funktio, esimerkiksi y(x), puhutaan tavallisesta differentiaaliyhtälöstä tai vain differentiaaliyhtälöstä. Esimerkkejä tavallisista differentiaaliyhtälöistä ovat
+
+Jos tuntematon funktio on usean muuttujan funktio, esimerkiksi v(x, y, z), kyseessä on osittaisdifferentiaaliyhtälö. Yhtälössä esiintyvät derivaatat ovat tällöin funktion v osittaisderivaattoja muuttujien (tässä x, y, z) suhteen. Osittaisdifferentiaaliyhtälöiden käsittely eroaa jonkin verran tavallisista.
+
+Differentiaaliyhtälön kertaluku on sama kuin korkeimman siinä esiintyvän derivaatan kertaluku. Yllä olevista esimerkeistä ensimmäinen on ensimmäisen kertaluvun differentiaaliyhtälö, kun taas jälkimmäinen on toista kertalukua.
+
+Differentiaaliyhtälö on lineaarinen, jos funktiota tai sen derivaattoja ei ole korotettu potenssiin. Tämän vastakohtana differentiaaliyhtälö on epälineaarinen, jos siinä esiintyy toista tai korkeampaa potenssia. Molemmat yllä olevat esimerkit ovat lineaarisia, mutta yhtälö

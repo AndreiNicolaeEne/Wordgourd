@@ -1,0 +1,9 @@
+(6) Az Alkotmánybíróság a (2) és a (4) bekezdés szerinti indítványról soron kívül, de legkésőbb harminc napon belül határoz. Ha az Alkotmánybíróság alaptörvény-ellenességet állapít meg, az Országgyűlés a törvényt az alaptörvény-ellenesség megszüntetése érdekében újratárgyalja.
+
+(7) Ha az Alkotmánybíróság a köztársasági elnök kezdeményezésére lefolytatott vizsgálat során nem állapít meg alaptörvény-ellenességet, a köztársasági elnök a törvényt haladéktalanul aláírja, és elrendeli annak kihirdetését.
+
+(8) Az Országgyűlés által a (6) bekezdés szerint megtárgyalt és elfogadott törvény Alaptörvénnyel való összhangjának vizsgálata a (2) és a (4) bekezdés szerint ismételten kérhető az Alkotmánybíróságtól. Az Alkotmánybíróság az ismételt indítványról soron kívül, de legkésőbb tíz napon belül határoz.
+
+(9) Ha a köztársasági elnök egyet nem értése folytán visszaküldött törvényt az Országgyűlés módosítja, az Alaptörvénnyel való összhang vizsgálata a (2), illetve (4) bekezdés szerint kizárólag a módosított rendelkezések tekintetében vagy arra hivatkozással kérhető, hogy a törvény megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelmények nem teljesültek. Ha a köztársasági elnök egyet nem értése folytán visszaküldött törvényt az Országgyűlés változatlan szöveggel fogadja el, a köztársasági elnök a törvény megalkotására vonatkozó, az Alaptörvényben foglalt eljárási követelmények nem teljesülésére tekintettel kérheti az Alaptörvénnyel való összhang vizsgálatát.
+
+(1) Az országgyűlési képviselő kérdést intézhet az alapvető jogok biztosához, az Állami Számvevőszék elnökéhez, a legfőbb ügyészhez és a Magyar Nemzeti Bank elnökéhez a feladatkörükbe tartozó bármely ügyben.

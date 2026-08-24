@@ -1,0 +1,15 @@
+Člen 3 Poročanje o izpostavljenosti 1. Podatki o zavarovanju, ki se zahtevajo v razpredelnici 1 Priloge vključujejo vse predloženo zavarovanje.
+
+2. Kadar nasprotna stranka ne zavaruje na ravni transakcije, nasprotni stranki repozitoriju sklenjenih poslov poročata o zavarovanju, predloženemu na podlagi portfelja.
+
+3. Kadar se v zvezi s pogodbo sporoči zavarovanje na podlagi portfelja, nasprotna stranka poročevalka repozitoriju sklenjenih poslov sporoči oznako, ki določa portfelj zavarovanja, predloženega drugi nasprotni stranki za pogodbo, o kateri se poroča.
+
+4. Nefinančnim nasprotnim strankam, ki niso navedene v členu 10 Uredbe (EU) št. 648/2012, ni treba sporočiti zavarovanja, vrednotenja glede na tekoče tržne cene in notranji model za pogodbe, ki so navedene v razpredelnici 1 Priloge.
+
+5. Za pogodbe, katerih kliring opravi CNS, vrednotenje glede na tekoče tržne cene opravi le CNS.
+
+Člen 4 Dnevnik poročanja Spremembe podatkov, registriranih v repozitorijih sklenjenih poslov, se hranijo v dnevniku, v katerem so navedene osebe, ki zahtevajo spremembo, vključno s samim repozitorijem sklenjenih poslov, če je ustrezno, razlogi za takšno spremembo, datum in časovni žig ter jasen opis sprememb, vključno s starimi in novimi vsebinami zadevnih podatkov, kot je določeno v poljih 58 in 59 razpredelnice 2 Priloge.
+
+Člen 5 Začetek veljavnosti Ta uredba začne veljati dvajseti dan po objavi v Uradnem listu Evropske unije.
+
+Ta uredba je zavezujoča v celoti in se neposredno uporablja v vseh državah članicah. V Bruslju, 19. decembra 2012

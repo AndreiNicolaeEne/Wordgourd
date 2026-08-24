@@ -1,0 +1,17 @@
+(3) A Diretiva 2007/46/CE do Parlamento Europeu e do Conselho, de 5 de setembro de 2007, que estabelece um quadro para a homologação dos veículos a motor e seus reboques, e dos sistemas, componentes e unidades técnicas destinados a serem utilizados nesses veículos («Diretiva-Quadro») (3) deve, por conseguinte, ser alterada em conformidade.
+
+(4) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Técnico - Veículos a Motor,
+
+ADOTOU O PRESENTE REGULAMENTO: Artigo 1.o
+
+Âmbito de aplicação O presente regulamento aplica-se a veículos da categoria M1 que cumpram os seguintes requisitos:
+
+- estão equipados com uma caixa de velocidades manual;
+
+- têm uma massa de referência que não excede 2 610 kg ou cuja homologação foi objeto de extensão nos termos do artigo 2.o, n.o 2, do Regulamento (CE) n.o 715/2007.
+
+O presente regulamento não se aplica aos veículos destinados a satisfazer necessidades sociais específicas, tal como definidos no artigo 3.o, n.o 2, alínea c) do Regulamento (CE) n.o 715/2007.
+
+Artigo 2.o Definições Para efeitos do presente regulamento, aplicam-se as seguintes definições, para além das definições enunciadas no Regulamento (CE) n.o 661/2009:
+
+(1) «modelo de veículo no que diz respeito o indicador de mudança de velocidades (GSI)», significa uma gama de veículos que não diferem entre si quanto às características funcionais do indicador de mudança de velocidades e quanto à lógica utilizada pelo indicador de mudança de velocidades para determinar quando deve indicar um ponto de mudança de velocidades. A título de exemplo de lógicas diferentes, (lista não exaustiva):

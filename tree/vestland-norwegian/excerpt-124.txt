@@ -1,0 +1,21 @@
+Infraraud (IR) stråling er elektromagnetisk stråling av bølgjelengder lengre enn synleg ljos, men kortare enn mikrobølgjer. Namnet kjem frå det latinske ordet infra som tyder under og raud som er den fargen innanfor spekteret av synleg ljos som har den lengste bølgjelengda. Infraraud stråling dekker tre bøljgelengd-dekadar : 700 NM – 1 mm.
+
+IR delast ofte opp i: nær infraraud NIR, IR-A DIN, 0.7–1.4 µm i bølgjelengd, definert ved vassabsorpsjon, og hyppig brukt i fiberoptisk telekommunikasjon på grunn av den låge dempninga i kvarts (SiO2)-glas
+
+kortbølgje IR SWIR, IR-B DIN, 1.4–3 µm – Vassabsorpsjon aukar signifikant ved 1450 nm
+
+mellombølgje IR MWIR, IR-C DIN, òg kalla midlarar IR (IIR), 3–8 µm
+
+langbølgje IR LWIR, IR-C DIN, 8–15 µm fjern infraraud FIR, 15–1000 µm
+
+Desse nemningane er likevel ikkje heilt presise, og blir brukt ulikt i ulike studium, dvs. nær (0.7–5 µm) / mid (5–30 µm) / lang (30–1000 µm).
+
+Spesielt innanfor telekom-bølgjelengder er spekteret vidare inndelt i fleire band, pga avgrensingar i detektorar, forsterkarar og strålekjelder. Infraraud stråling er ofte forbunde med varme, sidan objekt ved romtemperatur og høgare sender ut stråling hovudsakleg i midt-infraraudt band (ref. svart lekam).
+
+Ein by er eit tettbygd, meir eller mindre avgrensa geografisk område av ein viss storleik og/eller viktigheit. Karakteristiske trekk for ein by er tett busetnad, høvesvis stor folkesetnad, eit næringsliv dominert av handel, handverk og administrasjon, avgrensa vekt på jordbruk og sentral plassering med omsyn til kommunikasjonsårene i eit samfunn.
+
+Byar skil seg frå mindre tettstader og landsbyar ved at det bur meir folk der, men grensa er uklår, og som regel vil ein statleg definisjon avgjera kva som er ein by. Det finst ingen allmenn internasjonal vedteken definisjon av by-omgrepet. Ulike land og organisasjonar har ulike definisjonar. Desse kan vera geografiske eller juridiske, og dei har endra seg over tid.
+
+Å gje ein allmenngyldig definisjon av omgrepet by er vanskeleg, fordi definisjonen varierer frå land til land, og funksjonen i byane har endra karakter gjennom historia. I Noreg omtalar ein ofte byliknande strøk og tettstadar som sentrum for ein kommune – juridisk var norske byar tidlegare definert som bykommunar i motsetnad til landkommunar.
+
+Ordet «by» kjem frå norrønt býr, som tyder 'gard' eller 'plass med fleire bygningar'. Orda «by» og «bygd» har opphavleg nesten same tyding. «By» viser til busetnad som står tett på eit avgrensa område, medan bygd viser til spreidd busetnad i eit større geografisk landskap. Begge har likevel opphav i (bonde)gardsbusetnad, jfr. tydinga av det norrøne ordet býr. Dei første «byane» i Noreg var såleis korkje kaupangen i Skiringssal, Tønsberg eller Trondheim, men urgardar med det skildrande namnet By. Urgardane fekk korte einstavingsnamn som skildra det menneska der såg, namn som berg, fjell, haug, ås, stein, lund, bjørk, eik, ask, os, vik og by m.fl.

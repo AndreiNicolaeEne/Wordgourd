@@ -1,0 +1,19 @@
+i. strategija i ciljevi napajajućeg UCITS-a ne dozvoljavaju mu da posjeduje imovinu drugačiju od udjela glavnog UCITS-a i dodatnih likvidnih sredstva;
+
+ii. između značajki napajajućeg UCITS-a i glavnog UCITS-a nema bitnih razlika.
+
+2. U svim slučajevima u kojima se rezultati simuliraju u skladu sa stavkom 1., na stupčastom grafikonu mora biti vidljivo navedeno da je rezultat simuliran.
+
+3. UCITS koji mijenja svoj pravni status, iako je i dalje osnovan u istoj državi članici, zadržava svoju evidenciju rezultata samo kad nadležna tijela države članice utemeljeno procijene da promjena statusa neće utjecati na rezultat UCITS-a.
+
+4. Kod spajanja iz članka 2. stavka 1. točke (p) pod i. i iii. Direktive 2009/65/EZ u dokumentu s ključnim informacijama za ulagatelje vodi se samo povijesni prinos UCITS-a preuzimatelja.
+
+ODJELJAK 5. Praktične informacije i upućivanje
+
+Članak 20. Sadržaj odjeljka „Praktične informacije”
+
+1. Odjeljak „Praktične informacije” dokumenta s ključnim informacijama za ulagatelje sadrži sljedeće informacije koje su bitne za ulagatelje u svakoj državi članici u kojoj se UCITS stavlja na tržište:
+
+(a) ime depozitara; (b) gdje i kako se mogu dobiti dodatne informacije o UCITS-u, primjerci njegovog prospekta i posljednje godišnje izvješće i bilo koje naknadno polugodišnje izvješće, pri čemu se navodi jezik ili jezici na kojima su ti dokumenti dostupni te da se mogu besplatno dobiti;
+
+(c) gdje i kako se mogu dobiti ostale praktične informacije, uključujući gdje se mogu naći najnovije cijene udjela;

@@ -1,0 +1,13 @@
+77. pants Noslēguma maksājumu aprēķināšanas noteikumi
+
+1. Noslēguma maksājumi ir mazākās no turpmāk norādītajām divām summām:
+
+a) summa, kuru aprēķina, līdzfinansējuma likmi, kas pašreizējā finansēšanas plānā noteikta šim prioritārajam virzienam un mērķim, piemērojot valsts ieguldījumam, kas katram prioritārajam virzienam un katram konverģences mērķim / mērķim, kas nav konverģences mērķis, norādīti noslēguma izdevumu deklarācijā, ko apstiprinājusi sertifikācijas iestāde;
+
+b) Savienības palīdzības summa, kas samaksāta vai maksājama saņēmējiem saistībā ar katru prioritāro virzienu un katru mērķi. Šo summu dalībvalsts attiecībā uz katru prioritāro virzienu un katru mērķi norāda galīgajā izdevumu deklarācijā, kuru apstiprinājusi sertifikācijas iestāde.
+
+2. Atkāpjoties no 53. panta 3. punkta noteikumiem, pēc dalībvalsts lūguma noslēguma maksājumus palielina par summu, kas atbilst desmit procentpunktiem virs esošās līdzfinansējuma likmes katram dalībvalstu prioritārajam virzienam līdz maksimums 100 %, ko piemēro nesen deklarētajiem valsts attaisnotajiem izdevumiem katrā apstiprinātajā izdevumu deklarācijā, kas iesniegta laikposmā, kad dalībvalsts atbilst kādam no 76. panta 3. punkta a), b) un c) apakšpunktā minētajiem nosacījumiem.
+
+3. Lai aprēķinātu noslēguma maksājumus pēc tam, kad dalībvalsts vairs nesaņem 76. panta 3. punktā minēto Savienības finansiālo palīdzību, Komisija neņem vērā palielinātās summas, kas izmaksātas saskaņā ar minēto punktu.
+
+2) iekļauj šādu pantu: “77.a pants Ierobežojums Savienības ieguldījumam, ko veido starpposma maksājumi un noslēguma maksājumi

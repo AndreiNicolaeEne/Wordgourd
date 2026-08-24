@@ -1,0 +1,19 @@
+Galileo Galilei (15. helmikuuta 1564 Pisa, Firenzen herttuakunta – 8. tammikuuta 1642 Arcetri, Toscanan suurherttuakunta) oli italialainen tähtitieteilijä, filosofi ja fyysikko. Hänen merkittävimmät saavutuksensa liittyvät tieteellisen menetelmän kehitykseen aristoteelisesta nykyiseen muotoonsa. Häntä on kutsuttu tieteen, klassisen fysiikan ja tähtitieteen isäksi.
+
+Galileo Galilei syntyi Pisassa, Toscanan maakunnassa, Italiassa 15. helmikuuta 1564. Hän oli matemaatikko ja muusikko Vincenzo Galilein ja Giulia Ammannatin seitsemästä lapsesta vanhin. Silloiseen toscanalaiseen tapaan esikoisen nimi oli muunnelma sukunimestä. Monien mielestä juuri Galileo oli perheen lapsista lahjakkain. Hän opiskeli jo nuorena latinaa, kreikkaa ja filosofiaa. Vuonna 1581 hän aloitti lääketieteen opiskelut Pisan yliopistossa. Pian hän kuitenkin huomasi, että on kiinnostunut enemmän matematiikasta kuin lääketieteestä, ja vaihtoi alaa. Galilei joutui jättämään yliopisto-opiskelunsa kesken, koska vanhemmilla ei ollut varaa maksaa hänen opintojaan, mutta hänelle tarjottiin silti opettajan paikka Pisan yliopiston matematiikan laitokselta vuonna 1589. Vuonna 1592 hän siirtyi Padovan yliopistoon ja toimi siellä matematiikan laitoksella geometrian, tähtitieteen ja mekaniikan opettajana aina vuoteen 1610 saakka. Tänä aikana Galilei keskittyi tieteelliseen työhön ja teki monia merkittäviä havaintoja.
+
+Diodi on elektroniikan komponentti, joka päästää sähkövirran kulkemaan lävitseen vain yhteen suuntaan: anodilta katodille. Aivan ensimmäiset diodit olivat kidekoneissakin käytettyjä lyijyhohdediodeja. Elektroniikan aikakausi alkoi varsinaisesti kuitenkin vasta diodiputken keksimisestä vuonna 1902 – diodiputken keksijä John Ambrose Fleming loi koko elektroniikan käsitteen. Nykyisin suurin osa diodeista on puolijohteita.
+
+Koska diodi läpäisee virtaa vain toiseen suuntaan, sen resistanssi on hyvin pieni tai suuri, riippuen virran suunnasta.
+
+Eri käyttötarkoituksiin on kehitetty useita erityyppisiä diodeja. Diodit ryhmitellään muun muassa seuraaviin tyyppeihin:
+
+suurivirtaiset diodit pienitehoiset diodit
+
+zenerdiodit vakiovirtadiodit kapasitanssidiodit
+
+Schottky-diodit fotodiodit ledit eli loiste- tai hohtodiodit
+
+Diodi saadaan syntymään siten, että liitetään p-tyyppinen ja n-tyyppinen puolijohdeaine yhteen. P-puolella virtaa kuljettavat positiiviset aukot ja n-puolella negatiiviset elektronit. P- ja n-tyypin materiaalien rajapinnan läheisyydessä n-tyypin elektronit rekombinoituvat p-tyypin materiaalin aukkojen kanssa. Tämä synnyttää rajapinnan läheisyydessä negatiivisia ja positiivisia ioneita aiheuttaen rajapinnalla sähkökentän.
+
+Mikäli anodi on kytketty estosuuntaisesti, eli p-puolella on pienempi potentiaali n-puoleen nähden, sähkökenttä vetää virrankuljettajat pois rajapinnan läheltä eikä virta kulje. Päästösuuntaisesti kytketyssä diodissa anodi (p-puoli) on korkeammassa potentiaalissa katodiin (n-puoli) verrattuna, sähkökenttä työntää virrankuljettajat rajapinnalle ja virta kulkee.

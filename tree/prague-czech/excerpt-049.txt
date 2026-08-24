@@ -1,0 +1,13 @@
+Spalovací motor je tepelný stroj, spalovací motor s vnitřním spalováním, spalující palivo ve spalovacím prostoru uvnitř motoru a přeměňující jeho chemickou energii na teplo a na mechanickou energii působením na píst, lopatky turbíny, nebo s využitím reakční síly. Motor vykonává mechanickou práci a jako takový slouží coby pohon jiných strojních zařízení. Spalovací motory všech typů nalezly největší uplatnění zejména v dopravních a mobilních mechanizačních prostředcích všech druhů (nezávislá trakční vozidla, resp. lokomotivy, plavidla hladinová i ponorná neboli ponorky, motorová vozidla, letadla, stavební a zemědělské stroje, vojenská a jiná speciální vozidla, nouzové generátory elektrického proudu atd.).
+
+Horní limit účinnosti spalovacího motoru lze odvodit z Carnotova cyklu. Vinou omezení teplot a tlaků, kterých je možno technicky dosáhnout, je jeho účinnost menší než u motorů používajících přímo jiných druhů energie než tepelné, jako je elektromotor nebo vodní motory. Na mechanickou práci je ve spalovacích motorech přeměněno 10–50 % chemické energie paliva. Nejnižší účinnost má parní stroj (do 12 %), benzínové a dieselové motory dosahují účinnosti kolem 25 %, přeplňované motory s turbokompresorem poháněným výfukovými plyny (turbo) mají účinnost kolem 35 %, letadlový turbínový motor vykazuje účinnost 20–25 %, stacionární spalovací turbína s tepelnými výměníky může dosahovat účinnosti i přes 50 %.
+
+Podle toho, jak se tepelná energie mění na mechanickou, rozlišujeme motory pístové a reaktivní:
+
+Pístové motory: přímočarý vratný pohyb pístu:
+
+čtyřdobý motor dvoudobý motor motor s podvojnými válci
+
+Intervaly se nazývají podle toho, o kolik stupňů diatonické stupnice (např. C dur) jsou od sebe oba tóny intervalu vzdáleny. Jejich názvy jsou počeštělé latinské řadové číslovky v ženském rodě (prima = první, secunda = druhá, tertia = třetí, atd.). Tyto názvy platí pro všechny diatonické stupnice – tedy pro všechny durové, mollové a církevní hudební stupnice. V tabulce níže jsou uvedeny příklady pro stupnice C dur a e moll.
+
+Diatonická stupnice vychází ze sedmitónové řady (C, D, E, F, G, A, H), ale jak již bylo řečeno, oktáva je v evropské hudbě rozdělena do 12 půltónů. Označení „prima“ až „oktáva“ tedy nestačí k popisu všech dvanácti intervalů v dvanáctitónové chromatické stupnici. Proto se zavádí doplňková přídavná jména: čistá, malá a velká. Prima, kvarta, kvinta a oktáva mohou být jen čisté; sekunda, tercie, sexta a septima mohou být buď malé nebo velké.

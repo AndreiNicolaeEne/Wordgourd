@@ -1,0 +1,21 @@
+Sosyal epistemoloji: Bilgi yüklemelerinde bireyler arasındaki ilişkiler ve inançların sosyal bağlamlardaki yerini araştırır.
+
+Formal epistemoloji: Bilgi yüklemelerinde karar, mantık, olasılık ve hesaplanabilirlik gibi kavramların etkisini araştırır.
+
+Metaepistemoloji: Epistemolojinin konusu, yöntemleri ve amaçlarını araştırır. Epistemoloji alanında bilgi edinmek için sorulan soruların ve bu sorulara verilen cevapların gerekliliği ve doğruluğu üzerinde durur.
+
+Evrimsel epistemoloji: İnsanlar ve hayvanlarda, bilginin ve bilişsel mekanizmaların geçirdiği evrimsel süreçleri araştırır.
+
+Uygulamalı epistemoloji: Araştırma sistemlerinin doğru bilgiye erişmede işe yarayıp yaramadığını araştırır.
+
+Doğru bilginin mümkün olmadığını savunan görüşler, duyuların insanı aldatması, bilginin göreceli olması ve her şeye şüpheyle yaklaşılması gerektiği gibi bakış açılarıyla, herkesin doğru kabul edebileceği kesin bilgilere ulaşılamayacağını savunmuşlardır. Antik Yunan’da, zenginlerin çocuklarına para karşılığında eğitim veren sofistler ve şüpheyi bir sistem olarak ortaya koyan septikler, doğru bilginin mümkün olmadığını savunan filozoflar arasında yer almaktadır.
+
+Buhar makinesi, buharın içinde var olan ısı enerjisini, mekanik enerjiye dönüştüren bir dıştan yanmalı motordur. Buhar makineleri, lokomotifler, buharlı gemiler, pompalar, buharlı traktörler ve endüstriyel devreler olabilir.
+
+Bir buhar makinesi basınç altında buhar üretmek için suyu kaynatacak bir kazana ihtiyaç duyar. Herhangi bir ısı kaynağı kullanılabilir, fakat genelde odun, kömür veya petrol türevi yakıtların yakılmasından elde edilen ateş kullanılır.
+
+Çalışma prensibi olarak, ısı enerjisini alan su buharlaşarak genişler ve bir odacığa alınır, odacık soğutulduğunda sıvı hale geçen buhar vakum yaratır böylece mekanizmaların hareket alması ile mekanik enerjiye yani işe dönüşür.
+
+Bilinen ilk buhar makinesi diyebileceğimiz örnek Mısırlı mühendis Heron'nun birinci yüzyılda 50 yıllarına doğru Mısır İskenderiye'de uçları birbirlerine göre zıt yönleri gösteren iki eğik tüpün yerleştirildiği oyuk bir küreden yaptığı türbin'dir. Kürede su kaynatıldığında buhar borulardan dışarı çıkmakta günümüzde etki tepki kanunu dediğimiz şeyin sonucunda kürenin dönmesine yol açmakta idi. Hero buharlı bir türbin ya da motor icat etmesine rağmen toplumda bir etki yaratmadığından bunu motor aygıtının icadı olarak görülmemektedir
+
+Buhar gücünün Heron tarafından uygulamasından sonra 1679 yılında ilk faydalı uygulama Fransız fizikçi Denis Papin'den (1647-1712) geldi. İçinde suyun kaynadığı ve biriken buharın suyun kaynama noktasını yükselttiği sıkıca kapanan bir kapağı olan düdüklü tencere icat edilmişti. Papin'in dikkat ettiği şey daha yüksek ısıda kemikler yumuşuyor ve et daha çabuk pişiyordu. Tencereye buhar basıncının çok yükselmesine karşın bir de güvenlik vanası eklenmişti.

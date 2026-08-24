@@ -1,0 +1,3 @@
+Telli dirençler yüksek güç gerektiren uygulamalarda kullanılırlar. Tellerin çift katlı sarılmasıyla endüksiyon etkisi yokedilebildiğinden yüksek frekans devrelerinde de tercih edilirler.
+
+Küçük güçlüleri ısınmayla çok az direnç değişimi gösterdiğinden, ölçü aletlerinin ayarında örnek direnç olarak da kullanılırlar. Maliyetlerinin yüksek olması, çok yer kaplamaları ve büyük güçlü olanlarının ısınması gibi olumsuz yönleri vardır.

@@ -1,0 +1,13 @@
+(2) Wird ein Kontrakt an einem Handelsplatz geschlossen und von einer CCP gecleart, so dass einer Gegenpartei die Identität der anderen Gegenpartei nicht bekannt ist, so gibt die meldende Gegenpartei diese CCP als ihre Gegenpartei an.
+
+Artikel 3 Meldung von Risiken (1) Die in Tabelle 1 des Anhangs verlangten Daten zur Besicherung umfassen alle hinterlegten Sicherheiten.
+
+(2) Besichert eine Gegenpartei nicht auf Transaktionsbasis, so melden die Gegenparteien dem Transaktionsregister die hinterlegten Sicherheiten auf Portfoliobasis.
+
+(3) Werden die Sicherheiten eines Kontrakts auf Portfoliobasis gemeldet, so teilt die meldende Gegenpartei dem Transaktionsregister einen Identifikationscode für das Portfolio der Sicherheiten mit, die für den gemeldeten Kontrakt bei der anderen Gegenpartei hinterlegt wurden.
+
+(4) Andere als die in Artikel 10 der Verordnung (EU) Nr. 648/2012 genannten nichtfinanziellen Gegenparteien sind nicht zur Meldung von Sicherheiten und der Bewertung zu Markt- oder zu Modellpreisen der Kontrakte gemäß Tabelle 1 des Anhangs verpflichtet.
+
+(5) Werden Kontrakte von einer CCP gecleart, so sind Bewertungen zu Marktpreisen nur von der CCP zu liefern.
+
+Artikel 4 Meldelogbuch Änderungen der in Transaktionsregistern eingetragenen Daten werden in einem Meldelogbuch aufgezeichnet unter Angabe der die Änderung beantragenden Person(en), gegebenenfalls einschließlich des Transaktionsregisters selbst, sowie der Gründe für die Änderung, eines Zeitstempels und einer eindeutigen Beschreibung der Änderungen, einschließlich der alten und neuen Inhalte der einschlägigen Daten, gemäß den Feldern 58 und 59 von Tabelle 2 des Anhangs.

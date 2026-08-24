@@ -1,0 +1,15 @@
+c) Se o OICVM principal estiver estabelecido num Estado-Membro diferente do OICVM de alimentação e esse facto puder afectar o tratamento fiscal do OICVM de alimentação, uma declaração nesse sentido.
+
+Artigo 35.o Resultados anteriores 1. A apresentação dos resultados anteriores no documento com as informações fundamentais destinadas ao investidor do OICVM de alimentação deve ser específica ao OICVM de alimentação e não deve reproduzir os resultados do OICVM principal.
+
+2. O n.o 1 não é aplicável: a) Se o OICVM de alimentação apresentar os resultados anteriores do seu OICVM principal como padrão de referência; ou
+
+b) Se o OICVM de alimentação tiver sido lançado enquanto tal numa data posterior ao OICVM principal, estando reunidas as condições do artigo 19.o, e se forem apresentados resultados simulados para os anos anteriores à existência do OICVM de alimentação, com base nos resultados anteriores do OICVM principal; ou
+
+c) Se o OICVM de alimentação tiver registos de resultados anteriores à data na qual começou a operar enquanto OICVM de alimentação, sendo o seu próprio registo indicado no gráfico de barras para os anos relevantes e a alteração significativa assinalada nos termos do artigo 17.o, n.o 2.
+
+SECÇÃO 5 OICVM estruturados Artigo 36.o Cenários hipotéticos de resultados
+
+1. O documento com as informações fundamentais destinadas ao investidor de OICVM estruturados não deve incluir a secção «Resultados anteriores».
+
+Para efeitos da presente secção, entende-se por OICVM estruturados OICVM que, em certas datas pré-definidas, fornecem aos investidores ganhos baseados em algoritmos associados aos resultados, a alterações dos preços ou a outras condições de activos financeiros, índices ou carteiras de referência ou OICVM com características semelhantes.

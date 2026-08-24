@@ -1,0 +1,11 @@
+Iz pisave brahmi so se razvile poznejše indijske pisave. Oblike grafemov so se v različnih okoljih skozi čas spreminjale, pri tem pa so nastale na severu bolj oglate oblike in na jugu bolj okrogle oblike, kar je vodilo do sorodnih pisav današnje Indije.
+
+Sanskrtski rokopisi so se v dolgi zgodovini jezika zapisovali v različnih pisavah. Med severnimi pisavami je posebno važna pisava devanagari (devanāgarī - pisava mesta bogov) ali nagari (nāgarī - mestna pisava). Kašmirski rokopisi pogosto uporabljajo pisavo šarada (śāradā - jesenska pisava), bengalski rokopisi pa pisavo bangla (bānglā - bengalska pisava). Na jugu, v tamilskem okolju se je uporabljala predvsem pisava grantha (v tamilščini: grantha - knjižna pisava).
+
+Po vpeljavi tiska se za tiskanje sanskrtskih del uporablja samo pisava devanagari.
+
+Včasih se za zapis sanskrtskih besedil uporablja tudi transliteracija v latinico. Standardna transliteracija IAST (mednarodna abeceda za prečrkovanje sanskrta) uporablja črke latinice, ki jim doda različna razločevalna znamenja ter nekaj dvočrkij.
+
+Za pisanje v ASCII okoljih se uporabljajo tudi različne pomožne transliteracije, ki velikim in malim črkam ter kombinacijam znakov pripišejo različne pomene. Najpomembnejši sta transliteraciji Harvard-Kjoto in ITRANS. Ker se počasi v vseh računalniških okoljih uveljavlja standard Unicode, postajajo ASCII transliteracije odvečne.
+
+Indijske pisave so zlogovne abecede ali abugide. V zlogovnih abecedah ima vsak grafem za soglasnik privzet samoglasnik. Pri indijskih pisavah je ta samoglasnik vedno kratek a. V abecedi lahko ta privzeti a gledamo v podobni funkciji, kot jo imata e ali polglasnik v slovenski abecedi, to je omogočalo izgovorjavo soglasnikov.

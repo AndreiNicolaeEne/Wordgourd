@@ -1,0 +1,39 @@
+Enerji bir növdən digər növə keçə bilmək kimi unikal xassəyə malikdir, o heç hardan yaranmır və heç hara yox olmur, sadəcə transformasiya olunur.
+
+Mexaniki sistemin enerjisini kinetik və potensial enerjinin cəmi kimi təsvir etmək olar. Bu iki məfhum klassik mexanikanın bütün sahələrində tətbiq olunur.
+
+Kinetik enerjiyə həm də hərəkət enerjisi deyilir. Bu bir sistemin başqa sistemə nisbətən hərəkəti zamanı öz kütləsi ilə təyin
+
+olunur və fırlanma və düzxətli enerjilərin cəmindən ibarət olur.
+
+Potensial enerji həm də vəziyyət enerjisi adlanır. Mexanikada əgər bir sistem qüvvə təsiri altına düşürsə (məsələn, yerin qravitasiya sahəsi)onda potensial enerji yaranır) Em = Ec + Ep
+
+Em mexaniki enerji, Ec kinetik və Ep potensial olduğu yerdədir. Kinetik enerji düsturunu başqa bir yazıda gördük. Cazibə potensialı enerjisindən bəhs edərkən, hündürlük və cazibə kütləsi nəticələrindən danışırıq. Bu vahidlərin vurulması bizə bir obyektin potensial enerjisini göstərir.
+
+Elektrik enerjisi elektrik yüklərin elektrostatik sahədə malik olduqları potensial enerjisir. Onları ancaq böyük həddə saxlamaq mümkün deyil. Elektrik stansiyalarında və batareyyalardan bu enerji istilik və yakimyəvi enerjidən alınaraq istehlakçılara çatdırlır və orada başqa enerji formalarına çevrilir. Maqnit enerji yalnız maqnit sahələrində mövcuddur.
+
+Termiki enerjinin, maqnit sahəsində yaranan enerji, kimyəvi və atomar enerjilərin cəmi daxili enerji adlanır. Burada söhbət kinetik və potensial enerjidən kənara çıxır. Ona çox vaxt molekulların kinetik enerjiləri və onların qarşılıqlı potensial enerjilərinin də cəmi kimi baxılır. Cismi təşkil edən bütün zərrəciklərin kinetik və potensial enerjilərinin cəmi – cismin daxili enerjisidir. Lakin ideal qazın molekullarının qarşılıqlı təsiri nəzərə alınmır, ona görə də molekulların potensial enerjisi sıfır qəbul olunur.
+
+metabolik — maddələr mübadiləsinə təsir edən;
+
+morfogenetik — formalaşma, böyümə, inkişafa təsir edən;
+
+kinetik — icraedici orqanların fəaliyyətinə təsir edən;
+
+korreksiyaedici — orqan və toxumaların funksiya intensivliyini dəyişdirən.
+
+Funksional olaraq hormonları aşağıdakı qruplara bölürlər:
+
+effektor — hədəf obyektinə birbaşa təsir edən;
+
+trop — effektor hormonların sintezini və ifrazını tənzim edən (məsələn, tiroid stimullaşdırıcı hormon);
+
+liberinlər və statinlər — müvafiq olaraq rilizinq hormonlar və tormozlayıcı hormonlar. Bu qrup hormonlar hipotalamusun sinir hüceyrələri tərəfindən sintez olunur.
+
+Endokrin sistemində 2 əsas idarə orqanı var. Bunlar ara beynin 2 hissəsidir:
+
+Talamus Hipotalamus Əsas görmə orqanıdır.
+
+Bütün onurğalılarda humoral sistemin ən əsas idarə mərkəzi hipotalamusdur. 30-dan çox funksiya yerinə yetirir. Onun funksiyalarına qoxu və görmə istisna olmaqla, bütün hissi orqanların tənzimlənməsi və s. aiddir.
+
+Qanda hər hansı bir maddənin azlığı və ya çoxluğu hipotalamusda olan nüvələrin sinir uclarının oyanmasına səbəb olur. Hipotalamus isə digər daxili sekresiya vəzilərinə sinir impulsları və rilizinq (liberinlər), yaxud tormozlayıcı (statinlər) hormonlarla həmin vəzilərin orqanizmin tələbinə uyğun hormonlar hazırlamasına, ya da hormon sintezinin ləngiməsinə səbəb olur.

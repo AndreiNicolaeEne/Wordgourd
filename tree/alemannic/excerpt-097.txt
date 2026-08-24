@@ -1,0 +1,9 @@
+Vilmol wird anstatt von ere Definizionsmängi zerst e Kwellemängi vorgee. Wenn as Rächevorschrift gee isch, bechunnt mä d Definizionsmängi , wemm mä vo alli die Elimänt usschliesst, wo für sä nit definiert isch.
+
+Mängitheoretisch isch e Funkzion e spezielli Relazion:
+
+E Funkzion vo dr Mängi in d Mängi isch e Mängi mit dene Äigeschafte:
+
+isch e Däilmängi vom kartesische Brodukt vo und , d. h. isch e Relazion.
+
+Für jedes Elimänt us existiert (mindestens) äi Elimänt in , so dass s gordnete Baar en Elimänt vo dr Relazion isch. isch also linkstotal.

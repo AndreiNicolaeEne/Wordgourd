@@ -1,0 +1,19 @@
+(3) Smernica Európskeho parlamentu a Rady 2007/46/ES z 5. septembra 2007, ktorou sa zriaďuje rámec pre typové schválenie motorových vozidiel a ich prípojných vozidiel, systémov, komponentov a samostatných technických jednotiek určených pre tieto vozidlá (3), by sa preto mala zodpovedajúcim spôsobom zmeniť a doplniť.
+
+(4) Opatrenia stanovené v tomto nariadení sú v súlade so stanoviskom Technického výboru - motorové vozidlá,
+
+PRIJALA TOTO NARIADENIE: Článok 1 Rozsah pôsobnosti
+
+Toto nariadenie sa vzťahuje na vozidlá kategórie M1, ktoré sú v súlade s týmito požiadavkami:
+
+- sú vybavené manuálnou prevodovkou, - ich referenčná hmotnosť nepresahuje 2 610 kg alebo ich typové schválenie je rozšírené na tieto vozidlá v súlade s článkom 2 ods. 2 nariadenia (ES) č. 715/2007.
+
+Toto nariadenie sa nevzťahuje na „vozidlá určené na plnenie zvláštnych sociálnych potrieb“ vymedzené v článku 3 ods. 2 písm. c) nariadenia (ES) č. 715/2007.
+
+Článok 2 Vymedzenia pojmov Na účely tohto nariadenia sa okrem definícií vymedzených v nariadení (ES) č. 661/2009 uplatňujú nasledujúce vymedzenia pojmov:
+
+1. „typ vozidla vo vzťahu ku GSI“ je skupina vozidiel, ktoré sa nelíšia, pokiaľ ide o funkčné charakteristiky GSI a logiku, na základe ktorej GSI stanoví moment, keď je potrebné odporučiť prevodový stupeň. Príklady rôznych logík okrem iného zahŕňajú:
+
+i) preradenie na vyšší prevodový stupeň sa odporučí pri určitých otáčkach motora;
+
+ii) preradenie na vyšší prevodový stupeň sa odporučí, keď z osobitných máp spotreby paliva vyplýva, že pri vyššom prevodovom stupni sa dosiahne určité minimálne zlepšenie spotreby paliva;

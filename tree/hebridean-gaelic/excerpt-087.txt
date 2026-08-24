@@ -1,0 +1,17 @@
+’S e fo-roinn ailseabra cudromach a tha anns an ailseabra loidhneach. Tha seo a’ dèiligeadh ri siostaman cho-aontaran loidhneach a tha cumanta anns na saidheansan agus a tha tè de na ceistean as aosda ann am matamataig.
+
+Tha co-aontar loidhneach den riochd: a0 = a1x1 + a2x2 + ... + anxn
+
+far a bheil a0, a1, a2, ..., an cunbhalach agus tha x1, x 2, ..., xn rim faotainn. Tha e loidhneach chionns gur e co-aontar loidhne dìrich a tha:
+
+y = a1x + a0, agus ’s e loidhne dhìreach ann an spàs n-sheallach a tha:
+
+f (x1, x2, ..., xn) = a0 + a1x1 + a2x2 + ... + anxn. ’S e bheactar a tha 〈 x1, x2, ..., xn 〉agus canar spàs bheactarach do spàs far am faodar bheactaran a shuimeadh agus a sgèileadh. ’S e cruth-atharrachadh loidhneach a th’ ann am fuincsean sam bith a ghlèidheas na feartan seo. Tha ailseabra loidhneach a’ gabhail a-staigh oideachadh bheactaran, spàsan bheactarach agus chruth-atharrachadh loidhneach.
+
+Tha ailseabra inntrigidh a’ dèiligeadh ri àireamhan – eileamaidean de sheata àireamh. ’S e ailseabra easchruthach leudachadh nam bun-smuaintean seo do sheataichean as coitchinne. Le bhith a’ suidheachadh feartan agus riaghailtean a tha a’ buntainn ri seata eileamaidean sam bith, bithidh iad iomchaidh cuideachd do bheactaran, do mheatragsan, do dh’iol-teirmich, agus an leithid.
+
+'S e cànan Innd-Eòrpach a`tha ann an Spàinntis, ainm bho thùs: castellano. Thàinig an cànan bho thaobh tuath na Spàinne. Tha freumhan cumanta aig an Spàinntis agus am Portagailis. Tha Spàinntis ga bhruidhinn anns an Roinn Eòrpa, ann am corra àite ann an Àisia is Afraga, agus gu h-àraidh air feadh Aimearaga.
+
+Thathar ag ràdh gun do nochd an Spàinntis agus Am Portagailis mar chànain rè linntean na cogaidhean an aghaidh nan Arabach. Aig toiseach tòiseachaidh an ghnothaich, fhad' s a bha làmh an uachdair fhathast leis na Arabaich, bha sreath dhe Rìoghachdan beaga neo-eisimeileach ann, is iad uile ann an ceann a thuath na Spàinne. Anns A' Ghàilis, bha cànan le freumhan Laideann ga bhruidhinn. Beag air bheag, rinneadh na Crìostaidhich an gnothaich air na h-Arabaich, gan sguabadh a-mach às an dùthaich. Mu dheireadh thall, nochd dà stàit, An Spàinn agus A' Phortagail, far an robh dà chànan coltach ann: Spàinntis agus Portagailis.
+
+Cha robh Laideann ga bhruidhinn ann am Iberia mus do ràinig feachd na Ròimh ann am 318 RO is rinn iad an gnothaich mu dheireadh thall ann an 18 RO, fo Chaesar Augustus. Sgaoil an cànan fad is farsaing gu luath, agus an ceann beagan ghinealach, bha na cànanan tùsail air a bhàsachadh ach ann corra àite. Thathar a' creidsinn gu robh na daoine deiseil airson a ghabhail ri cultar agus cànan na Ròimh leis gu robh cultaran adhartach mar na Greugaich ann bho thùs. Anns a' chiad linn thuit ìompaireachd na Ròimh a-mach a chèile agus thoisich leasachadh neo-eisimeileachd a' chànain anns na beanntan ann an thaobh mu thuath na dùthcha. Tha iomadh ainm-àite Laideann anns an Spàinn gus an latha an-diugh. Cha do leig na cànanan tùsail ach facal neo dhà.

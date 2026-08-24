@@ -1,0 +1,9 @@
+Reaksiyalar: Üzvi kimya reaksiyaları karbon birləşmələrinin kimyəvi çevrilmələrini öyrənir. Məşhur üzvi reaksiyalardan bəziləri:
+
+Əlavə reaksiyaları: Alken və alkınların hidrogenləşməsi.
+
+Substitusiya reaksiyaları: Halogenlərin karbon birləşmələrində əvəz olunması.
+
+Eliminasiya reaksiyaları: Molekuldan kiçik bir hissənin ayrılması ilə ikili və ya üçlü əlaqələrin əmələ gəlməsi.
+
+Stereokimya: Molekulların məkan quruluşunu və bu quruluşun onların kimyəvi və fiziki xüsusiyyətlərinə təsirini öyrənir. Enantiomerlik və diastereomerlik kimi anlayışlar stereokimyanın əsasını təşkil edir.

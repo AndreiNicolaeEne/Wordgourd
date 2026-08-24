@@ -1,0 +1,9 @@
+Umělé neuronové sítě v umělé inteligenci jsou volně inspirovány odpovídajícími biologickými strukturami. Oproti nim jsou však značně zjednodušeny a používají jiné mechanismy učení, než jaké používá např. lidský mozek. Cílem totiž není věrně simulovat biologické struktury, ale především řešit praktické problémy. Jedná se o přístup ke strojovému učení, který se stal velmi úspěšným. Neuronové sítě se používají mimo jiné k rozpoznávání a kompresi obrazů či akustických (např. rozpoznávání řeči) nebo elektrických (např. EKG, EEG) signálů, klasifikaci či segmentaci dat, předvídání vývoje časových řad (např. burzovních indexů), k rozpoznávání psaného textu či k filtrování spamu. Tvorbou biologicky věrných modelů neuronů a neuronových sítí se zabývají výpočetní neurovědy, prohlubující znalosti o fungování informačních systémů (nervových soustav) živých organismů. Například Grossbergova neuronová síť vznikla původně jako simulace fyziologického modelu rozpoznávání vzorů na sítnici lidského oka.
+
+Robotika je věda o robotech, jejich designu, výrobě a aplikacích. Robot může buď pomáhat, nebo dělat lidskou práci, popř. zajišťovat i komfort společnosti. Robotika úzce souvisí s elektronikou, mechanikou a aplikovaným softwarem.
+
+Jde o vidění zobecněné: Zdaleka ne jen viditelným světlem, dokonce ani vůbec ne světlem, nýbrž třeba akusticky, obecně tedy echolokací.
+
+ve 2D: Detekce hran v obrazu, jejich aproximační prodloužení, ohodnocení významnosti detekovaných hran, odstranění vlivu různého jasu napříč obrazem.
+
+Optické rozpoznávání znaků pro rozpoznávání tištěného textu, rozpoznávání ručně psaného textu. Schopnost rozpoznávání předmětů pootočených, skloněných, jinak barevných či dokonce vzorovaných, neúplných oříznutím nebo zašuměním.

@@ -1,0 +1,5 @@
+Các cấu trúc ngôn ngữ là các cặp song hành giữa ý nghĩa và âm thanh (hoặc hình thức ngoại hiện khác). Các nhà ngôn ngữ học có thể chỉ tập trung vào một số lĩnh vực nhất định của ngôn ngữ, có thể sắp xếp như sau:
+
+Ngữ âm học (Phonetics), nghiên cứu quy luật của các thể (aspect) của âm
+
+Âm vị học (Phonology), nghiên cứu những khuôn mẫu (pattern) của âm

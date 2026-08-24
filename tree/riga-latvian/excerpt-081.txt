@@ -1,0 +1,5 @@
+Lai būtu elektriskā strāva, jāveido noslēgta elektriskā ķēde, kurā ir strāvas avots. Strāvas avots nodrošina spriegumu, kā rezultātā ķēdē plūst elektriskā strāva ar noteiktu strāvas stiprumu.
+
+Par elektriskās strāvas virzienu pieņemts uzskatīt pozitīvo lādiņnesēju kustības virzienu. Tāpēc, ja strāva ir negatīvu elektronu plūsma (kā, piemēram, metālos), tad strāvas virziens ir pretējs elektronu orientētās kustības virzienam.
+
+Elektriskās strāvas stiprums ir elektriskais lādiņš , kurš noteiktā laikā izplūst caur vadītāja šķērsgriezuma laukumu.

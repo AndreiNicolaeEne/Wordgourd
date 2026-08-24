@@ -1,0 +1,19 @@
+Likvo (ankaŭ uzeblas vortoj likvaĵo kaj fluidaĵo) estas fluido kies volumeno estas fiksata per konstanta premo kaj temperaturo, kaj kies formo norme estas konforma al la ujo, kiun ĝi plenigas. Likvoj faras premon sur la flankoj de la ujo kaj sur io en la likvo. La likva fazo estas fazo de materio. Likvo je sia bolpunkto ŝanĝiĝas al gaso. Ĝi ŝanĝiĝos al solido je sia frostopunkto.
+
+Likvo estas stato de agregado de materio en formo de fluidaĵo tre nekunpremebla, kio signifas, ke ties volumeno estas preskaŭ konstanta en granda premogamo. Estas la nura stato kun difinita volumeno, sed ne kun fiksa formo. Likvo estas formata per malgrandaj vibrantaj partikloj de la materio, kiel la atomoj kaj la molekuloj, unuigitaj per intermolekulaj ligiloj. La akvo estas la plej komuna likvo sur la Tero, kaj ankaŭ la plej abunda. Kiel okazas ĉe gaso, likvo estas kapabla flui kaj ekpreni la formon de ujo. Diference de gaso, likvo ne disiĝas por pleni la tutan spacon de ujo, sed ja retenas konstantan densecon. Rimarkinda karaktero de la likva stato líquido estas la surfaca tensio, kio okazigas malsekigantajn fenomenojn.
+
+La likva stato estas stato de agregado de la materio intermeza inter la stato de solidoj kaj la stato de gasoj. La molekuloj de la likvoj ne estas tiom proksimaj kiom tiuj de la solidoj, sed ili estas malpli separataj ol tiuj de la gasoj. La molekuloj en la likva stato okupas lokojn hazarde kiuj varias laŭlonge de la tempo. La distancoj intermolekulaj estas konstantaj ene de mallarĝa gamo. En kelkaj likvoj, la molekuloj havas orientigon preferatan, kio faras, ke la likvo montras proprecojn neizotropajn (nome proprecoj, kiel la refrakta indico, kiu varias depende de la direkto ene de la materialo).
+
+Bazo en kemio estas ĉefe pripensata kiel substanco, kiu povas akcepti protonojn (atomojn de hidrogeno). La koncepto rilatas al la teorio de Brønsted kaj Lowry pri acidoj kaj bazoj. Laŭ iom restriktita koncepto, kiel bazo estas konsiderata iu ajn kemia kombinaĵo kiu, kiam solvita en akvo, donas solvon kun pH-valoro pli granda ol 7,0.
+
+Bazoj estas la malo de acidoj. Kemia reakcio inter acido kaj bazo estas nomata neŭtraligado. Bazoj kaj acidoj estas konsiderataj kiel malaj inter si, ĉar la reakcio inter la du rezultigas salan solvon kaj akvon.
+
+Konataj bazoj estas: kalcia karbonato (CaCO3)
+
+kalia hidroksido (KOH) magnezia hidroksido (Mg(OH)2)
+
+natria hidroksido (NaOH) natro (Na2CO3) En biologio gravas la nukleaj bazoj (nitrogenaj bazoj), gravaj konsistigiloj de DNA.
+
+Kelkaj substancoj povas depende de la medio efiki jen kiel bazoj, jen kiel acidoj. Ili nomiĝas (baz-acid-)amfoteraj.
+
+En 1754, kiam kemio jam konis la koncepton de acido, la franca kemiisto Guillaume-François Rouelle konstatis, ke acidoj transformiĝas al saloj, kiam ili kombiniĝas kun certaj substancoj. Rouelle konsideris tiujn substancojn kiel "bazojn" por la ekesto de salo, kiuj "detruas la volatilecon … de la acido kaj donas la solidecon (t. e. donas konkretan bazon) al la rezultanta salo". Tiel naskiĝis la historia termino "bazo".

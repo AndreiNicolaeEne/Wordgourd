@@ -1,0 +1,11 @@
+Televisioun (kuerz: TV) oder Fernsee ass en Telekommunikatiounsmedium, dat benotzt gëtt fir beweeglech Biller an Toun ze senden an z'empfänken. Televisiounsbiller kënne monochromatesch sinn (schwaarz a wäiss), faarweg oder an dräi Dimensiounen. Televisioun kuckt ee meeschtens um Televisiounsapparat.
+
+Ënner der Fernseetechnik versteet een déi Technik, déi hanner der Televisioun stécht. De Prinzip vun der Fernseetechnik baséiert op der Projektioun vun Eenzelbiller, déi séier hannerenee gewisen, zu enger Beweegung ginn.
+
+Fir datt d'A eng méiglechst fléissend Beweegung gesäit, mussen op d'mannst 20 Biller pro Sekonn (B/s) ugewise ginn. Allerdéngs gouf fir Fernseeiwwerdroungen an Europa 25, an an Amerika 30 Biller pro Sekonn gewielt.
+
+Doduerch stellt sech awer e Problem: et entsteet e Flimmeren. Fir dee Problem z'ëmgoen, gouf d'Zeilesprongverfaren entwéckelt. De Problem hätt een och nach anescht léise kënnen, beispillsweis doduerch datt ee 50 Biller pro Sekonn ugewisen hätt. Dat hätt allerdéngs d'Bandbreet ze vill vergréissert. Och dat duebelt Uweise vun engem Bild hätt de Problem vum Flimmeren ënnerdréckt, mä dofir hätt all Bild misse kuerzzäiteg tëschegespäichert ginn, wat deemools allerdéngs nach technesch ze opwänneg war.
+
+D'optescht Signal vun der Bildvirlag gëtt vun engem Bildophueler (optesch-elektresche Wandler) erfaasst, an en elektrescht Signal ëmgesat an dem Bildwiddergabegerät (elektresch-optesche Wandler) zougefouert.
+
+Well dat komplett Bild awer net an enger Kéier iwwerdroe ka ginn, gëtt et vum Bildophueler a vill kleng Bildpunkten, Pixelen, opgedeelt. E Pixel ass déi klengst Fläch bei der Bildzerdeelung, wou selwer keng Faarfënnerscheeder méi méiglech sinn.

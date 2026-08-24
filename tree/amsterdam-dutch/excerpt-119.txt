@@ -1,0 +1,9 @@
+De stelling van Pythagoras is een wiskundige stelling die het verband geeft tussen de lengten van de zijden van een rechthoekige driehoek:
+
+In een rechthoekige driehoek is de som van de kwadraten van de lengtes van de rechthoekszijden gelijk aan het kwadraat van de lengte van de schuine zijde.
+
+De stelling is naar de Griekse wiskundige Pythagoras genoemd, maar de stelling was alleen voor de Grieken nieuw. Het resultaat was in Sumer al veel langer bekend en ook in Babylonië en het oude Egypte werd ze al eerder toegepast. In het bijzonder werd de verhouding tussen de beide rechthoekszijden en de schuine zijde al vroeg gebruikt om rechte hoeken uit te meten, zoals dat tot op de dag van vandaag door sommigen nog wordt gedaan. Behalve kennis van de stelling om haar toe te kunnen passen, is ook het leveren van een bewijs belangrijk. Wat dat betreft waren de Grieken, in het bijzonder de pythagoreërs wel de eersten. Zij wisten niet alleen dat de stelling waar was, maar konden ook aantonen waarom zij waar was. In India was de stelling in de zesde eeuw bekend, ze wordt beschreven in vers 17 van de ganitapada uit de Aryabhatiya van Aryabhata, al ontbreekt ook hier het bewijs.
+
+De stelling van Pythagoras geeft een verband tussen de lengten van de zijden van een rechthoekige driehoek. Noemt men de lengten van rechthoekszijden, de zijden die aan de hoek van 90° liggen, en , en de lengte van de schuine zijde, de zijde die niet aan de rechte hoek grenst, de hypotenusa, , dan is de bekende wiskundige vorm van de stelling:
+
+Dit is Propositie I.47 uit de Elementen van Euclides.

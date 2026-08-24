@@ -1,0 +1,19 @@
+Elektromagnetinė spinduliuotė klasikinėje fizikoje suprantama kaip elektrinio ir magnetinio laukų, periodiškai kintančių laike, sklidimas aplinka elektromagnetinės bangos pavidalu. Elektromagnetinės spinduliuotės spektras apima visus žinomus bangos ilgius. Į šį spektrą patenka:
+
+radijo bangos, infraraudonoji (šiluminė) spinduliuotė,
+
+matomoji šviesa, ultravioletinė spinduliuotė,
+
+rentgeno spinduliai, gama spinduliai. Čia išvardintos spinduliavimo rūšys, pradedant nuo mažiausią energiją pernešančių radijo bangų.
+
+Apie erdvėje judančius elektros krūvius susikuria kintantis elektrinis laukas ,
+
+aplink kurį susikuria kintantis magnetinis laukas . Šis savo ruožtu sukuria kintantį elektrinį lauką ir visa tai atsikartoja be galo daug kartų. Tokiu būdu susidaro erdvėje sklindanti elektromagnetinė banga. Abu bangos komponentai (elektrinis ir magnetinis) svyruoja vienoje fazėje, yra statmeni vienas kitam ir tuo pat metu statmeni bangos sklidimo krypčiai .
+
+Elektromagnetinės bangos yra poliarizuotos. Poliarizacija priklauso nuo elektrinio lauko ir magnetinio lauko
+
+vektorių orientacijos. Jei elektrinių ir magnetinių laukų vektoriai visą laiką kinta kuria nors viena kryptimi, banga yra tiesiškai poliarizuota. Kitos poliarizacijos rūšys yra elipsinė ir apskritiminė. Šioms bangoms būdingos bendrosios bangų sklidimo savybės, tokios kaip atspindys, interferencija, difrakcija, lūžis ir kitos.
+
+Elektromagnetinė spinduliuotė apibūdinama šiais parametrais:
+
+dažniu f, Hz; bangos ilgiu λ, m; (atstumas, kurį nusklidus elektromagnetinei bangai, jos fazė pasikeičia verte 2π.)

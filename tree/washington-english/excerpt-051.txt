@@ -1,0 +1,39 @@
+III. Summary of Final Action on Issues Reconsidered
+
+The five reconsideration issues for which amendments are being
+finalized in this rulemaking are: (1) Definitions of startup and
+shutdown; (2) alternative PM standard for new oil-fired boilers that
+combust low-sulfur oil; (3) establishment of a subcategory and separate
+requirements for limited-use boilers; (4) provision that eliminates
+further performance testing for PM for certain boilers based on their
+initial compliance test; and (5) provision that eliminates further fuel
+sampling for Hg for certain coal-fired boilers based on their initial
+compliance demonstration. Each of these issues is discussed in detail
+in the following sections of this preamble.
+
+A. Definitions of Startup and Shutdown In the February 1, 2013, final amendments to the Area Source
+Boilers Rule, the EPA finalized revisions to the definitions of startup
+and shutdown, which were based on the time during which fuel is fired
+in the affected unit for the purpose of supplying steam or heat for
+heating and/or producing electricity or for any other purpose.
+Petitioners asserted that the public lacked an opportunity to comment
+on the amended definitions and that the definitions were not
+sufficiently clear. In response to these petitions, in the January 21,
+2015, proposed notice of reconsideration (80 FR 2871), we solicited
+comment on the definitions of startup and shutdown that were
+promulgated in the February 2013 final rule as well as additional
+revisions we proposed to make to those definitions. Specifically, we
+proposed to revise the February 2013 definition of startup to include
+an alternate definition of startup. The alternate definition clarified
+when startup begins for new boilers to address pre-startup testing
+activities that are done as part of installing a new boiler and when
+startup ends for first-ever startups as well as startups occurring
+after shutdown events. The alternate definition of startup as well as
+the definition of shutdown incorporated a new term ``useful thermal
+energy'' to replace the term ``steam and heat'' to address petitioners'
+concerns of an ambiguous end of the startup period.
+In this action, the EPA is adopting two alternative definitions of
+``startup,'' consistent with the proposed rule. The first definition
+defines ``startup'' to mean the first-ever firing of fuel, or the
+firing of fuel after a shutdown event, in a boiler for the purpose of
+supplying useful thermal energy for heating and/

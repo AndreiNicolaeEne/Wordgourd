@@ -1,0 +1,11 @@
+Struktur protéin kang disawang minangka hirarki, yaiku wujud struktur primèr (tingkat siji), sekundèr (tingkat loro), tersièr (tingkat telu), lan kuartenèr (tingkat papat). Struktur primèr protéin wujud urutan asem amino panyusun protéin kang dihubungaké liwat talènan peptida (amida). Sauntara iku, struktur sekundèr protéin iku struktur telung dhimènsi lokal saka manéka rangkéyan asem amino ing protéin kang distabilaké déning talènan hidrogen. Manéka wangun struktur sekundèr upamané yaiku:
+
+alpha helix (α-helix, "puntiran-alfa"), wujud pilinan ranté asem-asem amino wewangun kaya spiral;
+
+beta-sheet (β-sheet, "lempeng-beta"), wujud lembaran-lembaran amba kang kasusun saka sapérangan ranté asem amino kang silih kaiket liwat talènan hidrogen utawa takènan tiol (S-H);
+
+beta-turn, (β-turn, "lekukan-beta"); lan gamma-turn, (γ-turn, "lekukan-gamma").
+
+Gabungan saka manéka rupa saka struktur sekundèr bakal ngasilaké struktur telung dhimènsi kang dijenengi struktur tersièr. Struktur tersièr racaké wujud gumpelan. Sapérangan molekul protéin bisa silih interaksi kanthi fisik tanpa talènan kovalen nggawé oligomèr kang stabil (upamané dimèr, trimèr, utawa kuartomèr) lan nggawé struktur kuartenèr. Conto struktur kuartenèr kang misuwur yaiku enzim Rubisco lan insulin.
+
+Struktur primèr saka protéin bisa ditemtokaké kanthi sapérangan metode: (a) hidrolisa protéin karo asem kuwat (i.e., 6N HCl) lan banjur komposisi asem amino ditemtokaké kanthi amino acid analyzer instrumen, (2) sekuen analisa saka N-terminus kanthi migunakaké degradasi Edman, (3) kombinasi saka pancernan karo trypsin lan mass spektrometri, lan (4) panemton molekular mass kanthi mass spektrometri.

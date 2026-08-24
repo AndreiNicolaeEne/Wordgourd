@@ -1,0 +1,15 @@
+Thermodynamics, Bhautik vigyan (Physics) ke ek hissa hae, jisme garmi kon rakam se ek chij me se duusra chij me jaae hae, taapmaan (temperature) aur ii kaise shakti (energy), entropy, aur pradaat (matter) ke physical property hae, ke adhyan (study) karaa jaae hae. Ii sab chij ke chaal-chalan (behavior) ke thermodynamics ke chaar niyam govern kare hae.
+
+Thermodynamics ke zeroth niyam Agar dui chij me baraabar garmi ek duusre me jaae hae, aur ii dui me se ek me tiisra chij se garmi ek duusre me jaae hae, tab tiino chij me baraabar ke garmi ek duusre se bahe hae.
+
+Thermodynamics ke pahila niyam Ek chij ke shakti ke jaada hona, chij ke shakti ke garmi nai to work ke ruup me de ke baraabar hae. Shakti ke banaaya aur barbaad nai karaa jaae sake hae, lekin ek rakam se duusra rakam ke shakti me badlaa jaae sake hae. Ek chij ke ketnaa shakti hae, bagal ke chij chij se ketnaa shakti lewa gais hae, ke baraabar hae.
+
+Thermodynamics ke duusra niyam Agar dui chij, jiske taapmaan ek duusre ke baraabar nai hae, ek duusre ke chhuuwe hae tab garmi, garam chij se thandaa chij mme bahii, tab tak duuno ke taapmaan baraabar nai hoe jaae hae.
+
+Thermodynamics ke tiisra niyam Jab ek chij ke taapmaan 0 kelvin hae absolute zero (sab se kamti taapmaan), tab uske entropy 0 hae. (Ii shakti se koi kaam nai karaa jaae sake
+
+hae) 1593 - Galileo Galilei, taapmaan naape ke pahila chij banais rahaa, jiske Galileo thermometer ke naam dewa gais rahaa
+
+1650 – Otto von Guericke pahila vacuum pump banais rahaa.
+
+1660 – Robert Boyle experiment kar ke Boyle's law ke paais rahaa, jon gas ke pressure aur volume ke relate kare hae (1662 me publish karaa gais rahaa)

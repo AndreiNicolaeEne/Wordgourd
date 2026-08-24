@@ -1,0 +1,15 @@
+Úsáidfidh gach duine eile na lánaí a bheidh léirithe leis an gcomhartha ("gach cineál pas") atá i gcuid B2 d'Iarscríbhinn III.
+
+Féadfar an fhaisnéis atá ar na comharthaí dá dtagraítear i bpointe (a) agus pointe (b) a léiriú i gcibé teanga nó teangacha a mheasfaidh gach Ballstát a bheith oiriúnach.
+
+Níl sé éigeantach lánaí ar leith a sholáthar a bheidh léirithe leis an gcomhartha atá i gcuid B1 d'Iarscríbhinn III ("níl víosa riachtanach"). Cinnfidh na Ballstáit an ndéanfaidh siad na lánaí sin a sholáthar agus cinnfidh siad na pointí trasnaithe teorann i gcomhréir le riachtanais phraiticiúla.";
+
+cuirtear an méid seo a leanas in ionad an teidil "Doiciméid taistil a stampáil";
+
+"2. Maidir le doiciméid taistil náisiúnach tríú tíortha ar baill iad de theaghlach saoránaigh de chuid an Aontais a mbeidh feidhm ag Treoir 2004/38/CE maidir leis, ach nach dtíolacfaidh an cárta cónaithe dá bhforáiltear sa Treoir sin, déanfar na doiciméid sin a stampáil ar dhul isteach agus ar imeacht na náisiúnach sin.
+
+Maidir le doiciméid taistil náisiúnach tríú tíortha ar baill iad de theaghlach de chuid náisiúnaigh tríú tír a mbeidh ceart chun saorghluaiseachta aige faoi dhlí an Aontais ach ar náisiúnaigh iad nach dtíolacfaidh an cárta cónaithe dá bhforáiltear i dTreoir 2004/38/CE, déanfar na doiciméid sin a stampáil ar dhul isteach agus ar imeacht na náisiúnach sin.";
+
+do dhoiciméid taistil chriúnna traenacha paisinéirí agus earraí agus iad ar naisc idirnáisiúnta;
+
+do dhoiciméid taistil náisiúnach tríú tíortha a thíolacann cárta cónaithe dá bhforáiltear i dTreoir 2004/38/CE.";

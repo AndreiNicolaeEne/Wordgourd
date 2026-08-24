@@ -1,0 +1,19 @@
+Kui lepingutäitja täidab oma pakutud leppe, siis punkte jagatakse järgnevalt:
+
+leppe punktid sõltuvalt mastist ja kõrgusest, kuhu välja jõuti
+
+ületihid, lepingu ületamise punktid honöörid
+
+Kui lepingutäitja ei suuda oma lepingut täita, siis punkte saavad kaitsemängijad. See sõltub sellest, kui mitu tihi nad suutsid võtta võrreldes lepinguga.
+
+Bridži peamine pakkumise eesmärk on jõuda mänguni (geimini). Kui üks osapool on jõudnud geimini, siis on nad jõudnud tsooni. Tsoonis oleva osapoole punktiarvestus muutub. Näiteks kui tsoonis olev paar ei täida lepingut, siis on nende punktidekaotus kaks korda suurem. Geimi jõudmiseks on vaja saavutada vähemalt 100 punkti, kusjuures punktide hulk sõltub mastist. Näiteks 3NT (3 trumbita) annab täpselt 100 punkti, 5C (5 risti) annab samuti 100 punkti, ehkki esimesel juhul on vaja saada 9 tihi, teisel aga 11 tihi. Kallismastide puhul piisab neljandast kõrgusest (4H või 4S), mis annab 120 punkti (seega üle 100).
+
+Bridžis eristatakse peamiselt kahte punktiarvestussüsteemi: roberi- ja duplikaatsüsteemi. Suures osas need kattuvad. Roberisüsteemis arvestatakse punkte joonepealsete ja joonealustena, kusjuures joonealuseid arvestatakse geimi jõudmisel, ülemisi aga üldise skoori aspektist. Duplikaatbridžis esituvad kõik punktid üheskoos ja honööride eest punkte ei anta.
+
+Duplikaatsüsteemi aluseks on IMPi punktid, mis vastavalt tulemusele liidetakse. IMPid võivad olla nii negatiivsed kui positiivsed. Võidab see, kelle summa on suurem. Võrreldes roberisüsteemiga on duplikaatsüsteem raskem, kuid objektiivsem. Duplikaatsüsteemiga saab võita isegi väga halbade lehtedega, roberisüsteemis enamasti mitte.
+
+Päris-Soulis on 10,5 miljonit elanikku. Souli suurlinnastus, mida sageli nimetatakse Pealinna piirkonnaks (korea keeles Sudogwon 수도권; 首都圈) ning mille hulka kuuluvaks loetakse ka miljonilinnu Incheonit ja Suwonit, elas 2009. aasta 31. detsembri seisuga umbes 25 miljonit inimest. Seega on Souli ja selle satelliitlinnadesse koondunud umbes pool Lõuna-Korea rahvastikust. Souli pealinnapiirkonda peetakse Tōkyō-Yokohama järel suuruselt teiseks suurlinnastuks maailmas. Mastaabivahe México, New Yorgi ja São Pauloga on siiski väike, kuid täpsema pingerea koostamist takistavad suurlinnastute defineerimisel ja võrdlemisel kasutatavad erinevad kriteeriumid.
+
+Soul pole mitte üksnes Lõuna-Korea suurim linn, vaid ka selle kaubandus-, tööstus- ja kultuurikeskus. 1988. aastal toimusid Soulis XXIV suveolümpiamängud ning 2002. aastal Jaapaniga kahasse korraldatud jalgpalli maailmameistrivõistlused.
+
+Soul asub Lõuna-Korea loodeosas Põhja-Korea piiri lähedal keskmiselt 87 meetri kõrgusel üle merepinna. Linn asub Hani jõe alamjooksul, mis moodustub Soulist ida pool Bukhangangi (ehk Põhja-Hani jõe) ja Namhangangi (ehk Lõuna-Hani jõe) liitumiskohal Yangsuris. Kesklinn on ümbritsetud arvukatest mägedest. Kesklinna vahetus naabruses kõrgub Namsan (e.k. Lõunamägi), mille otsas asuva teletornini viib köisraudtee. Bukhansan ('Hani jõest põhjas asuv mägi') asub põhja pool linna ning Namhansan ('Hani jõest lõunas asuv mägi') linnast kagus. Ümbruskonna orgudes on arvukalt väikeseid külasid ja iidseid budistlikke kloostreid. Linna lõunaservas asub Gwanaksani mägi, mis on linlaste jaoks tähtis puhkeala. Soulist lookleb läbi Cheonggyecheoni jõgi.

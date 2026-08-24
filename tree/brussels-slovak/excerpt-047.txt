@@ -1,0 +1,15 @@
+Článok 3 Ohlasovanie expozícií 1. Údaje o kolateráli vyžadované v tabuľke 1 prílohy zahŕňajú všetky poskytnuté kolaterály.
+
+2. Ak protistrana nezabezpečuje kolaterálom na úrovni transakcií, protistrany ohlasujú archívu obchodných údajov kolaterál poskytnutý na portfóliovom základe.
+
+3. Ak sa kolaterál zmluvy ohlási na portfóliovom základe, ohlasujúca protistrana ohlási archívu obchodných údajov kód identifikujúci portfólio kolaterálu poskytnutého druhej protistrane v súvislosti s ohlásenou zmluvou.
+
+4. Od iných nefinančných protistrán ako tých, ktoré sú uvedené v článku 10 nariadenia (EÚ) č. 648/2012, sa nevyžaduje ohlásenie kolaterálu, oceňovanie zmlúv trhovými cenami alebo na základe modelu podľa tabuľky 1 prílohy.
+
+5. V prípade zmlúv zúčtovaných centrálnou protistranou poskytne ocenenie trhovými cenami len centrálna protistrana.
+
+Článok 4 Denník hlásení Zmeny údajov zaregistrovaných v archívoch obchodných údajov sa zaznamenávajú v denníku, v ktorom sa identifikuje osoba alebo osoby, ktoré požadovali zmenu, prípadne vrátane samotného archívu obchodných údajov, určí sa dôvod alebo dôvody takejto zmeny, uvedie sa dátum a časová pečiatka a jasný opis zmien vrátane starého a nového obsahu príslušných údajov, ako sa stanovuje v kolónkach 58 a 59 tabuľky 2 prílohy.
+
+Článok 5 Nadobudnutie účinnosti Toto nariadenie nadobúda účinnosť dvadsiatym dňom po jeho uverejnení v Úradnom vestníku Európskej únie.
+
+Toto nariadenie je záväzné v celom rozsahu a priamo uplatniteľné vo všetkých členských štátoch. V Bruseli 19. decembra 2012

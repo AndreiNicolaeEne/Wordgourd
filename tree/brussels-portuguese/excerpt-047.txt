@@ -1,0 +1,9 @@
+Artigo 4.o Registo da comunicação de dados
+
+As alterações introduzidas nos dados registados nos repositórios de transações devem ser conservadas num registo que identifique a pessoa ou pessoas que solicitaram a alteração, incluindo o próprio repositório de transações, se for caso disso, os motivos subjacentes à alteração, a data e hora e uma descrição clara das alterações, incluindo o antigo e o novo conteúdo dos dados em causa, como indicado nos campos 58 e 59 do quadro 2 do anexo.
+
+Artigo 5.o Entrada em vigor O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 19 de dezembro de 2012.

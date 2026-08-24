@@ -1,0 +1,23 @@
+Zihin ya da bilinç; düşüncenin, algılamanın, belleğin, duygunun, isteğin ve düşlemenin bazı birleşimlerinde görünür olan bilincin ve zekânın kolektif görünüşlerini kapsar. Zihin bilinç akışı olarak tanımlanabilir. İnsan beyninin bilinçli süreçlerin tümünü içerir. Ayrıca bu sözcük kesin içeriklerde hayvanların bilinçli veya insanların bilinçaltı düşüncelerinin çalışmasını içermek için kullanılır. "Zihin" mantığın düşünce süreçlerine özellikle değinmek için sıklıkla kullanılır.
+
+Zihnin ne olduğu ve nasıl çalıştığı ile ilgili; Plato, Aristo, Adi Shankara, Siddhārtha Gautama, Antik Yunan ve Hint felsefecilere tarihlendirilen birçok teori vardır. Ön bilim teorileri teoloji, ruh ve zihin arasındaki beraberliğe yoğunlaşmış kişisinin tanrının verdiği veya ilahi öz varlığına kök salmıştır. Modern teoriler, zihni, beynin bilimsel anlamı üzerine kurulmuş, psikoloji'nin bir olgusu ve az çok bilinç ile eş anlamlı olarak sıklıkla kullanılan bir terim olarak görür.
+
+Aynı zamanda insan öz niteliklerinin zihni hazırlamasının sorunu fazlaca tartışılır. Bazıları sadece yüksek entelektüel işlevlerin zihni meydana getirdiğini iddia eder: bilhassa mantık (reason) ve bellek. Bu görüşte, doğada duygular (sevgi, nefret, korku, sevinç) ilkel veya özneldir ve aklın kökeninden veya doğasından ayrı olarak görülmelidir. Diğerleri insan kişisinin benzer doğada ve kökende olan duygusal ve rasyonel taraflarının birbirinden ayrılamayacağını iddia eder ve tümü bireysel zihnin bir parçası olarak görülmesini savunur.
+
+Zihnin popüler kullanımı çoğunlukla düşünüş ile eş anlamlıdır, kafamızın içinde yürüttüğümüz kendimiz ile özel konuşmalardır. Bu duyuda zihnin anahtar öz niteliklerinden biri sahibinden başka hiç kimsenin erişemediği bir özel alan olmasıdır. Hiç kimse bizim zihnimizi okuyamaz ve sadece ilettiklerimizi bilirler.
+
+Termistör: Isı etkisi ile değeri değişen direnç.
+
+PTC direnç (İng: Positive Temperature Coefficient): Pozitif ısıl katsayılı direnç. Isı etkisi ile değeri artan direnç.
+
+NTC direnç (İng: Negative Temperature Coefficient): Negatif ısıl katsayılı direnç. Isı etkisi ile değeri düşen direnç.
+
+Foto direnç: Işık etkisi ile değeri değişen direnç.
+
+Sabit dirençler kullanılan malzemeler cinsine göre üçe ayrılır:
+
+Film dirençler İnce film dirençler Kalın film ve metal film dirençler
+
+Karbon karışımı veya karbon direnç, toz halindeki karbon ve reçinenin ısıtılarak eritilmesi yolu ile elde edilir. Karışımdaki karbon oranı direncin değerini belirler. Büyüklüklerine göre ¼, ½, 1, 2, 3 W / 1Ω dan 22 MΩ'a kadar değerlerde üretilirler. Bu tür dirençlerin değer hassasiyetleri %5-%20 aralığındadır. Halen en yaygın kullanılan türdür.
+
+Nikel-krom, nikel-gümüş gibi alaşımlardan tellerin genellikle seramik gövde üzerine bir veya iki katlı olarak sarılması ve üzerlerinin yalıtkan bir malzeme ile kaplanması sureti ile üretilirler. Sabit veya ayarlanabilen biçimlerde olabilirler. Ayarlı tiplerde bir hat boyunca tellerin üzerindeki yalıtkan kazınır. Genellikle 10 Ω ile 100 kΩ arasında 30 W'a kadar güçlerde üretilirler.

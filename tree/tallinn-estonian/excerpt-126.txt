@@ -1,0 +1,17 @@
+Kondensaator on passiivne elektri- ja elektroonikakomponent, mille põhiomadus on mahtuvus, s.o võime salvestada (mahutada ja säilitada) elektrilaengut ning seega ühtlasi energiat.
+
+aastal valmistasid Ewald Georg von Kleist ja Pieter van Musschenbroek teineteisest sõltumatult esimese kondensaatori, mida tuntakse kui leideni purki või kleisti pudelit.
+
+Kondensaator koosneb kahest lähestikku paiknevast elektroodist, nn plaadist ja neid eraldavast dielektrikukihist. Elektroodide küljest lähtuvad kaks ühendusviiku või kontaktpinda (pindliitekondensaatoreil). Plaatideks on õhukestest metall-lehtedest (fooliumist) ribad või metallitamise teel dielektrikule kantud juhtivad pinnad. Elektroodipaarid on kokku rullitud või kokku volditud; plaadid võivad paikneda ka vaheldumisi, moodustades kaks plaadirühma (nagu kõrvaloleval pildil).
+
+Kondensaatori mahtuvus on seda suurem, mida suurem on kummagi plaadi pindala A ja mida väiksem on plaatide vahekaugus d:
+
+kus ε on dielektriku dielektriline läbitavus.
+
+Pikemalt artiklis Mahtuvus Kondensaatori ühendamisel elektriahelasse tekib plaatide vahel elektriväli ja elektroodidele kogunevad elektrilaengud, mille tulemusena üks elektrood saab positiivse laengu +Q ja teine negatiivse laengu ‒Q. Sel puhul öeldakse, et kondensaator salvestab elektroodidele kogunenud laengu.
+
+Salvestatav laeng Q on võrdeline kondensaatorile rakendatud pingega U:
+
+kus võrdeteguriks C on kondensaatori mahtuvus.
+
+Pingestamise hetkel hakkab pinge kondensaatoril tõusma nullist, kuni saavutab toitepingega määratud väärtuse. Pinge muutumise kiirus sõltub kondensaatori mahtuvusest: mida suurem see on, seda rohkem laenguid on vaja selleks, et ületada plaatidevahelise välja põhjustatud vastumõju pinge muutumisele (samalaadselt aeglustab pooli induktiivsus voolu muutumist). Täiendavat vastumõju avaldavad elektriväljas polariseerunud (ühesuunaliselt nihkunud) dielektriku positiivsed ja negatiivsed elektrilaengud; see vastumõju on võrdeline dielektriku dielektrilise läbitavusega.

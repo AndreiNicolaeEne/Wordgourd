@@ -1,0 +1,15 @@
+2. Risikovurderingen af adgang til brugsanvisninger i elektronisk form skal ajourføres på baggrund af de erfaringer, der er gjort efter markedsføringen.
+
+Artikel 5 Fabrikanter af det i artikel 3 omhandlede udstyr kan give adgang til brugsanvisninger i elektronisk form i stedet for i papirform på følgende betingelser:
+
+1) Den i artikel 4 omhandlede risikovurdering skal godtgøre, at sikkerhedsniveauet ved brugsanvisninger i elektronisk form opretholdes eller forbedres sammenlignet med brugsanvisninger i papirform.
+
+2) De skal give adgang til brugsanvisninger i elektronisk form i alle medlemsstater, hvor produktet gøres tilgængeligt eller tages i brug, medmindre andet er behørigt begrundet i risikovurderingen, jf. artikel 4.
+
+3) De skal have etableret et system for udlevering af brugsanvisninger i papirform uden ekstraomkostninger for brugeren inden for den tidsfrist, der er fastsat i den i artikel 4 omhandlede risikovurdering, og senest inden for syv kalenderdage efter at have modtaget en anmodning fra brugeren eller ved udstyrets levering, hvis der er anmodet herom ved ordreafgivelsen.
+
+4) De skal på udstyret eller i en indlægsseddel give oplysninger om forudseelige medicinske nødsituationer og for udstyr med et indbygget system til visuel visning af brugsanvisninger oplysninger om, hvordan udstyret startes.
+
+5) De skal sikre, at brugsanvisningen i elektronisk form er korrekt udformet og fungerer korrekt, og fremlægge dokumentation for kontrol og validering desangående.
+
+6) For medicinsk udstyr med et indbygget system til visuel visning af brugsanvisningen skal de sikre, at visningen af brugsanvisningen ikke hindrer en sikker anvendelse af udstyret, navnlig hvis udstyret anvendes til at overvåge og støtte livsvigtige funktioner.

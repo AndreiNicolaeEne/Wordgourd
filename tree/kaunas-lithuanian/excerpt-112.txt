@@ -1,0 +1,17 @@
+Video loterijų terminalai (sutrump. VLT) (angl. Video Lotery Terminals) – tokie lošimo automatai, kuriuose elektroniniu būdu realizuojamos įvairios loterijos. VLT dar yra vadinami tiesioginio ryšio bilietų pardavimo mašinomis (angl. ETVM) arba VLT Slots. VLT leidžia platinti popierinių, atverčiamų, nutrinamų loterijos produktų tiesioginio ryšio versijas.
+
+Dėl galimo neigiamo poveikio pernelyg azartiškiems lošėjams – priklausomybės lošti ir prasilošimo – lošimo automatams yra taikomi apribojimai. Priklausomai nuo įvairiose šalyse nustatyto teisinio reglamentavimo, skiriasi ir apribojimai, taikomi lošimo automatų veiklai. Lietuvoje lošimo automatus leidžiama eksploatuoti tik nustatytose vietose: neriboto laimėjimo (A kategorijos) automatus – tik lošimo namuose, riboto laimėjimo (B kategorijos) automatus – tik specialiuose automatų salonuose. VLT eksploatavimas Lietuvos įstatymų nėra reglamentuotas.
+
+Įeiti į lošimo namus (kazino) gali tik asmenys, kuriems yra ne mažiau 21 metų, o į lošimo automatų salonus – ne mažiau 18 metų.
+
+Patalpose, kur eksploatuojami lošimo automatai, turi būti įrengta:
+
+skaitmeninio vaizdo įrašymo sistema, nepertraukiamai veikianti vykstant lošimui
+
+atskira kasa, kurioje pinigai būtų keičiami į žetonus, o žetonai – į pinigus
+
+priešgaisrinė sistema atskiras įėjimas
+
+Internetiniuose lošimų automatuose yra įdiegtas atsitiktinių numerių generatorius (angl. RNG) algoritmas, kuris užtikrina, kad kiekvienas lošimų automato sukimas yra nenuspėjamas ir visiškai sąžiningas.
+
+Internetiniai lošimų automatai savo žaidėjus informuoja apie grąžos žaidėjui rodiklį (angl. RTP), kuris parodo kiek lošėjas gali laimėti teorinėje žaidimo sesijoje.

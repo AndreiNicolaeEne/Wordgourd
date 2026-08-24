@@ -1,0 +1,5 @@
+Lo vector velocitat instantanèa d'un objècte que sa posicion al temps es donada per es calculat coma la derivada de a respièch del temps :
+
+L'acceleracion es la derivada de la velocitat a respièch del temps. L'acceleracion es lo taus de cambiament de la velocitat d'un objècte sus un periòde de temps donat. L'acceleracion mejana d'un objècte que sa velocitat passa de a pendent un periòde es donada per :
+
+Lo vector d'acceleracion instantanèa d'un objècte que sa posicion al temps es donada per es :

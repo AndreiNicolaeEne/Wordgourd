@@ -1,0 +1,33 @@
+Die Trompete ist ein hohes Blechblasinstrument mit drei, seltener vier Ventilen, das als Aerophon mit einem Kesselmundstück nach dem Prinzip der Polsterpfeife angeblasen wird. Die Mensur ist relativ eng. Ein großer Teil des in Bügelform gewundenen, meist aus Messing hergestellten Rohres ist zylindrisch, bevor es konisch in den ausladenden Schalltrichter ausläuft. Die Rohrlänge der B-Trompete, die am häufigsten vorkommt, beträgt etwa 130 cm.
+
+Je nach der Ausstattung zur Tonhöhenveränderung unterscheidet man zwischen
+
+Naturtrompeten (wie die Barocktrompete) Klappentrompeten und
+
+Ventiltrompeten. Diese ist heutzutage immer gemeint, wenn von „Trompete“ ohne Zusatz die Rede ist.
+
+Trompeten werden im Normalfall mit der linken Hand festgehalten, Ringfinger, Mittelfinger und Zeigefinger der rechten Hand betätigen die Ventildrücker.
+
+Die Ventile befinden sich im zweiten Zehntel der Gesamtlänge. Als Ventile finden Verwendung:
+
+Drehventile (auch Zylinderventil oder Zylinderdrehventil genannt) oder
+
+Pumpventile (auch Périnet-Ventil genannt).
+
+Bei Pumpventilen hält man die Ventilgehäuse etwa senkrecht, bei der Bauweise mit Drehventilen liegen die Ventilzüge etwa waagerecht.
+
+Grundlegend ist dabei eine Unterteilung der Intervalle in drei Kategorien: vollkommene Konsonanzen, unvollkommene Konsonanzen und Dissonanzen. Gemäß dem Ausdruck „punctum contra punctum ponere“ konzentrieren sich die ältesten Kontrapunkttraktate darüber hinaus ausschließlich auf den Note-gegen-Note-Satz und schließen Dissonanzen dabei aus. Für die beiden anderen Kategorien gelten jeweils bestimmte Gebote und Verbote. So schreibt der einflussreiche Traktat Quilibet affectans (um 1330, Johannes de Muris zugeschrieben) vor:
+
+Abschnitte müssen mit einer vollkommenen Konsonanz beginnen und schließen.
+
+Vollkommene Konsonanzen dürfen nicht parallel geführt werden.
+
+Wird eine vollkommene Konsonanz in gerader Bewegung erreicht (also durch eine später so genannte verdeckte Parallele), muss eine Stimme dabei per Sekundschritt fortschreiten.
+
+Unvollkommene Konsonanzen sollten nicht mehr als viermal direkt nacheinander parallel geführt werden.
+
+Besonders empfohlen werden außerdem Fortschreitungen zur nächstgelegenen Konsonanz, durch Gegenbewegung und mit Sekundschritten in beiden Stimmen. Zwecks Abwechslung kann freilich häufig mindestens eine dieser Empfehlungen nicht berücksichtigt werden.
+
+Beispiel: Ludovico Zacconi: Prattica di musica. Band 2. Venedig 1622, S. 69 (Cantus firmus in der Unterstimme):
+
+Indem nun in der Gegenstimme mittels kürzerer Notenwerte und überwiegend schrittweiser Bewegung Sprünge ausgefüllt und Schritte umspielt werden, ergibt sich eine vielfältigere Satzart, die auch Dissonanzen enthält. Diese werden aber zunächst kaum näher thematisiert, sondern geraten erst durch Johannes Tinctoris (1477) ausdrücklich ins Blickfeld der Lehre. Dieser erweitert die Bedeutung des Worts contrapunctus, indem er die Satzart Note gegen Note, also den ‚Kontrapunkt‘ im ursprünglichen Sinne, als contrapunctus simplex (einfacher Kontrapunkt) bezeichnet, und ihm den contrapunctus diminutus (verkleinerter Kontrapunkt) gegenüberstellt.

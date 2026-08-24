@@ -1,0 +1,17 @@
+De oppervlakte van een vlakke meetkundige figuur, of algemener van een tweedimensionaal meetkundig object, is een maat voor de grootte ervan.
+
+De SI-eenheid van oppervlakte is de vierkante meter: m², afgeleid van de basiseenheid meter. Voor algemene toepassingen in de Europese Unie is de vierkante meter, samen met zijn decimale onderdelen en veelvouden zoals cm² en km², de enige oppervlaktemaat. In gespecialiseerde toepassingen bestaan uitzonderingen:
+
+de are met zijn veelvoud hectare en zijn onderdeel centiare, in kadastrale registraties
+
+de barn voor de werkzame doorsnede van een deeltje in de kernfysica
+
+In historische documenten uit de Nederlanden die van voor het metriek stelsel dateren, komen andere landmaten voor zoals de bunder, de dagwand en de roede.
+
+De oppervlakte van een vlakke figuur wordt gedefinieerd en berekend aan de hand van een aantal elementaire eigenschappen van het begrip oppervlakte, die eventueel kunnen worden opgevat als axioma's:
+
+De oppervlakte is een isometrische invariant, dat wil zeggen dat een transformatie van het vlak die de onderlinge afstanden van punten bewaart (zoals een rotatie), tevens de oppervlakte van vlakke figuren bewaart.
+
+De oppervlakte van een rechthoek is het product van de lengte met de breedte. In het bijzonder is de oppervlakte van een punt en die van een lijnstuk gelijk aan 0.
+
+De oppervlakte van een disjuncte vereniging van vlakke figuren is gelijk aan de som van de oppervlakten van de afzonderlijke delen. Dit laat achtereenvolgens de oppervlakteberekening toe van: (1) een parallellogram, door omvorming tot een rechthoek met dezelfde basis en hoogte; (2) een willekeurige driehoek, als zijnde de helft van een parallellogram; (3) een willekeurige veelhoek, door hem op te delen in driehoeken.

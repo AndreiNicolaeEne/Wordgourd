@@ -1,0 +1,11 @@
+Az információ latin eredetű szó, amely értesülést, hírt, üzenetet, tájékoztatást jelent. Egyben az informatika alapfogalma. Számos jelentése, kifejtése ismert, különböző tudományágak különböző módon közelítik meg, írják le. Egyértelműen elfogadott definíciója nem ismert.
+
+Általánosságban információnak azt az adatot, hírt tekintjük, amely számunkra releváns és ismerethiányt csökkent. Egyik legleegyszerűsítettebb megfogalmazás szerint az információ nem más, mint a valóság (vagy egy részének) visszatükröződése. Tudományos értelmezését az információelmélet fogalmazza meg.
+
+A középkorban az arisztotelészi érzékelés-elmélettel szemben (mely mintegy radarként képzelte pl. a szemet) az az elképzelés alakult ki, hogy a tárgyakról érkező valami az érzékszervet befolyásolja, formáját megváltoztatja, tehát informálja. A misztikus teológia szerint a lélek felemelkedve Isten közelébe, Isten nyomot hagy rajta, átformálja, informálja.
+
+Az információ, mint tudományos fogalom az ipari forradalom idején jelent meg fokozatosan. A fogalom átvételében Rudolf Clausius 1865-ben készült dolgozatát tekinthetjük fordulópontnak. Később – ezt a dolgozatot felhasználva – továbbfejlesztette Ludwig Boltzmann (1894). Szerinte az entrópia azért jelentkezik, mert a zárt rendszerbe nem juthat további anyag, energia és információ.
+
+Olyan személyek munkái jelentették a fejlődést, mint Norbert Wiener, Gábor Dénes, Neumann János, Szilárd Leó, Claude Shannon, Warren Weaver vagy Ralph Vinton Lyon Hartley.
+
+Az 1950-es évektől robbanásszerű fejlődésen megy át a fogalom, mivel számos tudományág felfedezi és használatba veszi. Számtalan kiegészítése, értelmezése lát napvilágot. Olyan szakterületek építik be szaknyelvükbe, mint a kibernetika, biológia, pszichológia, kommunikációs elmélet, nyelvészet, szemiotika, játékelmélet, kódoláselmélet, vezetés- és szervezéselmélet, rendszerelmélet.

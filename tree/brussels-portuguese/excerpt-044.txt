@@ -1,0 +1,15 @@
+f) Segurança e mecanismos de salvaguarda, na eventualidade de uma falha do hardware ou do software, em particular se as instruções de utilização em formato eletrónico estiverem integradas no dispositivo;
+
+g) Situações de emergência médica previsíveis que exijam o fornecimento de informações em formato de papel;
+
+h) Impacto causado pela indisponibilidade temporária do sítio web específico ou da Internet em geral, ou do seu acesso na unidade de cuidados de saúde, bem como medidas de segurança disponíveis para dar resposta a tal situação;
+
+i) Avaliação do prazo necessário para fornecer as instruções de utilização em suporte de papel a pedido dos utilizadores.
+
+2. A avaliação do risco para o fornecimento de instruções de utilização em formato eletrónico deve ser atualizada tendo em conta a experiência adquirida na fase de pós-comercialização.
+
+Artigo 5.o Os fabricantes de dispositivos referidos no artigo 3.o podem disponibilizar as instruções de utilização em formato eletrónico, por oposição ao formato em papel, nas seguintes condições:
+
+1) A avaliação dos riscos referida no artigo 4.o deve demonstrar que fornecer instruções de utilização em formato eletrónico mantém ou melhora o nível de segurança obtido quando as instruções de utilização são facultadas em suporte de papel;
+
+2) Devem fornecer instruções de utilização em formato eletrónico em todos os Estados-Membros onde o produto é disponibilizado ou colocado em circulação, exceto quando devidamente justificado na avaliação dos riscos referida no artigo 4.o;

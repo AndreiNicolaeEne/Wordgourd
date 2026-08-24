@@ -1,0 +1,36 @@
+To correct the perceived clinical and resource discrepancies,
+the commenter suggested that CMS establish a new APC specifically for
+the TMS therapy codes, and that CMS title the APC ``Transcranial
+Magnetic Stimulation.''
+Response: We believe that APC 0218 is the most appropriate APC
+assignment for the three TMS therapy CPT codes. The CPT codes
+describing the procedures assigned to APC 0218 all describe noninvasive
+services that affect the nervous system. Based on the latest hospital
+outpatient claims data used for this final rule with comment period,
+our analysis revealed that the resources associated with providing the
+services described by CPT codes 90867, 90868, and 90869 are comparable
+to the other services assigned to APC 0218. Specifically, based on CY
+2013 claims data used for this final rule with comment period, the
+geometric mean cost for CPT code 90867 is approximately $210 based on
+72 single claims (out of 72 total claims), the geometric mean cost for
+CPT code 90868 is approximately $201 based on 2,513 single claims (out
+of 2,516 total claims), and the geometric mean cost for CPT code 90869
+is approximately $194 based on 28 single claims (out of 30 total
+claims). In addition, a review of the procedures assigned to APC 0218
+shows that the range of geometric mean cost for the services assigned
+to APC 0218 is approximately between $95 (for CPT code 95937) and $327
+(for CPT code 95875), which is comparable to the geometric mean costs
+for all three TMS therapy CPT codes. Based on the clinical and resource
+similarities in relation to the other procedures currently assigned to
+APC 0218, we believe that the TMS therapy codes would be appropriately
+assigned to APC 0218. After consideration of the public comment we received, we are
+finalizing our CY 2015 proposal, without modification, to reassign CPT
+codes 90867 and 90868 from APC 0216 to APC 0218, and to continue to
+assign CPT code 90869 to APC 0218 for CY 2015. 5. Ocular Services: Ophthalmic Procedures and Services
+For the CY 2015 OPPS update, based on our evaluation of the latest
+hospital outpatient claims data, we proposed to restructure all of the
+ophthalmic APCs to better reflect the costs and clinical
+characteristics of the procedures within each APC. This proposed
+restructuring resulted in the use of 13 APCs for the ophthalmology-
+related procedures for the CY 2015 OPPS update, as compared to the 24
+APCs used for the CY 2014 OPPS update. We believe that this major

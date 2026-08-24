@@ -1,0 +1,3 @@
+Kemiallinen yhdiste on kahdesta tai useammasta keskenään reagoineesta alkuaineesta koostuva aine. Yhdisteessä alkuaineiden määrät ovat tietyssä suhteessa toisiinsa nähden. Esimerkiksi vesi on yhdiste, jossa on vetyatomeja kaksi kertaa niin paljon kuin happiatomeja.
+
+Yhdisteen koostumusta kuvataan kemiallisella kaavalla. Veden kaava on H2O. Yhdisteen rakennetta puolestaan kuvataan rakennemallilla, ja yksinkertaisimpia malleja ovat kalottimalli ja pallotikkumalli. Rakennekaavalla tai viivakaavalla kuvataan tarkemmin yhdisteen molekyylin rakennetta.

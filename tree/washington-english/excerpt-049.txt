@@ -1,0 +1,69 @@
+for the existing use and rounded up to the nearest multiple of 5%. The Agency believes that the three conditions discussed in Unit
+III.C.1.iv. have been met. With respect to Condition a, PCT estimates
+are derived from Federal and private market survey data, which are
+reliable and have a valid basis. The Agency is reasonably certain that
+the percentage of the food treated is not likely to be an
+underestimation. As to Conditions b and c, regional consumption
+information and consumption information for significant subpopulations
+are taken into account through EPA's computer-based model for
+evaluating the exposure of significant subpopulations including several
+regional groups. Use of this consumption information in EPA's risk
+assessment process ensures that EPA's exposure estimate does not
+understate exposure for any significant subpopulation group and allows
+the Agency to be reasonably certain that no regional population is
+exposed to residue levels higher than those estimated by the Agency. Other than the data available through national food consumption
+surveys, EPA does not have available reliable information on the
+regional consumption of food to which fenbuconazole may be applied in a
+particular area. 2. Dietary exposure from drinking water. The Agency used screening-
+level water exposure models in the dietary exposure analysis and risk
+assessment for fenbuconazole in drinking water. These simulation models
+take into account data on the physical, chemical, and fate/transport
+characteristics of fenbuconazole. Further information regarding EPA
+drinking water models used in pesticide exposure assessment can be
+found at http://www.epa.gov/oppefed1/models/water/index.htm . Based on the Pesticide Root Zone Model/Exposure Analysis Modeling
+System (PRZM/EXAMS) and Screening Concentration in Ground Water (SCI-
+GROW) models, the estimated drinking water concentrations (EDWCs) of
+fenbuconazole for acute exposures are estimated to be 24.1 parts per
+billion (ppb) for surface water and 0.031 ppb for ground water, for
+chronic exposures for non-cancer assessments are estimated to be 16.5
+ppb for surface water and 0.031 ppb for ground water, and for chronic
+exposures for cancer assessments are estimated to be 11.7 ppb for
+surface water and 0.031 ppb for ground water. Modeled estimates of drinking water concentrations were directly
+entered into the dietary exposure model. For acute dietary risk
+assessment, the water concentration value of 24.1 ppb was used to
+assess the contribution from drinking water. For chronic dietary risk
+assessment, the water concentration of value 16.5 ppb was used to
+assess the contribution from drinking water. For cancer dietary risk
+assessment, the water concentration of value 11.7 ppb was used to
+assess the contribution from drinking water. 3. From non-dietary exposure. The term ``residential exposure'' is
+used in this document to refer to non-occupational, non-dietary
+exposure (e.g., for lawn and garden pest control, indoor pest control,
+termiticides, and flea and tick control on pets). Fenbuconazole is not
+registered for any specific use patterns that would result in
+residential exposure. 4. Cumulative effects from substances with a common mechanism of
+toxicity. Section 408(b)(2)(D)(v) of FFDCA requires that, when
+considering whether to establish, modify, or revoke a tolerance, the
+Agency consider ``available information'' concerning the cumulative
+effects of a particular pesticide's residues and ``other substances
+that have a common mechanism of toxicity.''
+Fenbuconazole is a member of the triazole-containing class of
+pesticides. Although conazoles act similarly in fungi by inhibiting
+ergosterol biosynthesis, there is not necessarily a relationship
+between their pesticidal activity and their mechanism of toxicity in
+mammals. Structural similarities do not constitute a common mechanism
+of toxicity. Evidence is needed to establish that the chemicals operate
+by the same, or essentially the same, sequence of major biochemical
+events. In conazoles, however, a variable pattern of toxicological
+responses is found: Some conazoles are hepatotoxic and
+hepatocarcinogenic in mice, some induce thyroid tumors in rats, and
+some induce developmental, reproductive, and neurological effects in
+rodents. Furthermore, the conazoles produce a diverse range of
+biochemical events including altered cholesterol levels, stress
+responses, and altered DNA methylation. It is not clearly understood
+whether these biochemical events are directly connected to their
+toxicological outcomes. Thus, there is currently no evidence to
+indicate that conazoles share common mechanisms of toxicity and EPA is
+not following a cumulative risk approach based on a common mechanism of
+toxicity for the conazoles. For information regarding EPA's procedures
+for cumulating effects from substances found to have a common mechanism
+of toxicity, see EPA's Web site at http://www.epa.gov/pesticides/cumulative .

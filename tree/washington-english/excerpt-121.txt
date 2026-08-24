@@ -1,0 +1,30 @@
+\40\ See, e.g, Order No. 808, 151 FERC ] 61,039 at P 8: ``NERC
+stated in its [COM] petition that Reliability Standard COM-001-2
+establishes requirements for Interpersonal Communication
+capabilities necessary to maintain reliability. NERC explained that
+proposed Reliability Standard COM-001-2 applies to reliability
+coordinators, balancing authorities, transmission operators,
+generator operators, and distribution providers. The proposed
+Reliability Standard includes eleven requirements and two new
+defined terms, ``Interpersonal Communication'' and ``Alternative
+Interpersonal Communication,'' that, according to NERC, collectively
+provide a comprehensive approach to establishing communications
+capabilities necessary to maintain reliability.''
+
+48. Further, we disagree with commenter arguments that Reliability
+Standard EOP-008-1 provides alternatives to data exchange redundancy
+and diverse routing. The NERC standard drafting team that developed the
+COM standards addressed this issue in the standards development
+process, responding to a commenter seeking clarification on the
+relationship between communication capabilities, alternative
+communication capabilities, primary control center functionality and
+backup control center functionality. The standard drafting team
+responded that ``Interpersonal Communication and Alternative
+Interpersonal Communication are not related to EOP-008,'' even though
+Reliability Standard EOP-008-1 Requirement R1 applies equally to data
+communications and voice communications.\41\ To the extent the standard
+drafting team asserted that Reliability Standard EOP-008 did not
+supplant the redundancy requirements of the COM Reliability Standards,
+we believe the same is true for data communications. Redundancy for
+data communications is no less important than the redundancy explicitly
+required in the COM standards for voice communications.

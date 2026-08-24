@@ -1,0 +1,13 @@
+Hráči sa môžu na začiatku hry dohodnúť, že budú mať v zásobníku po osem písmen.
+
+Hráči si môžu na začiatku hry dohodnúť tematickú oblasť, ktorej sa majú tvorené slová týkať.
+
+Hráči sa môžu dohodnúť, že písmená na konci hry, ktoré zostali v zásobníku, sa iba odpočítajú, ale zakončovateľovi hry sa nepripočítajú.
+
+Variant 2 eliminuje znevýhodnenie hráčov, ktorí si vytiahli „zlé“ písmená.
+
+Slovenská hracia súprava obsahuje 100 dlaždíc:
+
+2 žolíky (za 0 bodov) 1 bod: A ×9, O ×9, E ×8, I ×5, N ×5, T ×4, R ×4, S ×4, V ×4 2 body: M ×4, K ×3, L ×3, D ×3, P ×3
+
+3 body: J ×2, U ×2 4 body: B ×2, H ×1, Y ×1, Z ×1, Á ×1, C ×1 5 bodov: Č ×1, Ž ×1, Š ×1, Í ×1, Ý ×1

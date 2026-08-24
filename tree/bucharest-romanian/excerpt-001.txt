@@ -1,0 +1,9 @@
+Câmpul magnetic este o mărime fizică vectorială ce caracterizează spațiul din vecinătatea unui magnet, electromagnet sau a unei sarcini electrice în mișcare. Acest câmp vectorial se manifestă prin forțele care acționează asupra unei sarcini electrice în mișcare (forță Lorentz), asupra diverselor materiale (paramagnetice, diamagnetice sau feromagnetice după caz). Poate fi măsurat cu magnetometrul. Mărimea care măsoară interacțiunea dintre câmpul magnetic și un material se numește susceptibilitate magnetică.
+
+Câmpul magnetic și câmpul electric sunt cele două componente ale câmpului electromagnetic. Prin variația lor, cele două câmpuri se influențează reciproc și astfel undele electrice și magnetice se pot propaga liber în spațiu sub formă de unde electromagnetice.
+
+Încă din secolul al VI-lea î.Hr., filozofii greci descriau și încercau să explice proprietățile mineralelor ce conțineau magnetit, tip de mineral găsit în regiunea Magnezia (Thesalia), de unde și numele mineralului.
+
+Acul magnetic care „arăta sudul” este menționat pentru prima dată în secolul al XI-lea î.Hr. ca fiind folosit în China, însă de-abia din secolul al XII-lea d.Hr. se utilizează în mod curent busola în navigație.
+
+Unul dintre primii învățați europeni care au studiat magnetismul a fost Pierre de Maricourt (Petrus Peregrinus), savant medieval ce l-a avut ca discipol pe Roger Bacon și care a scris, în 1269, un tratat remarcabil asupra magneților: Epistola Petri Peregrini de Marincourt ad Sygerum de Foucaucourt, militem, de magnete. Studiile sale au anticipat folosirea busolei.

@@ -1,0 +1,19 @@
+debt instrument. Except as provided in the last sentence of section
+108(i)(2)(A), the amount of deferred OID deduction that is subject to
+section 108(i)(2)(A) for a taxable year is equal to the product of the
+amount of OID that accrues in the taxable year under section 1272 or
+section 1275 (and the regulations under those sections), whichever
+section is applicable, and a fraction, the numerator of which is the
+portion of the total proceeds from the issuance of the debt instrument
+used directly or indirectly to reacquire the applicable debt instrument
+and the denominator of which is the total proceeds from the issuance of
+the debt instrument.
+(c) No acceleration--(1) Retirement. Retirement of a debt
+instrument subject to section 108(i)(2) does not accelerate deferred
+OID deductions.
+(2) Cross-reference. See Sec. 1.108(i)-1 and Sec. 1.108(i)-2 for
+rules relating to the acceleration of deferred OID deductions.
+(d) Examples. The application of this section is illustrated by the
+following examples. Unless otherwise stated, all taxpayers in the
+following examples are calendar-year taxpayers, and P and S each file
+separate returns:

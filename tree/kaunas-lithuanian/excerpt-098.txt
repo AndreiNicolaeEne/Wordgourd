@@ -1,0 +1,11 @@
+Skaičius – pagrindinė matematikos sąvoka, bet kurios skaičių aibės elementas. Skaičiai yra užrašomi tam tikrais simboliais, arba žodžiais. Pavyzdžiui simbolis (skaitmuo) 2 reiškia skaičių du.
+
+Matematikoje naudojami skaičiai gali būti natūralūs (skaičiai kurie prasideda nuo vieneto ir tęsiasi iki begalybės. Jų aibė yra žymima raide N), sveikieji (natūralūs skaičiai, prie kurių pridedamas nulis ir neigiami natūraliųjų skaitmenų atitikmenys. Svarbu paminėti, kad kai kur nulis yra priskaitomas prie natūraliųjų skaitmenų. Jų aibė yra žymima raide Z), racionalieji (skaičiai, kurie gali būti užrašomi tam tikra trupmena, pavyzdžiui 1 / 4. Į šią sritį taip pat patenka ir natūralūs skaitmenys, nes jie gali būti užrašomi kaip trupmena. Pavyzdžiui 5 gali būti užrašomas kaip 5 / 1. Jų aibė yra žymima Q raide.) ir realieji (visi natūralūs, sveikieji, racionalieji ir iracionalieji skaitmenys. Pavyzdžiui garsusis π yra realusis skaitmuo. Jų aibė yra žymima R raide.)
+
+Skaičius jau naudojo šumerai prieš 6000 metų. Jų skaičiavimo sistemų pagrindas buvo 10 (dešimtainė skaičiavimo sistema) ir 60 (šešiasdešimtainė sistema), abi šios sistemos naudojamos ir dabar. Manoma, kad poreikis sukurti skaičius atsirado iš žemdirbių poreikio skaičiuoti gyvulius ir pagamintą produkciją.
+
+Vėliau Babilonijoje bei Egipte atsirado poreikis matuoti žemę, nes dėl potvynių tekdavo iš naujo nustatyti sklypų ribas. Tai skatino geometrijos atsiradimą.
+
+Skaičiams žymėti naudojami ženklai, vadinami skaitmenimis. Įvairiais laikais civilizacijos naudojo skirtingus skaičių žymėjimo būdus:
+
+Skaičiaus terminą lietuvių kalboje įvedė Jonas Jablonskis.[reikalingas šaltinis]

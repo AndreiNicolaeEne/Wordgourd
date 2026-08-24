@@ -1,0 +1,3 @@
+chłopców → chłop-ców Różne języki różnią się dopuszczalną strukturą sylab. Na przykład w języku japońskim występują tylko sylaby otwarte oraz sylaby zakończone na n (w pewnych kontekstach bardziej przypominające m), które jednak może być traktowane jako samogłoska nosowa i jest wypowiadane z pełną długością sylaby krótkiej, czyli np. słowo in (員 – いん) trwa tak samo długo jak słowo kana (仮名 – かな).
+
+W języku arabskim dopuszczalne są jedynie zbitki złożone z dwóch spółgłosek, a w nagłosie jedynie pojedyncze samogłoski.

@@ -1,0 +1,19 @@
+(3) Europaparlamentets och rådets direktiv 2007/46/EG av den 5 september 2007 om fastställande av en ram för godkännande av motorfordon och släpvagnar till dessa fordon samt av system, komponenter och separata tekniska enheter som är avsedda för sådana (3), bör därför ändras i enlighet med detta.
+
+(4) De åtgärder som föreskrivs i denna förordning är förenliga med yttrandet från tekniska kommittén för motorfordon.
+
+HÄRIGENOM FÖRESKRIVS FÖLJANDE. Artikel 1
+
+Tillämpningsområde Denna förordning gäller för fordon i kategori M1 som uppfyller följande krav:
+
+- De är utrustade med en manuell växellåda.
+
+- De har en referensvikt på högst 2 610 kg eller ett typgodkännande som har utökats till att gälla dem i enlighet med artikel 2.2 i förordning (EG) nr 715/2007.
+
+Denna förordning gäller inte för fordon konstruerade för att uppfylla särskilda samhälleliga behov enligt definitionen i artikel 3.2 c i förordning (EG) nr 715/2007.
+
+Artikel 2 Definitioner I denna förordning gäller, utöver definitionerna i förordning (EG) nr 661/2009, följande definitioner:
+
+1. fordonstyp med avseende på växlingsindikator: en grupp av fordon som inte skiljer sig åt vad gäller växlingsindikatorns funktionella egenskaper och den metod varmed växlingsindikatorn anger en växlingspunkt. Metoderna omfattar, men är inte begränsade till, följande:
+
+2. växlingsindikatorns funktionella egenskaper: en uppsättning ingångsparametrar, såsom motorvarvtal, motoreffekt, vridmoment och deras variation över tiden, som bestämmer växlingsindikatorns rekommendation och hur växlingsindikatorns funktion är beroende av dessa parametrar.

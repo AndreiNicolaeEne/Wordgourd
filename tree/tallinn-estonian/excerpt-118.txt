@@ -1,0 +1,33 @@
+Kollaste värvitoonide mittetäielikku loetelu vt Värvuste loend põhivärvinimede järgi.
+
+Subtraktiivses värvisünteesis, CMY-värvimudelis, millel põhineb näiteks värvitrükk, on kollane üks kolmest primaarvärvusest. Segades kollast magentapunasega on tulemuseks soojatooniline punane, tsüaansinisega segades roheline värv.
+
+Aditiivses värvisünteesis, RGB-värvimudelis, on kollane sekundaarvärvus, mis tekib punase ja rohelise valguse liitumisel.
+
+Kromaatilistest värvustest on kollane kõige heledam ja suurima valgusenergiaga. Kollase komplementaarvärvus on aditiivselt violettsinine, subtraktiivselt sinakasviolett.
+
+Kollane primaarvärvusena subtraktiivses värvisünteesis
+
+Näide värvitrükist 1902. aastast, veel standardimata CMY-mudelist
+
+Aditiivses värvisünteesis on kollane sekundaarvärvus, mis tekib puhase ja rohelise liitumisel
+
+Arvuti- ja teleekraanidel moodustub kollane võrdse intensiivsusega punasest ja rohelisest valgusest
+
+Erinevates värvuste korrastamise süsteemides pole primaarkollaseks või standardseks kollaseks peetav värvus üks ja sama, vaid need võivad toonilt erineda.
+
+Varastes värvisüsteemides on primaarkollaseks sageli küpskollane värvus, mille annab gummigutt
+
+Selles 1895. aastal välja antud värviõpikus on primaarkollaseks sidrunkollane
+
+Loomuliku värvisüsteemi (NCS) põhivärvid vastandpaarikaupa
+
+NCS-i värviring põhivärvustega telgedel (primaarkollane on Y)
+
+Värvilahutus kaasaegses neljavärvi-ofsettrükis
+
+Ofsettrükiraster suurendatult Munselli värviringis on põhikollaseks 5Y
+
+Munselli värvisüsteemi kollane 5Y värvipuus
+
+Enamus eluslooduses leiduvatest kollastest ja oranžidest värvidest tuleb orgaanilistest pigmentidest karotenoididest. Puulehtede kloroplastides ja kromoplastides leiduvad karotenoidid, näiteks ksantofüllid, jäävad suvekuudel klorofülli rohelise värvuse varju, ent sügisel, kui klorofüll laguneb, muudavad kollased ja punased pigmendid puulehed värviliseks.

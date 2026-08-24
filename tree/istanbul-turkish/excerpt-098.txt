@@ -1,0 +1,11 @@
+Ohm kanununa göre uçları arasında gerilim düşümüne sebep olan devre elemanıdır.
+
+Elektrik güçlerine göre dirençler ikiye ayrılır:
+
+Büyük güç: (2 W'ın üzerindeki dirençler) Küçük güç: (2 W'ın altındaki dirençler)
+
+Kullanım gereksinimlerine göre dirençler farklı biçim yapı ve güçlerde üretilirler.
+
+Sabit direnç: Sabit direnç değerleri gerektiren uygulamalarda kullanılır. Bu tür dirençlerin değer hassasiyetleri yüksektir.
+
+Ayarlı direnç: Değişken direnç değerlerinin gerekli olduğu, hassasiyetin çok önemli olmadığı durumlarda kullanılır.

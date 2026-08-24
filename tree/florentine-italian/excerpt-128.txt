@@ -1,0 +1,13 @@
+Una delle abilità dello strumentista sta nella sua capacità di controllare i vari modi di vibrazione del sistema labbra/strumento: si possono infatti ottenere più note semplicemente cambiando la frequenza di vibrazione delle labbra, che si comportano sostanzialmente come le ance doppie. Per questo motivo spesso si parla anche di strumenti musicali ad ancia labiale, o labiofoni.
+
+Le note che risuonano in un tubo cavo di lunghezza definita costituiscono la serie degli armonici naturali che è comune a tutti gli ottoni (cambia solo la nota di base, e l'estensione a seconda della tonalità e del tipo di strumento). Gli ottoni infatti si comportano genericamente come tubi chiusi.
+
+Per questo motivo possono suonare solo le note della serie naturale (e quindi non sono in grado di suonare tutte le note della scala cromatica) sono chiamati ottoni naturali, come per esempio la tromba naturale.
+
+La nota più bassa che questi strumenti possono emettere è quella con lunghezza d'onda pari a due volte la lunghezza del canneggio, mentre la nota superiore è semplicemente data dalla frequenza di vibrazione delle labbra del musicista (dunque dalla sua abilità e conformazione labiale).
+
+Per completare l'estensione cromatica dello strumento è necessario allungare lo strumento ed abbassare quindi la frequenza di base di vibrazione della colonna d'aria al suo interno.
+
+Questo può essere fatto in vari modi, ad esempio aggiungendo dei canneggi al tubo di ottone e collegandoli mediante valvole.
+
+Esistono due tipi di valvola: il pistone (ad esempio usato nella tromba moderna) e la valvola rotativa, o cilindro, usata per esempio nel corno francese. Storicamente la valvola rotativa fu inventata dopo la coulisse e prima dei pistoni: molti strumenti antichi hanno utilizzato tale meccanismo.

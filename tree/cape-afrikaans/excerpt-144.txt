@@ -1,0 +1,13 @@
+'n Kapasitor is 'n elektroniese komponent wat energie stoor in die vorm van 'n elektriese veld. Die elektriese veld word gegenereer tussen twee geleiers as gevolg van teenoorgestelde elektriese lading wat op die verskillende geleiers geplaas word.
+
+'n Kapasitor bestaan uit twee elektrodes, of plate, wat elk 'n teenoorgestelde lading stoor. Die twee plate is geleiers wat deur 'n isolator, of diëlektrikum, geskei word. Die lading word op die oppervlakte van die plate gestoor teen die grens met die diëlektrikum. Aangesien elke plaat dieselfde hoeveelheid van die teenoorgestelde lading stoor is die netto lading wat in die kapasitor gestoor is nul.
+
+In die onderstaande diagram veroorsaak die roterende molekules 'n teenoorgestelde elektriese veld wat die veld wat deur die plate veroorsaak woord gedeeltelik uitgekanselleer. Dit word diëlektrikum-polarisasie genoem.
+
+Die kapasitansie van 'n kapasitor is die maat van die elektriese lading wat gestoor is op elke plaat gegee 'n potensiaalverskil of spanning wat oor die bestaan.
+
+waar C die kapasitansie is, Q die lading wat in elke plaat gestoor is, en
+
+V die spanning oor die plate is. Die SI-eenheid vir kapasitansie is die farad. 'n Kapasitor van een farad stoor een coulomb lading wat 'n potensiaalverskil van een volt veroorsaak oor die plate. Aangesien die farad 'n baie groot eenheid is word kapasitansie gewoonlik in mikrofarad (µF), nanofarad (nF) of pikofarad (pF) gegee.
+
+Die kapasitansiewaarde is eweredig aan die oppervlak van die plate en omgekeerd eweredig aan die afstand tussen die plate.

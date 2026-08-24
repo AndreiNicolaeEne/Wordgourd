@@ -1,0 +1,19 @@
+Se denomina especie (del latín species) a la unidad básica de clasificación biológica. Una especie es un conjunto de organismos o poblaciones naturales capaces de entrecruzarse y producir descendencia fértil, aunque —en principio— no con miembros de poblaciones pertenecientes a otras especies. En muchos casos los individuos que se separan de la población original y se aíslan del resto pueden alcanzar una diferenciación suficiente como para convertirse en una nueva especie, por lo tanto, el aislamiento reproductivo respecto de otras poblaciones es crucial. En definitiva, una especie es un grupo de organismos reproductivamente homogéneo, aunque muy variable a lo largo del tiempo y del espacio.
+
+Mientras que en muchos casos esta definición es adecuada, es a menudo difícil demostrar si dos poblaciones pueden cruzarse y dar descendientes fértiles (por ejemplo, muchos organismos no pueden mantenerse en laboratorio suficiente tiempo). Además, es imposible aplicarla a organismos que no se reproducen sexualmente (como las bacterias) ni a organismos extintos conocidos solo por sus fósiles. En la actualidad suelen aplicarse técnicas moleculares, como las basadas en la semejanza del ADN.
+
+En teoría musical, el modo menor es un sistema de organización tonal basado en escalas musicales que tienen como característica principal la presencia de una tercera menor entre el primer y tercer grado (un tono y medio). Esto significa que la distancia entre la tónica y la tercera nota de la escala es de un tono y medio, en contraste con la tercera mayor presente en el modo mayor.
+
+Existen tres formas principales de la escala menor:
+
+Escala menor natural, que sigue estrictamente la estructura modal sin alteraciones accidentales.
+
+Escala menor armónica, que se caracteriza por elevar el séptimo grado para crear un intervalo de segunda aumentada con el sexto grado, otorgando mayor tensión armónica.
+
+Escala menor melódica, en la cual se elevan el sexto y séptimo grados cuando la escala asciende, pero generalmente se tocan en su forma natural al descender.
+
+El modo menor tiene un carácter expresivo frecuentemente asociado con emociones como la melancolía, la introspección y la tensión dramática. Su uso es fundamental en una amplia variedad de estilos musicales, desde la música clásica hasta el jazz, el rock y otros géneros contemporáneos.
+
+En teoría musical, se considera menor aquella escala cuyo tercer grado está a distancia de un intervalo de tercera menor sobre la tónica. Esta definición incluye diversas escalas: dórica, frigia, eólica o menor, menor melódica, etc.
+
+La secuencia de intervalos en la escala menor es: tono, semitono, tono, tono, semitono, tono, tono; exactamente como si comenzáramos la escala mayor desde su sexto grado.

@@ -1,0 +1,15 @@
+c) ja par pakārtoto PVKIU ir pieejami līdzšinējās darbības rādītāji par laikposmu līdz dienai, kad tas sāka darboties kā pakārtota struktūra, un tā rādītāji ir saglabāti joslu diagrammā par attiecīgajiem gadiem, norādot būtiskās izmaiņas, kā paredzēts 17. panta 2. punktā.
+
+5. IEDAĻA Strukturēts PVKIU 36. pants Darbības rādītāju scenāriji
+
+1. Ieguldītājiem paredzētās pamatinformācijas dokumentā par strukturētu PVKIU neiekļauj iedaļu “Līdzšinējās darbības rādītāji”.
+
+Šajā iedaļā “strukturēts PVKIU” ir PVKIU, kas iepriekš noteiktos datumos izmaksā ieguldītājiem uz algoritmu balstītu peļņu, kura saistīta ar finanšu aktīvu, indeksu vai atsauces portfeļu, vai PVKIU ar līdzīgām iezīmēm darbības rādītājiem vai cenu izmaiņām, vai citu apstākļu īstenošanos.
+
+2. Attiecībā uz strukturētiem PVKIU ieguldītājiem paredzētās pamatinformācijas dokumenta iedaļā “Mērķi un ieguldījumu politika” iekļauj skaidrojumu par to, kā darbojas formula vai kā tiek aprēķināta izmaksājamā peļņa.
+
+3. Šā panta 2. punktā minēto skaidrojumu papildina ar ilustrāciju, kurā attēloti vismaz trīs iespējamie PVKIU ienesīguma scenāriji. Izvēlas piemērotus scenārijus, lai parādītu apstākļus, kuros formula ieguldītājam var radīt zemu, vidēju vai augstu peļņu, attiecīgā gadījumā arī negatīvu peļņu.
+
+4. Šā panta 3. punktā minētie scenāriji ļauj ieguldītājam pilnībā izprast visu formulas pamatā esošā aprēķināšanas mehānisma ietekmi.
+
+Tos atspoguļo patiesi, skaidri un nemaldinoši, un tā, lai tos varētu saprast vidusmēra privātais ieguldītājs. Jo īpaši tie nedrīkst mākslīgi uzlabot PVKIU galīgos darbības rādītājus.

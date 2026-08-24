@@ -1,0 +1,3 @@
+Temperatur er den fysiske eigenskapen som er grunnlaget for om ein lekam vert oppfatta som varm eller kald. Lekamen med høgast temperatur vil oppfattast som varmast. Temperatur er direkte knytt til mengda varmeenergi i systemet, det vil seia tilfeldige rørsler i atom og molekyl i systemet. Ein auke i temperaturen tilsvarar ein auke i den absolutte gjennomsnittsfarten til atoma og molekyla.
+
+Temperatur blir målt med eit termometer og kan kalibrerast til å gjelde for forskjellige temperaturskalaer. I dei fleste områda av verda bruker ein Celsiusskalaen, bortsett frå USA som brukar Fahrenheit. SI-eininga for temperatur er derimot kelvin (K).

@@ -1,0 +1,19 @@
+Elektr toki – elektr zaryadlarining tartibli harakati. Elektr toki paydo boʻlishi va doimo paydo boʻlib turishi uchun:
+
+moddada erkin elektr zaryadlari; ularni tartibli harakatga keltiruvchi elektr maydon;
+
+zanjir berk boʻlishi kerak. Zaryadli zarralar tok tashuvchilar deb ataladi. Metallar va yarimoʻtkazgichlarda tok tashuvchilar elektronlardan, elektrolitlarda musbat va manfiy ionlardan, ionlashgan gazlarda musbat va manfiy ionlar hamda elektronlardan iborat.
+
+Zaryadli zarralarning elektr maydon taʼsirida jismga nisbatan koʻchishi natijasida vujudga keladigan Elektr toki oʻtkazuvchanlik toki deb, zaryadlangan makroskopik jism (masalan, suyuqlik yoki gaz)larning koʻchishidan yuzaga keladigan elektr toki konveksion tok deb ataladi. Siljish toki deb ataladigan tok ham mavjud. Bu tok zaryadlar harakatiga bogʻliq boʻlmay, balki elektr maydon kuchlanganligining vaqt boʻyicha oʻzgarishiga mutanosib (proporsional) boʻladi. Siljish toki magnit maydon hosil qilish xususiyati jihatidangina oʻtkazuvchanlik va konveksion tokka ekvivalentdir.
+
+Elektr tokining mavjudligini tok tufayli yuz beradigan quyidagi taʼsir yoki hodisalarga qarab bilish mumkin:
+
+issiqlik taʼsiri – tok oʻtayotganda oʻtkazgich (oʻta oʻtkazgich bundan istisno) qiziydi;
+
+kimyoviy taʼsiri – Elektr toki oʻtkazgichning kimyoviy tarkibini oʻzgartiradi (masalan, elektroliz hodisasi);
+
+magnit taʼsiri (masalan, tokli oʻtkazgich yonida magnit milining ogʻishi, elektromagnitlar);
+
+kuch taʼsiri (masalan, magnit maydonida tokli oʻtkazgichning ogʻishi, elektr dvigatellar);
+
+yorugʻlik taʼsiri (masalan, siyraklangan gazlarda razryad, elektr yoyi). Tok kuchi ampermetr, milliampermetr, mikroampermetr va galʼvanometr bilan oʻlchanadi.

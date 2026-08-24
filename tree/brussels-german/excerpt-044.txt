@@ -1,0 +1,17 @@
+f) Sicherheits- und Sicherungsmechanismen für den Fall eines Hard- oder Software-Fehlers, insbesondere, falls die elektronische Gebrauchsanweisung in das Produkt eingebaut ist;
+
+g) vorhersehbare medizinische Notfallsituationen, in denen Informationen in Papierform erforderlich sind;
+
+h) Auswirkungen eines zeitweisen Ausfalls der betreffenden Website, des Internets insgesamt oder des Zugangs der Einrichtung der Gesundheitsversorgung, sowie die möglichen Sicherheitsmaßnahmen, die es erlauben, mit einer solchen Situation umzugehen;
+
+i) Abschätzung des Zeitraums, innerhalb dessen der Nutzer auf Anforderung die Gebrauchsanweisung in Papierform erhält.
+
+(2) Die Risikobewertung für die Bereitstellung einer elektronischen Gebrauchsanweisung wird anhand der in der Zeit nach der Markteinführung gewonnenen Erfahrung aktualisiert.
+
+Artikel 5 Hersteller von Produkten gemäß Artikel 3 können elektronische Gebrauchsanweisungen statt Gebrauchsanweisungen in Papierform unter folgenden Bedingungen zur Verfügung stellen:
+
+1. Die Risikobewertung gemäß Artikel 4 ergibt, dass das Sicherheitsniveau bei der Bereitstellung elektronischer Gebrauchsanweisungen mindestens genauso hoch ist wie bei der Bereitstellung von Gebrauchsanweisungen in Papierform;
+
+2. die elektronischen Gebrauchsanweisungen werden in allen Mitgliedstaaten, in denen das Produkt vertrieben oder verwendet wird, zur Verfügung gestellt, es sein denn, eine Ausnahme ist gemäß der Risikobewertung nach Artikel 4 gerechtfertigt;
+
+3. die Hersteller verfügen über ein System, mit dem die Gebrauchsanweisungen in Papierform dem Nutzer kostenfrei und innerhalb des Zeitraums gemäß Artikel 4 zur Verfügung gestellt werden, spätestens jedoch innerhalb von sieben Kalendertagen nach Erhalt der Anforderung oder zum Zeitpunkt der Lieferung des Produkts, wenn dies zum Zeitpunkt der Bestellung verlangt worden war;

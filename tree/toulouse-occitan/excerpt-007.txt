@@ -1,0 +1,17 @@
+En matematicas, lo concèpte d'aplicacion formaliza l'idèa intuitiva de dependéncia determinista entre dos elements qu'un d'elei (la valor de l'aplicacion) es entierament determinat per l'autre (la variabla de l'aplicacion).
+
+D'un biais informau, una aplicacion f es la donada :
+
+de dos ensembles X, Y (que supausarem non vueges)
+
+d'un biais d'associar a cada element x de l'ensemble X un element unic y de l'ensemble Y, sonat imatge de x per f, o valor de f en x, e notat f(x)
+
+Se ditz alora que f es una aplicacion de X dins Y (o de X vèrs Y ) e s'escriu .
+
+Per indicar qu'un element x de X a per imatge l'element y de Y, se pòt notar : .
+
+Exemple : l'esquèma çai sus (o diagrama sagitau) representa una aplicacion particulara d'un ensemble X de 3 elements (notats 1, 2, 3) dins un ensemble Y de 5 elements (notats a, ... , e). Se pòt interpretar X coma un ensemble de 3 objèctes destriables (son numerotats) e Y coma un ensemble de 5 boitas destriablas (son tanben "numerotadas"). Amb aquela interpretacion, cada aplicacion de X dins Y pòt èsser vista coma un dei biais de plaçar leis objèctes dins lei boitas : a cada objècte, l'aplicacion associa la boita ont es plaçat ; dins lo cas representat, leis objèctes "1", "2", "3" son plaçats respectivament dins lei boitas a, c, d.
+
+De segur, i a d'autrei biais de lei plaçar (n'i a 53 = 125 en tot) : per exemple, se seriá poscut metre lei 3 objèctes dins la boita b, çò que seriá estat representat per l'aplicacion g de X dins Y tala que
+
+g (1) = b, g (2) = b, e g (3) = b. Remarca terminologica : s'emplega sovent lo mot foncion per sinonim d'aplicacion de valors numericas (realas o complèxas). Ansin, una foncion es una aplicacion , ont Y es un sosensemble de (l'ensemble dei reaus) o de (l'ensemble dei complèxes).

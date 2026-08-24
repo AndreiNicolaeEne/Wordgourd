@@ -1,0 +1,13 @@
+Articolul 35 Performanțe anterioare (1) Prezentarea performanțelor anterioare în documentul cu informații cheie destinate investitorilor al OPCVM-ului de tip „feeder” trebuie să se refere în mod specific la OPCVM-ul de tip „feeder” și nu să reproducă performanțele anterioare ale OPCVM-ului de tip „master”.
+
+(2) Alineatul (1) nu se aplică: (a) în cazul în care OPCVM-ul de tip „feeder” prezintă performanțele anterioare ale OPCVM-ului de tip „master” ca valoare de referință; sau
+
+(b) în cazul în care OPCVM-ul de tip „feeder” a fost lansat ca OPCVM de tip „feeder” ulterior OPCVM-ului de tip „master”, iar condițiile de la articolul 19 sunt îndeplinite și pentru anii anteriori existenței OPCVM-ului de tip „feeder” se indică performanțe simulate pe baza performanțelor anterioare ale OPCVM-ului de tip „master”; sau
+
+(c) în cazul în care OPCVM-ul de tip „feeder” are performanțe anterioare datei de la care a început să opereze ca OPCVM de tip „feeder”, aceste performanțe fiind conservate în graficul bară pentru anii în cauză, modificările importante fiind indicate conform prevederilor articolului 17 alineatul (2).
+
+SECŢIUNEA 5 OPCVM-uri structurate Articolul 36
+
+Scenarii de performanță (1) Documentul cu informații cheie destinate investitorilor pentru OPCVM-urile structurate nu conține secțiunea „Performanțe anterioare”.
+
+În sensul prezentei secțiuni, OPCVM-urile structurate trebuie înțelese ca OPCVM-uri care plătesc investitorilor, la anumite date predeterminate, o sumă al cărei calcul se bazează pe un algoritm și care este legată de performanța sau de evoluția prețurilor sau de alte condiții legate de active financiare, indici sau portofolii de referință sau OPCVM-uri cu caracteristici similare.

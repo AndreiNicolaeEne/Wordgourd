@@ -1,0 +1,25 @@
+Valvben kallas den del av en båge där sidotrycket är starkast, ungefär mitt emellan anfangslinjen och krönet.
+
+Valvstomme, trästomme som används vid konstruktioner av bågar och valv och som avlägsnas när murbruket torkat.
+
+Draperibåge, består av två eller fler konvexa cirkelsegment. Var vanlig i senare gotisk arkitektur.
+
+Ellipsbåge, form av en halv ellips. Ellipsbågen är vanligast som diagonalbåge i kryssvalv.
+
+Hästskobåge, har en radie som är större än halva spännvidden och vars centrum ligger ovanför bågens anfang.
+
+Karnisbåge, består av två S-formade halvor. Karnisbågen är konvex vid anfangen och konkav vid båghjässan.
+
+Korgbåge eller tryckt rundbåge, består av tre eller fler cirkelbågar med olika radier och vars tangenter sammanfaller i ändpunkterna.
+
+Kölbåge Lansettbåge, cirkelsegmenten har medelpunkten förlagd utanför motstående anfang och följaktligen är smalare och högre än den liksidiga spetsbågen. Man kan också kalla lansettbågen för likbent spetsbåge.
+
+Parabelbåge, formen av en parabel Rundbåge.
+
+Stickbåge eller segmentbåge, har en radie som är större än halva spännvidden och vars centrum ligger nedanför bågens anfang.
+
+Skulderbåge, består av tre delar: två cirkelsegment, "skuldrorna", som bär en horisontell överliggare, "halsen". I bågen sker en växelvis övergång mellan horisontella och vertikala krafter.
+
+Spetsbåge Stigande båge, där anfangerna befinner sig på olika höjd.
+
+Trepassbåge eller trifoliebåge, består av ett arrangemang av cirkelsegment eller spetsbågar. Förekommer rikligt i gotisk arkitektur, ofta tillsammans med masverk och reliefer.

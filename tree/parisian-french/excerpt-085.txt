@@ -1,0 +1,9 @@
+Dans un diagramme de chromaticité, le point blanc est la position de l'illuminant.
+
+En éclairage et en photographie, on utilise des lumières réelles, dont la répartition spectrale n'est pas en général exactement celles des illuminants conventionnels de la colorimétrie. La lumière du jour est orangée au soleil couchant ; le rayonnement d'un arc électrique est bleuâtre, celui des lampes à incandescence est aussi très variable et encore plus celui des éclairages fluorescents ou électroluminescents.
+
+La température de couleur résume les caractéristiques de ces luminaires. Si l'on observe, dans un même champ visuel, des surfaces blanches qu'éclairent des sources lumineuses variées, les sources de température de couleur plus faible leur donnent une teinte orangées, tandis que celles d'une température de couleur supérieure donnent au blanc une nuance bleuâtre.
+
+Le commerce classe les lampes destinées à la consommation courante selon les termes en usage dans les arts et la décoration, de couleurs chaudes et froides. Un blanc chaud, correspond à une température de couleur plutôt basse, comme celle des lampes à incandescentes ; un blanc froid, correspond à une lumière du jour éclairant sans chauffer, à température de couleur élevée.
+
+On classe comme blanches un nombre relativement petit de couleurs distinctes ; on dit couramment d'une surface qu'elle est plus blanche qu'une autre. Les artistes et décorateurs connaissent plusieurs nuances de blanc. Le blanc cassé évite l'aspect éblouissant d'un blanc fortement éclairé. Une prothèse dentaire se fabrique dans le blanc qui correspond le mieux à la dentition naturelle du patient.

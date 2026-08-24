@@ -1,0 +1,7 @@
+Hängt die gesuchte Funktion lediglich von einer Variablen ab, so spricht man von einer gewöhnlichen Differentialgleichung. Es kommen lediglich gewöhnliche Ableitungen nach der einen Veränderlichen vor.
+
+Beispiele: Schreibt sich die gewöhnliche Differentialgleichung für die gesuchte Funktion in der Form
+
+so heißt die gewöhnliche Differentialgleichung implizit.
+
+Ist die Differentialgleichung nach der höchsten Ableitung aufgelöst, d. h., es gilt

@@ -1,0 +1,5 @@
+El sólido (del latín solĭdus) es un estado de agregación de la materia, que se caracteriza porque opone resistencia a cambios de forma y de volumen. Sus partículas se encuentran juntas y también se ven correctamente ordenadas. Las moléculas de un sólido tienen una gran cohesión y adoptan formas bien definidas. Existen varias disciplinas que estudian los sólidos:
+
+La física del estado sólido estudia de manera experimental y teórica la materia condensada, es decir, de líquidos y sólidos que contengan más de 1019 átomos en contacto entre sí.
+
+La mecánica de sólidos deformables estudia propiedades microscópicas desde la perspectiva de la mecánica de medios continuos como tensión, deformación y magnitudes termodinámicas e ignora la estructura atómica interna porque para cierto tipo de problemas esta no es relevante.

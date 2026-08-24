@@ -1,0 +1,9 @@
+Lunsuna kalendaro (aŭ lunasolar-kalendaro, de la latinaj vortoj luna = luno kaj sol = suno) respektive ligita luna kalendaro kial kalendaraj monatoj enhavas proksimumajn lunajn monatojn, kiel kalendara jaro tamen funkcias proksimigo al la suna jaro.
+
+Lunaj kalendaraj monaroj kun alterne 29 kaj 30 tagoj sufiĉe bone proksimiĝas al la vera luna monato de 29,53059 tagoj. La lunsuna kalendara jaro havas plejparte 12 aŭ 13 lunajn kalendarajn monatojn en difinitaj alternoj, tiel ke tra pluraj jaroj la averaĝo de la jara daŭro preskaŭ identas al la vera suna jaro de 365,24219 tagoj.
+
+La plej antikvaj kalendaroj estis lunaj kalendaroj, ĉar ili orientiĝis je la sekure kaj precize observeblaj lunaj fazoj, do la alterno inter plenluno kaj novluno. Por lunsuna kalendaro aŭ suna kalendaro oni devas precize identigi la multe malpli facile oberveblajn sunajn fazojn, ekzemple la ekvinoksojn aŭ la solsticojn. Kiam oni sukcesis precize fiksi tiujn, unue ekestis lunsunaj kalendaroj, en kiuj la malnova tradicio de lunaj monatoj ankoraŭ pluvivis, kaj nur poste sunaj kalendaroj, kiuj difinis "monatojn" simple kiel dekduono de la suna jaro kaj rezignis pri akordigo al la lunaj fazoj.
+
+Lunsuna kalendaro sekvas la sunan jaron kun maksimuma diferenco de 2 troaj aŭ maltroaj semajnoj; sekve ĝiaj monatoj respegulas la sezonojn, kiuj difinas la praktikan ĉiutagon aparte en la agrikulturo. Pura luna kalendaro ne havas ligon al la suna jaro kaj al la jaraj sezonoj. Ĝi en ĉiu suna jaro plidiferenciĝas je proksimume 11 tagoj, kaj do sekvas tute propran ritmon.
+
+La longtempa akordigo en lunsuna kalendaro inter monatoj kaj jaroj eblas ĉiujn 19 jarojn, ĉar 19 sunaj jaroj estas kontentige ekzakte kompareble longaj kiom 235 lunaj monatoj. Tiu periodo de 6940 tagoj nomatas la Meton-periodo, la ekestanta ciklo la Meton-ciklo.

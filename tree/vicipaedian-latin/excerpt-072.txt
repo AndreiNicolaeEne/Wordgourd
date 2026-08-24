@@ -1,0 +1,21 @@
+Mathematica (-ae, f., Graece ἡ μαθηματική, scil. ἐπιστήμη sive τέχνη, a voce μανθάνω 'disco') sive mathematice sive mathesis dicitur doctrinalis scientia, quae abstractam considerat quantitatem variis aspectibus, qui sunt algebraica, geometrica, analytica. Mathematica, quae fundamenta in numeris, logica, et ratiocinatione habet, est lingua physicae et aliarum scientiarum quantitativarum. De mathematica Galilaeus Galilaei scripsit:
+
+Mathematica omnibus partium scientificarum essentialis est: scientiarum et naturalis et artificialis, medicinae, oeconomiae, scientiarum socialium. Sectiones mathematicae novae, ut mathematicae applicatae statistica et theoria ludorum, methodos mathematicas adhibendi cognoscunt. Hodie mathematica, tam necessaria in claves RSA securas creandas, partem magnam etiam agit in technologiis diversis, sicut in mercatura, communicationibus, televisionibus, et incolumitate interretiali vigilanda.
+
+In principio, mathematica creata est ut commercium facilius fiat: ad terram metiendam, ad pretia calculanda, et ad tales res quae sequuntur. Qua de causa in partes tres divisa est mathematica quae, e.g., ad mutationes, structuras spatiaque pertinent: analysis, algebra, geometria. Partes autem mathematicae per aetates variant ob nova reperta et scientiam processam.
+
+Aetate Romana, mathematica multas et diversas disciplinas cohibuit, sicut musicam et astronomiam, quas hodie ut mathematicales non habemus. Exempli gratia, Isidori Hispalensis saeculo septimo scripsit de mathematica:
+
+Iam saeculo septimo autem decimo, ut a Cartesii Newtonique verbis censamus, soli mathematici dicuntur homines qui rationes novas quantitativas colunt.
+
+Algebra linearis est pars algebrae quae de vectoribus, matricibus, aequationibus linearibus tractat. Notio maximi momenti est transformatio linearis, quae modificat coordinatas aequationum, et quae facit transformationem geometricam inter duo spatia vectorum. Transformatio linearis inter spatia finitarum dimensionum semper per matricem scribi potest.
+
+Algebra linearis nomen habet quod de aequationibus linearibus tractat. Hae sunt aequationes ubi nulla quantitas variabilis ad potestatem maior quam unitatem appareat, nec appareant functiones aliae ut trigonometricae vel exponentialis. Forma aequationis linearis est ergo:
+
+Tabula talis aequationis est linea. Exempli gratia:
+
+(Possumus etiam scribere y = 2x - 1 et y = -3x + 9, sed nihil refert utrum x an y sit variabilis dependens.)
+
+Si tantas aequationes habemus quantas variabiles in aequationibus, et si aequationes differunt inter se, est vel una tantum solutio, vel nulla. Si plures variabiles sunt quam aequationes, quantitas solutionum est infinita.
+
+Ut solutionem systematis inveniamus, debemus calculare. Possumus multiplicare aequationem per numerum; possumus unam ad aliam aequationem addere.

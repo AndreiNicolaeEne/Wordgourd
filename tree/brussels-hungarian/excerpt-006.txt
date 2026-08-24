@@ -1,0 +1,11 @@
+(2) Amint rendelkezésre áll a szükséges jogi és technikai háttér a kibocsátási egységek átadásához, az egyes tagállamok által a határidős ügyletek és forward ügyletek árverezéséhez nyújtott biztosíték - az érintett tagállam döntésétől és az aukciós platform hozzájárulásától függően - felszabadítható és kibocsátási egységekkel helyettesíthető, amelyeket átadásukig a letétkezelőként eljáró klíringrendszer vagy elszámolórendszer letétben tart.
+
+(3) Ha nem kerül sor az (1) és a (2) bekezdés alapján biztosítékként szolgáltatott kibocsátási egységek felhasználására, az árverező tagállam dönthet úgy, hogy a letétkezelőként eljáró klíringrendszer vagy elszámolórendszer azokat átadásukig tartsa letétben egy nevesített kibocsátásiegység-forgalmi számlán.
+
+XIV. FEJEZET DÍJAK ÉS KÖLTSÉGEK 51. cikk
+
+A díjak szerkezete és nagysága (1) A díjak szerkezete és nagysága, valamint az aukciós platformok, illetve a klíringrendszer(ek) és elszámolórendszer(ek) által alkalmazott kapcsolódó feltételek nem lehetnek kedvezőtlenebbek a másodlagos piacokon alkalmazott hasonló normál díjaknál és feltételeknél.
+
+(2) Az aukciós platformok és a klíringrendszer(ek) és elszámolórendszer(ek) csak olyan díjakat, levonásokat vagy feltételeket alkalmazhatnak, amelyeket az őket kijelölő szerződésben kifejezetten meghatároztak.
+
+(3) Az (1) és (2) bekezdésnek megfelelően alkalmazott díjakat és feltételeket világosan meg kell határozni, és közérthető módon közzé kell tenni. Tételesen fel kell sorolni őket, külön-külön meghatározva az egyes szolgáltatástípusok részletes költségeit.

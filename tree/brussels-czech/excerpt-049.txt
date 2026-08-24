@@ -1,0 +1,15 @@
+2. Odstavec 1 se nepoužije: a) jestliže „feeder“ SKIPCP zobrazuje dosavadní výkonnost svého „master“ SKIPCP jako referenční hodnotu, nebo
+
+b) jestliže byl „feeder“ SKIPCP spuštěn jako „feeder“ SKIPCP později než „master“ SKIPCP, jsou splněny podmínky článku 19 a za roky před tím, než „feeder“ SKIPCP začal existovat, je zobrazena simulovaná výkonnost založená na dosavadní výkonnosti „master“ SKIPCP, nebo
+
+c) jestliže má „feeder“ SKIPCP údaje o dosavadní výkonnosti z doby před tím, než začal fungovat jako „feeder“ SKIPCP, zachycuje své vlastní údaje za příslušné roky v podobě sloupcového grafu a příslušná podstatná změna je vyznačena podle požadavků čl. 17 odst. 2.
+
+ODDÍL 5 Strukturované SKIPCP Článek 36 Scénáře výkonnosti
+
+1. Sdělení klíčových informací za strukturované SKIPCP neobsahuje část „Praktické informace“.
+
+Pro účely tohoto oddílu se strukturovanými SKIPCP rozumí SKIPCP, které investorům k určitému předem stanovenému datu poskytují výplatu založenou na určitém algoritmu, která je vztažena k výkonnosti nebo realizaci změn ceny či jiných podmínek finančních aktiv, indexů nebo referenčních portfolií nebo SKIPCP s podobnými rysy.
+
+2. Část sdělení klíčových informací za strukturované SKIPCP nazvaná „Cíle a investiční politika“ obsahuje vysvětlení, jak vzorec funguje a jak se počítá částka k výplatě.
+
+3. Vysvětlení podle odstavce 2 doprovází názorný příklad nejméně tří scénářů možné výkonnosti SKIPCP. Jsou zvoleny vhodné scénáře, které zachycují okolnosti, za nichž bude na základě vzorce dosaženo nízké, střední nebo vysoké výnosnosti, případně záporné výnosnosti pro investory.

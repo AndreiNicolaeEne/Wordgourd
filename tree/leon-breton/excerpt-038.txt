@@ -1,0 +1,17 @@
+Teorem Pythagoras zo un teorem geometriezh euklidian a ro ul liammadenn etre hirderioù kostezioù an tric'hornioù skouer (o deus ur c'horn skouer) : en tric'hornioù skouer ez eo kevatal karrez hirder an hipotenuzenn gant somm karrezioù hirderioù an daou gostez all. Anvet eo an teorem-se diwar Pythagoras Samos, matematikour, prederour hag astronomour eus Henc'hres.
+
+Stumm anavezetañ an teorem eo hemañ : Teorem Pythagoras — En tric'hornioù skouer ez eo kevatal karrez hirder an hipotenuzenn (kostez enep ar c'horn skouer) gant somm karrezioù hirderioù kostezioù ar c'horn skouer
+
+Notenn : A-bouez-bras eo an termen « hirder » daoust ma vez lezet a-gostez peurliesañ. Kostezioù an tric'horn zo segmantoù, hag o hirderioù zo niveroù. Evit gwir ne c'heller jediñ nemet karrez an niveroù ha ne c'heller ket jediñ karrez ar segmantoù.
+
+Koulskoude e vez tennet an termen « hirder » evit aesaat an deskiñ (an termenoù « hipotenuzenn » ha « kostez » a dalv neuze evit an hirderioù ivez).
+
+En un tric'horn ABC skouer e C ([AB] eo neuze an hipotenuzenn) gant AB = c, AC = b ha BC = a (sellet ouzh ar figurenn amañ a-us) e vo eta :
+
+Reiñ a ra tro neuze teorem Pythagoras da jediñ hirder unan eus kostezioù un tric'hornioù skouer pa anavezer an daou all.
+
+Gant an notadurioù amañ a-us : bezet an tric'horn skouer gant ha hirderioù kostezioù e gorn skouer ; neuze ez eo roet , hirder an hipotenuzenn, gant :
+
+. Dre m'eo pozitivel an hirderioù e kaver . Graet e vez tripled pitagorisian eus an tripledoù niveroù anterin evel (3, 4, 5), a zo anezho hirderioù kostezioù un tric'horn skouer.
+
+Gallout a reer treiñ Teorem Pythagoras e stumm un emplegadenn :

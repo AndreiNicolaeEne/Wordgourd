@@ -1,0 +1,7 @@
+2. Byrån får i sina interna bestämmelser fastställa föreskrifter om hantering av icke säkerhetsskyddsklassificerad men känslig information. Bestämmelserna ska bl.a. omfatta utbyte, hantering och lagring av sådan information.
+
+Artikel 22a Intressekonflikter 1. Ledamöter av styrelsen och av styrelsen för säkerhetsackreditering, den verkställande direktören samt utstationerade nationella experter och observatörer ska redovisa åtaganden och intressen med uppgift om huruvida det saknas eller föreligger direkta eller indirekta intressen som skulle kunna inverka negativt på deras oberoende. Dessa redovisningar ska vara exakta och fullständiga. De ska göras skriftligen när tjänsten tillträds och förnyas varje år. De ska uppdateras vid behov, särskilt vid relevanta förändringar av personliga omständigheter hos de berörda personerna.
+
+2. Ledamöter av styrelsen och av styrelsen för säkerhetsackreditering, den verkställande direktören samt utstationerade nationella experter och observatörer samt externa experter som deltar i ad hoc-grupper ska innan det deltar vid ett möte exakt och fullständigt redovisa huruvida det saknas eller föreligger intressen som skulle kunna inverka negativt på deras oberoende i fråga om ärenden på dagordningen och ska avstå från att delta i diskussionen och omröstningen i sådana ärenden.
+
+3. Styrelsen och styrelsen för säkerhetsackreditering ska i sin arbetsordning fastställa de praktiska formerna för den intresseredovisning som avses i punkterna 1 och 2 och för förebyggandet och hanteringen av intressekonflikter.

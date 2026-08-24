@@ -1,0 +1,11 @@
+En otros materiales, no existe un orden de largo alcance en la posición de los átomos. Estos sólidos se denominan sólidos amorfos; algunos ejemplos son el poliestireno y el vidrio.
+
+El hecho de que un sólido sea cristalino o amorfo depende del material del que se trate y de las condiciones en las que se haya formado. Los sólidos que se forman por enfriamiento lento tienden a ser cristalinos, mientras que los sólidos que se congelan rápidamente son más propensos a ser amorfos. Asimismo, la estructura cristalina específica que adopta un sólido cristalino depende del material en cuestión y de cómo se formó.
+
+Mientras que muchos objetos comunes, como un cubito de hielo o una moneda, son químicamente idénticos en su totalidad, muchos otros materiales comunes están formados por una serie de sustancias diferentes empaquetadas entre sí. Por ejemplo, una roca típica es un agregado de varios minerales y mineraloides diferentes, sin una composición química específica. La madera es un material orgánico natural formado principalmente por fibras de celulosa incrustadas en una matriz de lignina orgánica. En la ciencia de los materiales, los composites de más de un material constituyente pueden ser diseñados para tener las propiedades deseadas.
+
+Elasticidad: Un sólido recupera su forma original cuando es deformado. Un resorte es un objeto en que podemos observar esta propiedad ya que vuelve a su forma original.
+
+Fragilidad: Un sólido puede romperse en muchos fragmentos (quebradizo).
+
+Dureza: La dureza es la oposición que ofrecen los materiales a alteraciones como la penetración, la abrasión, el rayado, la cortadura, y las deformaciones permanentes entre otras.. El diamante es un sólido con dureza elevada.

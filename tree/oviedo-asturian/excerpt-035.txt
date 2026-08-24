@@ -1,0 +1,17 @@
+Los virus del gripe aguanten más n'ambiente seco y fríu. Pueden caltener la so capacidá infestiva mientres una selmana a la temperatura del cuerpu humanu, mientres 30 díes a 0 °C y mientres muncho más tiempu a menores temperatures. Puede ser fácilmente inactivado per aciu deterxentes o desinfestantes.
+
+El gripe distribúyese n'epidemies estacionales que provoquen cientos de miles de fallecimientos, que pasen a ser millones nos años de pandemia (epidemia global). Mientres el sieglu XX produciéronse cinco pandemies de gripe por cuenta de la apaición por mutación de distintes cepes del virus. De cutiu estes nueves cepes surdieron a partir del tresvase de cepes típiques d'animales al ser humanu, no que se denomina saltu d'especie o heterocontagio. Una variante mortal del virus de la gripe aviar denominada H5N1 pasó por ser la principal candidata pa la siguiente pandemia de gripe n'humanos desque trespasó la barrera d'especie en los años 1990 y provocó decenes de fallecimientos n'Asia, hasta l'apaición de la neogripe A (H1N1) en 2009. Afortunadamente aquella variante aviar nun mutó y nun puede tresmitise de persona a persona, pos namái afectó a humanos dende aves arimaes y esa andada nun ye fácil pos rique unes condiciones bien especiales.
+
+Un llinguaxe de programación ye un llinguaxe pa da-y instruiciones a un ordenador. Un llinguaxe de programación ye formal dafechu, y descríbese con un conxuntu de regles sintáutiques y semántiques. Con ún d'estos llinguaxes el programador pue especificar de manera mui precisa los datos colos que va operar un ordenador, cómo los va guardar y tresmitir l'ordenador y qué tien que facer l'ordenador según les circunstancies.
+
+L'actu de escribir programas d'ordenador conozse como programar.
+
+El llinguaxe de programación espresa computaciones que pueden llevase a cau por máquines como los ordenadores. Pueden usase pa crear programes que remanen el comportamientu físicu y lóxicu d'una máquina, pa espresar algoritmos con precisión, o como mou de comunicación humana. Ta formáu d'un conxuntu de símbolos y regles sintáutiques y semántiques que definen la so cadarma y el significáu de los sos elementos y espresiones. Al procesu pol qu'escríbese, pruébase, depúrase, compílase y caltiénse el códigu fonte d'un programa informáticu, denómase-y programación. Tamién la pallabra programación defínese como'l procesu de creación d'un programa d'ordenador, per aciu de l'aplicación de procedimientos lóxicos, al traviés de los vinientes pasos:
+
+El desendolcamientu lóxicu del programa pa iguar un problema en particular.
+
+Escritura de la lóxica del programa emplegando un llinguax de programación específicu (codificación del programa)
+
+Ensamblaxe o escoyeta del programa hasta convertilu en llinguaxe de máquina.
+
+Prueba y depuración del programa. Desendolcamientu de la documentación.

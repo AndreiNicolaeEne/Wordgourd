@@ -1,0 +1,9 @@
+Pikometr Pikometr (značka pm) je délková jednotka, 10−12 neboli biliontina metru.
+
+Například poloměr atomu hélia je 31 pm. Nanometr
+
+Nanometr (značka nm) je délková jednotka, 10−9 neboli 1 miliardtina metru.
+
+Například vzdálenosti atomů v pevných látkách jsou řádově zlomky (typicky čtvrtina až pětina) nanometru. V řádech nanometrů se pohybují nanotechnologie.
+
+V nanometrech se vyjadřuje např. vlnová délka viditelného a ultrafialového záření.

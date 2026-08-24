@@ -1,0 +1,25 @@
+Skatt (av norrønt skattr) er ytingar frå private til det offentlege utan konkret vederlag. Fråværet av formelt konkret vederlag skil skattar frå betalingar for offentlege tenester (gebyr). Hovudformålet med skattar er å finansiera offentleg forbruk og investeringar, og overføringar til privat sektor.
+
+Skattar vert ofte delte inn i direkte og indirekte skattar. Direkte skattar skal råke den som formelt er ilagd skatten. Typiske direkte skattar er skatt på inntekt og skatt på formue. Ved indirekte skattar skal den som formelt er ilagd skatten, kunna velta skattebyrda over på kjøparen gjennom eit påslag i prisen. Typiske indirekte skattar er meirverdiavgift og særavgifter.
+
+Dei fleste skattar fører til at produsentar og forbrukarar vel ein annan samansetnad av konsum og produksjon enn dei ville ha gjort utan skattar. Slike skattar vert kalla vridande skattar og kan føra til eit samfunnsøkonomisk tap ved at ressursbruken vert mindre effektiv. Nøytrale skattar påverkar ikkje samansetnaden av konsum og produksjon, medan effektivitetsfremjande skattar er med på å gje meir effektiv ressursbruk.
+
+Meir om det norske skattesystemet: Skatt i Noreg.
+
+Kvantemekanikken er ei grein innan fysikken. Han vart utvikla i perioden 1925–1928, som eit svar på at den klassiske mekanikken forutsa andre resultat enn dei målte i ein del avgjerande fall. Kvantemekanikken seier at i bundne fysiske system er materien i røynda kvantisert. Denne kvantiseringa går likevel over så små storleiksskalaer at ho er vanskeleg å leggja merke til. For prosessar som involverer atomære og subatomære storleikar spelar kvantemekanikken ei avgjerande rolle, til dømes
+
+atomspektra fotoelektrisk effekt radioaktivitet
+
+superleiarar temperaturavhengig varmekapasitet i ein del stoff
+
+Kvantemekanikken baserer seg på fire grunnleggjande postulat:
+
+Tilstanden til eit fysisk system kan skildrast fullstendig ved ein tilstandsfunksjon |Ψ>. Denne funksjonen må oppfylle Schrödingerlikninga.
+
+Alle observerbare storleikar på systemet kan lesast ut frå funksjonen |Ψ>. Til kvar observerbare storleik A høyrer det i kvantemekanikken til ein lineær operator Â.
+
+Forventningsverdien av ein observerbar storleik A er gjeven ved <A> = <Ψ|Â|Ψ>. Altså kan vi rekne ut kva gjennomsnittet av fleire målingar vil bli ved hjelp av operatoren Â og eit indre produkt mellom |Ψ> og den komplekskonjugerte <Ψ|.
+
+Ei måling av ein observerbar storleik A kan berre gje som resultat ein av eigenverdiane an til operatoren Â. Rett etter målinga er systemet i tilstanden Ψn svarande til den målte eigenverdien, men etter kvart kan systemet skli over til andre eigentilstandar.
+
+Eit av dei viktigaste resultata frå kvantemekanikken er Heisenbergs uskarpheitsrelasjon. Erwin Schrödinger spelte også ei viktig rolle i kvantemekanikken, og kom med Schrödingerlikninga.
